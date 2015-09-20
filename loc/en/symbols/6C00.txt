@@ -1,256 +1,256 @@
-6C00 : Cjk unified ideograph
-6C01 : Cjk unified ideograph
-6C02 : Cjk unified ideograph
-6C03 : Cjk unified ideograph
-6C04 : Cjk unified ideograph
-6C05 : Cjk unified ideograph
-6C06 : Cjk unified ideograph
-6C07 : Cjk unified ideograph
-6C08 : Cjk unified ideograph
-6C09 : Cjk unified ideograph
-6C0A : Cjk unified ideograph
-6C0B : Cjk unified ideograph
-6C0C : Cjk unified ideograph
-6C0D : Cjk unified ideograph
-6C0E : Cjk unified ideograph
-6C0F : Cjk unified ideograph
-6C10 : Cjk unified ideograph
-6C11 : Cjk unified ideograph
-6C12 : Cjk unified ideograph
-6C13 : Cjk unified ideograph
-6C14 : Cjk unified ideograph
-6C15 : Cjk unified ideograph
-6C16 : Cjk unified ideograph
-6C17 : Cjk unified ideograph
-6C18 : Cjk unified ideograph
-6C19 : Cjk unified ideograph
-6C1A : Cjk unified ideograph
-6C1B : Cjk unified ideograph
-6C1C : Cjk unified ideograph
-6C1D : Cjk unified ideograph
-6C1E : Cjk unified ideograph
-6C1F : Cjk unified ideograph
-6C20 : Cjk unified ideograph
-6C21 : Cjk unified ideograph
-6C22 : Cjk unified ideograph
-6C23 : Cjk unified ideograph
-6C24 : Cjk unified ideograph
-6C25 : Cjk unified ideograph
-6C26 : Cjk unified ideograph
-6C27 : Cjk unified ideograph
-6C28 : Cjk unified ideograph
-6C29 : Cjk unified ideograph
-6C2A : Cjk unified ideograph
-6C2B : Cjk unified ideograph
-6C2C : Cjk unified ideograph
-6C2D : Cjk unified ideograph
-6C2E : Cjk unified ideograph
-6C2F : Cjk unified ideograph
-6C30 : Cjk unified ideograph
-6C31 : Cjk unified ideograph
-6C32 : Cjk unified ideograph
-6C33 : Cjk unified ideograph
-6C34 : Cjk unified ideograph
-6C35 : Cjk unified ideograph
-6C36 : Cjk unified ideograph
-6C37 : Cjk unified ideograph
-6C38 : Cjk unified ideograph
-6C39 : Cjk unified ideograph
-6C3A : Cjk unified ideograph
-6C3B : Cjk unified ideograph
-6C3C : Cjk unified ideograph
-6C3D : Cjk unified ideograph
-6C3E : Cjk unified ideograph
-6C3F : Cjk unified ideograph
-6C40 : Cjk unified ideograph
-6C41 : Cjk unified ideograph
-6C42 : Cjk unified ideograph
-6C43 : Cjk unified ideograph
-6C44 : Cjk unified ideograph
-6C45 : Cjk unified ideograph
-6C46 : Cjk unified ideograph
-6C47 : Cjk unified ideograph
-6C48 : Cjk unified ideograph
-6C49 : Cjk unified ideograph
-6C4A : Cjk unified ideograph
-6C4B : Cjk unified ideograph
-6C4C : Cjk unified ideograph
-6C4D : Cjk unified ideograph
-6C4E : Cjk unified ideograph
-6C4F : Cjk unified ideograph
-6C50 : Cjk unified ideograph
-6C51 : Cjk unified ideograph
-6C52 : Cjk unified ideograph
-6C53 : Cjk unified ideograph
-6C54 : Cjk unified ideograph
-6C55 : Cjk unified ideograph
-6C56 : Cjk unified ideograph
-6C57 : Cjk unified ideograph
-6C58 : Cjk unified ideograph
-6C59 : Cjk unified ideograph
-6C5A : Cjk unified ideograph
-6C5B : Cjk unified ideograph
-6C5C : Cjk unified ideograph
-6C5D : Cjk unified ideograph
-6C5E : Cjk unified ideograph
-6C5F : Cjk unified ideograph
-6C60 : Cjk unified ideograph
-6C61 : Cjk unified ideograph
-6C62 : Cjk unified ideograph
-6C63 : Cjk unified ideograph
-6C64 : Cjk unified ideograph
-6C65 : Cjk unified ideograph
-6C66 : Cjk unified ideograph
-6C67 : Cjk unified ideograph
-6C68 : Cjk unified ideograph
-6C69 : Cjk unified ideograph
-6C6A : Cjk unified ideograph
-6C6B : Cjk unified ideograph
-6C6C : Cjk unified ideograph
-6C6D : Cjk unified ideograph
-6C6E : Cjk unified ideograph
-6C6F : Cjk unified ideograph
-6C70 : Cjk unified ideograph
-6C71 : Cjk unified ideograph
-6C72 : Cjk unified ideograph
-6C73 : Cjk unified ideograph
-6C74 : Cjk unified ideograph
-6C75 : Cjk unified ideograph
-6C76 : Cjk unified ideograph
-6C77 : Cjk unified ideograph
-6C78 : Cjk unified ideograph
-6C79 : Cjk unified ideograph
-6C7A : Cjk unified ideograph
-6C7B : Cjk unified ideograph
-6C7C : Cjk unified ideograph
-6C7D : Cjk unified ideograph
-6C7E : Cjk unified ideograph
-6C7F : Cjk unified ideograph
-6C80 : Cjk unified ideograph
-6C81 : Cjk unified ideograph
-6C82 : Cjk unified ideograph
-6C83 : Cjk unified ideograph
-6C84 : Cjk unified ideograph
-6C85 : Cjk unified ideograph
-6C86 : Cjk unified ideograph
-6C87 : Cjk unified ideograph
-6C88 : Cjk unified ideograph
-6C89 : Cjk unified ideograph
-6C8A : Cjk unified ideograph
-6C8B : Cjk unified ideograph
-6C8C : Cjk unified ideograph
-6C8D : Cjk unified ideograph
-6C8E : Cjk unified ideograph
-6C8F : Cjk unified ideograph
-6C90 : Cjk unified ideograph
-6C91 : Cjk unified ideograph
-6C92 : Cjk unified ideograph
-6C93 : Cjk unified ideograph
-6C94 : Cjk unified ideograph
-6C95 : Cjk unified ideograph
-6C96 : Cjk unified ideograph
-6C97 : Cjk unified ideograph
-6C98 : Cjk unified ideograph
-6C99 : Cjk unified ideograph
-6C9A : Cjk unified ideograph
-6C9B : Cjk unified ideograph
-6C9C : Cjk unified ideograph
-6C9D : Cjk unified ideograph
-6C9E : Cjk unified ideograph
-6C9F : Cjk unified ideograph
-6CA0 : Cjk unified ideograph
-6CA1 : Cjk unified ideograph
-6CA2 : Cjk unified ideograph
-6CA3 : Cjk unified ideograph
-6CA4 : Cjk unified ideograph
-6CA5 : Cjk unified ideograph
-6CA6 : Cjk unified ideograph
-6CA7 : Cjk unified ideograph
-6CA8 : Cjk unified ideograph
-6CA9 : Cjk unified ideograph
-6CAA : Cjk unified ideograph
-6CAB : Cjk unified ideograph
-6CAC : Cjk unified ideograph
-6CAD : Cjk unified ideograph
-6CAE : Cjk unified ideograph
-6CAF : Cjk unified ideograph
-6CB0 : Cjk unified ideograph
-6CB1 : Cjk unified ideograph
-6CB2 : Cjk unified ideograph
-6CB3 : Cjk unified ideograph
-6CB4 : Cjk unified ideograph
-6CB5 : Cjk unified ideograph
-6CB6 : Cjk unified ideograph
-6CB7 : Cjk unified ideograph
-6CB8 : Cjk unified ideograph
-6CB9 : Cjk unified ideograph
-6CBA : Cjk unified ideograph
-6CBB : Cjk unified ideograph
-6CBC : Cjk unified ideograph
-6CBD : Cjk unified ideograph
-6CBE : Cjk unified ideograph
-6CBF : Cjk unified ideograph
-6CC0 : Cjk unified ideograph
-6CC1 : Cjk unified ideograph
-6CC2 : Cjk unified ideograph
-6CC3 : Cjk unified ideograph
-6CC4 : Cjk unified ideograph
-6CC5 : Cjk unified ideograph
-6CC6 : Cjk unified ideograph
-6CC7 : Cjk unified ideograph
-6CC8 : Cjk unified ideograph
-6CC9 : Cjk unified ideograph
-6CCA : Cjk unified ideograph
-6CCB : Cjk unified ideograph
-6CCC : Cjk unified ideograph
-6CCD : Cjk unified ideograph
-6CCE : Cjk unified ideograph
-6CCF : Cjk unified ideograph
-6CD0 : Cjk unified ideograph
-6CD1 : Cjk unified ideograph
-6CD2 : Cjk unified ideograph
-6CD3 : Cjk unified ideograph
-6CD4 : Cjk unified ideograph
-6CD5 : Cjk unified ideograph
-6CD6 : Cjk unified ideograph
-6CD7 : Cjk unified ideograph
-6CD8 : Cjk unified ideograph
-6CD9 : Cjk unified ideograph
-6CDA : Cjk unified ideograph
-6CDB : Cjk unified ideograph
-6CDC : Cjk unified ideograph
-6CDD : Cjk unified ideograph
-6CDE : Cjk unified ideograph
-6CDF : Cjk unified ideograph
-6CE0 : Cjk unified ideograph
-6CE1 : Cjk unified ideograph
-6CE2 : Cjk unified ideograph
-6CE3 : Cjk unified ideograph
-6CE4 : Cjk unified ideograph
-6CE5 : Cjk unified ideograph
-6CE6 : Cjk unified ideograph
-6CE7 : Cjk unified ideograph
-6CE8 : Cjk unified ideograph
-6CE9 : Cjk unified ideograph
-6CEA : Cjk unified ideograph
-6CEB : Cjk unified ideograph
-6CEC : Cjk unified ideograph
-6CED : Cjk unified ideograph
-6CEE : Cjk unified ideograph
-6CEF : Cjk unified ideograph
-6CF0 : Cjk unified ideograph
-6CF1 : Cjk unified ideograph
-6CF2 : Cjk unified ideograph
-6CF3 : Cjk unified ideograph
-6CF4 : Cjk unified ideograph
-6CF5 : Cjk unified ideograph
-6CF6 : Cjk unified ideograph
-6CF7 : Cjk unified ideograph
-6CF8 : Cjk unified ideograph
-6CF9 : Cjk unified ideograph
-6CFA : Cjk unified ideograph
-6CFB : Cjk unified ideograph
-6CFC : Cjk unified ideograph
-6CFD : Cjk unified ideograph
-6CFE : Cjk unified ideograph
-6CFF : Cjk unified ideograph
+6C00:
+6C01:
+6C02: Ideograph tail; hair; yak CJK
+6C03:
+6C04: Ideograph down CJK
+6C05: Ideograph overcoat; down feathers CJK
+6C06: Ideograph thick, rough serge from Tibet CJK
+6C07: Ideograph thick rough serge from Tibet CJK
+6C08: Ideograph felt; rug, carpet CJK
+6C09: Ideograph restless, melancholy CJK
+6C0A: Ideograph felt; coarse fabrics use for rugs, carpets, wrappers etc. CJK
+6C0B:
+6C0C: Ideograph thick rough serge from Tibet CJK
+6C0D: Ideograph fine woollen cloth; a mat used by the emperor in worshipping god CJK
+6C0E:
+6C0F: Ideograph clan, family; mister CJK
+6C10: Ideograph name of an ancient tribe CJK
+6C11: Ideograph people, subjects, citizens CJK
+6C12:
+6C13: Ideograph people; subjects; vassals CJK
+6C14: Ideograph steam, vapor; KangXi radical 84 CJK
+6C15: Ideograph hydrogen-1, protium CJK
+6C16: Ideograph neon CJK
+6C17: Ideograph air, gas, steam, vapor; spirit CJK
+6C18: Ideograph deuterium CJK
+6C19: Ideograph xenon CJK
+6C1A: Ideograph tritium CJK
+6C1B: Ideograph gas, vapor, air CJK
+6C1C: Ideograph clear, bright; the sun; heat pertaining to this world; superior; upper; front CJK
+6C1D: Ideograph neon CJK
+6C1E:
+6C1F: Ideograph fluorine CJK
+6C20:
+6C21: Ideograph radon CJK
+6C22: Ideograph ammonia; hydrogen nitride CJK
+6C23: Ideograph air, gas, steam, vapor; spirit CJK
+6C24: Ideograph hanging fog, misty CJK
+6C25: Ideograph xenon CJK
+6C26: Ideograph fluorine CJK
+6C27: Ideograph oxygen CJK
+6C28: Ideograph ammonia; hydrogen nitride CJK
+6C29: Ideograph argonium CJK
+6C2A: Ideograph krypton CJK
+6C2B: Ideograph amonia; hydrogen nitride CJK
+6C2C: Ideograph argonium CJK
+6C2D:
+6C2E: Ideograph xenon CJK
+6C2F: Ideograph chlorine CJK
+6C30: Ideograph cyanogen; ethane dinitrile CJK
+6C31:
+6C32: Ideograph life giving influences of nature; spirit of harmony; prosperity CJK
+6C33: Ideograph life giving influences of nature; spirit of harmony; prosperity CJK
+6C34: Ideograph water, liquid, lotion, juice CJK
+6C35: Ideograph water; radical number 85 CJK
+6C36: Ideograph name of a river in Shandong CJK
+6C37: Ideograph ice, frost, icicles; cold CJK
+6C38: Ideograph long, perpetual, eternal, forever CJK
+6C39: Ideograph ditch; pool CJK
+6C3A:
+6C3B:
+6C3C: Ideograph to sink; to drown to be given over to CJK
+6C3D: Ideograph to float; to deep fry; (Cant.) to turn inside-out CJK
+6C3E: Ideograph overflow, flood, inundate CJK
+6C3F: Ideograph spring CJK
+6C40: Ideograph sandbar, beach, bank, shore CJK
+6C41: Ideograph juice, liquor, fluid, sap, gravy, sauce CJK
+6C42: Ideograph seek; demand, request; beseech CJK
+6C43:
+6C44:
+6C45:
+6C46: Ideograph to parboil; hot water kettle; to boil CJK
+6C47: Ideograph concourse; flow together, gather CJK
+6C48:
+6C49: Ideograph Chinese people; Chinese language CJK
+6C4A: Ideograph a branching stream CJK
+6C4B: Ideograph to pour CJK
+6C4C:
+6C4D: Ideograph weep CJK
+6C4E: Ideograph float, drift; afloat; careless CJK
+6C4F:
+6C50: Ideograph night tides, evening ebb tide CJK
+6C51:
+6C52:
+6C53:
+6C54:
+6C55: Ideograph basket for catching fish; bamboo; Swatow (Shantou) CJK
+6C56:
+6C57: Ideograph perspiration, sweat CJK
+6C58:
+6C59: Ideograph filthy, dirty, impure, polluted CJK
+6C5A: Ideograph filthy, dirty, impure, polluted CJK
+6C5B: Ideograph high water, flood tides CJK
+6C5C: Ideograph a stream which leaves the main branch then later returns CJK
+6C5D: Ideograph you CJK
+6C5E: Ideograph element mercury CJK
+6C5F: Ideograph large river; yangzi; surname CJK
+6C60: Ideograph pool, pond; moat; cistern CJK
+6C61: Ideograph filthy, dirty, impure, polluted CJK
+6C62:
+6C63:
+6C64: Ideograph hot water; soup, gravy, broth CJK
+6C65:
+6C66:
+6C67: Ideograph name of a river in Shangdong; marsh; float CJK
+6C68: Ideograph Mi(luo) river in Hunan province where Qu Yuan drowned himself; to sink; used (erroneously) for U+6C69 汩 CJK
+6C69: Ideograph run swiftly CJK
+6C6A: Ideograph vast, extensive, deep; surname CJK
+6C6B: Ideograph a pit, trap; the appearance of a small, meandering stream CJK
+6C6C:
+6C6D: Ideograph confluence of two streams; bend CJK
+6C6E:
+6C6F:
+6C70: Ideograph excessive; scour, wash out CJK
+6C71:
+6C72: Ideograph draw water from well; imbibe CJK
+6C73:
+6C74: Ideograph name of a river in Henan; Henan CJK
+6C75:
+6C76: Ideograph a river in Shandong province CJK
+6C77:
+6C78:
+6C79: Ideograph turbulent; noisy, restless CJK
+6C7A: Ideograph decide, determine, judge CJK
+6C7B:
+6C7C:
+6C7D: Ideograph steam, vapor, gas CJK
+6C7E: Ideograph river in Shanxi province CJK
+6C7F:
+6C80:
+6C81: Ideograph soak into, seep in, percolate CJK
+6C82: Ideograph river in southeast Shandong CJK
+6C83: Ideograph water, irrigate; fertile, rich CJK
+6C84: Ideograph billows CJK
+6C85: Ideograph name of a river in western Hunan that flows into Dongting lake CJK
+6C86: Ideograph a ferry; fog; flowing CJK
+6C87: Ideograph flowing and engulfing; brimming CJK
+6C88: Ideograph sink, submerge; addicted to; surname CJK
+6C89: Ideograph sink, submerge; addicted to CJK
+6C8A: Ideograph (Cant.) onomatopoetic CJK
+6C8B:
+6C8C: Ideograph chaotic, confused; turbid, murky CJK
+6C8D: Ideograph freezing; stopped up, closed off CJK
+6C8E:
+6C8F: Ideograph infuse CJK
+6C90: Ideograph bathe, cleanse, wash, shampoo CJK
+6C91:
+6C92: Ideograph not, have not, none; to drown, sink CJK
+6C93: Ideograph connected, joined; repeated CJK
+6C94: Ideograph flood; overflowing CJK
+6C95: Ideograph deep; (Cant.) to dive CJK
+6C96: Ideograph pour, infuse, steep; wash away CJK
+6C97:
+6C98: Ideograph name of a river CJK
+6C99: Ideograph sand, gravel, pebbles; granulated CJK
+6C9A: Ideograph islet in stream; small sandbar CJK
+6C9B: Ideograph abundant, full, copious; sudden CJK
+6C9C:
+6C9D:
+6C9E:
+6C9F: Ideograph ditch, drain, narrow waterway CJK
+6CA0:
+6CA1: Ideograph not, have not, none; drown, sink CJK
+6CA2: Ideograph marsh, swamp; grace, brilliance CJK
+6CA3: Ideograph river in Shanxi province CJK
+6CA4: Ideograph soak, steep; sodden or soaked CJK
+6CA5: Ideograph trickle, drip; strain; dregs CJK
+6CA6: Ideograph be lost; sink, be submerged CJK
+6CA7: Ideograph blue, dark green; cold CJK
+6CA8:
+6CA9: Ideograph name of a river in Shanxi CJK
+6CAA: Ideograph Shanghai; river near Shanghai CJK
+6CAB: Ideograph froth, foam, bubbles, suds CJK
+6CAC: Ideograph dusk; Mei river; Zhou dynasty place-name; (Cant.) to go underwater, to dive CJK
+6CAD: Ideograph river in Shantung CJK
+6CAE: Ideograph stop, prevent; defeated, dejected CJK
+6CAF:
+6CB0: Ideograph to let drop CJK
+6CB1: Ideograph rivers, streams, waterways; flow CJK
+6CB2: Ideograph float CJK
+6CB3: Ideograph river; stream; yellow river CJK
+6CB4: Ideograph foul and poisonous in confusion; out of harmony CJK
+6CB5:
+6CB6:
+6CB7: Ideograph to remove evil; to cleanse; to wash away CJK
+6CB8: Ideograph boil, bubble up, gush CJK
+6CB9: Ideograph oil, fat, grease, lard; paints CJK
+6CBA: Ideograph turbulent CJK
+6CBB: Ideograph govern, regulate, administer CJK
+6CBC: Ideograph lake, fishpond, swamps CJK
+6CBD: Ideograph buy and sell; inferior in quality CJK
+6CBE: Ideograph moisten, wet, soak; touch CJK
+6CBF: Ideograph follow a course, go along CJK
+6CC0:
+6CC1: Ideograph condition, situation; furthermore CJK
+6CC2: Ideograph clear and deep (of water); wide CJK
+6CC3: Ideograph river in Henan CJK
+6CC4: Ideograph leak; vent; flow; reveal CJK
+6CC5: Ideograph swim, float, wade CJK
+6CC6: Ideograph licentious, libertine, dissipated CJK
+6CC7:
+6CC8:
+6CC9: Ideograph spring, fountain; wealth, money CJK
+6CCA: Ideograph anchor vessel; lie at anchor CJK
+6CCB:
+6CCC: Ideograph to seep out, excrete CJK
+6CCD:
+6CCE:
+6CCF:
+6CD0: Ideograph to write; to indite; veins in minerals CJK
+6CD1: Ideograph the vitreous glaze on china, porcelain, etc. CJK
+6CD2: Ideograph a river in Hubei province CJK
+6CD3: Ideograph clear, deep pool of water CJK
+6CD4: Ideograph water from washing rice to boil thick, as gruel CJK
+6CD5: Ideograph law, rule, regulation, statute; France, French CJK
+6CD6: Ideograph still waters; river in Jiangsu CJK
+6CD7: Ideograph mucous; nasal flow; sniffle; river in Shandong CJK
+6CD8:
+6CD9: Ideograph roar CJK
+6CDA: Ideograph clear; bright and brilliant; sweat CJK
+6CDB: Ideograph to drift, float; careless, reckless CJK
+6CDC: Ideograph a river in Hebei province CJK
+6CDD: Ideograph go upstream; trace source; formerly CJK
+6CDE: Ideograph mud; miry, muddy, stagnant CJK
+6CDF:
+6CE0: Ideograph nice and cool, mild and comfortable CJK
+6CE1: Ideograph bubbles, suds; blister; soak CJK
+6CE2: Ideograph waves, breakers; undulations CJK
+6CE3: Ideograph cry, sob, weep CJK
+6CE4:
+6CE5: Ideograph mud, mire; earth, clay; plaster CJK
+6CE6:
+6CE7:
+6CE8: Ideograph concentrate, focus, direct CJK
+6CE9:
+6CEA: Ideograph tears; weep, cry CJK
+6CEB: Ideograph weep; cry; shine, glisten CJK
+6CEC:
+6CED: Ideograph a raft CJK
+6CEE: Ideograph Zhou dynasty school; disperse; fall apart CJK
+6CEF: Ideograph destroy, eliminate; perish CJK
+6CF0: Ideograph great, exalted, superior; big CJK
+6CF1: Ideograph great, expansive; agitated CJK
+6CF2: Ideograph kind of white wine; rivers in Hebei and Shandong CJK
+6CF3: Ideograph dive; swim CJK
+6CF4:
+6CF5: Ideograph pump CJK
+6CF6:
+6CF7: Ideograph raining; wet; soaked; a river in Guangdong CJK
+6CF8: Ideograph river in Jiangxi province CJK
+6CF9:
+6CFA: Ideograph river in Shandong province CJK
+6CFB: Ideograph drain off, leak; flow, pour down CJK
+6CFC: Ideograph pour, splash, water, sprinkle CJK
+6CFD: Ideograph marsh, swamp; grace, brilliance CJK
+6CFE: Ideograph name of a river CJK
+6CFF:

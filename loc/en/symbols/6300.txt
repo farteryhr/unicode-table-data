@@ -1,256 +1,256 @@
-6300 : Cjk unified ideograph
-6301 : Cjk unified ideograph
-6302 : Cjk unified ideograph
-6303 : Cjk unified ideograph
-6304 : Cjk unified ideograph
-6305 : Cjk unified ideograph
-6306 : Cjk unified ideograph
-6307 : Cjk unified ideograph
-6308 : Cjk unified ideograph
-6309 : Cjk unified ideograph
-630A : Cjk unified ideograph
-630B : Cjk unified ideograph
-630C : Cjk unified ideograph
-630D : Cjk unified ideograph
-630E : Cjk unified ideograph
-630F : Cjk unified ideograph
-6310 : Cjk unified ideograph
-6311 : Cjk unified ideograph
-6312 : Cjk unified ideograph
-6313 : Cjk unified ideograph
-6314 : Cjk unified ideograph
-6315 : Cjk unified ideograph
-6316 : Cjk unified ideograph
-6317 : Cjk unified ideograph
-6318 : Cjk unified ideograph
-6319 : Cjk unified ideograph
-631A : Cjk unified ideograph
-631B : Cjk unified ideograph
-631C : Cjk unified ideograph
-631D : Cjk unified ideograph
-631E : Cjk unified ideograph
-631F : Cjk unified ideograph
-6320 : Cjk unified ideograph
-6321 : Cjk unified ideograph
-6322 : Cjk unified ideograph
-6323 : Cjk unified ideograph
-6324 : Cjk unified ideograph
-6325 : Cjk unified ideograph
-6326 : Cjk unified ideograph
-6327 : Cjk unified ideograph
-6328 : Cjk unified ideograph
-6329 : Cjk unified ideograph
-632A : Cjk unified ideograph
-632B : Cjk unified ideograph
-632C : Cjk unified ideograph
-632D : Cjk unified ideograph
-632E : Cjk unified ideograph
-632F : Cjk unified ideograph
-6330 : Cjk unified ideograph
-6331 : Cjk unified ideograph
-6332 : Cjk unified ideograph
-6333 : Cjk unified ideograph
-6334 : Cjk unified ideograph
-6335 : Cjk unified ideograph
-6336 : Cjk unified ideograph
-6337 : Cjk unified ideograph
-6338 : Cjk unified ideograph
-6339 : Cjk unified ideograph
-633A : Cjk unified ideograph
-633B : Cjk unified ideograph
-633C : Cjk unified ideograph
-633D : Cjk unified ideograph
-633E : Cjk unified ideograph
-633F : Cjk unified ideograph
-6340 : Cjk unified ideograph
-6341 : Cjk unified ideograph
-6342 : Cjk unified ideograph
-6343 : Cjk unified ideograph
-6344 : Cjk unified ideograph
-6345 : Cjk unified ideograph
-6346 : Cjk unified ideograph
-6347 : Cjk unified ideograph
-6348 : Cjk unified ideograph
-6349 : Cjk unified ideograph
-634A : Cjk unified ideograph
-634B : Cjk unified ideograph
-634C : Cjk unified ideograph
-634D : Cjk unified ideograph
-634E : Cjk unified ideograph
-634F : Cjk unified ideograph
-6350 : Cjk unified ideograph
-6351 : Cjk unified ideograph
-6352 : Cjk unified ideograph
-6353 : Cjk unified ideograph
-6354 : Cjk unified ideograph
-6355 : Cjk unified ideograph
-6356 : Cjk unified ideograph
-6357 : Cjk unified ideograph
-6358 : Cjk unified ideograph
-6359 : Cjk unified ideograph
-635A : Cjk unified ideograph
-635B : Cjk unified ideograph
-635C : Cjk unified ideograph
-635D : Cjk unified ideograph
-635E : Cjk unified ideograph
-635F : Cjk unified ideograph
-6360 : Cjk unified ideograph
-6361 : Cjk unified ideograph
-6362 : Cjk unified ideograph
-6363 : Cjk unified ideograph
-6364 : Cjk unified ideograph
-6365 : Cjk unified ideograph
-6366 : Cjk unified ideograph
-6367 : Cjk unified ideograph
-6368 : Cjk unified ideograph
-6369 : Cjk unified ideograph
-636A : Cjk unified ideograph
-636B : Cjk unified ideograph
-636C : Cjk unified ideograph
-636D : Cjk unified ideograph
-636E : Cjk unified ideograph
-636F : Cjk unified ideograph
-6370 : Cjk unified ideograph
-6371 : Cjk unified ideograph
-6372 : Cjk unified ideograph
-6373 : Cjk unified ideograph
-6374 : Cjk unified ideograph
-6375 : Cjk unified ideograph
-6376 : Cjk unified ideograph
-6377 : Cjk unified ideograph
-6378 : Cjk unified ideograph
-6379 : Cjk unified ideograph
-637A : Cjk unified ideograph
-637B : Cjk unified ideograph
-637C : Cjk unified ideograph
-637D : Cjk unified ideograph
-637E : Cjk unified ideograph
-637F : Cjk unified ideograph
-6380 : Cjk unified ideograph
-6381 : Cjk unified ideograph
-6382 : Cjk unified ideograph
-6383 : Cjk unified ideograph
-6384 : Cjk unified ideograph
-6385 : Cjk unified ideograph
-6386 : Cjk unified ideograph
-6387 : Cjk unified ideograph
-6388 : Cjk unified ideograph
-6389 : Cjk unified ideograph
-638A : Cjk unified ideograph
-638B : Cjk unified ideograph
-638C : Cjk unified ideograph
-638D : Cjk unified ideograph
-638E : Cjk unified ideograph
-638F : Cjk unified ideograph
-6390 : Cjk unified ideograph
-6391 : Cjk unified ideograph
-6392 : Cjk unified ideograph
-6393 : Cjk unified ideograph
-6394 : Cjk unified ideograph
-6395 : Cjk unified ideograph
-6396 : Cjk unified ideograph
-6397 : Cjk unified ideograph
-6398 : Cjk unified ideograph
-6399 : Cjk unified ideograph
-639A : Cjk unified ideograph
-639B : Cjk unified ideograph
-639C : Cjk unified ideograph
-639D : Cjk unified ideograph
-639E : Cjk unified ideograph
-639F : Cjk unified ideograph
-63A0 : Cjk unified ideograph
-63A1 : Cjk unified ideograph
-63A2 : Cjk unified ideograph
-63A3 : Cjk unified ideograph
-63A4 : Cjk unified ideograph
-63A5 : Cjk unified ideograph
-63A6 : Cjk unified ideograph
-63A7 : Cjk unified ideograph
-63A8 : Cjk unified ideograph
-63A9 : Cjk unified ideograph
-63AA : Cjk unified ideograph
-63AB : Cjk unified ideograph
-63AC : Cjk unified ideograph
-63AD : Cjk unified ideograph
-63AE : Cjk unified ideograph
-63AF : Cjk unified ideograph
-63B0 : Cjk unified ideograph
-63B1 : Cjk unified ideograph
-63B2 : Cjk unified ideograph
-63B3 : Cjk unified ideograph
-63B4 : Cjk unified ideograph
-63B5 : Cjk unified ideograph
-63B6 : Cjk unified ideograph
-63B7 : Cjk unified ideograph
-63B8 : Cjk unified ideograph
-63B9 : Cjk unified ideograph
-63BA : Cjk unified ideograph
-63BB : Cjk unified ideograph
-63BC : Cjk unified ideograph
-63BD : Cjk unified ideograph
-63BE : Cjk unified ideograph
-63BF : Cjk unified ideograph
-63C0 : Cjk unified ideograph
-63C1 : Cjk unified ideograph
-63C2 : Cjk unified ideograph
-63C3 : Cjk unified ideograph
-63C4 : Cjk unified ideograph
-63C5 : Cjk unified ideograph
-63C6 : Cjk unified ideograph
-63C7 : Cjk unified ideograph
-63C8 : Cjk unified ideograph
-63C9 : Cjk unified ideograph
-63CA : Cjk unified ideograph
-63CB : Cjk unified ideograph
-63CC : Cjk unified ideograph
-63CD : Cjk unified ideograph
-63CE : Cjk unified ideograph
-63CF : Cjk unified ideograph
-63D0 : Cjk unified ideograph
-63D1 : Cjk unified ideograph
-63D2 : Cjk unified ideograph
-63D3 : Cjk unified ideograph
-63D4 : Cjk unified ideograph
-63D5 : Cjk unified ideograph
-63D6 : Cjk unified ideograph
-63D7 : Cjk unified ideograph
-63D8 : Cjk unified ideograph
-63D9 : Cjk unified ideograph
-63DA : Cjk unified ideograph
-63DB : Cjk unified ideograph
-63DC : Cjk unified ideograph
-63DD : Cjk unified ideograph
-63DE : Cjk unified ideograph
-63DF : Cjk unified ideograph
-63E0 : Cjk unified ideograph
-63E1 : Cjk unified ideograph
-63E2 : Cjk unified ideograph
-63E3 : Cjk unified ideograph
-63E4 : Cjk unified ideograph
-63E5 : Cjk unified ideograph
-63E6 : Cjk unified ideograph
-63E7 : Cjk unified ideograph
-63E8 : Cjk unified ideograph
-63E9 : Cjk unified ideograph
-63EA : Cjk unified ideograph
-63EB : Cjk unified ideograph
-63EC : Cjk unified ideograph
-63ED : Cjk unified ideograph
-63EE : Cjk unified ideograph
-63EF : Cjk unified ideograph
-63F0 : Cjk unified ideograph
-63F1 : Cjk unified ideograph
-63F2 : Cjk unified ideograph
-63F3 : Cjk unified ideograph
-63F4 : Cjk unified ideograph
-63F5 : Cjk unified ideograph
-63F6 : Cjk unified ideograph
-63F7 : Cjk unified ideograph
-63F8 : Cjk unified ideograph
-63F9 : Cjk unified ideograph
-63FA : Cjk unified ideograph
-63FB : Cjk unified ideograph
-63FC : Cjk unified ideograph
-63FD : Cjk unified ideograph
-63FE : Cjk unified ideograph
-63FF : Cjk unified ideograph
+6300:
+6301: Ideograph sustain, support; hold, grasp CJK
+6302: Ideograph hang, suspend; suspense CJK
+6303: Ideograph (Cant.) to beat CJK
+6304:
+6305:
+6306:
+6307: Ideograph finger, toe; point, indicate CJK
+6308: Ideograph assist, help, lead by hand CJK
+6309: Ideograph put hand on, press down with hand CJK
+630A:
+630B:
+630C: Ideograph fight CJK
+630D: Ideograph collate; (Cant.) to scratch CJK
+630E: Ideograph carry CJK
+630F: Ideograph (Cant.) to dredge or poke with a pole or stick CJK
+6310: Ideograph drag CJK
+6311: Ideograph a load carried on the shoulders; to carry CJK
+6312:
+6313: Ideograph to open out; to expand CJK
+6314:
+6315:
+6316: Ideograph dig, dig out, gouge out, scoop CJK
+6317:
+6318: Ideograph to pluck, pick, tear; (Cant.) rubbing action CJK
+6319: Ideograph raise, lift up; recommend CJK
+631A: Ideograph sincere, warm, cordial; surname CJK
+631B: Ideograph tangled; entwined; crooked CJK
+631C: Ideograph take; hold; give forcefully CJK
+631D: Ideograph to beat; to strike CJK
+631E: Ideograph flog, whip; chastise CJK
+631F: Ideograph clasp under arm; hold to bosom CJK
+6320: Ideograph scratch; disturb, bother; submit CJK
+6321: Ideograph obstruct, impede; stop; resist CJK
+6322: Ideograph correct CJK
+6323: Ideograph strive, endeavor, struggle CJK
+6324: Ideograph crowd, squeeze, push against CJK
+6325: Ideograph direct; wipe away; squander CJK
+6326: Ideograph pull out, pluck; take hold of CJK
+6327:
+6328: Ideograph near, close by, next to, towards, against; to wait; to lean on CJK
+6329:
+632A: Ideograph move, shift on one side CJK
+632B: Ideograph push down; chop down; grind CJK
+632C:
+632D: Ideograph fish-bones, things that stick in the throat; unyielding, blunt of speech; (Cant.) to stir, mix, agitate; to wade CJK
+632E:
+632F: Ideograph raise, excite, arouse action CJK
+6330:
+6331: Ideograph to feel or fondle with the fingers CJK
+6332: Ideograph to feel or fondle with the fingers CJK
+6333:
+6334:
+6335: Ideograph to play with, handle things CJK
+6336: Ideograph hold in hands CJK
+6337: Ideograph to propel a boat; to beat CJK
+6338:
+6339: Ideograph to bale out; to decant liquids CJK
+633A: Ideograph to stand upright, straighten; rigid CJK
+633B:
+633C: Ideograph rub, stroke with hands; crumple CJK
+633D: Ideograph pull; pull back, draw back CJK
+633E: Ideograph clasp under arm; hold to bosom CJK
+633F: Ideograph insert, stick into; plant CJK
+6340:
+6341:
+6342: Ideograph resist CJK
+6343:
+6344: Ideograph long and curved CJK
+6345: Ideograph jab CJK
+6346: Ideograph tie up; bind, truss up; bundle CJK
+6347:
+6348:
+6349: Ideograph grasp, clutch; catch, seize CJK
+634A:
+634B: Ideograph to pluck; to gather in the fingers; to rub; to scrape off CJK
+634C: Ideograph break open, split open; an accounting version of the numeral eight CJK
+634D: Ideograph ward off, guard against, defend CJK
+634E: Ideograph to select; to take; to carry CJK
+634F: Ideograph pick with fingers; knead; mold CJK
+6350: Ideograph contribute; give up, renounce CJK
+6351:
+6352:
+6353: Ideograph strive, endeavor CJK
+6354: Ideograph to gore, stab CJK
+6355: Ideograph arrest, catch, seize CJK
+6356:
+6357: Ideograph make progress CJK
+6358: Ideograph push CJK
+6359:
+635A:
+635B:
+635C: Ideograph search, seek; investigate CJK
+635D:
+635E: Ideograph scoop out of water; dredge, fish CJK
+635F: Ideograph diminish; impair; injure CJK
+6360:
+6361: Ideograph to pick up CJK
+6362: Ideograph change CJK
+6363: Ideograph hull; thresh; beat, attack CJK
+6364:
+6365: Ideograph to bend the wrist CJK
+6366: Ideograph to seize; to clutch; to arrest; to capture; (Cant.) to climb CJK
+6367: Ideograph hold up in two hands CJK
+6368: Ideograph discard, give up willingly; give alms CJK
+6369: Ideograph twist with hands; snap, tear CJK
+636A:
+636B: Ideograph stoke, pat, feel by hand, grope CJK
+636C: Ideograph press down heavily with hands CJK
+636D: Ideograph to open; to spread out CJK
+636E: Ideograph to occupy, take possession of; a base, position CJK
+636F:
+6370:
+6371: Ideograph put off, procrastinate; endure CJK
+6372: Ideograph curl, roll up; curly, rolled up CJK
+6373:
+6374:
+6375: Ideograph (Cant.) to hold between the fingers and thumb CJK
+6376: Ideograph strike with stick, lash, beat CJK
+6377: Ideograph win, victory, triumph CJK
+6378:
+6379: Ideograph to fumble things over, mix up; (Cant.) to swing, fling; to flick off, throw off; to jerk CJK
+637A: Ideograph to press down heavily with the fingers CJK
+637B: Ideograph to twist or nip with the fingers CJK
+637C: Ideograph to rub; to crumple CJK
+637D: Ideograph clutch, grasp; pull up; contradict CJK
+637E:
+637F: Ideograph perch; roost; stay CJK
+6380: Ideograph lift, raise; stir CJK
+6381:
+6382: Ideograph heft, hold or weigh in palm CJK
+6383: Ideograph sweep, clear away; exterminate CJK
+6384: Ideograph swing, brandish, flourish CJK
+6385: Ideograph (Cant.) to lift up; to seize, grab CJK
+6386:
+6387: Ideograph collect, gather up, pick up CJK
+6388: Ideograph give to, transmit; confer CJK
+6389: Ideograph turn, move; shake, wag; drop down CJK
+638A: Ideograph to extract; injure CJK
+638B:
+638C: Ideograph palm of hand, sole of foot, paw CJK
+638D:
+638E: Ideograph drag aside, pull; drag one foot CJK
+638F: Ideograph take out; pull out; clean out CJK
+6390: Ideograph hold; gather with hand; choke CJK
+6391:
+6392: Ideograph row, rank, line CJK
+6393:
+6394: Ideograph sturdy CJK
+6395:
+6396: Ideograph support with the arms; stick in, tuck in; fold up CJK
+6397: Ideograph take; hold; give forcefully CJK
+6398: Ideograph dig, excavate; excavate cave CJK
+6399: Ideograph to strive, endeavor, struggle; to earn; to pierce; to wedge in CJK
+639A:
+639B: Ideograph hang, suspend; suspense CJK
+639C:
+639D:
+639E: Ideograph easy, smooth; quiet; suave CJK
+639F: Ideograph law, commandments, regulations; (Cant.) to throw CJK
+63A0: Ideograph rob, ransack, plunder; pass by CJK
+63A1: Ideograph gather, collect; pick, select CJK
+63A2: Ideograph find, locate; search, grope for CJK
+63A3: Ideograph drag, pull; hinder by pulling back CJK
+63A4: Ideograph quiver; (Cant.) to pull on something CJK
+63A5: Ideograph receive; continue; catch; connect CJK
+63A6: Ideograph to take up; to put by CJK
+63A7: Ideograph accuse, charge; control CJK
+63A8: Ideograph push, expel; push forward CJK
+63A9: Ideograph to cover (with the hand); shut, conceal; ambush CJK
+63AA: Ideograph place; collect, arrange; employ CJK
+63AB: Ideograph be on night watch; grasp CJK
+63AC: Ideograph to grasp or hold with both hands CJK
+63AD: Ideograph to manipulate; a pricker for a lamp-wick CJK
+63AE: Ideograph to bear on the shoulders CJK
+63AF: Ideograph oppress, extort, take by force CJK
+63B0: Ideograph (Cant.) to tear, to rip CJK
+63B1: Ideograph pickpocket CJK
+63B2: Ideograph to set (a table); to install, equip; to lay (a foundation) CJK
+63B3: Ideograph capture, seize CJK
+63B4: Ideograph box one's ears, slap CJK
+63B5:
+63B6:
+63B7: Ideograph throw, hurl, cast, fling CJK
+63B8: Ideograph to dust; a duster CJK
+63B9: Ideograph (Cant.) to pluck, to pull CJK
+63BA: Ideograph mix, blend, adulterate CJK
+63BB: Ideograph scratch lightly CJK
+63BC: Ideograph throw ground; know, be familiar CJK
+63BD: Ideograph collide; meet unexpectedly CJK
+63BE: Ideograph a general designation of officials CJK
+63BF:
+63C0: Ideograph choose; select; pick up; gather CJK
+63C1: Ideograph sound of setting up a koto CJK
+63C2:
+63C3: Ideograph shear; (Cant.) to skin an animal CJK
+63C4: Ideograph lift, raise; praise; hang; flap CJK
+63C5: Ideograph grind, rub; study, research; (Cant.) to play a stringed instrument CJK
+63C6: Ideograph prime minister; to guess, estimate CJK
+63C7: Ideograph (Cant.) to measure a distance with the extended thumb and forefinger or middle finger CJK
+63C8:
+63C9: Ideograph rub, massage; crush by hand CJK
+63CA:
+63CB:
+63CC: Ideograph to shake CJK
+63CD: Ideograph hit, beat; smash, break CJK
+63CE: Ideograph to pull up the sleeves and stretch out the arms; to strike with bare fists CJK
+63CF: Ideograph copy, trace, sketch; depict CJK
+63D0: Ideograph hold in hand; lift in hand CJK
+63D1: Ideograph to fabricate; to trump up CJK
+63D2: Ideograph insert, stick into; plant CJK
+63D3:
+63D4:
+63D5: Ideograph roll up the sleeves; fight bare-fisted; strike, stab CJK
+63D6: Ideograph salute, bow; defer to, yield CJK
+63D7: Ideograph strike, hit with hand; tap; (Cant.) to be frightened; to move to and fro CJK
+63D8:
+63D9:
+63DA: Ideograph scatter, spread; praise CJK
+63DB: Ideograph change, exchange; substitute CJK
+63DC: Ideograph cover up; take by force, shut CJK
+63DD: Ideograph to hold in the hand, to grasp; to wring CJK
+63DE: Ideograph to cover (with the hand) CJK
+63DF:
+63E0: Ideograph to pull up, to eradicate CJK
+63E1: Ideograph grasp, hold fast, take by hand CJK
+63E2: Ideograph to seize; (Cant.) to block, obstruct CJK
+63E3: Ideograph put things under clothes CJK
+63E4:
+63E5: Ideograph scratcher CJK
+63E6: Ideograph to clutch; to grab at; to rub or scrape; to tear; (Cant.) to scratch; to feel around with the hand CJK
+63E7:
+63E8:
+63E9: Ideograph rub and wipe, dust, clean CJK
+63EA: Ideograph grasp with hand, pinch CJK
+63EB: Ideograph grasp with hand, pinch CJK
+63EC: Ideograph (Cant.) lay up; sit CJK
+63ED: Ideograph raise, lift up; surname CJK
+63EE: Ideograph direct; wipe away; squander CJK
+63EF: Ideograph (Cant.) tight, distended CJK
+63F0: Ideograph to push in or poke out; a punch; (Cant.) to collide CJK
+63F1:
+63F2: Ideograph to sort out the stalks used in divination; to fold CJK
+63F3:
+63F4: Ideograph aid, assist; lead; cite CJK
+63F5: Ideograph carry CJK
+63F6: Ideograph make fun of, ridicule CJK
+63F7: Ideograph insert CJK
+63F8: Ideograph handful; to grasp, seize, pick up with fingers; (Cant.) to take, carry CJK
+63F9: Ideograph carry things on one's back CJK
+63FA: Ideograph wag, swing, wave; shake; scull CJK
+63FB:
+63FC: Ideograph (Cant.) to delay, waste time; to throw down, beat; to hang down CJK
+63FD: Ideograph grasp, take hold of; monopolize CJK
+63FE: Ideograph wipe off; press down with knuckle CJK
+63FF: Ideograph press CJK

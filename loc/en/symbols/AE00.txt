@@ -1,256 +1,256 @@
-AE00 : Hangul syllable geul
-AE01 : Hangul syllable geulg
-AE02 : Hangul syllable geulm
-AE03 : Hangul syllable geulb
-AE04 : Hangul syllable geuls
-AE05 : Hangul syllable geult
-AE06 : Hangul syllable geulp
-AE07 : Hangul syllable geulh
-AE08 : Hangul syllable geum
-AE09 : Hangul syllable geub
-AE0A : Hangul syllable geubs
-AE0B : Hangul syllable geus
-AE0C : Hangul syllable geuss
-AE0D : Hangul syllable geung
-AE0E : Hangul syllable geuj
-AE0F : Hangul syllable geuc
-AE10 : Hangul syllable geuk
-AE11 : Hangul syllable geut
-AE12 : Hangul syllable geup
-AE13 : Hangul syllable geuh
-AE14 : Hangul syllable gyi
-AE15 : Hangul syllable gyig
-AE16 : Hangul syllable gyigg
-AE17 : Hangul syllable gyigs
-AE18 : Hangul syllable gyin
-AE19 : Hangul syllable gyinj
-AE1A : Hangul syllable gyinh
-AE1B : Hangul syllable gyid
-AE1C : Hangul syllable gyil
-AE1D : Hangul syllable gyilg
-AE1E : Hangul syllable gyilm
-AE1F : Hangul syllable gyilb
-AE20 : Hangul syllable gyils
-AE21 : Hangul syllable gyilt
-AE22 : Hangul syllable gyilp
-AE23 : Hangul syllable gyilh
-AE24 : Hangul syllable gyim
-AE25 : Hangul syllable gyib
-AE26 : Hangul syllable gyibs
-AE27 : Hangul syllable gyis
-AE28 : Hangul syllable gyiss
-AE29 : Hangul syllable gying
-AE2A : Hangul syllable gyij
-AE2B : Hangul syllable gyic
-AE2C : Hangul syllable gyik
-AE2D : Hangul syllable gyit
-AE2E : Hangul syllable gyip
-AE2F : Hangul syllable gyih
-AE30 : Hangul syllable gi
-AE31 : Hangul syllable gig
-AE32 : Hangul syllable gigg
-AE33 : Hangul syllable gigs
-AE34 : Hangul syllable gin
-AE35 : Hangul syllable ginj
-AE36 : Hangul syllable ginh
-AE37 : Hangul syllable gid
-AE38 : Hangul syllable gil
-AE39 : Hangul syllable gilg
-AE3A : Hangul syllable gilm
-AE3B : Hangul syllable gilb
-AE3C : Hangul syllable gils
-AE3D : Hangul syllable gilt
-AE3E : Hangul syllable gilp
-AE3F : Hangul syllable gilh
-AE40 : Hangul syllable gim
-AE41 : Hangul syllable gib
-AE42 : Hangul syllable gibs
-AE43 : Hangul syllable gis
-AE44 : Hangul syllable giss
-AE45 : Hangul syllable ging
-AE46 : Hangul syllable gij
-AE47 : Hangul syllable gic
-AE48 : Hangul syllable gik
-AE49 : Hangul syllable git
-AE4A : Hangul syllable gip
-AE4B : Hangul syllable gih
-AE4C : Hangul syllable gga
-AE4D : Hangul syllable ggag
-AE4E : Hangul syllable ggagg
-AE4F : Hangul syllable ggags
-AE50 : Hangul syllable ggan
-AE51 : Hangul syllable gganj
-AE52 : Hangul syllable gganh
-AE53 : Hangul syllable ggad
-AE54 : Hangul syllable ggal
-AE55 : Hangul syllable ggalg
-AE56 : Hangul syllable ggalm
-AE57 : Hangul syllable ggalb
-AE58 : Hangul syllable ggals
-AE59 : Hangul syllable ggalt
-AE5A : Hangul syllable ggalp
-AE5B : Hangul syllable ggalh
-AE5C : Hangul syllable ggam
-AE5D : Hangul syllable ggab
-AE5E : Hangul syllable ggabs
-AE5F : Hangul syllable ggas
-AE60 : Hangul syllable ggass
-AE61 : Hangul syllable ggang
-AE62 : Hangul syllable ggaj
-AE63 : Hangul syllable ggac
-AE64 : Hangul syllable ggak
-AE65 : Hangul syllable ggat
-AE66 : Hangul syllable ggap
-AE67 : Hangul syllable ggah
-AE68 : Hangul syllable ggae
-AE69 : Hangul syllable ggaeg
-AE6A : Hangul syllable ggaegg
-AE6B : Hangul syllable ggaegs
-AE6C : Hangul syllable ggaen
-AE6D : Hangul syllable ggaenj
-AE6E : Hangul syllable ggaenh
-AE6F : Hangul syllable ggaed
-AE70 : Hangul syllable ggael
-AE71 : Hangul syllable ggaelg
-AE72 : Hangul syllable ggaelm
-AE73 : Hangul syllable ggaelb
-AE74 : Hangul syllable ggaels
-AE75 : Hangul syllable ggaelt
-AE76 : Hangul syllable ggaelp
-AE77 : Hangul syllable ggaelh
-AE78 : Hangul syllable ggaem
-AE79 : Hangul syllable ggaeb
-AE7A : Hangul syllable ggaebs
-AE7B : Hangul syllable ggaes
-AE7C : Hangul syllable ggaess
-AE7D : Hangul syllable ggaeng
-AE7E : Hangul syllable ggaej
-AE7F : Hangul syllable ggaec
-AE80 : Hangul syllable ggaek
-AE81 : Hangul syllable ggaet
-AE82 : Hangul syllable ggaep
-AE83 : Hangul syllable ggaeh
-AE84 : Hangul syllable ggya
-AE85 : Hangul syllable ggyag
-AE86 : Hangul syllable ggyagg
-AE87 : Hangul syllable ggyags
-AE88 : Hangul syllable ggyan
-AE89 : Hangul syllable ggyanj
-AE8A : Hangul syllable ggyanh
-AE8B : Hangul syllable ggyad
-AE8C : Hangul syllable ggyal
-AE8D : Hangul syllable ggyalg
-AE8E : Hangul syllable ggyalm
-AE8F : Hangul syllable ggyalb
-AE90 : Hangul syllable ggyals
-AE91 : Hangul syllable ggyalt
-AE92 : Hangul syllable ggyalp
-AE93 : Hangul syllable ggyalh
-AE94 : Hangul syllable ggyam
-AE95 : Hangul syllable ggyab
-AE96 : Hangul syllable ggyabs
-AE97 : Hangul syllable ggyas
-AE98 : Hangul syllable ggyass
-AE99 : Hangul syllable ggyang
-AE9A : Hangul syllable ggyaj
-AE9B : Hangul syllable ggyac
-AE9C : Hangul syllable ggyak
-AE9D : Hangul syllable ggyat
-AE9E : Hangul syllable ggyap
-AE9F : Hangul syllable ggyah
-AEA0 : Hangul syllable ggyae
-AEA1 : Hangul syllable ggyaeg
-AEA2 : Hangul syllable ggyaegg
-AEA3 : Hangul syllable ggyaegs
-AEA4 : Hangul syllable ggyaen
-AEA5 : Hangul syllable ggyaenj
-AEA6 : Hangul syllable ggyaenh
-AEA7 : Hangul syllable ggyaed
-AEA8 : Hangul syllable ggyael
-AEA9 : Hangul syllable ggyaelg
-AEAA : Hangul syllable ggyaelm
-AEAB : Hangul syllable ggyaelb
-AEAC : Hangul syllable ggyaels
-AEAD : Hangul syllable ggyaelt
-AEAE : Hangul syllable ggyaelp
-AEAF : Hangul syllable ggyaelh
-AEB0 : Hangul syllable ggyaem
-AEB1 : Hangul syllable ggyaeb
-AEB2 : Hangul syllable ggyaebs
-AEB3 : Hangul syllable ggyaes
-AEB4 : Hangul syllable ggyaess
-AEB5 : Hangul syllable ggyaeng
-AEB6 : Hangul syllable ggyaej
-AEB7 : Hangul syllable ggyaec
-AEB8 : Hangul syllable ggyaek
-AEB9 : Hangul syllable ggyaet
-AEBA : Hangul syllable ggyaep
-AEBB : Hangul syllable ggyaeh
-AEBC : Hangul syllable ggeo
-AEBD : Hangul syllable ggeog
-AEBE : Hangul syllable ggeogg
-AEBF : Hangul syllable ggeogs
-AEC0 : Hangul syllable ggeon
-AEC1 : Hangul syllable ggeonj
-AEC2 : Hangul syllable ggeonh
-AEC3 : Hangul syllable ggeod
-AEC4 : Hangul syllable ggeol
-AEC5 : Hangul syllable ggeolg
-AEC6 : Hangul syllable ggeolm
-AEC7 : Hangul syllable ggeolb
-AEC8 : Hangul syllable ggeols
-AEC9 : Hangul syllable ggeolt
-AECA : Hangul syllable ggeolp
-AECB : Hangul syllable ggeolh
-AECC : Hangul syllable ggeom
-AECD : Hangul syllable ggeob
-AECE : Hangul syllable ggeobs
-AECF : Hangul syllable ggeos
-AED0 : Hangul syllable ggeoss
-AED1 : Hangul syllable ggeong
-AED2 : Hangul syllable ggeoj
-AED3 : Hangul syllable ggeoc
-AED4 : Hangul syllable ggeok
-AED5 : Hangul syllable ggeot
-AED6 : Hangul syllable ggeop
-AED7 : Hangul syllable ggeoh
-AED8 : Hangul syllable gge
-AED9 : Hangul syllable ggeg
-AEDA : Hangul syllable ggegg
-AEDB : Hangul syllable ggegs
-AEDC : Hangul syllable ggen
-AEDD : Hangul syllable ggenj
-AEDE : Hangul syllable ggenh
-AEDF : Hangul syllable gged
-AEE0 : Hangul syllable ggel
-AEE1 : Hangul syllable ggelg
-AEE2 : Hangul syllable ggelm
-AEE3 : Hangul syllable ggelb
-AEE4 : Hangul syllable ggels
-AEE5 : Hangul syllable ggelt
-AEE6 : Hangul syllable ggelp
-AEE7 : Hangul syllable ggelh
-AEE8 : Hangul syllable ggem
-AEE9 : Hangul syllable ggeb
-AEEA : Hangul syllable ggebs
-AEEB : Hangul syllable gges
-AEEC : Hangul syllable ggess
-AEED : Hangul syllable ggeng
-AEEE : Hangul syllable ggej
-AEEF : Hangul syllable ggec
-AEF0 : Hangul syllable ggek
-AEF1 : Hangul syllable gget
-AEF2 : Hangul syllable ggep
-AEF3 : Hangul syllable ggeh
-AEF4 : Hangul syllable ggyeo
-AEF5 : Hangul syllable ggyeog
-AEF6 : Hangul syllable ggyeogg
-AEF7 : Hangul syllable ggyeogs
-AEF8 : Hangul syllable ggyeon
-AEF9 : Hangul syllable ggyeonj
-AEFA : Hangul syllable ggyeonh
-AEFB : Hangul syllable ggyeod
-AEFC : Hangul syllable ggyeol
-AEFD : Hangul syllable ggyeolg
-AEFE : Hangul syllable ggyeolm
-AEFF : Hangul syllable ggyeolb
+AE00: Hangul Syllable Geul
+AE01: Hangul Syllable Geulg
+AE02: Hangul Syllable Geulm
+AE03: Hangul Syllable Geulb
+AE04: Hangul Syllable Geuls
+AE05: Hangul Syllable Geult
+AE06: Hangul Syllable Geulp
+AE07: Hangul Syllable Geulh
+AE08: Hangul Syllable Geum
+AE09: Hangul Syllable Geub
+AE0A: Hangul Syllable Geubs
+AE0B: Hangul Syllable Geus
+AE0C: Hangul Syllable Geuss
+AE0D: Hangul Syllable Geung
+AE0E: Hangul Syllable Geuj
+AE0F: Hangul Syllable Geuc
+AE10: Hangul Syllable Geuk
+AE11: Hangul Syllable Geut
+AE12: Hangul Syllable Geup
+AE13: Hangul Syllable Geuh
+AE14: Hangul Syllable Gyi
+AE15: Hangul Syllable Gyig
+AE16: Hangul Syllable Gyigg
+AE17: Hangul Syllable Gyigs
+AE18: Hangul Syllable Gyin
+AE19: Hangul Syllable Gyinj
+AE1A: Hangul Syllable Gyinh
+AE1B: Hangul Syllable Gyid
+AE1C: Hangul Syllable Gyil
+AE1D: Hangul Syllable Gyilg
+AE1E: Hangul Syllable Gyilm
+AE1F: Hangul Syllable Gyilb
+AE20: Hangul Syllable Gyils
+AE21: Hangul Syllable Gyilt
+AE22: Hangul Syllable Gyilp
+AE23: Hangul Syllable Gyilh
+AE24: Hangul Syllable Gyim
+AE25: Hangul Syllable Gyib
+AE26: Hangul Syllable Gyibs
+AE27: Hangul Syllable Gyis
+AE28: Hangul Syllable Gyiss
+AE29: Hangul Syllable Gying
+AE2A: Hangul Syllable Gyij
+AE2B: Hangul Syllable Gyic
+AE2C: Hangul Syllable Gyik
+AE2D: Hangul Syllable Gyit
+AE2E: Hangul Syllable Gyip
+AE2F: Hangul Syllable Gyih
+AE30: Hangul Syllable Gi
+AE31: Hangul Syllable Gig
+AE32: Hangul Syllable Gigg
+AE33: Hangul Syllable Gigs
+AE34: Hangul Syllable Gin
+AE35: Hangul Syllable Ginj
+AE36: Hangul Syllable Ginh
+AE37: Hangul Syllable Gid
+AE38: Hangul Syllable Gil
+AE39: Hangul Syllable Gilg
+AE3A: Hangul Syllable Gilm
+AE3B: Hangul Syllable Gilb
+AE3C: Hangul Syllable Gils
+AE3D: Hangul Syllable Gilt
+AE3E: Hangul Syllable Gilp
+AE3F: Hangul Syllable Gilh
+AE40: Hangul Syllable Gim
+AE41: Hangul Syllable Gib
+AE42: Hangul Syllable Gibs
+AE43: Hangul Syllable Gis
+AE44: Hangul Syllable Giss
+AE45: Hangul Syllable Ging
+AE46: Hangul Syllable Gij
+AE47: Hangul Syllable Gic
+AE48: Hangul Syllable Gik
+AE49: Hangul Syllable Git
+AE4A: Hangul Syllable Gip
+AE4B: Hangul Syllable Gih
+AE4C: Hangul Syllable Gga
+AE4D: Hangul Syllable Ggag
+AE4E: Hangul Syllable Ggagg
+AE4F: Hangul Syllable Ggags
+AE50: Hangul Syllable Ggan
+AE51: Hangul Syllable Gganj
+AE52: Hangul Syllable Gganh
+AE53: Hangul Syllable Ggad
+AE54: Hangul Syllable Ggal
+AE55: Hangul Syllable Ggalg
+AE56: Hangul Syllable Ggalm
+AE57: Hangul Syllable Ggalb
+AE58: Hangul Syllable Ggals
+AE59: Hangul Syllable Ggalt
+AE5A: Hangul Syllable Ggalp
+AE5B: Hangul Syllable Ggalh
+AE5C: Hangul Syllable Ggam
+AE5D: Hangul Syllable Ggab
+AE5E: Hangul Syllable Ggabs
+AE5F: Hangul Syllable Ggas
+AE60: Hangul Syllable Ggass
+AE61: Hangul Syllable Ggang
+AE62: Hangul Syllable Ggaj
+AE63: Hangul Syllable Ggac
+AE64: Hangul Syllable Ggak
+AE65: Hangul Syllable Ggat
+AE66: Hangul Syllable Ggap
+AE67: Hangul Syllable Ggah
+AE68: Hangul Syllable Ggae
+AE69: Hangul Syllable Ggaeg
+AE6A: Hangul Syllable Ggaegg
+AE6B: Hangul Syllable Ggaegs
+AE6C: Hangul Syllable Ggaen
+AE6D: Hangul Syllable Ggaenj
+AE6E: Hangul Syllable Ggaenh
+AE6F: Hangul Syllable Ggaed
+AE70: Hangul Syllable Ggael
+AE71: Hangul Syllable Ggaelg
+AE72: Hangul Syllable Ggaelm
+AE73: Hangul Syllable Ggaelb
+AE74: Hangul Syllable Ggaels
+AE75: Hangul Syllable Ggaelt
+AE76: Hangul Syllable Ggaelp
+AE77: Hangul Syllable Ggaelh
+AE78: Hangul Syllable Ggaem
+AE79: Hangul Syllable Ggaeb
+AE7A: Hangul Syllable Ggaebs
+AE7B: Hangul Syllable Ggaes
+AE7C: Hangul Syllable Ggaess
+AE7D: Hangul Syllable Ggaeng
+AE7E: Hangul Syllable Ggaej
+AE7F: Hangul Syllable Ggaec
+AE80: Hangul Syllable Ggaek
+AE81: Hangul Syllable Ggaet
+AE82: Hangul Syllable Ggaep
+AE83: Hangul Syllable Ggaeh
+AE84: Hangul Syllable Ggya
+AE85: Hangul Syllable Ggyag
+AE86: Hangul Syllable Ggyagg
+AE87: Hangul Syllable Ggyags
+AE88: Hangul Syllable Ggyan
+AE89: Hangul Syllable Ggyanj
+AE8A: Hangul Syllable Ggyanh
+AE8B: Hangul Syllable Ggyad
+AE8C: Hangul Syllable Ggyal
+AE8D: Hangul Syllable Ggyalg
+AE8E: Hangul Syllable Ggyalm
+AE8F: Hangul Syllable Ggyalb
+AE90: Hangul Syllable Ggyals
+AE91: Hangul Syllable Ggyalt
+AE92: Hangul Syllable Ggyalp
+AE93: Hangul Syllable Ggyalh
+AE94: Hangul Syllable Ggyam
+AE95: Hangul Syllable Ggyab
+AE96: Hangul Syllable Ggyabs
+AE97: Hangul Syllable Ggyas
+AE98: Hangul Syllable Ggyass
+AE99: Hangul Syllable Ggyang
+AE9A: Hangul Syllable Ggyaj
+AE9B: Hangul Syllable Ggyac
+AE9C: Hangul Syllable Ggyak
+AE9D: Hangul Syllable Ggyat
+AE9E: Hangul Syllable Ggyap
+AE9F: Hangul Syllable Ggyah
+AEA0: Hangul Syllable Ggyae
+AEA1: Hangul Syllable Ggyaeg
+AEA2: Hangul Syllable Ggyaegg
+AEA3: Hangul Syllable Ggyaegs
+AEA4: Hangul Syllable Ggyaen
+AEA5: Hangul Syllable Ggyaenj
+AEA6: Hangul Syllable Ggyaenh
+AEA7: Hangul Syllable Ggyaed
+AEA8: Hangul Syllable Ggyael
+AEA9: Hangul Syllable Ggyaelg
+AEAA: Hangul Syllable Ggyaelm
+AEAB: Hangul Syllable Ggyaelb
+AEAC: Hangul Syllable Ggyaels
+AEAD: Hangul Syllable Ggyaelt
+AEAE: Hangul Syllable Ggyaelp
+AEAF: Hangul Syllable Ggyaelh
+AEB0: Hangul Syllable Ggyaem
+AEB1: Hangul Syllable Ggyaeb
+AEB2: Hangul Syllable Ggyaebs
+AEB3: Hangul Syllable Ggyaes
+AEB4: Hangul Syllable Ggyaess
+AEB5: Hangul Syllable Ggyaeng
+AEB6: Hangul Syllable Ggyaej
+AEB7: Hangul Syllable Ggyaec
+AEB8: Hangul Syllable Ggyaek
+AEB9: Hangul Syllable Ggyaet
+AEBA: Hangul Syllable Ggyaep
+AEBB: Hangul Syllable Ggyaeh
+AEBC: Hangul Syllable Ggeo
+AEBD: Hangul Syllable Ggeog
+AEBE: Hangul Syllable Ggeogg
+AEBF: Hangul Syllable Ggeogs
+AEC0: Hangul Syllable Ggeon
+AEC1: Hangul Syllable Ggeonj
+AEC2: Hangul Syllable Ggeonh
+AEC3: Hangul Syllable Ggeod
+AEC4: Hangul Syllable Ggeol
+AEC5: Hangul Syllable Ggeolg
+AEC6: Hangul Syllable Ggeolm
+AEC7: Hangul Syllable Ggeolb
+AEC8: Hangul Syllable Ggeols
+AEC9: Hangul Syllable Ggeolt
+AECA: Hangul Syllable Ggeolp
+AECB: Hangul Syllable Ggeolh
+AECC: Hangul Syllable Ggeom
+AECD: Hangul Syllable Ggeob
+AECE: Hangul Syllable Ggeobs
+AECF: Hangul Syllable Ggeos
+AED0: Hangul Syllable Ggeoss
+AED1: Hangul Syllable Ggeong
+AED2: Hangul Syllable Ggeoj
+AED3: Hangul Syllable Ggeoc
+AED4: Hangul Syllable Ggeok
+AED5: Hangul Syllable Ggeot
+AED6: Hangul Syllable Ggeop
+AED7: Hangul Syllable Ggeoh
+AED8: Hangul Syllable Gge
+AED9: Hangul Syllable Ggeg
+AEDA: Hangul Syllable Ggegg
+AEDB: Hangul Syllable Ggegs
+AEDC: Hangul Syllable Ggen
+AEDD: Hangul Syllable Ggenj
+AEDE: Hangul Syllable Ggenh
+AEDF: Hangul Syllable Gged
+AEE0: Hangul Syllable Ggel
+AEE1: Hangul Syllable Ggelg
+AEE2: Hangul Syllable Ggelm
+AEE3: Hangul Syllable Ggelb
+AEE4: Hangul Syllable Ggels
+AEE5: Hangul Syllable Ggelt
+AEE6: Hangul Syllable Ggelp
+AEE7: Hangul Syllable Ggelh
+AEE8: Hangul Syllable Ggem
+AEE9: Hangul Syllable Ggeb
+AEEA: Hangul Syllable Ggebs
+AEEB: Hangul Syllable Gges
+AEEC: Hangul Syllable Ggess
+AEED: Hangul Syllable Ggeng
+AEEE: Hangul Syllable Ggej
+AEEF: Hangul Syllable Ggec
+AEF0: Hangul Syllable Ggek
+AEF1: Hangul Syllable Gget
+AEF2: Hangul Syllable Ggep
+AEF3: Hangul Syllable Ggeh
+AEF4: Hangul Syllable Ggyeo
+AEF5: Hangul Syllable Ggyeog
+AEF6: Hangul Syllable Ggyeogg
+AEF7: Hangul Syllable Ggyeogs
+AEF8: Hangul Syllable Ggyeon
+AEF9: Hangul Syllable Ggyeonj
+AEFA: Hangul Syllable Ggyeonh
+AEFB: Hangul Syllable Ggyeod
+AEFC: Hangul Syllable Ggyeol
+AEFD: Hangul Syllable Ggyeolg
+AEFE: Hangul Syllable Ggyeolm
+AEFF: Hangul Syllable Ggyeolb

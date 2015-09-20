@@ -1,256 +1,256 @@
-6500 : Cjk unified ideograph
-6501 : Cjk unified ideograph
-6502 : Cjk unified ideograph
-6503 : Cjk unified ideograph
-6504 : Cjk unified ideograph
-6505 : Cjk unified ideograph
-6506 : Cjk unified ideograph
-6507 : Cjk unified ideograph
-6508 : Cjk unified ideograph
-6509 : Cjk unified ideograph
-650A : Cjk unified ideograph
-650B : Cjk unified ideograph
-650C : Cjk unified ideograph
-650D : Cjk unified ideograph
-650E : Cjk unified ideograph
-650F : Cjk unified ideograph
-6510 : Cjk unified ideograph
-6511 : Cjk unified ideograph
-6512 : Cjk unified ideograph
-6513 : Cjk unified ideograph
-6514 : Cjk unified ideograph
-6515 : Cjk unified ideograph
-6516 : Cjk unified ideograph
-6517 : Cjk unified ideograph
-6518 : Cjk unified ideograph
-6519 : Cjk unified ideograph
-651A : Cjk unified ideograph
-651B : Cjk unified ideograph
-651C : Cjk unified ideograph
-651D : Cjk unified ideograph
-651E : Cjk unified ideograph
-651F : Cjk unified ideograph
-6520 : Cjk unified ideograph
-6521 : Cjk unified ideograph
-6522 : Cjk unified ideograph
-6523 : Cjk unified ideograph
-6524 : Cjk unified ideograph
-6525 : Cjk unified ideograph
-6526 : Cjk unified ideograph
-6527 : Cjk unified ideograph
-6528 : Cjk unified ideograph
-6529 : Cjk unified ideograph
-652A : Cjk unified ideograph
-652B : Cjk unified ideograph
-652C : Cjk unified ideograph
-652D : Cjk unified ideograph
-652E : Cjk unified ideograph
-652F : Cjk unified ideograph
-6530 : Cjk unified ideograph
-6531 : Cjk unified ideograph
-6532 : Cjk unified ideograph
-6533 : Cjk unified ideograph
-6534 : Cjk unified ideograph
-6535 : Cjk unified ideograph
-6536 : Cjk unified ideograph
-6537 : Cjk unified ideograph
-6538 : Cjk unified ideograph
-6539 : Cjk unified ideograph
-653A : Cjk unified ideograph
-653B : Cjk unified ideograph
-653C : Cjk unified ideograph
-653D : Cjk unified ideograph
-653E : Cjk unified ideograph
-653F : Cjk unified ideograph
-6540 : Cjk unified ideograph
-6541 : Cjk unified ideograph
-6542 : Cjk unified ideograph
-6543 : Cjk unified ideograph
-6544 : Cjk unified ideograph
-6545 : Cjk unified ideograph
-6546 : Cjk unified ideograph
-6547 : Cjk unified ideograph
-6548 : Cjk unified ideograph
-6549 : Cjk unified ideograph
-654A : Cjk unified ideograph
-654B : Cjk unified ideograph
-654C : Cjk unified ideograph
-654D : Cjk unified ideograph
-654E : Cjk unified ideograph
-654F : Cjk unified ideograph
-6550 : Cjk unified ideograph
-6551 : Cjk unified ideograph
-6552 : Cjk unified ideograph
-6553 : Cjk unified ideograph
-6554 : Cjk unified ideograph
-6555 : Cjk unified ideograph
-6556 : Cjk unified ideograph
-6557 : Cjk unified ideograph
-6558 : Cjk unified ideograph
-6559 : Cjk unified ideograph
-655A : Cjk unified ideograph
-655B : Cjk unified ideograph
-655C : Cjk unified ideograph
-655D : Cjk unified ideograph
-655E : Cjk unified ideograph
-655F : Cjk unified ideograph
-6560 : Cjk unified ideograph
-6561 : Cjk unified ideograph
-6562 : Cjk unified ideograph
-6563 : Cjk unified ideograph
-6564 : Cjk unified ideograph
-6565 : Cjk unified ideograph
-6566 : Cjk unified ideograph
-6567 : Cjk unified ideograph
-6568 : Cjk unified ideograph
-6569 : Cjk unified ideograph
-656A : Cjk unified ideograph
-656B : Cjk unified ideograph
-656C : Cjk unified ideograph
-656D : Cjk unified ideograph
-656E : Cjk unified ideograph
-656F : Cjk unified ideograph
-6570 : Cjk unified ideograph
-6571 : Cjk unified ideograph
-6572 : Cjk unified ideograph
-6573 : Cjk unified ideograph
-6574 : Cjk unified ideograph
-6575 : Cjk unified ideograph
-6576 : Cjk unified ideograph
-6577 : Cjk unified ideograph
-6578 : Cjk unified ideograph
-6579 : Cjk unified ideograph
-657A : Cjk unified ideograph
-657B : Cjk unified ideograph
-657C : Cjk unified ideograph
-657D : Cjk unified ideograph
-657E : Cjk unified ideograph
-657F : Cjk unified ideograph
-6580 : Cjk unified ideograph
-6581 : Cjk unified ideograph
-6582 : Cjk unified ideograph
-6583 : Cjk unified ideograph
-6584 : Cjk unified ideograph
-6585 : Cjk unified ideograph
-6586 : Cjk unified ideograph
-6587 : Cjk unified ideograph
-6588 : Cjk unified ideograph
-6589 : Cjk unified ideograph
-658A : Cjk unified ideograph
-658B : Cjk unified ideograph
-658C : Cjk unified ideograph
-658D : Cjk unified ideograph
-658E : Cjk unified ideograph
-658F : Cjk unified ideograph
-6590 : Cjk unified ideograph
-6591 : Cjk unified ideograph
-6592 : Cjk unified ideograph
-6593 : Cjk unified ideograph
-6594 : Cjk unified ideograph
-6595 : Cjk unified ideograph
-6596 : Cjk unified ideograph
-6597 : Cjk unified ideograph
-6598 : Cjk unified ideograph
-6599 : Cjk unified ideograph
-659A : Cjk unified ideograph
-659B : Cjk unified ideograph
-659C : Cjk unified ideograph
-659D : Cjk unified ideograph
-659E : Cjk unified ideograph
-659F : Cjk unified ideograph
-65A0 : Cjk unified ideograph
-65A1 : Cjk unified ideograph
-65A2 : Cjk unified ideograph
-65A3 : Cjk unified ideograph
-65A4 : Cjk unified ideograph
-65A5 : Cjk unified ideograph
-65A6 : Cjk unified ideograph
-65A7 : Cjk unified ideograph
-65A8 : Cjk unified ideograph
-65A9 : Cjk unified ideograph
-65AA : Cjk unified ideograph
-65AB : Cjk unified ideograph
-65AC : Cjk unified ideograph
-65AD : Cjk unified ideograph
-65AE : Cjk unified ideograph
-65AF : Cjk unified ideograph
-65B0 : Cjk unified ideograph
-65B1 : Cjk unified ideograph
-65B2 : Cjk unified ideograph
-65B3 : Cjk unified ideograph
-65B4 : Cjk unified ideograph
-65B5 : Cjk unified ideograph
-65B6 : Cjk unified ideograph
-65B7 : Cjk unified ideograph
-65B8 : Cjk unified ideograph
-65B9 : Cjk unified ideograph
-65BA : Cjk unified ideograph
-65BB : Cjk unified ideograph
-65BC : Cjk unified ideograph
-65BD : Cjk unified ideograph
-65BE : Cjk unified ideograph
-65BF : Cjk unified ideograph
-65C0 : Cjk unified ideograph
-65C1 : Cjk unified ideograph
-65C2 : Cjk unified ideograph
-65C3 : Cjk unified ideograph
-65C4 : Cjk unified ideograph
-65C5 : Cjk unified ideograph
-65C6 : Cjk unified ideograph
-65C7 : Cjk unified ideograph
-65C8 : Cjk unified ideograph
-65C9 : Cjk unified ideograph
-65CA : Cjk unified ideograph
-65CB : Cjk unified ideograph
-65CC : Cjk unified ideograph
-65CD : Cjk unified ideograph
-65CE : Cjk unified ideograph
-65CF : Cjk unified ideograph
-65D0 : Cjk unified ideograph
-65D1 : Cjk unified ideograph
-65D2 : Cjk unified ideograph
-65D3 : Cjk unified ideograph
-65D4 : Cjk unified ideograph
-65D5 : Cjk unified ideograph
-65D6 : Cjk unified ideograph
-65D7 : Cjk unified ideograph
-65D8 : Cjk unified ideograph
-65D9 : Cjk unified ideograph
-65DA : Cjk unified ideograph
-65DB : Cjk unified ideograph
-65DC : Cjk unified ideograph
-65DD : Cjk unified ideograph
-65DE : Cjk unified ideograph
-65DF : Cjk unified ideograph
-65E0 : Cjk unified ideograph
-65E1 : Cjk unified ideograph
-65E2 : Cjk unified ideograph
-65E3 : Cjk unified ideograph
-65E4 : Cjk unified ideograph
-65E5 : Cjk unified ideograph
-65E6 : Cjk unified ideograph
-65E7 : Cjk unified ideograph
-65E8 : Cjk unified ideograph
-65E9 : Cjk unified ideograph
-65EA : Cjk unified ideograph
-65EB : Cjk unified ideograph
-65EC : Cjk unified ideograph
-65ED : Cjk unified ideograph
-65EE : Cjk unified ideograph
-65EF : Cjk unified ideograph
-65F0 : Cjk unified ideograph
-65F1 : Cjk unified ideograph
-65F2 : Cjk unified ideograph
-65F3 : Cjk unified ideograph
-65F4 : Cjk unified ideograph
-65F5 : Cjk unified ideograph
-65F6 : Cjk unified ideograph
-65F7 : Cjk unified ideograph
-65F8 : Cjk unified ideograph
-65F9 : Cjk unified ideograph
-65FA : Cjk unified ideograph
-65FB : Cjk unified ideograph
-65FC : Cjk unified ideograph
-65FD : Cjk unified ideograph
-65FE : Cjk unified ideograph
-65FF : Cjk unified ideograph
+6500: Ideograph climb; pull; hang on to CJK
+6501:
+6502: Ideograph to beat a drum CJK
+6503: Ideograph preceding CJK
+6504: Ideograph spread, disperse; vent, set forth CJK
+6505: Ideograph save, hoard CJK
+6506: Ideograph drive away, expel, oust CJK
+6507:
+6508:
+6509: Ideograph to beckon; to urge CJK
+650A:
+650B: Ideograph to clutch; to grab at; to rub or scrape; to tear; (Cant.) to leave behind, omit CJK
+650C:
+650D:
+650E:
+650F: Ideograph collect, bring together CJK
+6510:
+6511:
+6512: Ideograph save, hoard CJK
+6513:
+6514: Ideograph obstruct, impede, bar, hinder CJK
+6515:
+6516: Ideograph oppose, offend, run counter to CJK
+6517:
+6518: Ideograph seize, take by force; repel CJK
+6519: Ideograph to give a helping hand; to support, hold up CJK
+651A:
+651B: Ideograph hurry; to throw; to urge; (Cant.) to seduce CJK
+651C: Ideograph lead by hand, take with; carry CJK
+651D: Ideograph take in, absorb; act as deputy; administer, assist CJK
+651E: Ideograph to split, to rend; to choose to rub, to wipe CJK
+651F:
+6520:
+6521:
+6522: Ideograph save, hoard CJK
+6523: Ideograph tangled; entwined; crooked CJK
+6524: Ideograph spread out, open; apportion CJK
+6525: Ideograph (coll.) hold; grip; grasp CJK
+6526:
+6527:
+6528:
+6529: Ideograph obstruct, impede; stop; resist CJK
+652A: Ideograph disturb, agitate, stir up CJK
+652B: Ideograph snatch away, seize; catch with CJK
+652C: Ideograph grasp, take hold of; monopolize CJK
+652D:
+652E: Ideograph to fend off; to stab CJK
+652F: Ideograph disperse, pay; support; branch CJK
+6530: Ideograph totally exhausted CJK
+6531:
+6532: Ideograph up; uneven CJK
+6533:
+6534: Ideograph rap, tap lightly; KangXi radical 66 CJK
+6535: Ideograph rap, tap; radical number 66 CJK
+6536: Ideograph gather together, collect; harvest CJK
+6537: Ideograph examine, test; investigate CJK
+6538: Ideograph distant, far; adverbial prefix CJK
+6539: Ideograph change, alter; improve, remodel CJK
+653A:
+653B: Ideograph attack, assault; criticize CJK
+653C:
+653D:
+653E: Ideograph put, release, free, liberate CJK
+653F: Ideograph government, political affairs CJK
+6540:
+6541: Ideograph to weigh in the hand, to estimate; to shake CJK
+6542: Ideograph deduct CJK
+6543: Ideograph strong; robust; vigorous CJK
+6544: Ideograph to put forth effort CJK
+6545: Ideograph ancient, old; reason, because CJK
+6546:
+6547:
+6548: Ideograph result, effect; effectiveness CJK
+6549: Ideograph pacify, soothe, stabilize CJK
+654A:
+654B: Ideograph to strike CJK
+654C: Ideograph enemy, foe, rival; resist CJK
+654D: Ideograph express, state, relate, narrate CJK
+654E: Ideograph teach CJK
+654F: Ideograph fast, quick, clever, smart CJK
+6550:
+6551: Ideograph save, rescue, relieve; help, aid CJK
+6552:
+6553:
+6554: Ideograph gavel CJK
+6555: Ideograph an imperial order or decree CJK
+6556: Ideograph ramble, play about; leisurely; surname CJK
+6557: Ideograph be defeated, decline, fail CJK
+6558: Ideograph express, state, relate, narrate CJK
+6559: Ideograph teach, class CJK
+655A:
+655B: Ideograph draw back, fold back; collect CJK
+655C: Ideograph fill up CJK
+655D: Ideograph break, destroy; broken, tattered CJK
+655E: Ideograph roomy, spacious, open, broad CJK
+655F:
+6560: Ideograph to weigh; cut; come without being invited CJK
+6561: Ideograph rebuke CJK
+6562: Ideograph to dare, venture; bold, brave CJK
+6563: Ideograph scatter, disperse, break up CJK
+6564:
+6565:
+6566: Ideograph esteem; honest, candid, sincere CJK
+6567: Ideograph to pick up thing with chopsticks or pincers. CJK
+6568:
+6569:
+656A: Ideograph to weigh; cut; come without being invited CJK
+656B: Ideograph ancient musical instrument CJK
+656C: Ideograph respect, honor; respectfully CJK
+656D: Ideograph scatter, spread; praise; raise CJK
+656E:
+656F: Ideograph to defy, dare; strong; to suffocate CJK
+6570: Ideograph number; several, count; fate CJK
+6571:
+6572: Ideograph strike, beat, pound, hammer; rap CJK
+6573: Ideograph to govern forcefully CJK
+6574: Ideograph orderly, neat, tidy; whole CJK
+6575: Ideograph enemy, foe, rival; resist CJK
+6576:
+6577: Ideograph spread, diffuse; apply, paint CJK
+6578: Ideograph number; several; count; fate CJK
+6579: Ideograph to sew; keep tidy and repaired CJK
+657A: Ideograph expel, drive away; beat, assault CJK
+657B: Ideograph long, faraway; pre-eminent CJK
+657C:
+657D: Ideograph bind CJK
+657E: Ideograph to rule CJK
+657F: Ideograph bind CJK
+6580:
+6581: Ideograph dislike; be weary of; explain CJK
+6582: Ideograph draw back, fold back; collect CJK
+6583: Ideograph kill; die violent death CJK
+6584:
+6585: Ideograph teach, instruct; be aroused; awake; intelligent CJK
+6586: Ideograph teach, instruct; be aroused; awake; intelligent CJK
+6587: Ideograph literature, culture, writing CJK
+6588: Ideograph learning, knowledge; school CJK
+6589: Ideograph even, uniform, of equal length CJK
+658A:
+658B: Ideograph vegetarian diet; study CJK
+658C: Ideograph refined, having both appearance CJK
+658D: Ideograph to perceive, feel CJK
+658E: Ideograph vegetarian diet; study CJK
+658F:
+6590: Ideograph graceful, elegant, beautiful CJK
+6591: Ideograph mottled, striped, freckle CJK
+6592: Ideograph variegated; striped; marbled CJK
+6593: Ideograph multicolored CJK
+6594:
+6595: Ideograph multicolored CJK
+6596:
+6597: Ideograph Chinese peck; liquid measure CJK
+6598:
+6599: Ideograph consider, conjecture; materials, ingredients CJK
+659A: Ideograph a small cup of stone with ears, used in ancient times for libations CJK
+659B: Ideograph dry measure equal to some five or ten dou (U+6597 舒) CJK
+659C: Ideograph slanting, sloping, inclined CJK
+659D: Ideograph small jade wine cup CJK
+659E: Ideograph a stack of grain; a measure of 16 dou3 CJK
+659F: Ideograph to pour wine or tea into a cup; to gauge CJK
+65A0: Ideograph measure CJK
+65A1: Ideograph revolve, rotate, turn CJK
+65A2:
+65A3:
+65A4: Ideograph a catty (approximately 500 g); an axe; keen, shrewd; KangXi radical number 69 CJK
+65A5: Ideograph to scold, upbraid, accuse, reproach CJK
+65A6:
+65A7: Ideograph axe, hatchet; chop, hew CJK
+65A8: Ideograph axe CJK
+65A9: Ideograph cut, chop, sever; behead CJK
+65AA:
+65AB: Ideograph cut, chop, lop off CJK
+65AC: Ideograph cut, chop, sever; behead CJK
+65AD: Ideograph sever, cut off; interrupt CJK
+65AE: Ideograph cut off CJK
+65AF: Ideograph this, thus, such; to lop off; emphatic particle CJK
+65B0: Ideograph new, recent, fresh, modern CJK
+65B1:
+65B2: Ideograph cut, chop, hack CJK
+65B3:
+65B4: Ideograph the sound of water flowing among rocks CJK
+65B5: Ideograph to cut to pieces; to hack; to chop or hew; to carve for ornaments CJK
+65B6:
+65B7: Ideograph sever, cut off; interrupt CJK
+65B8: Ideograph cut CJK
+65B9: Ideograph a square, rectangle; a region; local CJK
+65BA:
+65BB:
+65BC: Ideograph in, at, on; interjection alas! CJK
+65BD: Ideograph grant, bestow; give; act; name CJK
+65BE: Ideograph a pennon; a streamer CJK
+65BF: Ideograph to swim; to move or rove freely CJK
+65C0: Ideograph place name CJK
+65C1: Ideograph side; by side, close by, near CJK
+65C2: Ideograph flag CJK
+65C3: Ideograph silk banner with bent pole CJK
+65C4: Ideograph a kind of ancient flag; old CJK
+65C5: Ideograph trip, journey; travel; traveler CJK
+65C6: Ideograph flag ornament; flags, banners CJK
+65C7:
+65C8: Ideograph fringes of pearls on crowns; a pennant CJK
+65C9: Ideograph to state to, to announce CJK
+65CA:
+65CB: Ideograph revolve, move in orbit; return CJK
+65CC: Ideograph banner or flag adorned with feathers; to signal CJK
+65CD:
+65CE: Ideograph fluttering of flag; romantic CJK
+65CF: Ideograph a family clan, ethnic group, tribe CJK
+65D0: Ideograph an embroidered pennant CJK
+65D1:
+65D2: Ideograph fringes of pearls on crowns CJK
+65D3: Ideograph serrated edges on a Chinese flag CJK
+65D4:
+65D5: Ideograph place name CJK
+65D6: Ideograph romantic; tender; charming CJK
+65D7: Ideograph banner, flag, streamer CJK
+65D8: Ideograph a pennon; a flag. to fasten CJK
+65D9: Ideograph a pennant, a banner CJK
+65DA:
+65DB: Ideograph a pennant, a banner CJK
+65DC: Ideograph flag CJK
+65DD: Ideograph banner, flag, streamer; insignia CJK
+65DE:
+65DF: Ideograph an military flag or standard CJK
+65E0: Ideograph negative, no, not; KangXi radical 71 CJK
+65E1: Ideograph choke on something eaten CJK
+65E2: Ideograph already; de facto; since; then CJK
+65E3: Ideograph already; de facto; since; then CJK
+65E4:
+65E5: Ideograph sun; day; daytime CJK
+65E6: Ideograph dawn; morning; day CJK
+65E7: Ideograph old, ancient; former, past CJK
+65E8: Ideograph purpose, aim; excellent CJK
+65E9: Ideograph early; soon; morning CJK
+65EA: Ideograph united in; agreement; mutual aid CJK
+65EB:
+65EC: Ideograph ten-day period; period of time CJK
+65ED: Ideograph rising sun; brilliance; radiant CJK
+65EE: Ideograph nook, corner CJK
+65EF: Ideograph nook, corner CJK
+65F0: Ideograph sunset, dusk; evening CJK
+65F1: Ideograph drought; dry; dry land CJK
+65F2:
+65F3:
+65F4: Ideograph dawn CJK
+65F5:
+65F6: Ideograph time, season; era, age, period CJK
+65F7: Ideograph extensive, wide, broad; empty CJK
+65F8: Ideograph rising sun; sunshine CJK
+65F9: Ideograph time, season; era, age, period CJK
+65FA: Ideograph prosper; prosperous; increase CJK
+65FB: Ideograph heaven CJK
+65FC: Ideograph gentle and affable CJK
+65FD: Ideograph morning sun, sunrise CJK
+65FE:
+65FF:

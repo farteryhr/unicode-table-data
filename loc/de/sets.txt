@@ -1,16 +1,20 @@
-popular: Meistens sucht man
-new-year-and-christmas-symbols: Weinachten und Neujahr Symbolen
-chess-symbols: Schach Symbolen
-hearts-symbols: Herz Symbolen
+popular: Meistgesuchte Zeichen
+new-year-and-christmas-symbols: Weinachts- und Neujahrs-Symbole
+olympic-symbols: Olympische Symbole
+chess-symbols: Schach-Symbole
+hearts-symbols: Herz-Symbole
 signs-of-the-zodiac: Tierkreiszeichen
 suits-of-the-cards: Spielkartenfarben
-currency-symbols: Wahrungssymbolen
-office-accessory-symbols: Waren fuer den Buerobedarf
+currency-symbols: Währungssymbolen
+office-accessory-symbols: Büro-Symbole
 arrows-symbols: Pfeile
-special-symbols: Extra Symbolen
+special-symbols: Sonderzeichen
 quotation-marks: Anführungszeichen
-sea-symbols: Symbols zum Seethema
-music-symbols: Symbols zum Thema der Musik
-flowers-symbols: Bluemen Symbolen
+sea-symbols: Meer
+music-symbols: Musik
+flowers-symbols: Blumen
 greek-symbols: Griechische Symbole
 social-symbols: Symbole für Facebook
+esperanto: Esperanto
+animals: Tiere
+valentine: Valentinstag

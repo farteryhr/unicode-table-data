@@ -5,6 +5,7 @@
 
 popular: อักขระที่นิยมมากที่สุด
 new-year-and-christmas-symbols: คริสต์มาสและสัญลักษณ์ของนิวยอร์ก
+olympic-symbols: สัญลักษณ์โอลิมปิก
 chess-symbols: สัญลักษณ์หมากรุก
 hearts-symbols: สัญลักษณ์หัวใจ
 signs-of-the-zodiac: ป้ายของจักรราศี
@@ -19,3 +20,6 @@ music-symbols: สัญลักษณ์เพลง
 flowers-symbols: สัญลักษณ์ดอกไม้
 greek-symbols: สัญลักษณ์ภาษากรีก
 social-symbols: สัญลักษณ์สำหรับ Facebook
+esperanto: ภาษาโลก
+animals: สัตว์
+valentine: วันวาเลนไทน์

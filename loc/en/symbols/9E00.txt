@@ -1,256 +1,256 @@
-9E00 : Cjk unified ideograph
-9E01 : Cjk unified ideograph
-9E02 : Cjk unified ideograph
-9E03 : Cjk unified ideograph
-9E04 : Cjk unified ideograph
-9E05 : Cjk unified ideograph
-9E06 : Cjk unified ideograph
-9E07 : Cjk unified ideograph
-9E08 : Cjk unified ideograph
-9E09 : Cjk unified ideograph
-9E0A : Cjk unified ideograph
-9E0B : Cjk unified ideograph
-9E0C : Cjk unified ideograph
-9E0D : Cjk unified ideograph
-9E0E : Cjk unified ideograph
-9E0F : Cjk unified ideograph
-9E10 : Cjk unified ideograph
-9E11 : Cjk unified ideograph
-9E12 : Cjk unified ideograph
-9E13 : Cjk unified ideograph
-9E14 : Cjk unified ideograph
-9E15 : Cjk unified ideograph
-9E16 : Cjk unified ideograph
-9E17 : Cjk unified ideograph
-9E18 : Cjk unified ideograph
-9E19 : Cjk unified ideograph
-9E1A : Cjk unified ideograph
-9E1B : Cjk unified ideograph
-9E1C : Cjk unified ideograph
-9E1D : Cjk unified ideograph
-9E1E : Cjk unified ideograph
-9E1F : Cjk unified ideograph
-9E20 : Cjk unified ideograph
-9E21 : Cjk unified ideograph
-9E22 : Cjk unified ideograph
-9E23 : Cjk unified ideograph
-9E24 : Cjk unified ideograph
-9E25 : Cjk unified ideograph
-9E26 : Cjk unified ideograph
-9E27 : Cjk unified ideograph
-9E28 : Cjk unified ideograph
-9E29 : Cjk unified ideograph
-9E2A : Cjk unified ideograph
-9E2B : Cjk unified ideograph
-9E2C : Cjk unified ideograph
-9E2D : Cjk unified ideograph
-9E2E : Cjk unified ideograph
-9E2F : Cjk unified ideograph
-9E30 : Cjk unified ideograph
-9E31 : Cjk unified ideograph
-9E32 : Cjk unified ideograph
-9E33 : Cjk unified ideograph
-9E34 : Cjk unified ideograph
-9E35 : Cjk unified ideograph
-9E36 : Cjk unified ideograph
-9E37 : Cjk unified ideograph
-9E38 : Cjk unified ideograph
-9E39 : Cjk unified ideograph
-9E3A : Cjk unified ideograph
-9E3B : Cjk unified ideograph
-9E3C : Cjk unified ideograph
-9E3D : Cjk unified ideograph
-9E3E : Cjk unified ideograph
-9E3F : Cjk unified ideograph
-9E40 : Cjk unified ideograph
-9E41 : Cjk unified ideograph
-9E42 : Cjk unified ideograph
-9E43 : Cjk unified ideograph
-9E44 : Cjk unified ideograph
-9E45 : Cjk unified ideograph
-9E46 : Cjk unified ideograph
-9E47 : Cjk unified ideograph
-9E48 : Cjk unified ideograph
-9E49 : Cjk unified ideograph
-9E4A : Cjk unified ideograph
-9E4B : Cjk unified ideograph
-9E4C : Cjk unified ideograph
-9E4D : Cjk unified ideograph
-9E4E : Cjk unified ideograph
-9E4F : Cjk unified ideograph
-9E50 : Cjk unified ideograph
-9E51 : Cjk unified ideograph
-9E52 : Cjk unified ideograph
-9E53 : Cjk unified ideograph
-9E54 : Cjk unified ideograph
-9E55 : Cjk unified ideograph
-9E56 : Cjk unified ideograph
-9E57 : Cjk unified ideograph
-9E58 : Cjk unified ideograph
-9E59 : Cjk unified ideograph
-9E5A : Cjk unified ideograph
-9E5B : Cjk unified ideograph
-9E5C : Cjk unified ideograph
-9E5D : Cjk unified ideograph
-9E5E : Cjk unified ideograph
-9E5F : Cjk unified ideograph
-9E60 : Cjk unified ideograph
-9E61 : Cjk unified ideograph
-9E62 : Cjk unified ideograph
-9E63 : Cjk unified ideograph
-9E64 : Cjk unified ideograph
-9E65 : Cjk unified ideograph
-9E66 : Cjk unified ideograph
-9E67 : Cjk unified ideograph
-9E68 : Cjk unified ideograph
-9E69 : Cjk unified ideograph
-9E6A : Cjk unified ideograph
-9E6B : Cjk unified ideograph
-9E6C : Cjk unified ideograph
-9E6D : Cjk unified ideograph
-9E6E : Cjk unified ideograph
-9E6F : Cjk unified ideograph
-9E70 : Cjk unified ideograph
-9E71 : Cjk unified ideograph
-9E72 : Cjk unified ideograph
-9E73 : Cjk unified ideograph
-9E74 : Cjk unified ideograph
-9E75 : Cjk unified ideograph
-9E76 : Cjk unified ideograph
-9E77 : Cjk unified ideograph
-9E78 : Cjk unified ideograph
-9E79 : Cjk unified ideograph
-9E7A : Cjk unified ideograph
-9E7B : Cjk unified ideograph
-9E7C : Cjk unified ideograph
-9E7D : Cjk unified ideograph
-9E7E : Cjk unified ideograph
-9E7F : Cjk unified ideograph
-9E80 : Cjk unified ideograph
-9E81 : Cjk unified ideograph
-9E82 : Cjk unified ideograph
-9E83 : Cjk unified ideograph
-9E84 : Cjk unified ideograph
-9E85 : Cjk unified ideograph
-9E86 : Cjk unified ideograph
-9E87 : Cjk unified ideograph
-9E88 : Cjk unified ideograph
-9E89 : Cjk unified ideograph
-9E8A : Cjk unified ideograph
-9E8B : Cjk unified ideograph
-9E8C : Cjk unified ideograph
-9E8D : Cjk unified ideograph
-9E8E : Cjk unified ideograph
-9E8F : Cjk unified ideograph
-9E90 : Cjk unified ideograph
-9E91 : Cjk unified ideograph
-9E92 : Cjk unified ideograph
-9E93 : Cjk unified ideograph
-9E94 : Cjk unified ideograph
-9E95 : Cjk unified ideograph
-9E96 : Cjk unified ideograph
-9E97 : Cjk unified ideograph
-9E98 : Cjk unified ideograph
-9E99 : Cjk unified ideograph
-9E9A : Cjk unified ideograph
-9E9B : Cjk unified ideograph
-9E9C : Cjk unified ideograph
-9E9D : Cjk unified ideograph
-9E9E : Cjk unified ideograph
-9E9F : Cjk unified ideograph
-9EA0 : Cjk unified ideograph
-9EA1 : Cjk unified ideograph
-9EA2 : Cjk unified ideograph
-9EA3 : Cjk unified ideograph
-9EA4 : Cjk unified ideograph
-9EA5 : Cjk unified ideograph
-9EA6 : Cjk unified ideograph
-9EA7 : Cjk unified ideograph
-9EA8 : Cjk unified ideograph
-9EA9 : Cjk unified ideograph
-9EAA : Cjk unified ideograph
-9EAB : Cjk unified ideograph
-9EAC : Cjk unified ideograph
-9EAD : Cjk unified ideograph
-9EAE : Cjk unified ideograph
-9EAF : Cjk unified ideograph
-9EB0 : Cjk unified ideograph
-9EB1 : Cjk unified ideograph
-9EB2 : Cjk unified ideograph
-9EB3 : Cjk unified ideograph
-9EB4 : Cjk unified ideograph
-9EB5 : Cjk unified ideograph
-9EB6 : Cjk unified ideograph
-9EB7 : Cjk unified ideograph
-9EB8 : Cjk unified ideograph
-9EB9 : Cjk unified ideograph
-9EBA : Cjk unified ideograph
-9EBB : Cjk unified ideograph
-9EBC : Cjk unified ideograph
-9EBD : Cjk unified ideograph
-9EBE : Cjk unified ideograph
-9EBF : Cjk unified ideograph
-9EC0 : Cjk unified ideograph
-9EC1 : Cjk unified ideograph
-9EC2 : Cjk unified ideograph
-9EC3 : Cjk unified ideograph
-9EC4 : Cjk unified ideograph
-9EC5 : Cjk unified ideograph
-9EC6 : Cjk unified ideograph
-9EC7 : Cjk unified ideograph
-9EC8 : Cjk unified ideograph
-9EC9 : Cjk unified ideograph
-9ECA : Cjk unified ideograph
-9ECB : Cjk unified ideograph
-9ECC : Cjk unified ideograph
-9ECD : Cjk unified ideograph
-9ECE : Cjk unified ideograph
-9ECF : Cjk unified ideograph
-9ED0 : Cjk unified ideograph
-9ED1 : Cjk unified ideograph
-9ED2 : Cjk unified ideograph
-9ED3 : Cjk unified ideograph
-9ED4 : Cjk unified ideograph
-9ED5 : Cjk unified ideograph
-9ED6 : Cjk unified ideograph
-9ED7 : Cjk unified ideograph
-9ED8 : Cjk unified ideograph
-9ED9 : Cjk unified ideograph
-9EDA : Cjk unified ideograph
-9EDB : Cjk unified ideograph
-9EDC : Cjk unified ideograph
-9EDD : Cjk unified ideograph
-9EDE : Cjk unified ideograph
-9EDF : Cjk unified ideograph
-9EE0 : Cjk unified ideograph
-9EE1 : Cjk unified ideograph
-9EE2 : Cjk unified ideograph
-9EE3 : Cjk unified ideograph
-9EE4 : Cjk unified ideograph
-9EE5 : Cjk unified ideograph
-9EE6 : Cjk unified ideograph
-9EE7 : Cjk unified ideograph
-9EE8 : Cjk unified ideograph
-9EE9 : Cjk unified ideograph
-9EEA : Cjk unified ideograph
-9EEB : Cjk unified ideograph
-9EEC : Cjk unified ideograph
-9EED : Cjk unified ideograph
-9EEE : Cjk unified ideograph
-9EEF : Cjk unified ideograph
-9EF0 : Cjk unified ideograph
-9EF1 : Cjk unified ideograph
-9EF2 : Cjk unified ideograph
-9EF3 : Cjk unified ideograph
-9EF4 : Cjk unified ideograph
-9EF5 : Cjk unified ideograph
-9EF6 : Cjk unified ideograph
-9EF7 : Cjk unified ideograph
-9EF8 : Cjk unified ideograph
-9EF9 : Cjk unified ideograph
-9EFA : Cjk unified ideograph
-9EFB : Cjk unified ideograph
-9EFC : Cjk unified ideograph
-9EFD : Cjk unified ideograph
-9EFE : Cjk unified ideograph
-9EFF : Cjk unified ideograph
+9E00:
+9E01:
+9E02: Ideograph Mandarin duck, Aix galericulata CJK
+9E03:
+9E04:
+9E05:
+9E06:
+9E07: Ideograph hawk; Butastur indicus CJK
+9E08:
+9E09:
+9E0A: Ideograph Podiceps ruficolus (a kind of duck) CJK
+9E0B: Ideograph (archaic) a wren CJK
+9E0C:
+9E0D:
+9E0E: Ideograph the mango-bird; the Chinese oriole CJK
+9E0F:
+9E10:
+9E11: Ideograph a large, duck-like waterfowl with red eyes; a young phoenix CJK
+9E12: Ideograph eastern jackdaw; Corvus monedula CJK
+9E13:
+9E14:
+9E15: Ideograph cormorant CJK
+9E16:
+9E17:
+9E18: Ideograph eagle CJK
+9E19:
+9E1A: Ideograph parrot CJK
+9E1B: Ideograph crane, Grus japonensis; stork; Ciconia species (various) CJK
+9E1C: Ideograph a species of mynah CJK
+9E1D: Ideograph Chinese oriole; Oriolus oriolus CJK
+9E1E: Ideograph fabulous bird CJK
+9E1F: Ideograph bird; KangXi radical 196 CJK
+9E20: Ideograph pigeon; collect, assemble CJK
+9E21: Ideograph chicken CJK
+9E22: Ideograph kite; Milvus species (various) CJK
+9E23: Ideograph cry of bird or animal; make sound CJK
+9E24: Ideograph turtledove, cuckoo CJK
+9E25: Ideograph seagull, tern; Larus species (various) CJK
+9E26: Ideograph crow; Corvus species (various) CJK
+9E27: Ideograph oriole CJK
+9E28: Ideograph bustard; procuress; Otis species (various) CJK
+9E29: Ideograph a bird resembling the secretary falcon CJK
+9E2A: Ideograph species of Taiwan pigeon CJK
+9E2B: Ideograph thrush; Turdus species (various) CJK
+9E2C: Ideograph cormorant CJK
+9E2D: Ideograph duck; Anas species (various) CJK
+9E2E: Ideograph owl CJK
+9E2F: Ideograph female mandarin duck (Aix galericulata) CJK
+9E30: Ideograph species of lark; wagtail; Motacilla species (various) CJK
+9E31: Ideograph kite, horned owl; wine cups CJK
+9E32: Ideograph mynah; Erithacus species (various) CJK
+9E33: Ideograph male mandarin duck (Aix galericulata) CJK
+9E34: Ideograph oriental bullfinch, weaver bird; Pyrrhula species (various) CJK
+9E35: Ideograph ostrich CJK
+9E36: Ideograph the eastern egret CJK
+9E37: Ideograph hawk, vulture CJK
+9E38: Ideograph swallow CJK
+9E39: Ideograph the crow CJK
+9E3A: Ideograph horned owl, scops chinensis CJK
+9E3B:
+9E3C:
+9E3D: Ideograph pigeon, dove; Columba species (various) CJK
+9E3E: Ideograph fabulous bird CJK
+9E3F: Ideograph species of wild swan; vast CJK
+9E40:
+9E41: Ideograph species of pigeon CJK
+9E42: Ideograph Chinese oriole; Oriolus oriolus CJK
+9E43: Ideograph cuckoo CJK
+9E44: Ideograph target CJK
+9E45: Ideograph goose CJK
+9E46: Ideograph myna; manah; Acridotheres tristis CJK
+9E47: Ideograph silver pheasant, Lophura nycthemera; Lophura species (various) CJK
+9E48: Ideograph pelican CJK
+9E49: Ideograph species of parrot CJK
+9E4A: Ideograph magpie; Pica species (various) CJK
+9E4B: Ideograph emu CJK
+9E4C: Ideograph quail; Coturnix coturnix CJK
+9E4D: Ideograph a bird resembling the crane CJK
+9E4E: Ideograph bird CJK
+9E4F: Ideograph fabulous bird of enormous size CJK
+9E50: Ideograph to peck, as birds CJK
+9E51: Ideograph quail; Turnix species (various) CJK
+9E52: Ideograph oriole CJK
+9E53: Ideograph co-worker CJK
+9E54: Ideograph turquoise kingfisher CJK
+9E55: Ideograph pelican CJK
+9E56: Ideograph crossbill, species of nightingale CJK
+9E57: Ideograph osprey, fishhawk CJK
+9E58: Ideograph a kind of pigeon; treron permagna CJK
+9E59: Ideograph large waterfowl with naked head; Garrulus glandarius CJK
+9E5A: Ideograph cormorant CJK
+9E5B:
+9E5C: Ideograph duck CJK
+9E5D: Ideograph pheasant CJK
+9E5E: Ideograph sparrow hawk; kite shaped like CJK
+9E5F:
+9E60: Ideograph the owl CJK
+9E61: Ideograph wagtail CJK
+9E62: Ideograph fishhawk bow or prow CJK
+9E63: Ideograph fabulous mythical bird CJK
+9E64: Ideograph crane; Grus species (various) CJK
+9E65: Ideograph seagull CJK
+9E66: Ideograph parrot CJK
+9E67: Ideograph partridge CJK
+9E68: Ideograph Anthus species (various) CJK
+9E69: Ideograph wren CJK
+9E6A: Ideograph wren CJK
+9E6B: Ideograph condor, vulture CJK
+9E6C: Ideograph snipe, kingfisher CJK
+9E6D: Ideograph heron, egret; Ardea species (various) CJK
+9E6E: Ideograph spoonbill; ibis; family Threskiornidae CJK
+9E6F: Ideograph hawk; Butastur indicus CJK
+9E70: Ideograph falcon; Accipiter species (various) CJK
+9E71:
+9E72:
+9E73: Ideograph crane, grus japonensis; stork; Ciconia species (various) CJK
+9E74: Ideograph eagle CJK
+9E75: Ideograph saline soil; natural salt, rock CJK
+9E76: Ideograph salty and bitter; pitiful CJK
+9E77:
+9E78: Ideograph alkaline, alkali, lye, salt CJK
+9E79: Ideograph salty, briny; salted; pickled CJK
+9E7A: Ideograph salty; salt CJK
+9E7B: Ideograph impure carbonate of sodium of natron CJK
+9E7C: Ideograph alkaline, alkali, lye, salt CJK
+9E7D: Ideograph (same as of U+5869 塩) salt CJK
+9E7E: Ideograph salty; salt CJK
+9E7F: Ideograph deer; surname; KangXi radical 198 CJK
+9E80: Ideograph female deer; roe, doe CJK
+9E81: Ideograph rough, thick, course; rude CJK
+9E82: Ideograph species of deer CJK
+9E83: Ideograph till, plow CJK
+9E84: Ideograph coarse, rough, rude CJK
+9E85: Ideograph a small spotted deer found in north China CJK
+9E86:
+9E87: Ideograph general name for the hornless deer; to collect to band together CJK
+9E88: Ideograph species of deer CJK
+9E89:
+9E8A:
+9E8B: Ideograph elk; surname CJK
+9E8C: Ideograph stag; herd CJK
+9E8D:
+9E8E:
+9E8F:
+9E90: Ideograph female of Chinese unicorn CJK
+9E91: Ideograph fawn, young deer CJK
+9E92: Ideograph legendary auspicious animal CJK
+9E93: Ideograph foot of hill; foothill CJK
+9E94:
+9E95: Ideograph muntjac deer, hornless river deer CJK
+9E96:
+9E97: Ideograph beautiful, magnificent, elegant CJK
+9E98: Ideograph scent CJK
+9E99:
+9E9A:
+9E9B: Ideograph fawn CJK
+9E9C:
+9E9D: Ideograph musk deer CJK
+9E9E: Ideograph roebuck, Moschus chinloo CJK
+9E9F: Ideograph female of Chinese unicorn CJK
+9EA0: Ideograph a large deer CJK
+9EA1:
+9EA2:
+9EA3:
+9EA4: Ideograph rough, coarse, big, rough CJK
+9EA5: Ideograph wheat, barley, oats; KangXi radical number 199 CJK
+9EA6: Ideograph wheat, barley, oats; simplified form of KangXi radical number 199 CJK
+9EA7:
+9EA8:
+9EA9: Ideograph bran CJK
+9EAA: Ideograph flour, noodles, dough CJK
+9EAB: Ideograph flour; vermicelli; dough CJK
+9EAC:
+9EAD: Ideograph a sticky rice ball CJK
+9EAE: Ideograph porridge CJK
+9EAF: Ideograph yeast, leaven CJK
+9EB0: Ideograph barley CJK
+9EB1:
+9EB2:
+9EB3:
+9EB4: Ideograph yeast, leaven; surname CJK
+9EB5: Ideograph flour, dough, noodles CJK
+9EB6:
+9EB7:
+9EB8: Ideograph bran CJK
+9EB9: Ideograph yeast, leaven; surname CJK
+9EBA: Ideograph flour, dough, noodles CJK
+9EBB: Ideograph hemp, jute, flax; sesame CJK
+9EBC: Ideograph interrogative final particle; insignificant, small, tiny CJK
+9EBD: Ideograph interrogative final particle; insignificant, small, tiny CJK
+9EBE: Ideograph a pennant, flag, banner; to signal to CJK
+9EBF: Ideograph I, personal name marker CJK
+9EC0:
+9EC1:
+9EC2:
+9EC3: Ideograph yellow; surname CJK
+9EC4: Ideograph yellow; surname CJK
+9EC5:
+9EC6:
+9EC7:
+9EC8: Ideograph yellow; augment, increase CJK
+9EC9: Ideograph school CJK
+9ECA:
+9ECB:
+9ECC: Ideograph school CJK
+9ECD: Ideograph glutinous millet; KangXi radical number 202 CJK
+9ECE: Ideograph surname; numerous, many; black CJK
+9ECF: Ideograph stick to; glutinous, sticky; glue CJK
+9ED0: Ideograph to stick; sticky CJK
+9ED1: Ideograph black; dark; evil, sinister CJK
+9ED2: Ideograph black; dark; evil CJK
+9ED3: Ideograph black CJK
+9ED4: Ideograph black; Guizhou CJK
+9ED5: Ideograph red CJK
+9ED6:
+9ED7:
+9ED8: Ideograph silent; quiet, still; dark CJK
+9ED9: Ideograph silent; quiet, still; dark CJK
+9EDA:
+9EDB: Ideograph blacken eyebrows; black CJK
+9EDC: Ideograph dismiss; demote, downgrade CJK
+9EDD: Ideograph black CJK
+9EDE: Ideograph dot, speck, spot; point, degree CJK
+9EDF: Ideograph black and shining; ebony CJK
+9EE0: Ideograph sly, cunning, shrewd; artful CJK
+9EE1: Ideograph mole, scar, blemish CJK
+9EE2: Ideograph black CJK
+9EE3:
+9EE4: Ideograph blue-black CJK
+9EE5: Ideograph to tattoo; to brand the face of criminals CJK
+9EE6:
+9EE7: Ideograph a dark, sallow colour CJK
+9EE8: Ideograph political party, gang, faction CJK
+9EE9: Ideograph to dishonor, defile, corrupt; soiled CJK
+9EEA: Ideograph grey black CJK
+9EEB:
+9EEC: Ideograph blackhead CJK
+9EED:
+9EEE: Ideograph black, dark; unclear; private CJK
+9EEF: Ideograph dark, black; sullen, dreary CJK
+9EF0: Ideograph young girl's hair style CJK
+9EF1:
+9EF2: Ideograph grey black CJK
+9EF3:
+9EF4: Ideograph mold, mildew; bacteria, fungi CJK
+9EF5:
+9EF6: Ideograph mole, scar, blemish CJK
+9EF7: Ideograph to dishonor, defile, corrupt; soiled CJK
+9EF8:
+9EF9: Ideograph embroidery, needlework; radical CJK
+9EFA:
+9EFB: Ideograph special pattern of embroidery CJK
+9EFC: Ideograph embroidered official or sacrificial robe CJK
+9EFD: Ideograph to strive; to endeavor CJK
+9EFE: Ideograph to strive; to endeavor CJK
+9EFF: Ideograph large turtle, sea turtle CJK

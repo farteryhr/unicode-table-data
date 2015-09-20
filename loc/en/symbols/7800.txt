@@ -1,256 +1,256 @@
-7800 : Cjk unified ideograph
-7801 : Cjk unified ideograph
-7802 : Cjk unified ideograph
-7803 : Cjk unified ideograph
-7804 : Cjk unified ideograph
-7805 : Cjk unified ideograph
-7806 : Cjk unified ideograph
-7807 : Cjk unified ideograph
-7808 : Cjk unified ideograph
-7809 : Cjk unified ideograph
-780A : Cjk unified ideograph
-780B : Cjk unified ideograph
-780C : Cjk unified ideograph
-780D : Cjk unified ideograph
-780E : Cjk unified ideograph
-780F : Cjk unified ideograph
-7810 : Cjk unified ideograph
-7811 : Cjk unified ideograph
-7812 : Cjk unified ideograph
-7813 : Cjk unified ideograph
-7814 : Cjk unified ideograph
-7815 : Cjk unified ideograph
-7816 : Cjk unified ideograph
-7817 : Cjk unified ideograph
-7818 : Cjk unified ideograph
-7819 : Cjk unified ideograph
-781A : Cjk unified ideograph
-781B : Cjk unified ideograph
-781C : Cjk unified ideograph
-781D : Cjk unified ideograph
-781E : Cjk unified ideograph
-781F : Cjk unified ideograph
-7820 : Cjk unified ideograph
-7821 : Cjk unified ideograph
-7822 : Cjk unified ideograph
-7823 : Cjk unified ideograph
-7824 : Cjk unified ideograph
-7825 : Cjk unified ideograph
-7826 : Cjk unified ideograph
-7827 : Cjk unified ideograph
-7828 : Cjk unified ideograph
-7829 : Cjk unified ideograph
-782A : Cjk unified ideograph
-782B : Cjk unified ideograph
-782C : Cjk unified ideograph
-782D : Cjk unified ideograph
-782E : Cjk unified ideograph
-782F : Cjk unified ideograph
-7830 : Cjk unified ideograph
-7831 : Cjk unified ideograph
-7832 : Cjk unified ideograph
-7833 : Cjk unified ideograph
-7834 : Cjk unified ideograph
-7835 : Cjk unified ideograph
-7836 : Cjk unified ideograph
-7837 : Cjk unified ideograph
-7838 : Cjk unified ideograph
-7839 : Cjk unified ideograph
-783A : Cjk unified ideograph
-783B : Cjk unified ideograph
-783C : Cjk unified ideograph
-783D : Cjk unified ideograph
-783E : Cjk unified ideograph
-783F : Cjk unified ideograph
-7840 : Cjk unified ideograph
-7841 : Cjk unified ideograph
-7842 : Cjk unified ideograph
-7843 : Cjk unified ideograph
-7844 : Cjk unified ideograph
-7845 : Cjk unified ideograph
-7846 : Cjk unified ideograph
-7847 : Cjk unified ideograph
-7848 : Cjk unified ideograph
-7849 : Cjk unified ideograph
-784A : Cjk unified ideograph
-784B : Cjk unified ideograph
-784C : Cjk unified ideograph
-784D : Cjk unified ideograph
-784E : Cjk unified ideograph
-784F : Cjk unified ideograph
-7850 : Cjk unified ideograph
-7851 : Cjk unified ideograph
-7852 : Cjk unified ideograph
-7853 : Cjk unified ideograph
-7854 : Cjk unified ideograph
-7855 : Cjk unified ideograph
-7856 : Cjk unified ideograph
-7857 : Cjk unified ideograph
-7858 : Cjk unified ideograph
-7859 : Cjk unified ideograph
-785A : Cjk unified ideograph
-785B : Cjk unified ideograph
-785C : Cjk unified ideograph
-785D : Cjk unified ideograph
-785E : Cjk unified ideograph
-785F : Cjk unified ideograph
-7860 : Cjk unified ideograph
-7861 : Cjk unified ideograph
-7862 : Cjk unified ideograph
-7863 : Cjk unified ideograph
-7864 : Cjk unified ideograph
-7865 : Cjk unified ideograph
-7866 : Cjk unified ideograph
-7867 : Cjk unified ideograph
-7868 : Cjk unified ideograph
-7869 : Cjk unified ideograph
-786A : Cjk unified ideograph
-786B : Cjk unified ideograph
-786C : Cjk unified ideograph
-786D : Cjk unified ideograph
-786E : Cjk unified ideograph
-786F : Cjk unified ideograph
-7870 : Cjk unified ideograph
-7871 : Cjk unified ideograph
-7872 : Cjk unified ideograph
-7873 : Cjk unified ideograph
-7874 : Cjk unified ideograph
-7875 : Cjk unified ideograph
-7876 : Cjk unified ideograph
-7877 : Cjk unified ideograph
-7878 : Cjk unified ideograph
-7879 : Cjk unified ideograph
-787A : Cjk unified ideograph
-787B : Cjk unified ideograph
-787C : Cjk unified ideograph
-787D : Cjk unified ideograph
-787E : Cjk unified ideograph
-787F : Cjk unified ideograph
-7880 : Cjk unified ideograph
-7881 : Cjk unified ideograph
-7882 : Cjk unified ideograph
-7883 : Cjk unified ideograph
-7884 : Cjk unified ideograph
-7885 : Cjk unified ideograph
-7886 : Cjk unified ideograph
-7887 : Cjk unified ideograph
-7888 : Cjk unified ideograph
-7889 : Cjk unified ideograph
-788A : Cjk unified ideograph
-788B : Cjk unified ideograph
-788C : Cjk unified ideograph
-788D : Cjk unified ideograph
-788E : Cjk unified ideograph
-788F : Cjk unified ideograph
-7890 : Cjk unified ideograph
-7891 : Cjk unified ideograph
-7892 : Cjk unified ideograph
-7893 : Cjk unified ideograph
-7894 : Cjk unified ideograph
-7895 : Cjk unified ideograph
-7896 : Cjk unified ideograph
-7897 : Cjk unified ideograph
-7898 : Cjk unified ideograph
-7899 : Cjk unified ideograph
-789A : Cjk unified ideograph
-789B : Cjk unified ideograph
-789C : Cjk unified ideograph
-789D : Cjk unified ideograph
-789E : Cjk unified ideograph
-789F : Cjk unified ideograph
-78A0 : Cjk unified ideograph
-78A1 : Cjk unified ideograph
-78A2 : Cjk unified ideograph
-78A3 : Cjk unified ideograph
-78A4 : Cjk unified ideograph
-78A5 : Cjk unified ideograph
-78A6 : Cjk unified ideograph
-78A7 : Cjk unified ideograph
-78A8 : Cjk unified ideograph
-78A9 : Cjk unified ideograph
-78AA : Cjk unified ideograph
-78AB : Cjk unified ideograph
-78AC : Cjk unified ideograph
-78AD : Cjk unified ideograph
-78AE : Cjk unified ideograph
-78AF : Cjk unified ideograph
-78B0 : Cjk unified ideograph
-78B1 : Cjk unified ideograph
-78B2 : Cjk unified ideograph
-78B3 : Cjk unified ideograph
-78B4 : Cjk unified ideograph
-78B5 : Cjk unified ideograph
-78B6 : Cjk unified ideograph
-78B7 : Cjk unified ideograph
-78B8 : Cjk unified ideograph
-78B9 : Cjk unified ideograph
-78BA : Cjk unified ideograph
-78BB : Cjk unified ideograph
-78BC : Cjk unified ideograph
-78BD : Cjk unified ideograph
-78BE : Cjk unified ideograph
-78BF : Cjk unified ideograph
-78C0 : Cjk unified ideograph
-78C1 : Cjk unified ideograph
-78C2 : Cjk unified ideograph
-78C3 : Cjk unified ideograph
-78C4 : Cjk unified ideograph
-78C5 : Cjk unified ideograph
-78C6 : Cjk unified ideograph
-78C7 : Cjk unified ideograph
-78C8 : Cjk unified ideograph
-78C9 : Cjk unified ideograph
-78CA : Cjk unified ideograph
-78CB : Cjk unified ideograph
-78CC : Cjk unified ideograph
-78CD : Cjk unified ideograph
-78CE : Cjk unified ideograph
-78CF : Cjk unified ideograph
-78D0 : Cjk unified ideograph
-78D1 : Cjk unified ideograph
-78D2 : Cjk unified ideograph
-78D3 : Cjk unified ideograph
-78D4 : Cjk unified ideograph
-78D5 : Cjk unified ideograph
-78D6 : Cjk unified ideograph
-78D7 : Cjk unified ideograph
-78D8 : Cjk unified ideograph
-78D9 : Cjk unified ideograph
-78DA : Cjk unified ideograph
-78DB : Cjk unified ideograph
-78DC : Cjk unified ideograph
-78DD : Cjk unified ideograph
-78DE : Cjk unified ideograph
-78DF : Cjk unified ideograph
-78E0 : Cjk unified ideograph
-78E1 : Cjk unified ideograph
-78E2 : Cjk unified ideograph
-78E3 : Cjk unified ideograph
-78E4 : Cjk unified ideograph
-78E5 : Cjk unified ideograph
-78E6 : Cjk unified ideograph
-78E7 : Cjk unified ideograph
-78E8 : Cjk unified ideograph
-78E9 : Cjk unified ideograph
-78EA : Cjk unified ideograph
-78EB : Cjk unified ideograph
-78EC : Cjk unified ideograph
-78ED : Cjk unified ideograph
-78EE : Cjk unified ideograph
-78EF : Cjk unified ideograph
-78F0 : Cjk unified ideograph
-78F1 : Cjk unified ideograph
-78F2 : Cjk unified ideograph
-78F3 : Cjk unified ideograph
-78F4 : Cjk unified ideograph
-78F5 : Cjk unified ideograph
-78F6 : Cjk unified ideograph
-78F7 : Cjk unified ideograph
-78F8 : Cjk unified ideograph
-78F9 : Cjk unified ideograph
-78FA : Cjk unified ideograph
-78FB : Cjk unified ideograph
-78FC : Cjk unified ideograph
-78FD : Cjk unified ideograph
-78FE : Cjk unified ideograph
-78FF : Cjk unified ideograph
+7800: Ideograph brilliantly colored stone with veined patterns in it CJK
+7801: Ideograph number, numerals; yard; symbol CJK
+7802: Ideograph sand; pebbles, gravel; gritty CJK
+7803:
+7804:
+7805:
+7806: Ideograph 1/2 pr stone CJK
+7807: Ideograph a stone resembling jade, alabaster CJK
+7808:
+7809:
+780A:
+780B:
+780C: Ideograph to build, pile up; stone steps, brick walk CJK
+780D: Ideograph hack, chop, cut, fell CJK
+780E:
+780F:
+7810: Ideograph (Cant.) to nod one's head; to shake, sway CJK
+7811: Ideograph to grind, to calender, to polish; to roll with a stone roller CJK
+7812: Ideograph arsenic CJK
+7813:
+7814: Ideograph grind, rub; study, research CJK
+7815: Ideograph break, smash; broken, busted CJK
+7816: Ideograph tile, brick CJK
+7817: Ideograph giant clam, tridacna gigas CJK
+7818: Ideograph a kind of farm tool CJK
+7819:
+781A: Ideograph inkstone CJK
+781B:
+781C: Ideograph an organic compound CJK
+781D: Ideograph balance weights CJK
+781E: Ideograph to smash rock CJK
+781F: Ideograph stone tablet; monument CJK
+7820: Ideograph rocky, hilly, uneven CJK
+7821:
+7822: Ideograph pile of stones CJK
+7823: Ideograph a stone roller; a heavy stone, a weight, a plummet CJK
+7824:
+7825: Ideograph a whetstone; to polish CJK
+7826: Ideograph stockade, fort, military outpost; brothel CJK
+7827: Ideograph anvil; flat stone; exe CJK
+7828:
+7829:
+782A:
+782B:
+782C: Ideograph big stone CJK
+782D: Ideograph stone probe; pierce; counsel CJK
+782E: Ideograph arrow-tip CJK
+782F: Ideograph to make a loud sound CJK
+7830: Ideograph sound of crashing stones, bang! CJK
+7831:
+7832: Ideograph gun, cannon CJK
+7833: Ideograph rocky CJK
+7834: Ideograph break, ruin, destroy; rout CJK
+7835: Ideograph (Cant.) port (Eng. loan-word), 西矺 a sideboard (Eng. loan-word) CJK
+7836:
+7837: Ideograph arsenic CJK
+7838: Ideograph smash, crush, break; pound, mash CJK
+7839: Ideograph astatine CJK
+783A: Ideograph whetstone; sharpen CJK
+783B: Ideograph grind, sharpen; mill CJK
+783C: Ideograph concrete CJK
+783D:
+783E: Ideograph gravel, pebbles CJK
+783F: Ideograph mine; mineral, ore CJK
+7840: Ideograph foundation stone, plinth CJK
+7841: Ideograph the sound of stones knocking together CJK
+7842:
+7843: Ideograph a red mole; cinnabar CJK
+7844:
+7845: Ideograph silicon CJK
+7846:
+7847: Ideograph a kind of mineral CJK
+7848:
+7849: Ideograph bones of a thin horse CJK
+784A:
+784B:
+784C:
+784D: Ideograph strike CJK
+784E: Ideograph whetstone CJK
+784F: Ideograph grind CJK
+7850: Ideograph variant of U+6D1E 洞, cave; chamber; pit CJK
+7851:
+7852: Ideograph selenium CJK
+7853:
+7854:
+7855: Ideograph great, eminent; large, big CJK
+7856: Ideograph (archaic) town in Hebei province CJK
+7857: Ideograph barren land; sandy soil CJK
+7858:
+7859: Ideograph stone mill; grind; break apart CJK
+785A:
+785B:
+785C: Ideograph the sound of stones knocking together CJK
+785D: Ideograph saltpeter, niter; to tan CJK
+785E:
+785F: Ideograph (Cant.) to slip; to work and polish gems CJK
+7860:
+7861:
+7862:
+7863:
+7864: Ideograph (archaic) town in Hebei province CJK
+7865:
+7866:
+7867: Ideograph a grindstone; (same as U+7850 硐) a cave, cavern CJK
+7868: Ideograph giant clam, Tridacna gigas CJK
+7869:
+786A:
+786B: Ideograph sulfur CJK
+786C: Ideograph hard, firm, strong; obstinate CJK
+786D: Ideograph a crude saltpetre CJK
+786E: Ideograph sure, certain; real, true CJK
+786F: Ideograph inkstone CJK
+7870:
+7871:
+7872:
+7873:
+7874:
+7875:
+7876:
+7877: Ideograph alkaline, alkali, lye, salt CJK
+7878: Ideograph thick-lipped; a grindstone CJK
+7879:
+787A:
+787B:
+787C: Ideograph borax, boron CJK
+787D:
+787E: Ideograph weight CJK
+787F:
+7880:
+7881: Ideograph chess; any game similar to chess CJK
+7882:
+7883:
+7884:
+7885:
+7886: Ideograph arrow-tip CJK
+7887: Ideograph anchor CJK
+7888:
+7889: Ideograph room made of stone; watchtower CJK
+788A:
+788B:
+788C: Ideograph rough, uneven, rocky; mediocre CJK
+788D: Ideograph obstruct, hinder, block, deter CJK
+788E: Ideograph break, smash; broken, busted CJK
+788F: Ideograph coloured CJK
+7890:
+7891: Ideograph stone tablet; gravestone CJK
+7892:
+7893: Ideograph pestle CJK
+7894: Ideograph 1/2 pr stone CJK
+7895: Ideograph a cape, spit, promontory CJK
+7896:
+7897: Ideograph bowl, small dish CJK
+7898: Ideograph iodine CJK
+7899:
+789A: Ideograph suburb CJK
+789B: Ideograph sand and gravel CJK
+789C: Ideograph gritty CJK
+789D:
+789E: Ideograph room made of stone; watchtower CJK
+789F: Ideograph small dish, plate CJK
+78A0:
+78A1: Ideograph stone roller used to level fields CJK
+78A2:
+78A3: Ideograph stone tablet CJK
+78A4:
+78A5:
+78A6:
+78A7: Ideograph jade; green, blue CJK
+78A8:
+78A9: Ideograph great, eminent; large, big CJK
+78AA: Ideograph stone slab used for washing clothes; an anvil CJK
+78AB:
+78AC: Ideograph whetstone CJK
+78AD: Ideograph brilliantly colored stone with veined patterns in it CJK
+78AE:
+78AF: Ideograph agate, cornelian CJK
+78B0: Ideograph collide, bump into CJK
+78B1: Ideograph alkaline, alkali, lye, salt CJK
+78B2:
+78B3: Ideograph carbon CJK
+78B4: Ideograph chipped edge of a container CJK
+78B5:
+78B6: Ideograph a flood-gate, a water-gate CJK
+78B7:
+78B8: Ideograph an organic compound CJK
+78B9:
+78BA: Ideograph sure, certain; real, true CJK
+78BB: Ideograph solid CJK
+78BC: Ideograph number, numerals; yard; symbol CJK
+78BD:
+78BE: Ideograph roller, crush; roll CJK
+78BF:
+78C0:
+78C1: Ideograph magnetic; magnetism; porcelain CJK
+78C2:
+78C3:
+78C4:
+78C5: Ideograph pound; weigh CJK
+78C6:
+78C7: Ideograph arsenic CJK
+78C8:
+78C9: Ideograph the stone base or plinth of a pillar CJK
+78CA: Ideograph pile of rocks or stones; great CJK
+78CB: Ideograph polish, buff; scrutinize CJK
+78CC:
+78CD:
+78CE: Ideograph mountain stream, creek CJK
+78CF:
+78D0: Ideograph large rock, boulder; firm CJK
+78D1: Ideograph stone mill; grind; break apart CJK
+78D2: Ideograph to fall from or into CJK
+78D3: Ideograph to throw (a stone) CJK
+78D4: Ideograph to dismember, tear apart; downward stroke slanting right CJK
+78D5: Ideograph hit; collide, knock into; sound CJK
+78D6:
+78D7:
+78D8:
+78D9: Ideograph roller CJK
+78DA: Ideograph tile, brick CJK
+78DB: Ideograph cliff CJK
+78DC:
+78DD:
+78DE:
+78DF: Ideograph mediocre; busy; occupied; roller CJK
+78E0: Ideograph sal ammoniac; sand; pebble CJK
+78E1: Ideograph cliff, ledge, bank; step CJK
+78E2: Ideograph (Cant.) to grind; a roller CJK
+78E3: Ideograph gritty CJK
+78E4:
+78E5: Ideograph a heap of stones; boulders CJK
+78E6:
+78E7: Ideograph sand and gravel; rocks exposed at low tide; to crush CJK
+78E8: Ideograph grind; polish; rub; wear out; a millstone CJK
+78E9:
+78EA: Ideograph a high mountain; precipitous CJK
+78EB:
+78EC: Ideograph musical instrument; musical stone CJK
+78ED:
+78EE:
+78EF: Ideograph jetty; submerged rock; eddy CJK
+78F0:
+78F1:
+78F2:
+78F3:
+78F4: Ideograph steps on ledge, cliff, or hill CJK
+78F5: Ideograph brook, mountain stream CJK
+78F6:
+78F7: Ideograph phosphorus; water rushing between CJK
+78F8:
+78F9:
+78FA: Ideograph sulphur; brimstone CJK
+78FB: Ideograph a tributary of the Wei river in Shanxi CJK
+78FC:
+78FD: Ideograph barren land; sandy soil CJK
+78FE:
+78FF:

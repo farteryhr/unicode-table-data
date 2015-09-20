@@ -1,256 +1,256 @@
-C900 : Hangul syllable jun
-C901 : Hangul syllable junj
-C902 : Hangul syllable junh
-C903 : Hangul syllable jud
-C904 : Hangul syllable jul
-C905 : Hangul syllable julg
-C906 : Hangul syllable julm
-C907 : Hangul syllable julb
-C908 : Hangul syllable juls
-C909 : Hangul syllable jult
-C90A : Hangul syllable julp
-C90B : Hangul syllable julh
-C90C : Hangul syllable jum
-C90D : Hangul syllable jub
-C90E : Hangul syllable jubs
-C90F : Hangul syllable jus
-C910 : Hangul syllable juss
-C911 : Hangul syllable jung
-C912 : Hangul syllable juj
-C913 : Hangul syllable juc
-C914 : Hangul syllable juk
-C915 : Hangul syllable jut
-C916 : Hangul syllable jup
-C917 : Hangul syllable juh
-C918 : Hangul syllable jweo
-C919 : Hangul syllable jweog
-C91A : Hangul syllable jweogg
-C91B : Hangul syllable jweogs
-C91C : Hangul syllable jweon
-C91D : Hangul syllable jweonj
-C91E : Hangul syllable jweonh
-C91F : Hangul syllable jweod
-C920 : Hangul syllable jweol
-C921 : Hangul syllable jweolg
-C922 : Hangul syllable jweolm
-C923 : Hangul syllable jweolb
-C924 : Hangul syllable jweols
-C925 : Hangul syllable jweolt
-C926 : Hangul syllable jweolp
-C927 : Hangul syllable jweolh
-C928 : Hangul syllable jweom
-C929 : Hangul syllable jweob
-C92A : Hangul syllable jweobs
-C92B : Hangul syllable jweos
-C92C : Hangul syllable jweoss
-C92D : Hangul syllable jweong
-C92E : Hangul syllable jweoj
-C92F : Hangul syllable jweoc
-C930 : Hangul syllable jweok
-C931 : Hangul syllable jweot
-C932 : Hangul syllable jweop
-C933 : Hangul syllable jweoh
-C934 : Hangul syllable jwe
-C935 : Hangul syllable jweg
-C936 : Hangul syllable jwegg
-C937 : Hangul syllable jwegs
-C938 : Hangul syllable jwen
-C939 : Hangul syllable jwenj
-C93A : Hangul syllable jwenh
-C93B : Hangul syllable jwed
-C93C : Hangul syllable jwel
-C93D : Hangul syllable jwelg
-C93E : Hangul syllable jwelm
-C93F : Hangul syllable jwelb
-C940 : Hangul syllable jwels
-C941 : Hangul syllable jwelt
-C942 : Hangul syllable jwelp
-C943 : Hangul syllable jwelh
-C944 : Hangul syllable jwem
-C945 : Hangul syllable jweb
-C946 : Hangul syllable jwebs
-C947 : Hangul syllable jwes
-C948 : Hangul syllable jwess
-C949 : Hangul syllable jweng
-C94A : Hangul syllable jwej
-C94B : Hangul syllable jwec
-C94C : Hangul syllable jwek
-C94D : Hangul syllable jwet
-C94E : Hangul syllable jwep
-C94F : Hangul syllable jweh
-C950 : Hangul syllable jwi
-C951 : Hangul syllable jwig
-C952 : Hangul syllable jwigg
-C953 : Hangul syllable jwigs
-C954 : Hangul syllable jwin
-C955 : Hangul syllable jwinj
-C956 : Hangul syllable jwinh
-C957 : Hangul syllable jwid
-C958 : Hangul syllable jwil
-C959 : Hangul syllable jwilg
-C95A : Hangul syllable jwilm
-C95B : Hangul syllable jwilb
-C95C : Hangul syllable jwils
-C95D : Hangul syllable jwilt
-C95E : Hangul syllable jwilp
-C95F : Hangul syllable jwilh
-C960 : Hangul syllable jwim
-C961 : Hangul syllable jwib
-C962 : Hangul syllable jwibs
-C963 : Hangul syllable jwis
-C964 : Hangul syllable jwiss
-C965 : Hangul syllable jwing
-C966 : Hangul syllable jwij
-C967 : Hangul syllable jwic
-C968 : Hangul syllable jwik
-C969 : Hangul syllable jwit
-C96A : Hangul syllable jwip
-C96B : Hangul syllable jwih
-C96C : Hangul syllable jyu
-C96D : Hangul syllable jyug
-C96E : Hangul syllable jyugg
-C96F : Hangul syllable jyugs
-C970 : Hangul syllable jyun
-C971 : Hangul syllable jyunj
-C972 : Hangul syllable jyunh
-C973 : Hangul syllable jyud
-C974 : Hangul syllable jyul
-C975 : Hangul syllable jyulg
-C976 : Hangul syllable jyulm
-C977 : Hangul syllable jyulb
-C978 : Hangul syllable jyuls
-C979 : Hangul syllable jyult
-C97A : Hangul syllable jyulp
-C97B : Hangul syllable jyulh
-C97C : Hangul syllable jyum
-C97D : Hangul syllable jyub
-C97E : Hangul syllable jyubs
-C97F : Hangul syllable jyus
-C980 : Hangul syllable jyuss
-C981 : Hangul syllable jyung
-C982 : Hangul syllable jyuj
-C983 : Hangul syllable jyuc
-C984 : Hangul syllable jyuk
-C985 : Hangul syllable jyut
-C986 : Hangul syllable jyup
-C987 : Hangul syllable jyuh
-C988 : Hangul syllable jeu
-C989 : Hangul syllable jeug
-C98A : Hangul syllable jeugg
-C98B : Hangul syllable jeugs
-C98C : Hangul syllable jeun
-C98D : Hangul syllable jeunj
-C98E : Hangul syllable jeunh
-C98F : Hangul syllable jeud
-C990 : Hangul syllable jeul
-C991 : Hangul syllable jeulg
-C992 : Hangul syllable jeulm
-C993 : Hangul syllable jeulb
-C994 : Hangul syllable jeuls
-C995 : Hangul syllable jeult
-C996 : Hangul syllable jeulp
-C997 : Hangul syllable jeulh
-C998 : Hangul syllable jeum
-C999 : Hangul syllable jeub
-C99A : Hangul syllable jeubs
-C99B : Hangul syllable jeus
-C99C : Hangul syllable jeuss
-C99D : Hangul syllable jeung
-C99E : Hangul syllable jeuj
-C99F : Hangul syllable jeuc
-C9A0 : Hangul syllable jeuk
-C9A1 : Hangul syllable jeut
-C9A2 : Hangul syllable jeup
-C9A3 : Hangul syllable jeuh
-C9A4 : Hangul syllable jyi
-C9A5 : Hangul syllable jyig
-C9A6 : Hangul syllable jyigg
-C9A7 : Hangul syllable jyigs
-C9A8 : Hangul syllable jyin
-C9A9 : Hangul syllable jyinj
-C9AA : Hangul syllable jyinh
-C9AB : Hangul syllable jyid
-C9AC : Hangul syllable jyil
-C9AD : Hangul syllable jyilg
-C9AE : Hangul syllable jyilm
-C9AF : Hangul syllable jyilb
-C9B0 : Hangul syllable jyils
-C9B1 : Hangul syllable jyilt
-C9B2 : Hangul syllable jyilp
-C9B3 : Hangul syllable jyilh
-C9B4 : Hangul syllable jyim
-C9B5 : Hangul syllable jyib
-C9B6 : Hangul syllable jyibs
-C9B7 : Hangul syllable jyis
-C9B8 : Hangul syllable jyiss
-C9B9 : Hangul syllable jying
-C9BA : Hangul syllable jyij
-C9BB : Hangul syllable jyic
-C9BC : Hangul syllable jyik
-C9BD : Hangul syllable jyit
-C9BE : Hangul syllable jyip
-C9BF : Hangul syllable jyih
-C9C0 : Hangul syllable ji
-C9C1 : Hangul syllable jig
-C9C2 : Hangul syllable jigg
-C9C3 : Hangul syllable jigs
-C9C4 : Hangul syllable jin
-C9C5 : Hangul syllable jinj
-C9C6 : Hangul syllable jinh
-C9C7 : Hangul syllable jid
-C9C8 : Hangul syllable jil
-C9C9 : Hangul syllable jilg
-C9CA : Hangul syllable jilm
-C9CB : Hangul syllable jilb
-C9CC : Hangul syllable jils
-C9CD : Hangul syllable jilt
-C9CE : Hangul syllable jilp
-C9CF : Hangul syllable jilh
-C9D0 : Hangul syllable jim
-C9D1 : Hangul syllable jib
-C9D2 : Hangul syllable jibs
-C9D3 : Hangul syllable jis
-C9D4 : Hangul syllable jiss
-C9D5 : Hangul syllable jing
-C9D6 : Hangul syllable jij
-C9D7 : Hangul syllable jic
-C9D8 : Hangul syllable jik
-C9D9 : Hangul syllable jit
-C9DA : Hangul syllable jip
-C9DB : Hangul syllable jih
-C9DC : Hangul syllable jja
-C9DD : Hangul syllable jjag
-C9DE : Hangul syllable jjagg
-C9DF : Hangul syllable jjags
-C9E0 : Hangul syllable jjan
-C9E1 : Hangul syllable jjanj
-C9E2 : Hangul syllable jjanh
-C9E3 : Hangul syllable jjad
-C9E4 : Hangul syllable jjal
-C9E5 : Hangul syllable jjalg
-C9E6 : Hangul syllable jjalm
-C9E7 : Hangul syllable jjalb
-C9E8 : Hangul syllable jjals
-C9E9 : Hangul syllable jjalt
-C9EA : Hangul syllable jjalp
-C9EB : Hangul syllable jjalh
-C9EC : Hangul syllable jjam
-C9ED : Hangul syllable jjab
-C9EE : Hangul syllable jjabs
-C9EF : Hangul syllable jjas
-C9F0 : Hangul syllable jjass
-C9F1 : Hangul syllable jjang
-C9F2 : Hangul syllable jjaj
-C9F3 : Hangul syllable jjac
-C9F4 : Hangul syllable jjak
-C9F5 : Hangul syllable jjat
-C9F6 : Hangul syllable jjap
-C9F7 : Hangul syllable jjah
-C9F8 : Hangul syllable jjae
-C9F9 : Hangul syllable jjaeg
-C9FA : Hangul syllable jjaegg
-C9FB : Hangul syllable jjaegs
-C9FC : Hangul syllable jjaen
-C9FD : Hangul syllable jjaenj
-C9FE : Hangul syllable jjaenh
-C9FF : Hangul syllable jjaed
+C900: Hangul Syllable Jun
+C901: Hangul Syllable Junj
+C902: Hangul Syllable Junh
+C903: Hangul Syllable Jud
+C904: Hangul Syllable Jul
+C905: Hangul Syllable Julg
+C906: Hangul Syllable Julm
+C907: Hangul Syllable Julb
+C908: Hangul Syllable Juls
+C909: Hangul Syllable Jult
+C90A: Hangul Syllable Julp
+C90B: Hangul Syllable Julh
+C90C: Hangul Syllable Jum
+C90D: Hangul Syllable Jub
+C90E: Hangul Syllable Jubs
+C90F: Hangul Syllable Jus
+C910: Hangul Syllable Juss
+C911: Hangul Syllable Jung
+C912: Hangul Syllable Juj
+C913: Hangul Syllable Juc
+C914: Hangul Syllable Juk
+C915: Hangul Syllable Jut
+C916: Hangul Syllable Jup
+C917: Hangul Syllable Juh
+C918: Hangul Syllable Jweo
+C919: Hangul Syllable Jweog
+C91A: Hangul Syllable Jweogg
+C91B: Hangul Syllable Jweogs
+C91C: Hangul Syllable Jweon
+C91D: Hangul Syllable Jweonj
+C91E: Hangul Syllable Jweonh
+C91F: Hangul Syllable Jweod
+C920: Hangul Syllable Jweol
+C921: Hangul Syllable Jweolg
+C922: Hangul Syllable Jweolm
+C923: Hangul Syllable Jweolb
+C924: Hangul Syllable Jweols
+C925: Hangul Syllable Jweolt
+C926: Hangul Syllable Jweolp
+C927: Hangul Syllable Jweolh
+C928: Hangul Syllable Jweom
+C929: Hangul Syllable Jweob
+C92A: Hangul Syllable Jweobs
+C92B: Hangul Syllable Jweos
+C92C: Hangul Syllable Jweoss
+C92D: Hangul Syllable Jweong
+C92E: Hangul Syllable Jweoj
+C92F: Hangul Syllable Jweoc
+C930: Hangul Syllable Jweok
+C931: Hangul Syllable Jweot
+C932: Hangul Syllable Jweop
+C933: Hangul Syllable Jweoh
+C934: Hangul Syllable Jwe
+C935: Hangul Syllable Jweg
+C936: Hangul Syllable Jwegg
+C937: Hangul Syllable Jwegs
+C938: Hangul Syllable Jwen
+C939: Hangul Syllable Jwenj
+C93A: Hangul Syllable Jwenh
+C93B: Hangul Syllable Jwed
+C93C: Hangul Syllable Jwel
+C93D: Hangul Syllable Jwelg
+C93E: Hangul Syllable Jwelm
+C93F: Hangul Syllable Jwelb
+C940: Hangul Syllable Jwels
+C941: Hangul Syllable Jwelt
+C942: Hangul Syllable Jwelp
+C943: Hangul Syllable Jwelh
+C944: Hangul Syllable Jwem
+C945: Hangul Syllable Jweb
+C946: Hangul Syllable Jwebs
+C947: Hangul Syllable Jwes
+C948: Hangul Syllable Jwess
+C949: Hangul Syllable Jweng
+C94A: Hangul Syllable Jwej
+C94B: Hangul Syllable Jwec
+C94C: Hangul Syllable Jwek
+C94D: Hangul Syllable Jwet
+C94E: Hangul Syllable Jwep
+C94F: Hangul Syllable Jweh
+C950: Hangul Syllable Jwi
+C951: Hangul Syllable Jwig
+C952: Hangul Syllable Jwigg
+C953: Hangul Syllable Jwigs
+C954: Hangul Syllable Jwin
+C955: Hangul Syllable Jwinj
+C956: Hangul Syllable Jwinh
+C957: Hangul Syllable Jwid
+C958: Hangul Syllable Jwil
+C959: Hangul Syllable Jwilg
+C95A: Hangul Syllable Jwilm
+C95B: Hangul Syllable Jwilb
+C95C: Hangul Syllable Jwils
+C95D: Hangul Syllable Jwilt
+C95E: Hangul Syllable Jwilp
+C95F: Hangul Syllable Jwilh
+C960: Hangul Syllable Jwim
+C961: Hangul Syllable Jwib
+C962: Hangul Syllable Jwibs
+C963: Hangul Syllable Jwis
+C964: Hangul Syllable Jwiss
+C965: Hangul Syllable Jwing
+C966: Hangul Syllable Jwij
+C967: Hangul Syllable Jwic
+C968: Hangul Syllable Jwik
+C969: Hangul Syllable Jwit
+C96A: Hangul Syllable Jwip
+C96B: Hangul Syllable Jwih
+C96C: Hangul Syllable Jyu
+C96D: Hangul Syllable Jyug
+C96E: Hangul Syllable Jyugg
+C96F: Hangul Syllable Jyugs
+C970: Hangul Syllable Jyun
+C971: Hangul Syllable Jyunj
+C972: Hangul Syllable Jyunh
+C973: Hangul Syllable Jyud
+C974: Hangul Syllable Jyul
+C975: Hangul Syllable Jyulg
+C976: Hangul Syllable Jyulm
+C977: Hangul Syllable Jyulb
+C978: Hangul Syllable Jyuls
+C979: Hangul Syllable Jyult
+C97A: Hangul Syllable Jyulp
+C97B: Hangul Syllable Jyulh
+C97C: Hangul Syllable Jyum
+C97D: Hangul Syllable Jyub
+C97E: Hangul Syllable Jyubs
+C97F: Hangul Syllable Jyus
+C980: Hangul Syllable Jyuss
+C981: Hangul Syllable Jyung
+C982: Hangul Syllable Jyuj
+C983: Hangul Syllable Jyuc
+C984: Hangul Syllable Jyuk
+C985: Hangul Syllable Jyut
+C986: Hangul Syllable Jyup
+C987: Hangul Syllable Jyuh
+C988: Hangul Syllable Jeu
+C989: Hangul Syllable Jeug
+C98A: Hangul Syllable Jeugg
+C98B: Hangul Syllable Jeugs
+C98C: Hangul Syllable Jeun
+C98D: Hangul Syllable Jeunj
+C98E: Hangul Syllable Jeunh
+C98F: Hangul Syllable Jeud
+C990: Hangul Syllable Jeul
+C991: Hangul Syllable Jeulg
+C992: Hangul Syllable Jeulm
+C993: Hangul Syllable Jeulb
+C994: Hangul Syllable Jeuls
+C995: Hangul Syllable Jeult
+C996: Hangul Syllable Jeulp
+C997: Hangul Syllable Jeulh
+C998: Hangul Syllable Jeum
+C999: Hangul Syllable Jeub
+C99A: Hangul Syllable Jeubs
+C99B: Hangul Syllable Jeus
+C99C: Hangul Syllable Jeuss
+C99D: Hangul Syllable Jeung
+C99E: Hangul Syllable Jeuj
+C99F: Hangul Syllable Jeuc
+C9A0: Hangul Syllable Jeuk
+C9A1: Hangul Syllable Jeut
+C9A2: Hangul Syllable Jeup
+C9A3: Hangul Syllable Jeuh
+C9A4: Hangul Syllable Jyi
+C9A5: Hangul Syllable Jyig
+C9A6: Hangul Syllable Jyigg
+C9A7: Hangul Syllable Jyigs
+C9A8: Hangul Syllable Jyin
+C9A9: Hangul Syllable Jyinj
+C9AA: Hangul Syllable Jyinh
+C9AB: Hangul Syllable Jyid
+C9AC: Hangul Syllable Jyil
+C9AD: Hangul Syllable Jyilg
+C9AE: Hangul Syllable Jyilm
+C9AF: Hangul Syllable Jyilb
+C9B0: Hangul Syllable Jyils
+C9B1: Hangul Syllable Jyilt
+C9B2: Hangul Syllable Jyilp
+C9B3: Hangul Syllable Jyilh
+C9B4: Hangul Syllable Jyim
+C9B5: Hangul Syllable Jyib
+C9B6: Hangul Syllable Jyibs
+C9B7: Hangul Syllable Jyis
+C9B8: Hangul Syllable Jyiss
+C9B9: Hangul Syllable Jying
+C9BA: Hangul Syllable Jyij
+C9BB: Hangul Syllable Jyic
+C9BC: Hangul Syllable Jyik
+C9BD: Hangul Syllable Jyit
+C9BE: Hangul Syllable Jyip
+C9BF: Hangul Syllable Jyih
+C9C0: Hangul Syllable Ji
+C9C1: Hangul Syllable Jig
+C9C2: Hangul Syllable Jigg
+C9C3: Hangul Syllable Jigs
+C9C4: Hangul Syllable Jin
+C9C5: Hangul Syllable Jinj
+C9C6: Hangul Syllable Jinh
+C9C7: Hangul Syllable Jid
+C9C8: Hangul Syllable Jil
+C9C9: Hangul Syllable Jilg
+C9CA: Hangul Syllable Jilm
+C9CB: Hangul Syllable Jilb
+C9CC: Hangul Syllable Jils
+C9CD: Hangul Syllable Jilt
+C9CE: Hangul Syllable Jilp
+C9CF: Hangul Syllable Jilh
+C9D0: Hangul Syllable Jim
+C9D1: Hangul Syllable Jib
+C9D2: Hangul Syllable Jibs
+C9D3: Hangul Syllable Jis
+C9D4: Hangul Syllable Jiss
+C9D5: Hangul Syllable Jing
+C9D6: Hangul Syllable Jij
+C9D7: Hangul Syllable Jic
+C9D8: Hangul Syllable Jik
+C9D9: Hangul Syllable Jit
+C9DA: Hangul Syllable Jip
+C9DB: Hangul Syllable Jih
+C9DC: Hangul Syllable Jja
+C9DD: Hangul Syllable Jjag
+C9DE: Hangul Syllable Jjagg
+C9DF: Hangul Syllable Jjags
+C9E0: Hangul Syllable Jjan
+C9E1: Hangul Syllable Jjanj
+C9E2: Hangul Syllable Jjanh
+C9E3: Hangul Syllable Jjad
+C9E4: Hangul Syllable Jjal
+C9E5: Hangul Syllable Jjalg
+C9E6: Hangul Syllable Jjalm
+C9E7: Hangul Syllable Jjalb
+C9E8: Hangul Syllable Jjals
+C9E9: Hangul Syllable Jjalt
+C9EA: Hangul Syllable Jjalp
+C9EB: Hangul Syllable Jjalh
+C9EC: Hangul Syllable Jjam
+C9ED: Hangul Syllable Jjab
+C9EE: Hangul Syllable Jjabs
+C9EF: Hangul Syllable Jjas
+C9F0: Hangul Syllable Jjass
+C9F1: Hangul Syllable Jjang
+C9F2: Hangul Syllable Jjaj
+C9F3: Hangul Syllable Jjac
+C9F4: Hangul Syllable Jjak
+C9F5: Hangul Syllable Jjat
+C9F6: Hangul Syllable Jjap
+C9F7: Hangul Syllable Jjah
+C9F8: Hangul Syllable Jjae
+C9F9: Hangul Syllable Jjaeg
+C9FA: Hangul Syllable Jjaegg
+C9FB: Hangul Syllable Jjaegs
+C9FC: Hangul Syllable Jjaen
+C9FD: Hangul Syllable Jjaenj
+C9FE: Hangul Syllable Jjaenh
+C9FF: Hangul Syllable Jjaed

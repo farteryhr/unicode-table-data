@@ -1,256 +1,256 @@
-5D00 : Cjk unified ideograph
-5D01 : Cjk unified ideograph
-5D02 : Cjk unified ideograph
-5D03 : Cjk unified ideograph
-5D04 : Cjk unified ideograph
-5D05 : Cjk unified ideograph
-5D06 : Cjk unified ideograph
-5D07 : Cjk unified ideograph
-5D08 : Cjk unified ideograph
-5D09 : Cjk unified ideograph
-5D0A : Cjk unified ideograph
-5D0B : Cjk unified ideograph
-5D0C : Cjk unified ideograph
-5D0D : Cjk unified ideograph
-5D0E : Cjk unified ideograph
-5D0F : Cjk unified ideograph
-5D10 : Cjk unified ideograph
-5D11 : Cjk unified ideograph
-5D12 : Cjk unified ideograph
-5D13 : Cjk unified ideograph
-5D14 : Cjk unified ideograph
-5D15 : Cjk unified ideograph
-5D16 : Cjk unified ideograph
-5D17 : Cjk unified ideograph
-5D18 : Cjk unified ideograph
-5D19 : Cjk unified ideograph
-5D1A : Cjk unified ideograph
-5D1B : Cjk unified ideograph
-5D1C : Cjk unified ideograph
-5D1D : Cjk unified ideograph
-5D1E : Cjk unified ideograph
-5D1F : Cjk unified ideograph
-5D20 : Cjk unified ideograph
-5D21 : Cjk unified ideograph
-5D22 : Cjk unified ideograph
-5D23 : Cjk unified ideograph
-5D24 : Cjk unified ideograph
-5D25 : Cjk unified ideograph
-5D26 : Cjk unified ideograph
-5D27 : Cjk unified ideograph
-5D28 : Cjk unified ideograph
-5D29 : Cjk unified ideograph
-5D2A : Cjk unified ideograph
-5D2B : Cjk unified ideograph
-5D2C : Cjk unified ideograph
-5D2D : Cjk unified ideograph
-5D2E : Cjk unified ideograph
-5D2F : Cjk unified ideograph
-5D30 : Cjk unified ideograph
-5D31 : Cjk unified ideograph
-5D32 : Cjk unified ideograph
-5D33 : Cjk unified ideograph
-5D34 : Cjk unified ideograph
-5D35 : Cjk unified ideograph
-5D36 : Cjk unified ideograph
-5D37 : Cjk unified ideograph
-5D38 : Cjk unified ideograph
-5D39 : Cjk unified ideograph
-5D3A : Cjk unified ideograph
-5D3B : Cjk unified ideograph
-5D3C : Cjk unified ideograph
-5D3D : Cjk unified ideograph
-5D3E : Cjk unified ideograph
-5D3F : Cjk unified ideograph
-5D40 : Cjk unified ideograph
-5D41 : Cjk unified ideograph
-5D42 : Cjk unified ideograph
-5D43 : Cjk unified ideograph
-5D44 : Cjk unified ideograph
-5D45 : Cjk unified ideograph
-5D46 : Cjk unified ideograph
-5D47 : Cjk unified ideograph
-5D48 : Cjk unified ideograph
-5D49 : Cjk unified ideograph
-5D4A : Cjk unified ideograph
-5D4B : Cjk unified ideograph
-5D4C : Cjk unified ideograph
-5D4D : Cjk unified ideograph
-5D4E : Cjk unified ideograph
-5D4F : Cjk unified ideograph
-5D50 : Cjk unified ideograph
-5D51 : Cjk unified ideograph
-5D52 : Cjk unified ideograph
-5D53 : Cjk unified ideograph
-5D54 : Cjk unified ideograph
-5D55 : Cjk unified ideograph
-5D56 : Cjk unified ideograph
-5D57 : Cjk unified ideograph
-5D58 : Cjk unified ideograph
-5D59 : Cjk unified ideograph
-5D5A : Cjk unified ideograph
-5D5B : Cjk unified ideograph
-5D5C : Cjk unified ideograph
-5D5D : Cjk unified ideograph
-5D5E : Cjk unified ideograph
-5D5F : Cjk unified ideograph
-5D60 : Cjk unified ideograph
-5D61 : Cjk unified ideograph
-5D62 : Cjk unified ideograph
-5D63 : Cjk unified ideograph
-5D64 : Cjk unified ideograph
-5D65 : Cjk unified ideograph
-5D66 : Cjk unified ideograph
-5D67 : Cjk unified ideograph
-5D68 : Cjk unified ideograph
-5D69 : Cjk unified ideograph
-5D6A : Cjk unified ideograph
-5D6B : Cjk unified ideograph
-5D6C : Cjk unified ideograph
-5D6D : Cjk unified ideograph
-5D6E : Cjk unified ideograph
-5D6F : Cjk unified ideograph
-5D70 : Cjk unified ideograph
-5D71 : Cjk unified ideograph
-5D72 : Cjk unified ideograph
-5D73 : Cjk unified ideograph
-5D74 : Cjk unified ideograph
-5D75 : Cjk unified ideograph
-5D76 : Cjk unified ideograph
-5D77 : Cjk unified ideograph
-5D78 : Cjk unified ideograph
-5D79 : Cjk unified ideograph
-5D7A : Cjk unified ideograph
-5D7B : Cjk unified ideograph
-5D7C : Cjk unified ideograph
-5D7D : Cjk unified ideograph
-5D7E : Cjk unified ideograph
-5D7F : Cjk unified ideograph
-5D80 : Cjk unified ideograph
-5D81 : Cjk unified ideograph
-5D82 : Cjk unified ideograph
-5D83 : Cjk unified ideograph
-5D84 : Cjk unified ideograph
-5D85 : Cjk unified ideograph
-5D86 : Cjk unified ideograph
-5D87 : Cjk unified ideograph
-5D88 : Cjk unified ideograph
-5D89 : Cjk unified ideograph
-5D8A : Cjk unified ideograph
-5D8B : Cjk unified ideograph
-5D8C : Cjk unified ideograph
-5D8D : Cjk unified ideograph
-5D8E : Cjk unified ideograph
-5D8F : Cjk unified ideograph
-5D90 : Cjk unified ideograph
-5D91 : Cjk unified ideograph
-5D92 : Cjk unified ideograph
-5D93 : Cjk unified ideograph
-5D94 : Cjk unified ideograph
-5D95 : Cjk unified ideograph
-5D96 : Cjk unified ideograph
-5D97 : Cjk unified ideograph
-5D98 : Cjk unified ideograph
-5D99 : Cjk unified ideograph
-5D9A : Cjk unified ideograph
-5D9B : Cjk unified ideograph
-5D9C : Cjk unified ideograph
-5D9D : Cjk unified ideograph
-5D9E : Cjk unified ideograph
-5D9F : Cjk unified ideograph
-5DA0 : Cjk unified ideograph
-5DA1 : Cjk unified ideograph
-5DA2 : Cjk unified ideograph
-5DA3 : Cjk unified ideograph
-5DA4 : Cjk unified ideograph
-5DA5 : Cjk unified ideograph
-5DA6 : Cjk unified ideograph
-5DA7 : Cjk unified ideograph
-5DA8 : Cjk unified ideograph
-5DA9 : Cjk unified ideograph
-5DAA : Cjk unified ideograph
-5DAB : Cjk unified ideograph
-5DAC : Cjk unified ideograph
-5DAD : Cjk unified ideograph
-5DAE : Cjk unified ideograph
-5DAF : Cjk unified ideograph
-5DB0 : Cjk unified ideograph
-5DB1 : Cjk unified ideograph
-5DB2 : Cjk unified ideograph
-5DB3 : Cjk unified ideograph
-5DB4 : Cjk unified ideograph
-5DB5 : Cjk unified ideograph
-5DB6 : Cjk unified ideograph
-5DB7 : Cjk unified ideograph
-5DB8 : Cjk unified ideograph
-5DB9 : Cjk unified ideograph
-5DBA : Cjk unified ideograph
-5DBB : Cjk unified ideograph
-5DBC : Cjk unified ideograph
-5DBD : Cjk unified ideograph
-5DBE : Cjk unified ideograph
-5DBF : Cjk unified ideograph
-5DC0 : Cjk unified ideograph
-5DC1 : Cjk unified ideograph
-5DC2 : Cjk unified ideograph
-5DC3 : Cjk unified ideograph
-5DC4 : Cjk unified ideograph
-5DC5 : Cjk unified ideograph
-5DC6 : Cjk unified ideograph
-5DC7 : Cjk unified ideograph
-5DC8 : Cjk unified ideograph
-5DC9 : Cjk unified ideograph
-5DCA : Cjk unified ideograph
-5DCB : Cjk unified ideograph
-5DCC : Cjk unified ideograph
-5DCD : Cjk unified ideograph
-5DCE : Cjk unified ideograph
-5DCF : Cjk unified ideograph
-5DD0 : Cjk unified ideograph
-5DD1 : Cjk unified ideograph
-5DD2 : Cjk unified ideograph
-5DD3 : Cjk unified ideograph
-5DD4 : Cjk unified ideograph
-5DD5 : Cjk unified ideograph
-5DD6 : Cjk unified ideograph
-5DD7 : Cjk unified ideograph
-5DD8 : Cjk unified ideograph
-5DD9 : Cjk unified ideograph
-5DDA : Cjk unified ideograph
-5DDB : Cjk unified ideograph
-5DDC : Cjk unified ideograph
-5DDD : Cjk unified ideograph
-5DDE : Cjk unified ideograph
-5DDF : Cjk unified ideograph
-5DE0 : Cjk unified ideograph
-5DE1 : Cjk unified ideograph
-5DE2 : Cjk unified ideograph
-5DE3 : Cjk unified ideograph
-5DE4 : Cjk unified ideograph
-5DE5 : Cjk unified ideograph
-5DE6 : Cjk unified ideograph
-5DE7 : Cjk unified ideograph
-5DE8 : Cjk unified ideograph
-5DE9 : Cjk unified ideograph
-5DEA : Cjk unified ideograph
-5DEB : Cjk unified ideograph
-5DEC : Cjk unified ideograph
-5DED : Cjk unified ideograph
-5DEE : Cjk unified ideograph
-5DEF : Cjk unified ideograph
-5DF0 : Cjk unified ideograph
-5DF1 : Cjk unified ideograph
-5DF2 : Cjk unified ideograph
-5DF3 : Cjk unified ideograph
-5DF4 : Cjk unified ideograph
-5DF5 : Cjk unified ideograph
-5DF6 : Cjk unified ideograph
-5DF7 : Cjk unified ideograph
-5DF8 : Cjk unified ideograph
-5DF9 : Cjk unified ideograph
-5DFA : Cjk unified ideograph
-5DFB : Cjk unified ideograph
-5DFC : Cjk unified ideograph
-5DFD : Cjk unified ideograph
-5DFE : Cjk unified ideograph
-5DFF : Cjk unified ideograph
+5D00: Ideograph place name in hunan province CJK
+5D01: Ideograph a place in Taiwan Tainan CJK
+5D02: Ideograph Laoshan, mountain in Shandong CJK
+5D03: Ideograph mountain in Sichuan province CJK
+5D04: Ideograph high, steep, precipitous CJK
+5D05:
+5D06: Ideograph Kongtong mountain CJK
+5D07: Ideograph esteem, honor, revere, venerate CJK
+5D08:
+5D09:
+5D0A:
+5D0B: Ideograph flowery; illustrious; Chinese CJK
+5D0C: Ideograph mountain name CJK
+5D0D: Ideograph mountain in Sichuan province CJK
+5D0E: Ideograph rough, uneven, jagged, rugged CJK
+5D0F:
+5D10: Ideograph Kunlun mountains in Jiangsu CJK
+5D11: Ideograph Kunlun mountains in Jiang Su province. CJK
+5D12: Ideograph rocky peaks; lofty and dangerous CJK
+5D13:
+5D14: Ideograph high, lofty, towering; surname CJK
+5D15: Ideograph cliff, precipice; precipitous CJK
+5D16: Ideograph cliff, precipice; precipitous CJK
+5D17: Ideograph post; position CJK
+5D18: Ideograph Kunlun mountains in Jiangsu CJK
+5D19: Ideograph Kunlun mountains in Jiangsu CJK
+5D1A: Ideograph hilly, steep, rugged CJK
+5D1B: Ideograph towering, eminent; rise abruptly CJK
+5D1C:
+5D1D:
+5D1E: Ideograph mountain in Shanxi CJK
+5D1F: Ideograph cliffs CJK
+5D20: Ideograph place name in Guangxi province CJK
+5D21:
+5D22: Ideograph high, lofty, noble; steep, perilous CJK
+5D23:
+5D24: Ideograph mountain in Henan CJK
+5D25:
+5D26: Ideograph a mountain in Kansu, where there is a cave into which the sun is said to sink at night CJK
+5D27: Ideograph high mountain; lofty, eminent CJK
+5D28:
+5D29: Ideograph rupture, split apart, collapse CJK
+5D2A: Ideograph rocky peaks; lofty and dangerous CJK
+5D2B: Ideograph high and lofty (mountains) CJK
+5D2C: Ideograph place name in Guangxi province CJK
+5D2D: Ideograph high, steep, precipitous; new CJK
+5D2E: Ideograph a mesa, hill with flat top and steep sides CJK
+5D2F:
+5D30:
+5D31: Ideograph lofty CJK
+5D32:
+5D33: Ideograph county in Shandong province CJK
+5D34: Ideograph high, lofty; precipitous CJK
+5D35:
+5D36:
+5D37:
+5D38:
+5D39:
+5D3A:
+5D3B:
+5D3C:
+5D3D: Ideograph a child, a servant; a diminutive CJK
+5D3E: Ideograph place name in Shanxi province CJK
+5D3F: Ideograph cliffs CJK
+5D40:
+5D41: Ideograph rugged CJK
+5D42: Ideograph lofty CJK
+5D43:
+5D44:
+5D45:
+5D46: Ideograph mountain in Henan; surname CJK
+5D47: Ideograph mountain in Henan; surname CJK
+5D48:
+5D49:
+5D4A: Ideograph district in Shaohsing, Chekiang CJK
+5D4B: Ideograph Omei mountain in Sichuan CJK
+5D4C: Ideograph inlay, set in; fall into; rugged CJK
+5D4D:
+5D4E: Ideograph mountain recess; canyon CJK
+5D4F: Ideograph a mountain in Shenxi CJK
+5D50: Ideograph mountain mist, mountain haze CJK
+5D51:
+5D52: Ideograph cliff; soar CJK
+5D53:
+5D54:
+5D55:
+5D56: Ideograph name of a mountain; (Cant.) to obstruct CJK
+5D57: Ideograph year; age; harvest CJK
+5D58: Ideograph high, steep; lofty, towering CJK
+5D59: Ideograph place name CJK
+5D5A: Ideograph lofty, towering CJK
+5D5B: Ideograph county in Shandong province CJK
+5D5C: Ideograph rough, uneven, jagged, rugged CJK
+5D5D: Ideograph Goulou mountain peak in hunan CJK
+5D5E:
+5D5F:
+5D60: Ideograph a valley with a stream in it; a gorge CJK
+5D61:
+5D62:
+5D63:
+5D64:
+5D65:
+5D66: Ideograph a raised site; pleasant CJK
+5D67:
+5D68:
+5D69: Ideograph high, lofty; one of the 5 peaks, situated in Hunan CJK
+5D6A:
+5D6B: Ideograph a hill in Shantung CJK
+5D6C: Ideograph high; rugged, rocky, precipitous CJK
+5D6D:
+5D6E:
+5D6F: Ideograph high, towering; irregular, rugged CJK
+5D70:
+5D71:
+5D72:
+5D73: Ideograph high, towering; irregular, rugged CJK
+5D74: Ideograph mountain ridge CJK
+5D75:
+5D76: Ideograph low part of a mountain CJK
+5D77:
+5D78:
+5D79:
+5D7A:
+5D7B:
+5D7C:
+5D7D:
+5D7E: Ideograph uneven CJK
+5D7F:
+5D80:
+5D81: Ideograph Goulou mountain peak in Hunan CJK
+5D82: Ideograph cliff; mountain barrier CJK
+5D83: Ideograph a cliff, a peak CJK
+5D84: Ideograph high, steep, precipitous; new CJK
+5D85:
+5D86:
+5D87: Ideograph steep, sheer; rugged, rough CJK
+5D88:
+5D89:
+5D8A:
+5D8B: Ideograph island CJK
+5D8C: Ideograph island CJK
+5D8D:
+5D8E: Ideograph luxuriant, elegant CJK
+5D8F:
+5D90:
+5D91:
+5D92: Ideograph towering, lofty, steep CJK
+5D93: Ideograph Boshan, mountain in Shaanxi CJK
+5D94: Ideograph lofty, towering CJK
+5D95:
+5D96:
+5D97: Ideograph Laoshan, mountain in Shandong CJK
+5D98:
+5D99: Ideograph precipitous CJK
+5D9A:
+5D9B:
+5D9C:
+5D9D: Ideograph path leading up a mountain CJK
+5D9E: Ideograph ridge CJK
+5D9F:
+5DA0: Ideograph high pointed mountain CJK
+5DA1: Ideograph table CJK
+5DA2: Ideograph high or tall CJK
+5DA3:
+5DA4:
+5DA5:
+5DA6:
+5DA7: Ideograph a range of peaks in Shandong and Jiangsu; the name of a mountain CJK
+5DA8: Ideograph big rocky mountain CJK
+5DA9:
+5DAA:
+5DAB:
+5DAC:
+5DAD: Ideograph elevated, lofty CJK
+5DAE: Ideograph high, steep, precipitous CJK
+5DAF:
+5DB0: Ideograph gorge CJK
+5DB1:
+5DB2: Ideograph a name of an old town in Sichuan; cuckoo; revolution of a wheel CJK
+5DB3:
+5DB4: Ideograph island CJK
+5DB5:
+5DB6:
+5DB7: Ideograph a range of mountains in Hunan province CJK
+5DB8: Ideograph high, steep; lofty, towering CJK
+5DB9:
+5DBA: Ideograph mountain ridge, mountain peak CJK
+5DBB:
+5DBC: Ideograph island CJK
+5DBD: Ideograph mountain peak, summit CJK
+5DBE:
+5DBF:
+5DC0:
+5DC1:
+5DC2: Ideograph place name CJK
+5DC3: Ideograph lofty CJK
+5DC4:
+5DC5: Ideograph summit of mountain, mountain top CJK
+5DC6:
+5DC7: Ideograph a crack; hazardous CJK
+5DC8:
+5DC9: Ideograph steep, rugged, jagged, precipitous CJK
+5DCA:
+5DCB: Ideograph grand, stately; secure, lasting CJK
+5DCC: Ideograph cliff, precipice; cave, grotto CJK
+5DCD: Ideograph high, lofty, majestic, eminent CJK
+5DCE:
+5DCF:
+5DD0:
+5DD1:
+5DD2: Ideograph mountain range; pointed mountain CJK
+5DD3: Ideograph summit of mountain CJK
+5DD4: Ideograph summit of mountain, mountain top CJK
+5DD5:
+5DD6: Ideograph cliff, precipice; cave, grotto CJK
+5DD7:
+5DD8: Ideograph summit, peak CJK
+5DD9:
+5DDA:
+5DDB: Ideograph river; KangXi radical 47 CJK
+5DDC:
+5DDD: Ideograph stream, river; flow; boil CJK
+5DDE: Ideograph administrative division, state CJK
+5DDF: Ideograph a watery waste; to reach CJK
+5DE0: Ideograph streams running underground; flowing water CJK
+5DE1: Ideograph patrol, go on circuit, cruise CJK
+5DE2: Ideograph nest, living quarter in tree CJK
+5DE3: Ideograph nest, living quarter in tree CJK
+5DE4: Ideograph a mane; bristles, as on a hog; dorsal fins CJK
+5DE5: Ideograph labor, work; worker, laborer CJK
+5DE6: Ideograph left; east; unorthodox, improper CJK
+5DE7: Ideograph skillful, ingenious, clever CJK
+5DE8: Ideograph large, great, enormous; chief CJK
+5DE9: Ideograph bind; firm, secure, strong CJK
+5DEA: Ideograph person's name CJK
+5DEB: Ideograph wizard, sorcerer, witch, shaman CJK
+5DEC:
+5DED: Ideograph study CJK
+5DEE: Ideograph to differ; different, wrong; nearly, almost; an officer CJK
+5DEF: Ideograph an atom group CJK
+5DF0: Ideograph an atom group CJK
+5DF1: Ideograph self, oneself; personal, private; 6th heavenly stem CJK
+5DF2: Ideograph already; finished; stop CJK
+5DF3: Ideograph the hours from 9 to 11; 6th terrestrial branch CJK
+5DF4: Ideograph greatly desire, anxiously hope CJK
+5DF5: Ideograph measuring cup; wine container CJK
+5DF6:
+5DF7: Ideograph alley, lane CJK
+5DF8:
+5DF9:
+5DFA: Ideograph 5th of the 8 trigrams; South-east; mild, modest, obedient CJK
+5DFB: Ideograph scroll; curl; make a comeback CJK
+5DFC: Ideograph place name CJK
+5DFD: Ideograph 5th of the 8 trigrams; south-east; mild, modest, obedient CJK
+5DFE: Ideograph kerchief; towel; turban; KangXi radical number 50 CJK
+5DFF: Ideograph revolve, make circuit, turn CJK

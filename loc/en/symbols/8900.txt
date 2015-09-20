@@ -1,256 +1,256 @@
-8900 : Cjk unified ideograph
-8901 : Cjk unified ideograph
-8902 : Cjk unified ideograph
-8903 : Cjk unified ideograph
-8904 : Cjk unified ideograph
-8905 : Cjk unified ideograph
-8906 : Cjk unified ideograph
-8907 : Cjk unified ideograph
-8908 : Cjk unified ideograph
-8909 : Cjk unified ideograph
-890A : Cjk unified ideograph
-890B : Cjk unified ideograph
-890C : Cjk unified ideograph
-890D : Cjk unified ideograph
-890E : Cjk unified ideograph
-890F : Cjk unified ideograph
-8910 : Cjk unified ideograph
-8911 : Cjk unified ideograph
-8912 : Cjk unified ideograph
-8913 : Cjk unified ideograph
-8914 : Cjk unified ideograph
-8915 : Cjk unified ideograph
-8916 : Cjk unified ideograph
-8917 : Cjk unified ideograph
-8918 : Cjk unified ideograph
-8919 : Cjk unified ideograph
-891A : Cjk unified ideograph
-891B : Cjk unified ideograph
-891C : Cjk unified ideograph
-891D : Cjk unified ideograph
-891E : Cjk unified ideograph
-891F : Cjk unified ideograph
-8920 : Cjk unified ideograph
-8921 : Cjk unified ideograph
-8922 : Cjk unified ideograph
-8923 : Cjk unified ideograph
-8924 : Cjk unified ideograph
-8925 : Cjk unified ideograph
-8926 : Cjk unified ideograph
-8927 : Cjk unified ideograph
-8928 : Cjk unified ideograph
-8929 : Cjk unified ideograph
-892A : Cjk unified ideograph
-892B : Cjk unified ideograph
-892C : Cjk unified ideograph
-892D : Cjk unified ideograph
-892E : Cjk unified ideograph
-892F : Cjk unified ideograph
-8930 : Cjk unified ideograph
-8931 : Cjk unified ideograph
-8932 : Cjk unified ideograph
-8933 : Cjk unified ideograph
-8934 : Cjk unified ideograph
-8935 : Cjk unified ideograph
-8936 : Cjk unified ideograph
-8937 : Cjk unified ideograph
-8938 : Cjk unified ideograph
-8939 : Cjk unified ideograph
-893A : Cjk unified ideograph
-893B : Cjk unified ideograph
-893C : Cjk unified ideograph
-893D : Cjk unified ideograph
-893E : Cjk unified ideograph
-893F : Cjk unified ideograph
-8940 : Cjk unified ideograph
-8941 : Cjk unified ideograph
-8942 : Cjk unified ideograph
-8943 : Cjk unified ideograph
-8944 : Cjk unified ideograph
-8945 : Cjk unified ideograph
-8946 : Cjk unified ideograph
-8947 : Cjk unified ideograph
-8948 : Cjk unified ideograph
-8949 : Cjk unified ideograph
-894A : Cjk unified ideograph
-894B : Cjk unified ideograph
-894C : Cjk unified ideograph
-894D : Cjk unified ideograph
-894E : Cjk unified ideograph
-894F : Cjk unified ideograph
-8950 : Cjk unified ideograph
-8951 : Cjk unified ideograph
-8952 : Cjk unified ideograph
-8953 : Cjk unified ideograph
-8954 : Cjk unified ideograph
-8955 : Cjk unified ideograph
-8956 : Cjk unified ideograph
-8957 : Cjk unified ideograph
-8958 : Cjk unified ideograph
-8959 : Cjk unified ideograph
-895A : Cjk unified ideograph
-895B : Cjk unified ideograph
-895C : Cjk unified ideograph
-895D : Cjk unified ideograph
-895E : Cjk unified ideograph
-895F : Cjk unified ideograph
-8960 : Cjk unified ideograph
-8961 : Cjk unified ideograph
-8962 : Cjk unified ideograph
-8963 : Cjk unified ideograph
-8964 : Cjk unified ideograph
-8965 : Cjk unified ideograph
-8966 : Cjk unified ideograph
-8967 : Cjk unified ideograph
-8968 : Cjk unified ideograph
-8969 : Cjk unified ideograph
-896A : Cjk unified ideograph
-896B : Cjk unified ideograph
-896C : Cjk unified ideograph
-896D : Cjk unified ideograph
-896E : Cjk unified ideograph
-896F : Cjk unified ideograph
-8970 : Cjk unified ideograph
-8971 : Cjk unified ideograph
-8972 : Cjk unified ideograph
-8973 : Cjk unified ideograph
-8974 : Cjk unified ideograph
-8975 : Cjk unified ideograph
-8976 : Cjk unified ideograph
-8977 : Cjk unified ideograph
-8978 : Cjk unified ideograph
-8979 : Cjk unified ideograph
-897A : Cjk unified ideograph
-897B : Cjk unified ideograph
-897C : Cjk unified ideograph
-897D : Cjk unified ideograph
-897E : Cjk unified ideograph
-897F : Cjk unified ideograph
-8980 : Cjk unified ideograph
-8981 : Cjk unified ideograph
-8982 : Cjk unified ideograph
-8983 : Cjk unified ideograph
-8984 : Cjk unified ideograph
-8985 : Cjk unified ideograph
-8986 : Cjk unified ideograph
-8987 : Cjk unified ideograph
-8988 : Cjk unified ideograph
-8989 : Cjk unified ideograph
-898A : Cjk unified ideograph
-898B : Cjk unified ideograph
-898C : Cjk unified ideograph
-898D : Cjk unified ideograph
-898E : Cjk unified ideograph
-898F : Cjk unified ideograph
-8990 : Cjk unified ideograph
-8991 : Cjk unified ideograph
-8992 : Cjk unified ideograph
-8993 : Cjk unified ideograph
-8994 : Cjk unified ideograph
-8995 : Cjk unified ideograph
-8996 : Cjk unified ideograph
-8997 : Cjk unified ideograph
-8998 : Cjk unified ideograph
-8999 : Cjk unified ideograph
-899A : Cjk unified ideograph
-899B : Cjk unified ideograph
-899C : Cjk unified ideograph
-899D : Cjk unified ideograph
-899E : Cjk unified ideograph
-899F : Cjk unified ideograph
-89A0 : Cjk unified ideograph
-89A1 : Cjk unified ideograph
-89A2 : Cjk unified ideograph
-89A3 : Cjk unified ideograph
-89A4 : Cjk unified ideograph
-89A5 : Cjk unified ideograph
-89A6 : Cjk unified ideograph
-89A7 : Cjk unified ideograph
-89A8 : Cjk unified ideograph
-89A9 : Cjk unified ideograph
-89AA : Cjk unified ideograph
-89AB : Cjk unified ideograph
-89AC : Cjk unified ideograph
-89AD : Cjk unified ideograph
-89AE : Cjk unified ideograph
-89AF : Cjk unified ideograph
-89B0 : Cjk unified ideograph
-89B1 : Cjk unified ideograph
-89B2 : Cjk unified ideograph
-89B3 : Cjk unified ideograph
-89B4 : Cjk unified ideograph
-89B5 : Cjk unified ideograph
-89B6 : Cjk unified ideograph
-89B7 : Cjk unified ideograph
-89B8 : Cjk unified ideograph
-89B9 : Cjk unified ideograph
-89BA : Cjk unified ideograph
-89BB : Cjk unified ideograph
-89BC : Cjk unified ideograph
-89BD : Cjk unified ideograph
-89BE : Cjk unified ideograph
-89BF : Cjk unified ideograph
-89C0 : Cjk unified ideograph
-89C1 : Cjk unified ideograph
-89C2 : Cjk unified ideograph
-89C3 : Cjk unified ideograph
-89C4 : Cjk unified ideograph
-89C5 : Cjk unified ideograph
-89C6 : Cjk unified ideograph
-89C7 : Cjk unified ideograph
-89C8 : Cjk unified ideograph
-89C9 : Cjk unified ideograph
-89CA : Cjk unified ideograph
-89CB : Cjk unified ideograph
-89CC : Cjk unified ideograph
-89CD : Cjk unified ideograph
-89CE : Cjk unified ideograph
-89CF : Cjk unified ideograph
-89D0 : Cjk unified ideograph
-89D1 : Cjk unified ideograph
-89D2 : Cjk unified ideograph
-89D3 : Cjk unified ideograph
-89D4 : Cjk unified ideograph
-89D5 : Cjk unified ideograph
-89D6 : Cjk unified ideograph
-89D7 : Cjk unified ideograph
-89D8 : Cjk unified ideograph
-89D9 : Cjk unified ideograph
-89DA : Cjk unified ideograph
-89DB : Cjk unified ideograph
-89DC : Cjk unified ideograph
-89DD : Cjk unified ideograph
-89DE : Cjk unified ideograph
-89DF : Cjk unified ideograph
-89E0 : Cjk unified ideograph
-89E1 : Cjk unified ideograph
-89E2 : Cjk unified ideograph
-89E3 : Cjk unified ideograph
-89E4 : Cjk unified ideograph
-89E5 : Cjk unified ideograph
-89E6 : Cjk unified ideograph
-89E7 : Cjk unified ideograph
-89E8 : Cjk unified ideograph
-89E9 : Cjk unified ideograph
-89EA : Cjk unified ideograph
-89EB : Cjk unified ideograph
-89EC : Cjk unified ideograph
-89ED : Cjk unified ideograph
-89EE : Cjk unified ideograph
-89EF : Cjk unified ideograph
-89F0 : Cjk unified ideograph
-89F1 : Cjk unified ideograph
-89F2 : Cjk unified ideograph
-89F3 : Cjk unified ideograph
-89F4 : Cjk unified ideograph
-89F5 : Cjk unified ideograph
-89F6 : Cjk unified ideograph
-89F7 : Cjk unified ideograph
-89F8 : Cjk unified ideograph
-89F9 : Cjk unified ideograph
-89FA : Cjk unified ideograph
-89FB : Cjk unified ideograph
-89FC : Cjk unified ideograph
-89FD : Cjk unified ideograph
-89FE : Cjk unified ideograph
-89FF : Cjk unified ideograph
+8900:
+8901:
+8902: Ideograph jacket, overcoat, coat; gown CJK
+8903: Ideograph a seam in a garment CJK
+8904: Ideograph a skirt CJK
+8905:
+8906:
+8907: Ideograph repeat, double, overlap CJK
+8908:
+8909: Ideograph short garments CJK
+890A: Ideograph cramped, narrow, crowded; mean CJK
+890B:
+890C: Ideograph trousers, pants, shorts, drawers CJK
+890D:
+890E: Ideograph sleeve; ample flowing robes CJK
+890F: Ideograph sleeve; ample flowing robes CJK
+8910: Ideograph coarse woolen cloth; dull, dark CJK
+8911:
+8912: Ideograph praise, commend, honor, cite CJK
+8913: Ideograph swaddling cloth; infancy CJK
+8914: Ideograph complex; double CJK
+8915: Ideograph shirt CJK
+8916:
+8917:
+8918: Ideograph ceremonial gowns of a queen CJK
+8919: Ideograph paper or cloth pasted together CJK
+891A: Ideograph bag, valise; stuff, pad; surname CJK
+891B: Ideograph lapel, collar; tattered, threadbare CJK
+891C:
+891D: Ideograph unlined garment CJK
+891E: Ideograph a robe CJK
+891F: Ideograph inner shirt or singlet CJK
+8920:
+8921: Ideograph girdle; loincloth; pouch, bag CJK
+8922: Ideograph to carry in the bosom or the sleeve; to wrap, to conceal CJK
+8923:
+8924:
+8925: Ideograph mattress, cushion; bedding CJK
+8926: Ideograph stupid, dull, ignorant, doltish; (Cant.) to tie up, bind CJK
+8927: Ideograph unlined clothes; light overcoat CJK
+8928:
+8929:
+892A: Ideograph strip, undress; fall off; fade CJK
+892B: Ideograph strip, tear off, undress CJK
+892C:
+892D:
+892E:
+892F: Ideograph children's garments. a mat for wrapping garments CJK
+8930: Ideograph underclothing; to pick up one's skirts CJK
+8931: Ideograph to carry in the bosom or the sleeve; to wrap, to conceal CJK
+8932: Ideograph trousers, pants CJK
+8933: Ideograph folding purse inserted in belt CJK
+8934: Ideograph ragged, tattered, threadbare CJK
+8935: Ideograph bridal veil CJK
+8936: Ideograph pleat, crease, wrinkles CJK
+8937:
+8938: Ideograph lapel, collar; tattered, threadbare CJK
+8939:
+893A: Ideograph dirty, ragged; undress, to treat with irreverence CJK
+893B: Ideograph dirty, ragged; slight, insult, treat with disrespect CJK
+893C:
+893D: Ideograph cushion CJK
+893E:
+893F:
+8940: Ideograph a pleat, fold, tuck, crease CJK
+8941: Ideograph swaddling clothes CJK
+8942:
+8943: Ideograph commend, honor, cite CJK
+8944: Ideograph aid, help, assist; undress CJK
+8945:
+8946: Ideograph hood or cowl CJK
+8947: Ideograph folds CJK
+8948:
+8949:
+894A:
+894B: Ideograph collar CJK
+894C: Ideograph unlined garment CJK
+894D: Ideograph mixed, blended; mix, mingle CJK
+894E:
+894F: Ideograph raincoat CJK
+8950:
+8951:
+8952:
+8953:
+8954:
+8955:
+8956: Ideograph outer garments; coat, jacket CJK
+8957:
+8958:
+8959:
+895A: Ideograph grave clothes CJK
+895B: Ideograph fine clothes CJK
+895C: Ideograph flutter; shaking or vibrating CJK
+895D: Ideograph draw one's hands into sleeve CJK
+895E: Ideograph fold, pleat, crease CJK
+895F: Ideograph lapel, collar CJK
+8960: Ideograph crotch or seat of pants; pants CJK
+8961: Ideograph short coat CJK
+8962: Ideograph strip; lay bare; bared; naked CJK
+8963:
+8964: Ideograph ragged, tattered, threadbare CJK
+8965:
+8966: Ideograph short coat, jacket; fine silk fab CJK
+8967:
+8968:
+8969:
+896A: Ideograph socks, stockings CJK
+896B: Ideograph raincoat CJK
+896C: Ideograph lower part of a robe CJK
+896D: Ideograph tuck up hem of garment and wrap CJK
+896E: Ideograph collar; to expose CJK
+896F: Ideograph underwear; inner garments CJK
+8970:
+8971: Ideograph legs of trousers; overalls worn by workmen CJK
+8972: Ideograph raid, attack; inherit CJK
+8973:
+8974: Ideograph a one piece garment CJK
+8975: Ideograph a pleat in a skirt CJK
+8976: Ideograph ignorant; naive; unsophisticated CJK
+8977: Ideograph a cord for holding up sleeves CJK
+8978:
+8979:
+897A:
+897B: Ideograph a loop; a belt or band CJK
+897C: Ideograph 'kimono' sleeve CJK
+897D:
+897E: Ideograph cover; KangXi radical 146 CJK
+897F: Ideograph west(ern); westward, occident CJK
+8980: Ideograph variant of radical 146 CJK
+8981: Ideograph necessary, essential; necessity CJK
+8982: Ideograph to throw a rider CJK
+8983: Ideograph reach to, spread to; extensive CJK
+8984:
+8985:
+8986: Ideograph cover; tip over; return; reply CJK
+8987: Ideograph rule by might rather than right CJK
+8988: Ideograph investigate, consider, examine CJK
+8989: Ideograph variant of 羇 U+7F87, inn; to lodge; to travel CJK
+898A: Ideograph halter; restrain, hold, control CJK
+898B: Ideograph see, observe, behold; perceive CJK
+898C: Ideograph see, observe, view; appearance CJK
+898D:
+898E: Ideograph place name CJK
+898F: Ideograph rules, regulations, customs, law CJK
+8990: Ideograph to sleep; to realize, feel CJK
+8991:
+8992:
+8993: Ideograph seek; search CJK
+8994: Ideograph to search for; to look after CJK
+8995:
+8996: Ideograph look at, inspect, observe, see CJK
+8997: Ideograph peek CJK
+8998: Ideograph peek; spy on, watch; investigate CJK
+8999: Ideograph explain in detail CJK
+899A: Ideograph to wake up from sleep; conscious CJK
+899B:
+899C: Ideograph mission CJK
+899D:
+899E:
+899F:
+89A0:
+89A1: Ideograph wizard CJK
+89A2:
+89A3:
+89A4:
+89A5: Ideograph ashamed CJK
+89A6: Ideograph desire strongly, covet, long for CJK
+89A7: Ideograph look at, inspect; perceive CJK
+89A8:
+89A9: Ideograph see, gaze at, witness CJK
+89AA: Ideograph relatives, parents; intimate CJK
+89AB:
+89AC: Ideograph covet, long for, desire CJK
+89AD:
+89AE:
+89AF: Ideograph meet or see unexpectedly CJK
+89B0: Ideograph to spy; to watch for CJK
+89B1:
+89B2: Ideograph have imperial audience CJK
+89B3: Ideograph see, observe, view; appearance CJK
+89B4:
+89B5: Ideograph steal look; peep at; spy on CJK
+89B6: Ideograph to look about; order, sequence; complicated thought which is not easy to express CJK
+89B7: Ideograph peep at; watch, spy on CJK
+89B8: Ideograph steal look; peep at; spy on CJK
+89B9:
+89BA: Ideograph to wake up from sleep; conscious CJK
+89BB:
+89BC: Ideograph to explain in detail CJK
+89BD: Ideograph look at, inspect; perceive CJK
+89BE:
+89BF: Ideograph see; interview; be admitted to audience CJK
+89C0: Ideograph see, observe, view; appearance CJK
+89C1: Ideograph see, observe, behold; perceive CJK
+89C2: Ideograph see, observe, view; appearance CJK
+89C3: Ideograph place name CJK
+89C4: Ideograph rules, regulations, customs, law CJK
+89C5: Ideograph seek; search CJK
+89C6: Ideograph look at, inspect, observe, see CJK
+89C7: Ideograph peek; spy on, watch; investigate CJK
+89C8: Ideograph look at, inspect; perceive CJK
+89C9: Ideograph to wake up from sleep; conscious CJK
+89CA: Ideograph covet, long for, desire CJK
+89CB: Ideograph wizard CJK
+89CC: Ideograph see; interview; be admitted to audience CJK
+89CD: Ideograph ashamed CJK
+89CE: Ideograph desire strongly, covet, long for CJK
+89CF: Ideograph meet or see unexpectedly CJK
+89D0: Ideograph have imperial audience CJK
+89D1: Ideograph peep at; watch, spy on CJK
+89D2: Ideograph horn; angle, corner; point CJK
+89D3:
+89D4: Ideograph catty CJK
+89D5: Ideograph coarse, rough, rude CJK
+89D6: Ideograph to long for; dissatisfied to criticize CJK
+89D7:
+89D8:
+89D9:
+89DA: Ideograph jug, winecup, goblet; square CJK
+89DB:
+89DC: Ideograph beak CJK
+89DD: Ideograph gore, butt; resist; push CJK
+89DE: Ideograph wine vessel; propose toast; feast CJK
+89DF:
+89E0:
+89E1: Ideograph antlers CJK
+89E2:
+89E3: Ideograph loosen, unfasten, untie; explain CJK
+89E4:
+89E5: Ideograph a cup made of horn obstinate CJK
+89E6: Ideograph butt, ram, gore; touch CJK
+89E7: Ideograph loosen, unfasten, untie; explain CJK
+89E8:
+89E9: Ideograph strong CJK
+89EA:
+89EB: Ideograph to start, tremble with fear CJK
+89EC:
+89ED: Ideograph one turning up and one turning down CJK
+89EE:
+89EF: Ideograph wine goblet made from horn CJK
+89F0:
+89F1: Ideograph tartar horn; chilly wind CJK
+89F2:
+89F3: Ideograph an ancient measure; a goblet; mean; frightened CJK
+89F4: Ideograph wine vessel; propose toast; feast CJK
+89F5: Ideograph a cup made of rhinoceros horn CJK
+89F6: Ideograph wine goblet made from horn CJK
+89F7: Ideograph to process or carve horns CJK
+89F8: Ideograph touch; butt, ram, gore CJK
+89F9:
+89FA:
+89FB:
+89FC: Ideograph buckle CJK
+89FD:
+89FE:
+89FF: Ideograph a bodkin made of ivory, horn CJK

@@ -1,5 +1,7 @@
 popular: Чаще всего ищут
 new-year-and-christmas-symbols: Новогодние символы
+olympic-symbols: Олимпийские символы
+emoji: Эмоджи (эмодзи)
 chess-symbols: Символы шахматных фигур
 hearts-symbols: Сердечки
 signs-of-the-zodiac: Знаки зодиака
@@ -14,3 +16,8 @@ music-symbols: Музыкальные символы
 flowers-symbols: Символы цветов
 greek-symbols: Греческие символы
 social-symbols: Символы для Вконтакте
+esperanto: Алфавит эсперанто
+animals: Животные
+valentine: День святого Валентина
+planets: Планеты
+

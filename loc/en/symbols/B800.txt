@@ -1,256 +1,256 @@
-B800 : Hangul syllable reoss
-B801 : Hangul syllable reong
-B802 : Hangul syllable reoj
-B803 : Hangul syllable reoc
-B804 : Hangul syllable reok
-B805 : Hangul syllable reot
-B806 : Hangul syllable reop
-B807 : Hangul syllable reoh
-B808 : Hangul syllable re
-B809 : Hangul syllable reg
-B80A : Hangul syllable regg
-B80B : Hangul syllable regs
-B80C : Hangul syllable ren
-B80D : Hangul syllable renj
-B80E : Hangul syllable renh
-B80F : Hangul syllable red
-B810 : Hangul syllable rel
-B811 : Hangul syllable relg
-B812 : Hangul syllable relm
-B813 : Hangul syllable relb
-B814 : Hangul syllable rels
-B815 : Hangul syllable relt
-B816 : Hangul syllable relp
-B817 : Hangul syllable relh
-B818 : Hangul syllable rem
-B819 : Hangul syllable reb
-B81A : Hangul syllable rebs
-B81B : Hangul syllable res
-B81C : Hangul syllable ress
-B81D : Hangul syllable reng
-B81E : Hangul syllable rej
-B81F : Hangul syllable rec
-B820 : Hangul syllable rek
-B821 : Hangul syllable ret
-B822 : Hangul syllable rep
-B823 : Hangul syllable reh
-B824 : Hangul syllable ryeo
-B825 : Hangul syllable ryeog
-B826 : Hangul syllable ryeogg
-B827 : Hangul syllable ryeogs
-B828 : Hangul syllable ryeon
-B829 : Hangul syllable ryeonj
-B82A : Hangul syllable ryeonh
-B82B : Hangul syllable ryeod
-B82C : Hangul syllable ryeol
-B82D : Hangul syllable ryeolg
-B82E : Hangul syllable ryeolm
-B82F : Hangul syllable ryeolb
-B830 : Hangul syllable ryeols
-B831 : Hangul syllable ryeolt
-B832 : Hangul syllable ryeolp
-B833 : Hangul syllable ryeolh
-B834 : Hangul syllable ryeom
-B835 : Hangul syllable ryeob
-B836 : Hangul syllable ryeobs
-B837 : Hangul syllable ryeos
-B838 : Hangul syllable ryeoss
-B839 : Hangul syllable ryeong
-B83A : Hangul syllable ryeoj
-B83B : Hangul syllable ryeoc
-B83C : Hangul syllable ryeok
-B83D : Hangul syllable ryeot
-B83E : Hangul syllable ryeop
-B83F : Hangul syllable ryeoh
-B840 : Hangul syllable rye
-B841 : Hangul syllable ryeg
-B842 : Hangul syllable ryegg
-B843 : Hangul syllable ryegs
-B844 : Hangul syllable ryen
-B845 : Hangul syllable ryenj
-B846 : Hangul syllable ryenh
-B847 : Hangul syllable ryed
-B848 : Hangul syllable ryel
-B849 : Hangul syllable ryelg
-B84A : Hangul syllable ryelm
-B84B : Hangul syllable ryelb
-B84C : Hangul syllable ryels
-B84D : Hangul syllable ryelt
-B84E : Hangul syllable ryelp
-B84F : Hangul syllable ryelh
-B850 : Hangul syllable ryem
-B851 : Hangul syllable ryeb
-B852 : Hangul syllable ryebs
-B853 : Hangul syllable ryes
-B854 : Hangul syllable ryess
-B855 : Hangul syllable ryeng
-B856 : Hangul syllable ryej
-B857 : Hangul syllable ryec
-B858 : Hangul syllable ryek
-B859 : Hangul syllable ryet
-B85A : Hangul syllable ryep
-B85B : Hangul syllable ryeh
-B85C : Hangul syllable ro
-B85D : Hangul syllable rog
-B85E : Hangul syllable rogg
-B85F : Hangul syllable rogs
-B860 : Hangul syllable ron
-B861 : Hangul syllable ronj
-B862 : Hangul syllable ronh
-B863 : Hangul syllable rod
-B864 : Hangul syllable rol
-B865 : Hangul syllable rolg
-B866 : Hangul syllable rolm
-B867 : Hangul syllable rolb
-B868 : Hangul syllable rols
-B869 : Hangul syllable rolt
-B86A : Hangul syllable rolp
-B86B : Hangul syllable rolh
-B86C : Hangul syllable rom
-B86D : Hangul syllable rob
-B86E : Hangul syllable robs
-B86F : Hangul syllable ros
-B870 : Hangul syllable ross
-B871 : Hangul syllable rong
-B872 : Hangul syllable roj
-B873 : Hangul syllable roc
-B874 : Hangul syllable rok
-B875 : Hangul syllable rot
-B876 : Hangul syllable rop
-B877 : Hangul syllable roh
-B878 : Hangul syllable rwa
-B879 : Hangul syllable rwag
-B87A : Hangul syllable rwagg
-B87B : Hangul syllable rwags
-B87C : Hangul syllable rwan
-B87D : Hangul syllable rwanj
-B87E : Hangul syllable rwanh
-B87F : Hangul syllable rwad
-B880 : Hangul syllable rwal
-B881 : Hangul syllable rwalg
-B882 : Hangul syllable rwalm
-B883 : Hangul syllable rwalb
-B884 : Hangul syllable rwals
-B885 : Hangul syllable rwalt
-B886 : Hangul syllable rwalp
-B887 : Hangul syllable rwalh
-B888 : Hangul syllable rwam
-B889 : Hangul syllable rwab
-B88A : Hangul syllable rwabs
-B88B : Hangul syllable rwas
-B88C : Hangul syllable rwass
-B88D : Hangul syllable rwang
-B88E : Hangul syllable rwaj
-B88F : Hangul syllable rwac
-B890 : Hangul syllable rwak
-B891 : Hangul syllable rwat
-B892 : Hangul syllable rwap
-B893 : Hangul syllable rwah
-B894 : Hangul syllable rwae
-B895 : Hangul syllable rwaeg
-B896 : Hangul syllable rwaegg
-B897 : Hangul syllable rwaegs
-B898 : Hangul syllable rwaen
-B899 : Hangul syllable rwaenj
-B89A : Hangul syllable rwaenh
-B89B : Hangul syllable rwaed
-B89C : Hangul syllable rwael
-B89D : Hangul syllable rwaelg
-B89E : Hangul syllable rwaelm
-B89F : Hangul syllable rwaelb
-B8A0 : Hangul syllable rwaels
-B8A1 : Hangul syllable rwaelt
-B8A2 : Hangul syllable rwaelp
-B8A3 : Hangul syllable rwaelh
-B8A4 : Hangul syllable rwaem
-B8A5 : Hangul syllable rwaeb
-B8A6 : Hangul syllable rwaebs
-B8A7 : Hangul syllable rwaes
-B8A8 : Hangul syllable rwaess
-B8A9 : Hangul syllable rwaeng
-B8AA : Hangul syllable rwaej
-B8AB : Hangul syllable rwaec
-B8AC : Hangul syllable rwaek
-B8AD : Hangul syllable rwaet
-B8AE : Hangul syllable rwaep
-B8AF : Hangul syllable rwaeh
-B8B0 : Hangul syllable roe
-B8B1 : Hangul syllable roeg
-B8B2 : Hangul syllable roegg
-B8B3 : Hangul syllable roegs
-B8B4 : Hangul syllable roen
-B8B5 : Hangul syllable roenj
-B8B6 : Hangul syllable roenh
-B8B7 : Hangul syllable roed
-B8B8 : Hangul syllable roel
-B8B9 : Hangul syllable roelg
-B8BA : Hangul syllable roelm
-B8BB : Hangul syllable roelb
-B8BC : Hangul syllable roels
-B8BD : Hangul syllable roelt
-B8BE : Hangul syllable roelp
-B8BF : Hangul syllable roelh
-B8C0 : Hangul syllable roem
-B8C1 : Hangul syllable roeb
-B8C2 : Hangul syllable roebs
-B8C3 : Hangul syllable roes
-B8C4 : Hangul syllable roess
-B8C5 : Hangul syllable roeng
-B8C6 : Hangul syllable roej
-B8C7 : Hangul syllable roec
-B8C8 : Hangul syllable roek
-B8C9 : Hangul syllable roet
-B8CA : Hangul syllable roep
-B8CB : Hangul syllable roeh
-B8CC : Hangul syllable ryo
-B8CD : Hangul syllable ryog
-B8CE : Hangul syllable ryogg
-B8CF : Hangul syllable ryogs
-B8D0 : Hangul syllable ryon
-B8D1 : Hangul syllable ryonj
-B8D2 : Hangul syllable ryonh
-B8D3 : Hangul syllable ryod
-B8D4 : Hangul syllable ryol
-B8D5 : Hangul syllable ryolg
-B8D6 : Hangul syllable ryolm
-B8D7 : Hangul syllable ryolb
-B8D8 : Hangul syllable ryols
-B8D9 : Hangul syllable ryolt
-B8DA : Hangul syllable ryolp
-B8DB : Hangul syllable ryolh
-B8DC : Hangul syllable ryom
-B8DD : Hangul syllable ryob
-B8DE : Hangul syllable ryobs
-B8DF : Hangul syllable ryos
-B8E0 : Hangul syllable ryoss
-B8E1 : Hangul syllable ryong
-B8E2 : Hangul syllable ryoj
-B8E3 : Hangul syllable ryoc
-B8E4 : Hangul syllable ryok
-B8E5 : Hangul syllable ryot
-B8E6 : Hangul syllable ryop
-B8E7 : Hangul syllable ryoh
-B8E8 : Hangul syllable ru
-B8E9 : Hangul syllable rug
-B8EA : Hangul syllable rugg
-B8EB : Hangul syllable rugs
-B8EC : Hangul syllable run
-B8ED : Hangul syllable runj
-B8EE : Hangul syllable runh
-B8EF : Hangul syllable rud
-B8F0 : Hangul syllable rul
-B8F1 : Hangul syllable rulg
-B8F2 : Hangul syllable rulm
-B8F3 : Hangul syllable rulb
-B8F4 : Hangul syllable ruls
-B8F5 : Hangul syllable rult
-B8F6 : Hangul syllable rulp
-B8F7 : Hangul syllable rulh
-B8F8 : Hangul syllable rum
-B8F9 : Hangul syllable rub
-B8FA : Hangul syllable rubs
-B8FB : Hangul syllable rus
-B8FC : Hangul syllable russ
-B8FD : Hangul syllable rung
-B8FE : Hangul syllable ruj
-B8FF : Hangul syllable ruc
+B800: Hangul Syllable Reoss
+B801: Hangul Syllable Reong
+B802: Hangul Syllable Reoj
+B803: Hangul Syllable Reoc
+B804: Hangul Syllable Reok
+B805: Hangul Syllable Reot
+B806: Hangul Syllable Reop
+B807: Hangul Syllable Reoh
+B808: Hangul Syllable Re
+B809: Hangul Syllable Reg
+B80A: Hangul Syllable Regg
+B80B: Hangul Syllable Regs
+B80C: Hangul Syllable Ren
+B80D: Hangul Syllable Renj
+B80E: Hangul Syllable Renh
+B80F: Hangul Syllable Red
+B810: Hangul Syllable Rel
+B811: Hangul Syllable Relg
+B812: Hangul Syllable Relm
+B813: Hangul Syllable Relb
+B814: Hangul Syllable Rels
+B815: Hangul Syllable Relt
+B816: Hangul Syllable Relp
+B817: Hangul Syllable Relh
+B818: Hangul Syllable Rem
+B819: Hangul Syllable Reb
+B81A: Hangul Syllable Rebs
+B81B: Hangul Syllable Res
+B81C: Hangul Syllable Ress
+B81D: Hangul Syllable Reng
+B81E: Hangul Syllable Rej
+B81F: Hangul Syllable Rec
+B820: Hangul Syllable Rek
+B821: Hangul Syllable Ret
+B822: Hangul Syllable Rep
+B823: Hangul Syllable Reh
+B824: Hangul Syllable Ryeo
+B825: Hangul Syllable Ryeog
+B826: Hangul Syllable Ryeogg
+B827: Hangul Syllable Ryeogs
+B828: Hangul Syllable Ryeon
+B829: Hangul Syllable Ryeonj
+B82A: Hangul Syllable Ryeonh
+B82B: Hangul Syllable Ryeod
+B82C: Hangul Syllable Ryeol
+B82D: Hangul Syllable Ryeolg
+B82E: Hangul Syllable Ryeolm
+B82F: Hangul Syllable Ryeolb
+B830: Hangul Syllable Ryeols
+B831: Hangul Syllable Ryeolt
+B832: Hangul Syllable Ryeolp
+B833: Hangul Syllable Ryeolh
+B834: Hangul Syllable Ryeom
+B835: Hangul Syllable Ryeob
+B836: Hangul Syllable Ryeobs
+B837: Hangul Syllable Ryeos
+B838: Hangul Syllable Ryeoss
+B839: Hangul Syllable Ryeong
+B83A: Hangul Syllable Ryeoj
+B83B: Hangul Syllable Ryeoc
+B83C: Hangul Syllable Ryeok
+B83D: Hangul Syllable Ryeot
+B83E: Hangul Syllable Ryeop
+B83F: Hangul Syllable Ryeoh
+B840: Hangul Syllable Rye
+B841: Hangul Syllable Ryeg
+B842: Hangul Syllable Ryegg
+B843: Hangul Syllable Ryegs
+B844: Hangul Syllable Ryen
+B845: Hangul Syllable Ryenj
+B846: Hangul Syllable Ryenh
+B847: Hangul Syllable Ryed
+B848: Hangul Syllable Ryel
+B849: Hangul Syllable Ryelg
+B84A: Hangul Syllable Ryelm
+B84B: Hangul Syllable Ryelb
+B84C: Hangul Syllable Ryels
+B84D: Hangul Syllable Ryelt
+B84E: Hangul Syllable Ryelp
+B84F: Hangul Syllable Ryelh
+B850: Hangul Syllable Ryem
+B851: Hangul Syllable Ryeb
+B852: Hangul Syllable Ryebs
+B853: Hangul Syllable Ryes
+B854: Hangul Syllable Ryess
+B855: Hangul Syllable Ryeng
+B856: Hangul Syllable Ryej
+B857: Hangul Syllable Ryec
+B858: Hangul Syllable Ryek
+B859: Hangul Syllable Ryet
+B85A: Hangul Syllable Ryep
+B85B: Hangul Syllable Ryeh
+B85C: Hangul Syllable Ro
+B85D: Hangul Syllable Rog
+B85E: Hangul Syllable Rogg
+B85F: Hangul Syllable Rogs
+B860: Hangul Syllable Ron
+B861: Hangul Syllable Ronj
+B862: Hangul Syllable Ronh
+B863: Hangul Syllable Rod
+B864: Hangul Syllable Rol
+B865: Hangul Syllable Rolg
+B866: Hangul Syllable Rolm
+B867: Hangul Syllable Rolb
+B868: Hangul Syllable Rols
+B869: Hangul Syllable Rolt
+B86A: Hangul Syllable Rolp
+B86B: Hangul Syllable Rolh
+B86C: Hangul Syllable Rom
+B86D: Hangul Syllable Rob
+B86E: Hangul Syllable Robs
+B86F: Hangul Syllable Ros
+B870: Hangul Syllable Ross
+B871: Hangul Syllable Rong
+B872: Hangul Syllable Roj
+B873: Hangul Syllable Roc
+B874: Hangul Syllable Rok
+B875: Hangul Syllable Rot
+B876: Hangul Syllable Rop
+B877: Hangul Syllable Roh
+B878: Hangul Syllable Rwa
+B879: Hangul Syllable Rwag
+B87A: Hangul Syllable Rwagg
+B87B: Hangul Syllable Rwags
+B87C: Hangul Syllable Rwan
+B87D: Hangul Syllable Rwanj
+B87E: Hangul Syllable Rwanh
+B87F: Hangul Syllable Rwad
+B880: Hangul Syllable Rwal
+B881: Hangul Syllable Rwalg
+B882: Hangul Syllable Rwalm
+B883: Hangul Syllable Rwalb
+B884: Hangul Syllable Rwals
+B885: Hangul Syllable Rwalt
+B886: Hangul Syllable Rwalp
+B887: Hangul Syllable Rwalh
+B888: Hangul Syllable Rwam
+B889: Hangul Syllable Rwab
+B88A: Hangul Syllable Rwabs
+B88B: Hangul Syllable Rwas
+B88C: Hangul Syllable Rwass
+B88D: Hangul Syllable Rwang
+B88E: Hangul Syllable Rwaj
+B88F: Hangul Syllable Rwac
+B890: Hangul Syllable Rwak
+B891: Hangul Syllable Rwat
+B892: Hangul Syllable Rwap
+B893: Hangul Syllable Rwah
+B894: Hangul Syllable Rwae
+B895: Hangul Syllable Rwaeg
+B896: Hangul Syllable Rwaegg
+B897: Hangul Syllable Rwaegs
+B898: Hangul Syllable Rwaen
+B899: Hangul Syllable Rwaenj
+B89A: Hangul Syllable Rwaenh
+B89B: Hangul Syllable Rwaed
+B89C: Hangul Syllable Rwael
+B89D: Hangul Syllable Rwaelg
+B89E: Hangul Syllable Rwaelm
+B89F: Hangul Syllable Rwaelb
+B8A0: Hangul Syllable Rwaels
+B8A1: Hangul Syllable Rwaelt
+B8A2: Hangul Syllable Rwaelp
+B8A3: Hangul Syllable Rwaelh
+B8A4: Hangul Syllable Rwaem
+B8A5: Hangul Syllable Rwaeb
+B8A6: Hangul Syllable Rwaebs
+B8A7: Hangul Syllable Rwaes
+B8A8: Hangul Syllable Rwaess
+B8A9: Hangul Syllable Rwaeng
+B8AA: Hangul Syllable Rwaej
+B8AB: Hangul Syllable Rwaec
+B8AC: Hangul Syllable Rwaek
+B8AD: Hangul Syllable Rwaet
+B8AE: Hangul Syllable Rwaep
+B8AF: Hangul Syllable Rwaeh
+B8B0: Hangul Syllable Roe
+B8B1: Hangul Syllable Roeg
+B8B2: Hangul Syllable Roegg
+B8B3: Hangul Syllable Roegs
+B8B4: Hangul Syllable Roen
+B8B5: Hangul Syllable Roenj
+B8B6: Hangul Syllable Roenh
+B8B7: Hangul Syllable Roed
+B8B8: Hangul Syllable Roel
+B8B9: Hangul Syllable Roelg
+B8BA: Hangul Syllable Roelm
+B8BB: Hangul Syllable Roelb
+B8BC: Hangul Syllable Roels
+B8BD: Hangul Syllable Roelt
+B8BE: Hangul Syllable Roelp
+B8BF: Hangul Syllable Roelh
+B8C0: Hangul Syllable Roem
+B8C1: Hangul Syllable Roeb
+B8C2: Hangul Syllable Roebs
+B8C3: Hangul Syllable Roes
+B8C4: Hangul Syllable Roess
+B8C5: Hangul Syllable Roeng
+B8C6: Hangul Syllable Roej
+B8C7: Hangul Syllable Roec
+B8C8: Hangul Syllable Roek
+B8C9: Hangul Syllable Roet
+B8CA: Hangul Syllable Roep
+B8CB: Hangul Syllable Roeh
+B8CC: Hangul Syllable Ryo
+B8CD: Hangul Syllable Ryog
+B8CE: Hangul Syllable Ryogg
+B8CF: Hangul Syllable Ryogs
+B8D0: Hangul Syllable Ryon
+B8D1: Hangul Syllable Ryonj
+B8D2: Hangul Syllable Ryonh
+B8D3: Hangul Syllable Ryod
+B8D4: Hangul Syllable Ryol
+B8D5: Hangul Syllable Ryolg
+B8D6: Hangul Syllable Ryolm
+B8D7: Hangul Syllable Ryolb
+B8D8: Hangul Syllable Ryols
+B8D9: Hangul Syllable Ryolt
+B8DA: Hangul Syllable Ryolp
+B8DB: Hangul Syllable Ryolh
+B8DC: Hangul Syllable Ryom
+B8DD: Hangul Syllable Ryob
+B8DE: Hangul Syllable Ryobs
+B8DF: Hangul Syllable Ryos
+B8E0: Hangul Syllable Ryoss
+B8E1: Hangul Syllable Ryong
+B8E2: Hangul Syllable Ryoj
+B8E3: Hangul Syllable Ryoc
+B8E4: Hangul Syllable Ryok
+B8E5: Hangul Syllable Ryot
+B8E6: Hangul Syllable Ryop
+B8E7: Hangul Syllable Ryoh
+B8E8: Hangul Syllable Ru
+B8E9: Hangul Syllable Rug
+B8EA: Hangul Syllable Rugg
+B8EB: Hangul Syllable Rugs
+B8EC: Hangul Syllable Run
+B8ED: Hangul Syllable Runj
+B8EE: Hangul Syllable Runh
+B8EF: Hangul Syllable Rud
+B8F0: Hangul Syllable Rul
+B8F1: Hangul Syllable Rulg
+B8F2: Hangul Syllable Rulm
+B8F3: Hangul Syllable Rulb
+B8F4: Hangul Syllable Ruls
+B8F5: Hangul Syllable Rult
+B8F6: Hangul Syllable Rulp
+B8F7: Hangul Syllable Rulh
+B8F8: Hangul Syllable Rum
+B8F9: Hangul Syllable Rub
+B8FA: Hangul Syllable Rubs
+B8FB: Hangul Syllable Rus
+B8FC: Hangul Syllable Russ
+B8FD: Hangul Syllable Rung
+B8FE: Hangul Syllable Ruj
+B8FF: Hangul Syllable Ruc

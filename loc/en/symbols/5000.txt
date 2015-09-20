@@ -1,256 +1,256 @@
-5000 : Cjk unified ideograph
-5001 : Cjk unified ideograph
-5002 : Cjk unified ideograph
-5003 : Cjk unified ideograph
-5004 : Cjk unified ideograph
-5005 : Cjk unified ideograph
-5006 : Cjk unified ideograph
-5007 : Cjk unified ideograph
-5008 : Cjk unified ideograph
-5009 : Cjk unified ideograph
-500A : Cjk unified ideograph
-500B : Cjk unified ideograph
-500C : Cjk unified ideograph
-500D : Cjk unified ideograph
-500E : Cjk unified ideograph
-500F : Cjk unified ideograph
-5010 : Cjk unified ideograph
-5011 : Cjk unified ideograph
-5012 : Cjk unified ideograph
-5013 : Cjk unified ideograph
-5014 : Cjk unified ideograph
-5015 : Cjk unified ideograph
-5016 : Cjk unified ideograph
-5017 : Cjk unified ideograph
-5018 : Cjk unified ideograph
-5019 : Cjk unified ideograph
-501A : Cjk unified ideograph
-501B : Cjk unified ideograph
-501C : Cjk unified ideograph
-501D : Cjk unified ideograph
-501E : Cjk unified ideograph
-501F : Cjk unified ideograph
-5020 : Cjk unified ideograph
-5021 : Cjk unified ideograph
-5022 : Cjk unified ideograph
-5023 : Cjk unified ideograph
-5024 : Cjk unified ideograph
-5025 : Cjk unified ideograph
-5026 : Cjk unified ideograph
-5027 : Cjk unified ideograph
-5028 : Cjk unified ideograph
-5029 : Cjk unified ideograph
-502A : Cjk unified ideograph
-502B : Cjk unified ideograph
-502C : Cjk unified ideograph
-502D : Cjk unified ideograph
-502E : Cjk unified ideograph
-502F : Cjk unified ideograph
-5030 : Cjk unified ideograph
-5031 : Cjk unified ideograph
-5032 : Cjk unified ideograph
-5033 : Cjk unified ideograph
-5034 : Cjk unified ideograph
-5035 : Cjk unified ideograph
-5036 : Cjk unified ideograph
-5037 : Cjk unified ideograph
-5038 : Cjk unified ideograph
-5039 : Cjk unified ideograph
-503A : Cjk unified ideograph
-503B : Cjk unified ideograph
-503C : Cjk unified ideograph
-503D : Cjk unified ideograph
-503E : Cjk unified ideograph
-503F : Cjk unified ideograph
-5040 : Cjk unified ideograph
-5041 : Cjk unified ideograph
-5042 : Cjk unified ideograph
-5043 : Cjk unified ideograph
-5044 : Cjk unified ideograph
-5045 : Cjk unified ideograph
-5046 : Cjk unified ideograph
-5047 : Cjk unified ideograph
-5048 : Cjk unified ideograph
-5049 : Cjk unified ideograph
-504A : Cjk unified ideograph
-504B : Cjk unified ideograph
-504C : Cjk unified ideograph
-504D : Cjk unified ideograph
-504E : Cjk unified ideograph
-504F : Cjk unified ideograph
-5050 : Cjk unified ideograph
-5051 : Cjk unified ideograph
-5052 : Cjk unified ideograph
-5053 : Cjk unified ideograph
-5054 : Cjk unified ideograph
-5055 : Cjk unified ideograph
-5056 : Cjk unified ideograph
-5057 : Cjk unified ideograph
-5058 : Cjk unified ideograph
-5059 : Cjk unified ideograph
-505A : Cjk unified ideograph
-505B : Cjk unified ideograph
-505C : Cjk unified ideograph
-505D : Cjk unified ideograph
-505E : Cjk unified ideograph
-505F : Cjk unified ideograph
-5060 : Cjk unified ideograph
-5061 : Cjk unified ideograph
-5062 : Cjk unified ideograph
-5063 : Cjk unified ideograph
-5064 : Cjk unified ideograph
-5065 : Cjk unified ideograph
-5066 : Cjk unified ideograph
-5067 : Cjk unified ideograph
-5068 : Cjk unified ideograph
-5069 : Cjk unified ideograph
-506A : Cjk unified ideograph
-506B : Cjk unified ideograph
-506C : Cjk unified ideograph
-506D : Cjk unified ideograph
-506E : Cjk unified ideograph
-506F : Cjk unified ideograph
-5070 : Cjk unified ideograph
-5071 : Cjk unified ideograph
-5072 : Cjk unified ideograph
-5073 : Cjk unified ideograph
-5074 : Cjk unified ideograph
-5075 : Cjk unified ideograph
-5076 : Cjk unified ideograph
-5077 : Cjk unified ideograph
-5078 : Cjk unified ideograph
-5079 : Cjk unified ideograph
-507A : Cjk unified ideograph
-507B : Cjk unified ideograph
-507C : Cjk unified ideograph
-507D : Cjk unified ideograph
-507E : Cjk unified ideograph
-507F : Cjk unified ideograph
-5080 : Cjk unified ideograph
-5081 : Cjk unified ideograph
-5082 : Cjk unified ideograph
-5083 : Cjk unified ideograph
-5084 : Cjk unified ideograph
-5085 : Cjk unified ideograph
-5086 : Cjk unified ideograph
-5087 : Cjk unified ideograph
-5088 : Cjk unified ideograph
-5089 : Cjk unified ideograph
-508A : Cjk unified ideograph
-508B : Cjk unified ideograph
-508C : Cjk unified ideograph
-508D : Cjk unified ideograph
-508E : Cjk unified ideograph
-508F : Cjk unified ideograph
-5090 : Cjk unified ideograph
-5091 : Cjk unified ideograph
-5092 : Cjk unified ideograph
-5093 : Cjk unified ideograph
-5094 : Cjk unified ideograph
-5095 : Cjk unified ideograph
-5096 : Cjk unified ideograph
-5097 : Cjk unified ideograph
-5098 : Cjk unified ideograph
-5099 : Cjk unified ideograph
-509A : Cjk unified ideograph
-509B : Cjk unified ideograph
-509C : Cjk unified ideograph
-509D : Cjk unified ideograph
-509E : Cjk unified ideograph
-509F : Cjk unified ideograph
-50A0 : Cjk unified ideograph
-50A1 : Cjk unified ideograph
-50A2 : Cjk unified ideograph
-50A3 : Cjk unified ideograph
-50A4 : Cjk unified ideograph
-50A5 : Cjk unified ideograph
-50A6 : Cjk unified ideograph
-50A7 : Cjk unified ideograph
-50A8 : Cjk unified ideograph
-50A9 : Cjk unified ideograph
-50AA : Cjk unified ideograph
-50AB : Cjk unified ideograph
-50AC : Cjk unified ideograph
-50AD : Cjk unified ideograph
-50AE : Cjk unified ideograph
-50AF : Cjk unified ideograph
-50B0 : Cjk unified ideograph
-50B1 : Cjk unified ideograph
-50B2 : Cjk unified ideograph
-50B3 : Cjk unified ideograph
-50B4 : Cjk unified ideograph
-50B5 : Cjk unified ideograph
-50B6 : Cjk unified ideograph
-50B7 : Cjk unified ideograph
-50B8 : Cjk unified ideograph
-50B9 : Cjk unified ideograph
-50BA : Cjk unified ideograph
-50BB : Cjk unified ideograph
-50BC : Cjk unified ideograph
-50BD : Cjk unified ideograph
-50BE : Cjk unified ideograph
-50BF : Cjk unified ideograph
-50C0 : Cjk unified ideograph
-50C1 : Cjk unified ideograph
-50C2 : Cjk unified ideograph
-50C3 : Cjk unified ideograph
-50C4 : Cjk unified ideograph
-50C5 : Cjk unified ideograph
-50C6 : Cjk unified ideograph
-50C7 : Cjk unified ideograph
-50C8 : Cjk unified ideograph
-50C9 : Cjk unified ideograph
-50CA : Cjk unified ideograph
-50CB : Cjk unified ideograph
-50CC : Cjk unified ideograph
-50CD : Cjk unified ideograph
-50CE : Cjk unified ideograph
-50CF : Cjk unified ideograph
-50D0 : Cjk unified ideograph
-50D1 : Cjk unified ideograph
-50D2 : Cjk unified ideograph
-50D3 : Cjk unified ideograph
-50D4 : Cjk unified ideograph
-50D5 : Cjk unified ideograph
-50D6 : Cjk unified ideograph
-50D7 : Cjk unified ideograph
-50D8 : Cjk unified ideograph
-50D9 : Cjk unified ideograph
-50DA : Cjk unified ideograph
-50DB : Cjk unified ideograph
-50DC : Cjk unified ideograph
-50DD : Cjk unified ideograph
-50DE : Cjk unified ideograph
-50DF : Cjk unified ideograph
-50E0 : Cjk unified ideograph
-50E1 : Cjk unified ideograph
-50E2 : Cjk unified ideograph
-50E3 : Cjk unified ideograph
-50E4 : Cjk unified ideograph
-50E5 : Cjk unified ideograph
-50E6 : Cjk unified ideograph
-50E7 : Cjk unified ideograph
-50E8 : Cjk unified ideograph
-50E9 : Cjk unified ideograph
-50EA : Cjk unified ideograph
-50EB : Cjk unified ideograph
-50EC : Cjk unified ideograph
-50ED : Cjk unified ideograph
-50EE : Cjk unified ideograph
-50EF : Cjk unified ideograph
-50F0 : Cjk unified ideograph
-50F1 : Cjk unified ideograph
-50F2 : Cjk unified ideograph
-50F3 : Cjk unified ideograph
-50F4 : Cjk unified ideograph
-50F5 : Cjk unified ideograph
-50F6 : Cjk unified ideograph
-50F7 : Cjk unified ideograph
-50F8 : Cjk unified ideograph
-50F9 : Cjk unified ideograph
-50FA : Cjk unified ideograph
-50FB : Cjk unified ideograph
-50FC : Cjk unified ideograph
-50FD : Cjk unified ideograph
-50FE : Cjk unified ideograph
-50FF : Cjk unified ideograph
+5000: Ideograph bewildered; rash, wildly CJK
+5001:
+5002: Ideograph combine CJK
+5003: Ideograph damage, destroy CJK
+5004:
+5005: Ideograph deputy, vice- CJK
+5006: Ideograph clever, skilled; two, pair CJK
+5007:
+5008: Ideograph to induce to come; to encourage CJK
+5009: Ideograph granary; berth; sea CJK
+500A:
+500B: Ideograph numerary adjunct, piece; single CJK
+500C: Ideograph assistant in wine shop, groom CJK
+500D: Ideograph times, fold, multiple times CJK
+500E:
+500F: Ideograph hastily, suddenly, abruptly CJK
+5010: Ideograph hastily; suddenly CJK
+5011: Ideograph adjunct pronoun indicate plural CJK
+5012: Ideograph fall over; lie down; take turns CJK
+5013:
+5014: Ideograph stubborn, obstinate, intransigent; firm CJK
+5015:
+5016: Ideograph lucky, fortunate; dote on, spoil CJK
+5017:
+5018: Ideograph if, supposing, in event of CJK
+5019: Ideograph wait; expect; visit; greet CJK
+501A: Ideograph rely on, depend on; lean heavily CJK
+501B:
+501C: Ideograph raise high; unrestrained CJK
+501D: Ideograph sunrise; dawn CJK
+501E: Ideograph far CJK
+501F: Ideograph borrow; lend; make pretext of CJK
+5020:
+5021: Ideograph guide, leader; lead, introduce CJK
+5022: Ideograph beautiful, handsome; woman CJK
+5023: Ideograph imitate CJK
+5024: Ideograph price, cost, worth CJK
+5025: Ideograph boorish, ignorant; urgent, pressing CJK
+5026: Ideograph be tired of, weary CJK
+5027:
+5028: Ideograph arrogant, haughty, rude CJK
+5029: Ideograph beautiful, lovely; son-in-law CJK
+502A: Ideograph feeble, tiny, young and weak CJK
+502B: Ideograph normal human relationships CJK
+502C: Ideograph noticeable, large; clear, distinct CJK
+502D: Ideograph dwarf; dwarfish, short CJK
+502E: Ideograph bare, naked, uncovered CJK
+502F:
+5030:
+5031:
+5032:
+5033: Ideograph to stick in, to stab; to erect CJK
+5034:
+5035:
+5036: Ideograph all CJK
+5037:
+5038:
+5039: Ideograph temperate, frugal, economical CJK
+503A: Ideograph debt, loan, liabilities CJK
+503B: Ideograph phonetic used in Korean place names CJK
+503C: Ideograph price CJK
+503D: Ideograph what; which; who; why CJK
+503E: Ideograph upset, pour out, overflow CJK
+503F:
+5040:
+5041: Ideograph state CJK
+5042:
+5043: Ideograph cease, lay off, lay down CJK
+5044: Ideograph weak CJK
+5045:
+5046:
+5047: Ideograph falsehood, deception; vacation CJK
+5048: Ideograph brave; martial; hasty; scudding CJK
+5049: Ideograph great, robust; extraordinary CJK
+504A: Ideograph to walk alone; self-reliant CJK
+504B:
+504C: Ideograph thus, so, like, such CJK
+504D:
+504E: Ideograph cling to, cuddle, embrace, fondle CJK
+504F: Ideograph inclined one side; slanting CJK
+5050: Ideograph false, counterfeit, spurious CJK
+5051:
+5052:
+5053: Ideograph to fuss CJK
+5054:
+5055: Ideograph together; be in order CJK
+5056: Ideograph rip up, tear down; raise; haul CJK
+5057:
+5058: Ideograph ancient family name CJK
+5059:
+505A: Ideograph work, make; act CJK
+505B:
+505C: Ideograph stop, suspend, delay; suitable CJK
+505D: Ideograph not facing; desert CJK
+505E:
+505F: Ideograph agitated; alarmed CJK
+5060:
+5061:
+5062: Ideograph to stare at CJK
+5063:
+5064:
+5065: Ideograph strong, robust, healthy; strength CJK
+5066:
+5067:
+5068: Ideograph uneven CJK
+5069: Ideograph follow CJK
+506A: Ideograph compel, pressure, force; bother CJK
+506B: Ideograph wait for; lay in CJK
+506C: Ideograph urgent CJK
+506D: Ideograph transgress CJK
+506E:
+506F: Ideograph sob CJK
+5070:
+5071:
+5072: Ideograph talented; urgent CJK
+5073:
+5074: Ideograph side; incline, slant, lean CJK
+5075: Ideograph spy, reconnoiter; detective CJK
+5076: Ideograph accidentally, coincidently; an idol CJK
+5077: Ideograph to steal, burglar, thief CJK
+5078: Ideograph to steal CJK
+5079: Ideograph prepare, ready, perfect CJK
+507A: Ideograph (same as U+54B1 咱) we, us CJK
+507B: Ideograph humpback; surname CJK
+507C:
+507D: Ideograph false, counterfeit, bogus CJK
+507E: Ideograph ruin, cause fail; overthrown CJK
+507F: Ideograph repay, recompense; restitution CJK
+5080: Ideograph great, gigantic; puppet CJK
+5081: Ideograph old man CJK
+5082:
+5083:
+5084:
+5085: Ideograph tutor, teacher; assist; surname CJK
+5086:
+5087:
+5088: Ideograph tribe CJK
+5089:
+508A:
+508B:
+508C: Ideograph to curse, to revile, to abuse; to scold CJK
+508D: Ideograph by side of, beside, near, close CJK
+508E: Ideograph topple CJK
+508F: Ideograph to ward off; to parry; to keep out, as wind, rain, or cold CJK
+5090:
+5091: Ideograph hero; outstanding, remarkable CJK
+5092: Ideograph personal name; servant CJK
+5093:
+5094: Ideograph servant CJK
+5095: Ideograph used in old names CJK
+5096: Ideograph vulgar person, country man CJK
+5097:
+5098: Ideograph umbrella, parasol, parachute CJK
+5099: Ideograph prepare, ready, perfect CJK
+509A: Ideograph imitate, mimic CJK
+509B:
+509C: Ideograph a minority tribe CJK
+509D:
+509E: Ideograph unsteady CJK
+509F:
+50A0:
+50A1:
+50A2: Ideograph stubborn, obstinate, intransigent CJK
+50A3: Ideograph the Dai minority living in South China CJK
+50A4:
+50A5: Ideograph if, supposing, in case CJK
+50A6:
+50A7: Ideograph entertain guests CJK
+50A8: Ideograph save money, store, reserve; heir CJK
+50A9: Ideograph rich CJK
+50AA:
+50AB: Ideograph tired, exhausted; surname CJK
+50AC: Ideograph press, urge CJK
+50AD: Ideograph hire, employ, charter; servant CJK
+50AE: Ideograph finish, to go around CJK
+50AF: Ideograph urgent CJK
+50B0:
+50B1:
+50B2: Ideograph proud, haughty, overbearing CJK
+50B3: Ideograph summon; propagate, transmit CJK
+50B4: Ideograph humpback; stoop CJK
+50B5: Ideograph debt, loan, liabilities CJK
+50B6:
+50B7: Ideograph wound, injury; fall ill from CJK
+50B8:
+50B9:
+50BA: Ideograph to hinder; to detain CJK
+50BB: Ideograph foolish, silly, stupid; an imbecile CJK
+50BC: Ideograph surname CJK
+50BD: Ideograph terror-stricken CJK
+50BE: Ideograph upset, pour out, overflow CJK
+50BF:
+50C0:
+50C1:
+50C2: Ideograph humpback; surname CJK
+50C3: Ideograph prepared CJK
+50C4: Ideograph light; airy CJK
+50C5: Ideograph only, merely, solely, just CJK
+50C6:
+50C7: Ideograph humiliate; treat with contempt CJK
+50C8: Ideograph negligent, remiss CJK
+50C9: Ideograph all, together, unanimous CJK
+50CA: Ideograph Taoist super-being, transcendent, immortal CJK
+50CB:
+50CC:
+50CD: Ideograph labor; work CJK
+50CE: Ideograph collect CJK
+50CF: Ideograph a picture, image, figure; to resemble CJK
+50D0:
+50D1: Ideograph sojourn, lodge CJK
+50D2:
+50D3:
+50D4:
+50D5: Ideograph slave, servant, I CJK
+50D6: Ideograph joy, gladness, delight; surname CJK
+50D7:
+50D8:
+50D9:
+50DA: Ideograph companion, colleague; officials; bureaucracy; a pretty face CJK
+50DB:
+50DC:
+50DD: Ideograph to revile; to abuse CJK
+50DE: Ideograph false, counterfeit, bogus CJK
+50DF:
+50E0:
+50E1:
+50E2:
+50E3: Ideograph assume, usurp CJK
+50E4: Ideograph sincere CJK
+50E5: Ideograph be lucky; by chance, by luck CJK
+50E6: Ideograph to heir; to rent CJK
+50E7: Ideograph Buddhist priest, monk; san of Sanskrit sangha CJK
+50E8: Ideograph ruin, cause fail; overthrown CJK
+50E9: Ideograph courageous; martial; dignified CJK
+50EA:
+50EB:
+50EC: Ideograph clever; alert in mind pigmies CJK
+50ED: Ideograph assume, usurp CJK
+50EE: Ideograph page, boy servant CJK
+50EF: Ideograph ashamed CJK
+50F0: Ideograph ancient aboriginal tribe CJK
+50F1: Ideograph employ, hire CJK
+50F2:
+50F3: Ideograph minority name CJK
+50F4:
+50F5: Ideograph stiff and motionless, stock still CJK
+50F6: Ideograph forcefully CJK
+50F7:
+50F8:
+50F9: Ideograph price, value CJK
+50FA:
+50FB: Ideograph out-of-the-way, remote; unorthodox CJK
+50FC:
+50FD:
+50FE: Ideograph like CJK
+50FF: Ideograph small, minute; lacking sincerity CJK

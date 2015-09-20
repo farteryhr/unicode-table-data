@@ -1,256 +1,256 @@
-5600 : Cjk unified ideograph
-5601 : Cjk unified ideograph
-5602 : Cjk unified ideograph
-5603 : Cjk unified ideograph
-5604 : Cjk unified ideograph
-5605 : Cjk unified ideograph
-5606 : Cjk unified ideograph
-5607 : Cjk unified ideograph
-5608 : Cjk unified ideograph
-5609 : Cjk unified ideograph
-560A : Cjk unified ideograph
-560B : Cjk unified ideograph
-560C : Cjk unified ideograph
-560D : Cjk unified ideograph
-560E : Cjk unified ideograph
-560F : Cjk unified ideograph
-5610 : Cjk unified ideograph
-5611 : Cjk unified ideograph
-5612 : Cjk unified ideograph
-5613 : Cjk unified ideograph
-5614 : Cjk unified ideograph
-5615 : Cjk unified ideograph
-5616 : Cjk unified ideograph
-5617 : Cjk unified ideograph
-5618 : Cjk unified ideograph
-5619 : Cjk unified ideograph
-561A : Cjk unified ideograph
-561B : Cjk unified ideograph
-561C : Cjk unified ideograph
-561D : Cjk unified ideograph
-561E : Cjk unified ideograph
-561F : Cjk unified ideograph
-5620 : Cjk unified ideograph
-5621 : Cjk unified ideograph
-5622 : Cjk unified ideograph
-5623 : Cjk unified ideograph
-5624 : Cjk unified ideograph
-5625 : Cjk unified ideograph
-5626 : Cjk unified ideograph
-5627 : Cjk unified ideograph
-5628 : Cjk unified ideograph
-5629 : Cjk unified ideograph
-562A : Cjk unified ideograph
-562B : Cjk unified ideograph
-562C : Cjk unified ideograph
-562D : Cjk unified ideograph
-562E : Cjk unified ideograph
-562F : Cjk unified ideograph
-5630 : Cjk unified ideograph
-5631 : Cjk unified ideograph
-5632 : Cjk unified ideograph
-5633 : Cjk unified ideograph
-5634 : Cjk unified ideograph
-5635 : Cjk unified ideograph
-5636 : Cjk unified ideograph
-5637 : Cjk unified ideograph
-5638 : Cjk unified ideograph
-5639 : Cjk unified ideograph
-563A : Cjk unified ideograph
-563B : Cjk unified ideograph
-563C : Cjk unified ideograph
-563D : Cjk unified ideograph
-563E : Cjk unified ideograph
-563F : Cjk unified ideograph
-5640 : Cjk unified ideograph
-5641 : Cjk unified ideograph
-5642 : Cjk unified ideograph
-5643 : Cjk unified ideograph
-5644 : Cjk unified ideograph
-5645 : Cjk unified ideograph
-5646 : Cjk unified ideograph
-5647 : Cjk unified ideograph
-5648 : Cjk unified ideograph
-5649 : Cjk unified ideograph
-564A : Cjk unified ideograph
-564B : Cjk unified ideograph
-564C : Cjk unified ideograph
-564D : Cjk unified ideograph
-564E : Cjk unified ideograph
-564F : Cjk unified ideograph
-5650 : Cjk unified ideograph
-5651 : Cjk unified ideograph
-5652 : Cjk unified ideograph
-5653 : Cjk unified ideograph
-5654 : Cjk unified ideograph
-5655 : Cjk unified ideograph
-5656 : Cjk unified ideograph
-5657 : Cjk unified ideograph
-5658 : Cjk unified ideograph
-5659 : Cjk unified ideograph
-565A : Cjk unified ideograph
-565B : Cjk unified ideograph
-565C : Cjk unified ideograph
-565D : Cjk unified ideograph
-565E : Cjk unified ideograph
-565F : Cjk unified ideograph
-5660 : Cjk unified ideograph
-5661 : Cjk unified ideograph
-5662 : Cjk unified ideograph
-5663 : Cjk unified ideograph
-5664 : Cjk unified ideograph
-5665 : Cjk unified ideograph
-5666 : Cjk unified ideograph
-5667 : Cjk unified ideograph
-5668 : Cjk unified ideograph
-5669 : Cjk unified ideograph
-566A : Cjk unified ideograph
-566B : Cjk unified ideograph
-566C : Cjk unified ideograph
-566D : Cjk unified ideograph
-566E : Cjk unified ideograph
-566F : Cjk unified ideograph
-5670 : Cjk unified ideograph
-5671 : Cjk unified ideograph
-5672 : Cjk unified ideograph
-5673 : Cjk unified ideograph
-5674 : Cjk unified ideograph
-5675 : Cjk unified ideograph
-5676 : Cjk unified ideograph
-5677 : Cjk unified ideograph
-5678 : Cjk unified ideograph
-5679 : Cjk unified ideograph
-567A : Cjk unified ideograph
-567B : Cjk unified ideograph
-567C : Cjk unified ideograph
-567D : Cjk unified ideograph
-567E : Cjk unified ideograph
-567F : Cjk unified ideograph
-5680 : Cjk unified ideograph
-5681 : Cjk unified ideograph
-5682 : Cjk unified ideograph
-5683 : Cjk unified ideograph
-5684 : Cjk unified ideograph
-5685 : Cjk unified ideograph
-5686 : Cjk unified ideograph
-5687 : Cjk unified ideograph
-5688 : Cjk unified ideograph
-5689 : Cjk unified ideograph
-568A : Cjk unified ideograph
-568B : Cjk unified ideograph
-568C : Cjk unified ideograph
-568D : Cjk unified ideograph
-568E : Cjk unified ideograph
-568F : Cjk unified ideograph
-5690 : Cjk unified ideograph
-5691 : Cjk unified ideograph
-5692 : Cjk unified ideograph
-5693 : Cjk unified ideograph
-5694 : Cjk unified ideograph
-5695 : Cjk unified ideograph
-5696 : Cjk unified ideograph
-5697 : Cjk unified ideograph
-5698 : Cjk unified ideograph
-5699 : Cjk unified ideograph
-569A : Cjk unified ideograph
-569B : Cjk unified ideograph
-569C : Cjk unified ideograph
-569D : Cjk unified ideograph
-569E : Cjk unified ideograph
-569F : Cjk unified ideograph
-56A0 : Cjk unified ideograph
-56A1 : Cjk unified ideograph
-56A2 : Cjk unified ideograph
-56A3 : Cjk unified ideograph
-56A4 : Cjk unified ideograph
-56A5 : Cjk unified ideograph
-56A6 : Cjk unified ideograph
-56A7 : Cjk unified ideograph
-56A8 : Cjk unified ideograph
-56A9 : Cjk unified ideograph
-56AA : Cjk unified ideograph
-56AB : Cjk unified ideograph
-56AC : Cjk unified ideograph
-56AD : Cjk unified ideograph
-56AE : Cjk unified ideograph
-56AF : Cjk unified ideograph
-56B0 : Cjk unified ideograph
-56B1 : Cjk unified ideograph
-56B2 : Cjk unified ideograph
-56B3 : Cjk unified ideograph
-56B4 : Cjk unified ideograph
-56B5 : Cjk unified ideograph
-56B6 : Cjk unified ideograph
-56B7 : Cjk unified ideograph
-56B8 : Cjk unified ideograph
-56B9 : Cjk unified ideograph
-56BA : Cjk unified ideograph
-56BB : Cjk unified ideograph
-56BC : Cjk unified ideograph
-56BD : Cjk unified ideograph
-56BE : Cjk unified ideograph
-56BF : Cjk unified ideograph
-56C0 : Cjk unified ideograph
-56C1 : Cjk unified ideograph
-56C2 : Cjk unified ideograph
-56C3 : Cjk unified ideograph
-56C4 : Cjk unified ideograph
-56C5 : Cjk unified ideograph
-56C6 : Cjk unified ideograph
-56C7 : Cjk unified ideograph
-56C8 : Cjk unified ideograph
-56C9 : Cjk unified ideograph
-56CA : Cjk unified ideograph
-56CB : Cjk unified ideograph
-56CC : Cjk unified ideograph
-56CD : Cjk unified ideograph
-56CE : Cjk unified ideograph
-56CF : Cjk unified ideograph
-56D0 : Cjk unified ideograph
-56D1 : Cjk unified ideograph
-56D2 : Cjk unified ideograph
-56D3 : Cjk unified ideograph
-56D4 : Cjk unified ideograph
-56D5 : Cjk unified ideograph
-56D6 : Cjk unified ideograph
-56D7 : Cjk unified ideograph
-56D8 : Cjk unified ideograph
-56D9 : Cjk unified ideograph
-56DA : Cjk unified ideograph
-56DB : Cjk unified ideograph
-56DC : Cjk unified ideograph
-56DD : Cjk unified ideograph
-56DE : Cjk unified ideograph
-56DF : Cjk unified ideograph
-56E0 : Cjk unified ideograph
-56E1 : Cjk unified ideograph
-56E2 : Cjk unified ideograph
-56E3 : Cjk unified ideograph
-56E4 : Cjk unified ideograph
-56E5 : Cjk unified ideograph
-56E6 : Cjk unified ideograph
-56E7 : Cjk unified ideograph
-56E8 : Cjk unified ideograph
-56E9 : Cjk unified ideograph
-56EA : Cjk unified ideograph
-56EB : Cjk unified ideograph
-56EC : Cjk unified ideograph
-56ED : Cjk unified ideograph
-56EE : Cjk unified ideograph
-56EF : Cjk unified ideograph
-56F0 : Cjk unified ideograph
-56F1 : Cjk unified ideograph
-56F2 : Cjk unified ideograph
-56F3 : Cjk unified ideograph
-56F4 : Cjk unified ideograph
-56F5 : Cjk unified ideograph
-56F6 : Cjk unified ideograph
-56F7 : Cjk unified ideograph
-56F8 : Cjk unified ideograph
-56F9 : Cjk unified ideograph
-56FA : Cjk unified ideograph
-56FB : Cjk unified ideograph
-56FC : Cjk unified ideograph
-56FD : Cjk unified ideograph
-56FE : Cjk unified ideograph
-56FF : Cjk unified ideograph
+5600: Ideograph backbite CJK
+5601: Ideograph to be grieved; ashamed; used to imitate sounds CJK
+5602: Ideograph cry loudly, yell, scream CJK
+5603:
+5604:
+5605: Ideograph sound of sighing; (Cant.) possessive CJK
+5606: Ideograph sigh, admire CJK
+5607:
+5608: Ideograph noisy CJK
+5609: Ideograph excellent; joyful; auspicious CJK
+560A:
+560B: Ideograph howl, roar CJK
+560C: Ideograph fast, speedy CJK
+560D: Ideograph used in onomatopoetic expressions CJK
+560E: Ideograph sound of laughter; bad, malevolent CJK
+560F: Ideograph felicity, prosperity; large and strong CJK
+5610: Ideograph final exclamatory particle CJK
+5611: Ideograph to menace; to howl at; to bawl; (Cant.) final particle CJK
+5612: Ideograph sharp CJK
+5613: Ideograph gurgling sound, chattering CJK
+5614: Ideograph to vomit; annoy, enrage CJK
+5615:
+5616: Ideograph interjection of approval or admiration CJK
+5617: Ideograph taste; experience, experiment CJK
+5618: Ideograph exhale; blow out; deep sigh; hiss; praise CJK
+5619:
+561A:
+561B: Ideograph final exclamatory particle CJK
+561C: Ideograph mark CJK
+561D:
+561E: Ideograph (Cant.) final particle used for polite refusal CJK
+561F: Ideograph sound of horn tooting CJK
+5620: Ideograph the chirping of birds loud laughter CJK
+5621:
+5622: Ideograph (Cant.) thing CJK
+5623: Ideograph syllable CJK
+5624: Ideograph seek friends; also used in onomatopoetic expressions CJK
+5625: Ideograph (Cant.) to waste; all, entirely CJK
+5626:
+5627: Ideograph pyrimidine CJK
+5628: Ideograph roar, howl, scream; whistle CJK
+5629: Ideograph rushing sound; gush forward CJK
+562A:
+562B:
+562C: Ideograph to lap; to suck CJK
+562D: Ideograph syllable; (Cant.) to chase, drive away CJK
+562E: Ideograph chat, jaw, gossip, talk CJK
+562F: Ideograph roar, howl, scream; whistle CJK
+5630: Ideograph sigh in disapproval; take small CJK
+5631: Ideograph order, tell, instruct, leave word CJK
+5632: Ideograph ridicule, deride, scorn, jeer at CJK
+5633:
+5634: Ideograph mouth, lips CJK
+5635: Ideograph garrulous; disturbed; restless CJK
+5636: Ideograph neighing of a horse; gravel voiced, husky throated; (Cant.) to hiccough CJK
+5637: Ideograph the roaring of wild beasts; to howl, to wail, to bawl CJK
+5638: Ideograph unclear; an expletive; not CJK
+5639: Ideograph used describe clarity of voice; resonant CJK
+563A: Ideograph (Cant.) coincidental CJK
+563B: Ideograph mirthful, happy; interjection CJK
+563C:
+563D: Ideograph pant; many CJK
+563E:
+563F: Ideograph be silent, be quiet CJK
+5640: Ideograph spirt out of the mouth CJK
+5641: Ideograph nastiness; nauseate: sickening CJK
+5642: Ideograph meet CJK
+5643: Ideograph (Cant.) emphatic final particle CJK
+5644:
+5645: Ideograph to speak falsely or wrongly; ugly CJK
+5646:
+5647:
+5648:
+5649: Ideograph bite, chew; (Cant.) like this, in this way CJK
+564A:
+564B: Ideograph to swallow hastily; to gobble up CJK
+564C: Ideograph scold, shout at CJK
+564D: Ideograph chew; eat; munch CJK
+564E: Ideograph choke; hiccup CJK
+564F: Ideograph inhale, absorb, imbibe; compress; (Cant.) to talk, say, tell CJK
+5650: Ideograph receptacle, vessel; instrument CJK
+5651: Ideograph the roar of beasts; to howl, wail CJK
+5652: Ideograph (Cant.) to suck and gnaw on bones CJK
+5653: Ideograph exhale; blow out; deep sigh; hiss; praise, flatter; lie CJK
+5654: Ideograph syllable; (Cant.) for (a recipient of pity or sympathy) CJK
+5655: Ideograph to speak falsely or wrongly; ugly CJK
+5656:
+5657: Ideograph burst CJK
+5658: Ideograph pouting CJK
+5659: Ideograph hold in mouth; bite CJK
+565A: Ideograph fathom CJK
+565B: Ideograph bite, gnaw CJK
+565C: Ideograph verbose, talkative; mumbling CJK
+565D: Ideograph hiss; a call to come CJK
+565E: Ideograph the movement of a fish's mouth at the surface of the water CJK
+565F:
+5660: Ideograph sound made to get a horse to move forward CJK
+5661:
+5662: Ideograph moan; interjection for pain, sad CJK
+5663: Ideograph a beak; to peck; to order, enjoin upon CJK
+5664: Ideograph close; be silent, be unable speak CJK
+5665: Ideograph whisper CJK
+5666: Ideograph belch; vomit CJK
+5667:
+5668: Ideograph receptacle, vessel; instrument CJK
+5669: Ideograph bad, ill-omened, unlucky CJK
+566A: Ideograph be noisy; chirp loudly CJK
+566B: Ideograph belch; alas CJK
+566C: Ideograph bite; gnaw; snap at CJK
+566D: Ideograph shout CJK
+566E:
+566F: Ideograph interjection; exclamation CJK
+5670:
+5671: Ideograph laugh heartily, laugh aloud CJK
+5672: Ideograph swallow, gulp down; greedy CJK
+5673: Ideograph many CJK
+5674: Ideograph spurt, blow out, puff out CJK
+5675:
+5676: Ideograph used in transliterations CJK
+5677:
+5678: Ideograph ton (metric or English) CJK
+5679: Ideograph sound of bells CJK
+567A: Ideograph story, talk CJK
+567B: Ideograph character used in translation CJK
+567C: Ideograph sound; (Cant.) a child's buttocks CJK
+567D:
+567E:
+567F:
+5680: Ideograph enjoin, instruct; charge CJK
+5681:
+5682:
+5683: Ideograph gobble CJK
+5684: Ideograph roar CJK
+5685: Ideograph talk indistinctly and falteringly CJK
+5686: Ideograph give forth sound, make noise CJK
+5687: Ideograph scare, frighten; intimidate CJK
+5688:
+5689: Ideograph (Cant.) to swell CJK
+568A: Ideograph to pant; wife; (Cant.) particle indicating doubt CJK
+568B:
+568C: Ideograph to sip; (Cant.) aspect marker of excessive extent CJK
+568D:
+568E: Ideograph cry loudly, yell, scream CJK
+568F: Ideograph sneeze CJK
+5690: Ideograph taste CJK
+5691:
+5692:
+5693: Ideograph a cracking or snapping sound CJK
+5694: Ideograph sneeze CJK
+5695: Ideograph verbose, talkative; mumbling CJK
+5696:
+5697:
+5698:
+5699: Ideograph bite, gnaw CJK
+569A: Ideograph argumentative, talkative CJK
+569B:
+569C: Ideograph be silent; final particle CJK
+569D:
+569E:
+569F: Ideograph (Cant.) to come, arrive CJK
+56A0: Ideograph a clear sound CJK
+56A1: Ideograph (Cant.) rough; interjection CJK
+56A2: Ideograph bag, purse, sack; put in bag CJK
+56A3: Ideograph be noisy; treat with contempt CJK
+56A4: Ideograph (Cant.) slow; late CJK
+56A5: Ideograph swallow, gulp CJK
+56A6: Ideograph used in onomatopoetic expressions CJK
+56A7:
+56A8: Ideograph throat CJK
+56A9:
+56AA:
+56AB: Ideograph (Cant.) aspect marker of injury CJK
+56AC: Ideograph frown CJK
+56AD: Ideograph mound, lump; stealthily CJK
+56AE: Ideograph guide, direct; incline to, favor CJK
+56AF:
+56B0:
+56B1: Ideograph a shrill noise; alas! CJK
+56B2: Ideograph read aloud, recite, chant; droop CJK
+56B3: Ideograph mythical emperor; to inform quickly; an urgent communication CJK
+56B4: Ideograph strict, rigorous, rigid; stern CJK
+56B5: Ideograph gluttonous; greedy CJK
+56B6: Ideograph seek friends; also used in names; the call of a bird CJK
+56B7: Ideograph shout, brawl, make uproar, cry CJK
+56B8:
+56B9: Ideograph (Cant.) a particle implying completion, certainty, or urgency CJK
+56BA:
+56BB: Ideograph be noisy; treat with contempt CJK
+56BC: Ideograph prattle, be glib CJK
+56BD:
+56BE:
+56BF: Ideograph (Cant.) a lump; measure word CJK
+56C0: Ideograph sing, chirp, warble, twitter CJK
+56C1: Ideograph move lips as when speaking; hesitation CJK
+56C2: Ideograph be noisy; treat with contempt CJK
+56C3: Ideograph to play (on an instrument); to accompany; to banter, jeer CJK
+56C4: Ideograph (Cant.) to come CJK
+56C5: Ideograph smile CJK
+56C6:
+56C7:
+56C8: Ideograph talk in one's sleep, somniloquy CJK
+56C9: Ideograph exclamatory final particle, nag CJK
+56CA: Ideograph bag, purse, sack; put in bag CJK
+56CB:
+56CC: Ideograph loquacious; nag CJK
+56CD: Ideograph double happiness CJK
+56CE:
+56CF:
+56D0:
+56D1: Ideograph order, tell, instruct, leave word CJK
+56D2: Ideograph confused talk CJK
+56D3: Ideograph gnaw CJK
+56D4: Ideograph muttering, indistinct speech CJK
+56D5:
+56D6: Ideograph (Cant.) final particle for pointing out the obvious CJK
+56D7: Ideograph erect, proud; upright; bald CJK
+56D8: Ideograph return, turn around; a time CJK
+56D9:
+56DA: Ideograph prisoner, convict; confine CJK
+56DB: Ideograph four CJK
+56DC:
+56DD: Ideograph baby, infant CJK
+56DE: Ideograph return, turn around; a time CJK
+56DF: Ideograph top of the head; skull CJK
+56E0: Ideograph cause, reason; by; because (of) CJK
+56E1: Ideograph one's daughter; to filch; to secrete CJK
+56E2: Ideograph sphere, ball, circle; mass, lump CJK
+56E3: Ideograph sphere, ball, circle; mass, lump CJK
+56E4: Ideograph grain basket, bin for grain CJK
+56E5: Ideograph hide CJK
+56E6:
+56E7:
+56E8:
+56E9:
+56EA: Ideograph chimney, funnel CJK
+56EB: Ideograph entire, whole CJK
+56EC: Ideograph to return to or from CJK
+56ED: Ideograph garden; park, orchard CJK
+56EE: Ideograph inveigle, decoy; cheat CJK
+56EF: Ideograph variant of U+56FD 国, nation, country, nation-state CJK
+56F0: Ideograph to surround, beseige; to be surrounded; difficult CJK
+56F1: Ideograph chimney CJK
+56F2: Ideograph surround, encircle, corral; whip CJK
+56F3: Ideograph diagram; chart, map, picture CJK
+56F4: Ideograph surround, encircle, corral CJK
+56F5: Ideograph all, complete, entire CJK
+56F6:
+56F7: Ideograph round-shaped storage bin for grain CJK
+56F8:
+56F9: Ideograph prison, enclosure CJK
+56FA: Ideograph to become solid, solidify; strength CJK
+56FB:
+56FC:
+56FD: Ideograph nation, country, nation-state CJK
+56FE: Ideograph diagram; chart, map, picture CJK
+56FF: Ideograph pen up; limit, constrain CJK

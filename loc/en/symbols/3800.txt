@@ -1,256 +1,256 @@
-3800 : Cjk unified ideograph
-3801 : Cjk unified ideograph
-3802 : Cjk unified ideograph
-3803 : Cjk unified ideograph
-3804 : Cjk unified ideograph
-3805 : Cjk unified ideograph
-3806 : Cjk unified ideograph
-3807 : Cjk unified ideograph
-3808 : Cjk unified ideograph
-3809 : Cjk unified ideograph
-380A : Cjk unified ideograph
-380B : Cjk unified ideograph
-380C : Cjk unified ideograph
-380D : Cjk unified ideograph
-380E : Cjk unified ideograph
-380F : Cjk unified ideograph
-3810 : Cjk unified ideograph
-3811 : Cjk unified ideograph
-3812 : Cjk unified ideograph
-3813 : Cjk unified ideograph
-3814 : Cjk unified ideograph
-3815 : Cjk unified ideograph
-3816 : Cjk unified ideograph
-3817 : Cjk unified ideograph
-3818 : Cjk unified ideograph
-3819 : Cjk unified ideograph
-381A : Cjk unified ideograph
-381B : Cjk unified ideograph
-381C : Cjk unified ideograph
-381D : Cjk unified ideograph
-381E : Cjk unified ideograph
-381F : Cjk unified ideograph
-3820 : Cjk unified ideograph
-3821 : Cjk unified ideograph
-3822 : Cjk unified ideograph
-3823 : Cjk unified ideograph
-3824 : Cjk unified ideograph
-3825 : Cjk unified ideograph
-3826 : Cjk unified ideograph
-3827 : Cjk unified ideograph
-3828 : Cjk unified ideograph
-3829 : Cjk unified ideograph
-382A : Cjk unified ideograph
-382B : Cjk unified ideograph
-382C : Cjk unified ideograph
-382D : Cjk unified ideograph
-382E : Cjk unified ideograph
-382F : Cjk unified ideograph
-3830 : Cjk unified ideograph
-3831 : Cjk unified ideograph
-3832 : Cjk unified ideograph
-3833 : Cjk unified ideograph
-3834 : Cjk unified ideograph
-3835 : Cjk unified ideograph
-3836 : Cjk unified ideograph
-3837 : Cjk unified ideograph
-3838 : Cjk unified ideograph
-3839 : Cjk unified ideograph
-383A : Cjk unified ideograph
-383B : Cjk unified ideograph
-383C : Cjk unified ideograph
-383D : Cjk unified ideograph
-383E : Cjk unified ideograph
-383F : Cjk unified ideograph
-3840 : Cjk unified ideograph
-3841 : Cjk unified ideograph
-3842 : Cjk unified ideograph
-3843 : Cjk unified ideograph
-3844 : Cjk unified ideograph
-3845 : Cjk unified ideograph
-3846 : Cjk unified ideograph
-3847 : Cjk unified ideograph
-3848 : Cjk unified ideograph
-3849 : Cjk unified ideograph
-384A : Cjk unified ideograph
-384B : Cjk unified ideograph
-384C : Cjk unified ideograph
-384D : Cjk unified ideograph
-384E : Cjk unified ideograph
-384F : Cjk unified ideograph
-3850 : Cjk unified ideograph
-3851 : Cjk unified ideograph
-3852 : Cjk unified ideograph
-3853 : Cjk unified ideograph
-3854 : Cjk unified ideograph
-3855 : Cjk unified ideograph
-3856 : Cjk unified ideograph
-3857 : Cjk unified ideograph
-3858 : Cjk unified ideograph
-3859 : Cjk unified ideograph
-385A : Cjk unified ideograph
-385B : Cjk unified ideograph
-385C : Cjk unified ideograph
-385D : Cjk unified ideograph
-385E : Cjk unified ideograph
-385F : Cjk unified ideograph
-3860 : Cjk unified ideograph
-3861 : Cjk unified ideograph
-3862 : Cjk unified ideograph
-3863 : Cjk unified ideograph
-3864 : Cjk unified ideograph
-3865 : Cjk unified ideograph
-3866 : Cjk unified ideograph
-3867 : Cjk unified ideograph
-3868 : Cjk unified ideograph
-3869 : Cjk unified ideograph
-386A : Cjk unified ideograph
-386B : Cjk unified ideograph
-386C : Cjk unified ideograph
-386D : Cjk unified ideograph
-386E : Cjk unified ideograph
-386F : Cjk unified ideograph
-3870 : Cjk unified ideograph
-3871 : Cjk unified ideograph
-3872 : Cjk unified ideograph
-3873 : Cjk unified ideograph
-3874 : Cjk unified ideograph
-3875 : Cjk unified ideograph
-3876 : Cjk unified ideograph
-3877 : Cjk unified ideograph
-3878 : Cjk unified ideograph
-3879 : Cjk unified ideograph
-387A : Cjk unified ideograph
-387B : Cjk unified ideograph
-387C : Cjk unified ideograph
-387D : Cjk unified ideograph
-387E : Cjk unified ideograph
-387F : Cjk unified ideograph
-3880 : Cjk unified ideograph
-3881 : Cjk unified ideograph
-3882 : Cjk unified ideograph
-3883 : Cjk unified ideograph
-3884 : Cjk unified ideograph
-3885 : Cjk unified ideograph
-3886 : Cjk unified ideograph
-3887 : Cjk unified ideograph
-3888 : Cjk unified ideograph
-3889 : Cjk unified ideograph
-388A : Cjk unified ideograph
-388B : Cjk unified ideograph
-388C : Cjk unified ideograph
-388D : Cjk unified ideograph
-388E : Cjk unified ideograph
-388F : Cjk unified ideograph
-3890 : Cjk unified ideograph
-3891 : Cjk unified ideograph
-3892 : Cjk unified ideograph
-3893 : Cjk unified ideograph
-3894 : Cjk unified ideograph
-3895 : Cjk unified ideograph
-3896 : Cjk unified ideograph
-3897 : Cjk unified ideograph
-3898 : Cjk unified ideograph
-3899 : Cjk unified ideograph
-389A : Cjk unified ideograph
-389B : Cjk unified ideograph
-389C : Cjk unified ideograph
-389D : Cjk unified ideograph
-389E : Cjk unified ideograph
-389F : Cjk unified ideograph
-38A0 : Cjk unified ideograph
-38A1 : Cjk unified ideograph
-38A2 : Cjk unified ideograph
-38A3 : Cjk unified ideograph
-38A4 : Cjk unified ideograph
-38A5 : Cjk unified ideograph
-38A6 : Cjk unified ideograph
-38A7 : Cjk unified ideograph
-38A8 : Cjk unified ideograph
-38A9 : Cjk unified ideograph
-38AA : Cjk unified ideograph
-38AB : Cjk unified ideograph
-38AC : Cjk unified ideograph
-38AD : Cjk unified ideograph
-38AE : Cjk unified ideograph
-38AF : Cjk unified ideograph
-38B0 : Cjk unified ideograph
-38B1 : Cjk unified ideograph
-38B2 : Cjk unified ideograph
-38B3 : Cjk unified ideograph
-38B4 : Cjk unified ideograph
-38B5 : Cjk unified ideograph
-38B6 : Cjk unified ideograph
-38B7 : Cjk unified ideograph
-38B8 : Cjk unified ideograph
-38B9 : Cjk unified ideograph
-38BA : Cjk unified ideograph
-38BB : Cjk unified ideograph
-38BC : Cjk unified ideograph
-38BD : Cjk unified ideograph
-38BE : Cjk unified ideograph
-38BF : Cjk unified ideograph
-38C0 : Cjk unified ideograph
-38C1 : Cjk unified ideograph
-38C2 : Cjk unified ideograph
-38C3 : Cjk unified ideograph
-38C4 : Cjk unified ideograph
-38C5 : Cjk unified ideograph
-38C6 : Cjk unified ideograph
-38C7 : Cjk unified ideograph
-38C8 : Cjk unified ideograph
-38C9 : Cjk unified ideograph
-38CA : Cjk unified ideograph
-38CB : Cjk unified ideograph
-38CC : Cjk unified ideograph
-38CD : Cjk unified ideograph
-38CE : Cjk unified ideograph
-38CF : Cjk unified ideograph
-38D0 : Cjk unified ideograph
-38D1 : Cjk unified ideograph
-38D2 : Cjk unified ideograph
-38D3 : Cjk unified ideograph
-38D4 : Cjk unified ideograph
-38D5 : Cjk unified ideograph
-38D6 : Cjk unified ideograph
-38D7 : Cjk unified ideograph
-38D8 : Cjk unified ideograph
-38D9 : Cjk unified ideograph
-38DA : Cjk unified ideograph
-38DB : Cjk unified ideograph
-38DC : Cjk unified ideograph
-38DD : Cjk unified ideograph
-38DE : Cjk unified ideograph
-38DF : Cjk unified ideograph
-38E0 : Cjk unified ideograph
-38E1 : Cjk unified ideograph
-38E2 : Cjk unified ideograph
-38E3 : Cjk unified ideograph
-38E4 : Cjk unified ideograph
-38E5 : Cjk unified ideograph
-38E6 : Cjk unified ideograph
-38E7 : Cjk unified ideograph
-38E8 : Cjk unified ideograph
-38E9 : Cjk unified ideograph
-38EA : Cjk unified ideograph
-38EB : Cjk unified ideograph
-38EC : Cjk unified ideograph
-38ED : Cjk unified ideograph
-38EE : Cjk unified ideograph
-38EF : Cjk unified ideograph
-38F0 : Cjk unified ideograph
-38F1 : Cjk unified ideograph
-38F2 : Cjk unified ideograph
-38F3 : Cjk unified ideograph
-38F4 : Cjk unified ideograph
-38F5 : Cjk unified ideograph
-38F6 : Cjk unified ideograph
-38F7 : Cjk unified ideograph
-38F8 : Cjk unified ideograph
-38F9 : Cjk unified ideograph
-38FA : Cjk unified ideograph
-38FB : Cjk unified ideograph
-38FC : Cjk unified ideograph
-38FD : Cjk unified ideograph
-38FE : Cjk unified ideograph
-38FF : Cjk unified ideograph
+3800: Ideograph (same as 島) island; isle CJK
+3801: Ideograph irregular outline of a range of hills CJK
+3802: Ideograph name of a place, lofty; steep, mountain with lots of small rocks CJK
+3803:
+3804: Ideograph name of a mountain in Yunnan Province CJK
+3805: Ideograph to cover; to put a cover over something, name of a mountain CJK
+3806: Ideograph name of a mountain CJK
+3807: Ideograph name of a mountain ridge CJK
+3808: Ideograph name of a place CJK
+3809: Ideograph mountain; hill, bald hills, valley; ravine CJK
+380A: Ideograph (same as U+5D87 嶇) a rugged, steep mountain CJK
+380B: Ideograph (same as 崿) a lofty mountain peak CJK
+380C: Ideograph high; lofty; steep, (corrupted form of 嵌) CJK
+380D: Ideograph lofty; majestic, name of a mountain CJK
+380E: Ideograph (same as U+380D 㠍) a lofty mountain CJK
+380F: Ideograph name of a mountain CJK
+3810: Ideograph high and pointed mountain, mountain paths (same as 嶠) lofty CJK
+3811: Ideograph high mountain steep rugged and uneven CJK
+3812: Ideograph (same as U+37FD 㟽) mountain top; summit, pointed mountain top CJK
+3813: Ideograph name of a mountain CJK
+3814: Ideograph shapes of the mountain, the strategic and dangious gorge, (a dialect) field in between of the valleys CJK
+3815: Ideograph (same as 嵬) lofty, precipitous; high and dangerous mountain CJK
+3816: Ideograph (same as 嶬) precipitous; nigh and dangerous, name of a mountain CJK
+3817: Ideograph (same as 奧 嶴) deep in the mountain, name of a place in Zhejiang Province; at the hill side CJK
+3818: Ideograph (same as 嶼) an island CJK
+3819: Ideograph a mountain paths (same as 崤) name of a mountain CJK
+381A: Ideograph high and lofty CJK
+381B: Ideograph name a county CJK
+381C: Ideograph (same as 嶷) young kids smart and familiar with human affairs, range of mountains in Hunan Province CJK
+381D: Ideograph (non-classical 巑) lofty and steep mountains, to rise high CJK
+381E:
+381F: Ideograph a mountain in ancient times; Lieshan in Guizhou province CJK
+3820: Ideograph name of a mountain CJK
+3821: Ideograph high and lofty CJK
+3822: Ideograph rugged and uneven, to shrink; to recoil; to cringe CJK
+3823: Ideograph a mountain in Jiangxi Province; southeast of Jingde county CJK
+3824:
+3825: Ideograph rugged and uneven, high and lofty, to roll stones down hill, piles of stones CJK
+3826: Ideograph name of a mountain CJK
+3827: Ideograph a little slanted; smooth, name of a mountain CJK
+3828: Ideograph misty mountain CJK
+3829: Ideograph (same as 芒 荒) vast, to reach, dwell, to neglect; to leave completely unattended to CJK
+382A: Ideograph ancient form of 五 'five' CJK
+382B:
+382C:
+382D: Ideograph to open, to stretch; to extend, to unfold; to dilate; to prolong CJK
+382E: Ideograph to expand, to swell, (non-classical form of 肛) the anus CJK
+382F: Ideograph according to; to use; with, for CJK
+3830:
+3831: Ideograph to set with the legs crossed (standard form of 踞); (ancient form of 箕) a winnowing basket, a dust basket, (same as 杞) a state in ancient times CJK
+3832: Ideograph ripped; split CJK
+3833:
+3834: Ideograph a pillow case CJK
+3835: Ideograph a turban; headdress; a scarf, a piece of cloth (fabric) used to cover something CJK
+3836: Ideograph (a variant of U+5E06 帆) a sail, to sail CJK
+3837: Ideograph a vessel for rice, mats on carriage CJK
+3838: Ideograph (same as 衭) the lapel or collar of a garment or robe, (Cant., same as 褲) drawers, trousers or pants CJK
+3839: Ideograph a turban; a headdress a scarf CJK
+383A: Ideograph a fine thread, a net with small; tiny holes CJK
+383B: Ideograph (same as 希) rare, to hope; to expect CJK
+383C:
+383D: Ideograph a dish-cloth; a mopper; a cleaning rag CJK
+383E: Ideograph a dish-cloth; a mopper; a cleaning rag, headdress; a scarf; turban CJK
+383F: Ideograph a kind of delicate and fine fabric, a napkin; kerchief or towel, headwear CJK
+3840: Ideograph ragged clothing, ragged; old and wear out CJK
+3841: Ideograph a robe; a long gown, a shirt; a short gown CJK
+3842: Ideograph remains; remnants CJK
+3843: Ideograph an artisan to soften raw silk by boiling and to dye the dressed silk CJK
+3844: Ideograph collar CJK
+3845: Ideograph storage room CJK
+3846: Ideograph (same as U+3843 㡃) an artisan to soften raw silk by boiling and to dye the dressed silk CJK
+3847: Ideograph collar, the front of a Chinese gown, lapel of a Chinese dress worn by the literati in former days CJK
+3848: Ideograph the ropes attached to the bier and held by mourners, mourning garments, a ceremonial cap for high ministers in old China CJK
+3849: Ideograph a kind of fabric, a county in today's Shandong Province; southwest of Huangxian CJK
+384A: Ideograph (same as 帢) a kind of cap worn by an officer in old China CJK
+384B: Ideograph a kind of headdress for man in old China, a bag used to feed the horses CJK
+384C: Ideograph (same as 帽) a hat, headwear, a cap (of fountain-pen, crew, etc.) CJK
+384D:
+384E: Ideograph (simplified form of 幓) (same as 縿) the long bands or ribbons attrached to flags and banners (same as 襂) the feather decorected carriages or dresses; flapping and dangling, headdress used by man in ancient times CJK
+384F: Ideograph to cut a strip of cloth; a breadth of material, (same as 繻) fine gauze, frayed edges of silk, silk torn into two pieces, one of which was given as a credential and the other retained, a loose garment or cloak; fine clothes, the left over material after cutting; ragged fabric CJK
+3850: Ideograph (non-classical form) flags, pennants, streamers, etc. CJK
+3851: Ideograph ancient mourning turban worn by women, to hem, turban worn by men CJK
+3852: Ideograph a calico sack for grain, etc. CJK
+3853: Ideograph drawers; trousers or pants CJK
+3854: Ideograph oiled calico, varnish-cloth used to cover the cross-bean in front of the shafts of a carriage CJK
+3855: Ideograph (same as 央) sharp; distinct, bright-colored CJK
+3856: Ideograph (same as 幢) to cover; a covering; a screen, a curtain for a carriage CJK
+3857: Ideograph red paper, a small piece of thin paper, ropes; cords; cables CJK
+3858: Ideograph screens; cloth partition; door curtain; door flap, (same as 縑) a kind of fine silk, downy, feathery; featheriness CJK
+3859: Ideograph curtain for carriage CJK
+385A: Ideograph armour, unlined garments CJK
+385B: Ideograph name for a workman who applied color in painting (in ancient times) CJK
+385C: Ideograph ragged clothes, left over; remainder, the excess; the surplus, to cut out (of silk fabrics) as a design CJK
+385D: Ideograph a napkin, kerchief, a headgear; articles for dressing the hair, a calligrapher's or painter's signature, seal, dedicatory notes, etc. on a painting, etc. CJK
+385E: Ideograph a sack used to feed the horses, an old family name CJK
+385F: Ideograph bed-mats for baby CJK
+3860: Ideograph a picture; one of a pair, as of scrolls, etc. CJK
+3861: Ideograph (a variant of 幮 U+5E6E, 𢅥 U+22165) a screen used to make a temporary kitchen CJK
+3862: Ideograph (a variant of 幔) a curtain, a screen CJK
+3863: Ideograph (same as 龍) dragon, or the emperor; imperial, a Chinese family name CJK
+3864:
+3865: Ideograph to curl up; to roll up, to wrap up; to bind CJK
+3866: Ideograph mess; out of order, chaos; confusion, (of clothes) tattered; in rags CJK
+3867: Ideograph to stretch open painting, (same as 幀) a picture (one of a pair as of scrolls, etc.) CJK
+3868: Ideograph a label; a tag, to record, to make a note, to wipe; to scrub; to dust; to clean CJK
+3869: Ideograph a girdle; a sash or scarf; a belt; a band; a ribbon; a string; a tie CJK
+386A: Ideograph the varnish on the floor, to erase; to obliterate, to scribble CJK
+386B: Ideograph anxious, unsuccessful man CJK
+386C:
+386D: Ideograph (standard, ancient form of U+7E7C 繼) to continue; to carry on, to follow; to inherit; to succeed to CJK
+386E: Ideograph danger; precarious, to fear, lofty; high, just; honest, to grind, to cultivate; to polish CJK
+386F: Ideograph (ancient form of 宅) wall of a building, a house, to keep in the house, thriving; flourishing, blazing, (ancient form of 度) legal system; laws and institutions, to think; to consider; to ponder; to contemplate CJK
+3870: Ideograph (large seal type 宇) a house; a roof, appearance, space; the canopy of heaven, to cover CJK
+3871: Ideograph (same as 灸) (in Chinese medicine) to cauterize by burning moxa; moxa cautery; moxibustion CJK
+3872: Ideograph tiles (laid upside down) on a roof, ropes, to hold fast CJK
+3873: Ideograph mountain, (corrupted form of 底) underside; bottom; basis; foundation CJK
+3874: Ideograph sound CJK
+3875: Ideograph roof of the house connected CJK
+3876: Ideograph dwell, to live in a depraved (crude; vulgar; inferior) place CJK
+3877: Ideograph a family name CJK
+3878: Ideograph a house; an unfinished house, uneven; irregular; unsuitable; ill-matched, tenon CJK
+3879: Ideograph to rely upon each other CJK
+387A: Ideograph a cottage; a small house, a small cup CJK
+387B: Ideograph (non-classical form of 廖) name of a small ancient State, a Chinese family name CJK
+387C: Ideograph a granary, a cabin, as in the ship, a corridor; a hallway CJK
+387D: Ideograph depraved talking CJK
+387E: Ideograph a threshold; a door-sill CJK
+387F: Ideograph (standard form of 斥) to accuse; to blame, to expel; to drive off; to reject CJK
+3880: Ideograph side room CJK
+3881: Ideograph (same as U+388B 㢋) vast, to open up, enlarge or expand, the blot of a door; door latch, name of a person CJK
+3882: Ideograph (terrains) of highly strategic; precipitous (hill, etc. a big mound; (same as 㢈) a collapsed house, to hit, to catch something CJK
+3883: Ideograph high, magnanimity CJK
+3884: Ideograph a kind of utensil; implement; tool, a place of worship; a place where to honor by a service or rite; a place to offer sacrifices; a kitchen CJK
+3885: Ideograph a shield; a screen, a tall building; an edifice, (same as 弄) an alley; a lane CJK
+3886: Ideograph (same as 廛) living space for one family in ancient times, a store; a shop, a hundred mu (equal to 733.50 square yards) cultivated land CJK
+3887:
+3888: Ideograph a collapsed house; (same as U+5806 堆) to heap up; to pile CJK
+3889: Ideograph a room with open space, an old county near today's Shandong Province Yunchengxian CJK
+388A: Ideograph to set side by side, to hide; to conceal, to store CJK
+388B: Ideograph vast, to open up, enlarge or expand CJK
+388C:
+388D: Ideograph a long verandah; a long porch CJK
+388E: Ideograph hide; conceal, a house not so high CJK
+388F: Ideograph a cesspool; a manger, a trough; a flume; a chute, (same as 庾) a stack of grain, an ancient measure of capacity, a storage for water, (ancient form 逾) to pass over; to exceed CJK
+3890:
+3891: Ideograph (corrupted form of U+3888 㢈) a collapsed house; (same as 堆) to heap up; to pile CJK
+3892: Ideograph an almost collapsing house CJK
+3893: Ideograph (same as 障) to separate; to screen, a screen, a veil, a dike, to defend; to guard CJK
+3894: Ideograph many; numerous; a crowd; the masses, two houses connected each other CJK
+3895: Ideograph (same as 廱) harmony; peace, peaceful; mild CJK
+3896: Ideograph a store house, to store CJK
+3897: Ideograph a high house; a high building CJK
+3898: Ideograph (non-classical form) (a variant of 廉) pure, modest, incorrupt, not avaricious--thus: reasonable in price CJK
+3899: Ideograph (same as 廑) a hut; cottage, careful; eager; concern CJK
+389A: Ideograph a corridor; a hallway; rooms around the hall (the middle room of a Chinese house), a nunnery; a convent, a cottage; a hut, a mansion CJK
+389B: Ideograph small, a cabinet; a cupboard CJK
+389C: Ideograph vast CJK
+389D: Ideograph cottage; a coarse house, house with flat roof CJK
+389E: Ideograph rooms connected, moveable house (a yurt, a portable, tentlike dwelling used by nomadic Mongols) CJK
+389F: Ideograph to walk slowly; to stroll; to ramble CJK
+38A0: Ideograph (same as 迥) far; distant; separated CJK
+38A1: Ideograph (same as 獎) to exhort; to encourage, to praise; to commend, to advise; to urge, to help CJK
+38A2:
+38A3: Ideograph (same as 擎) to lift; to lift up; to support CJK
+38A4:
+38A5: Ideograph a big piece of log to join the thick ropes; cable; used on a boat CJK
+38A6: Ideograph (corrupted form) wooden post or pile for tethering animals, small and sharp pile CJK
+38A7: Ideograph (same as 卷) a book or painting which can be easily folded or rolled up, a division of a book CJK
+38A8: Ideograph to defend; to ward off; to refuse; to reject; to oppose, a frontier pass (in Wuxian) in ancient times, a county in ancient times CJK
+38A9: Ideograph to shoot; to spurt, (same as 的) target for archery CJK
+38AA: Ideograph to draw a full bow to aim at the target, to hold; to maintain; to uphold, to conduct CJK
+38AB:
+38AC: Ideograph (same as U+5F4B 彋) a bow stretched to the full CJK
+38AD: Ideograph (non-classical form of 弢) a bow-case; a scabbard, to sheathe, to conceal CJK
+38AE: Ideograph (same as 弛) to unstring a bow; to relax; to neglect CJK
+38AF: Ideograph (same as 弴) bows (with carved pattern) used by the son of heaven -- the emperor, flags; streamers; banners, a flag-staff made of bamboo CJK
+38B0: Ideograph to stretch a bow, the bow decorated with colorful silk and leather, bent; curved CJK
+38B1:
+38B2: Ideograph (same as 巽) the 5th of the Eight Diagrams 八卦, South-east, Mild, bland, insinuating, peaceful words CJK
+38B3: Ideograph (same as 玈) black color, a black bow; bow in general CJK
+38B4: Ideograph (ancient form of 西) the west; western, European CJK
+38B5: Ideograph powerful and strong bow, (interchangeable 弽韘) archer's thumb ring of leather CJK
+38B6: Ideograph (non-classical form of 弼) device for regulating bows; bow regulator, to correct, to assist; to aid CJK
+38B7:
+38B8: Ideograph (ancient form of 弼) device for regulating bows; bow regulator, to correct, to assist; to aid, to dust, to shake; to brush CJK
+38B9:
+38BA: Ideograph (non-classical form of 弦) string (of a bow, a musical instrument, etc.), chord of an arc, the first or last quarter of a lunar month CJK
+38BB: Ideograph to draw a bow, bent CJK
+38BC: Ideograph (same as 彆) awkward, unfavourable, unsuitable, not smooth CJK
+38BD: Ideograph (same as 餌) a bait, cakes, food, to eat CJK
+38BE: Ideograph the curved end of a bow CJK
+38BF:
+38C0: Ideograph to rebound, to impeach, to play CJK
+38C1: Ideograph to equip a bow with silk and muscular fibre CJK
+38C2: Ideograph to bind, to pack up the bows and the cover of the bows CJK
+38C3: Ideograph (same as 鬻) to sell; to buy, to nourish CJK
+38C4: Ideograph powerful; strong bows, the end of the bows CJK
+38C5: Ideograph bow-string; a chord; a straight road, to draw a bow, strong CJK
+38C6: Ideograph to loose the bow-string, a kind of jade, (same as 彌) full, great, boundless, to complete CJK
+38C7: Ideograph a kind of beast with long hair, other name for pig, fox, wild cat, raccoon CJK
+38C8: Ideograph a kind of animal, a kind of rat, (interchangeable 肆) extremely; excessively; reckless; without restraint, to exhaust CJK
+38C9: Ideograph (ancient form of 工) labor, work, fine; delicate, to be skilled in CJK
+38CA:
+38CB: Ideograph (ancient form of 丹) cinnabar, red; scarlet, a pill, a sophisticated decoction CJK
+38CC: Ideograph to join two things; contiguous; things connected end to end, sharp CJK
+38CD: Ideograph (ancient form of 台) a raised platform, eminent; exalted, name of a star CJK
+38CE: Ideograph fine (material, etc.) and delicate (workmanship, etc.) decorative design or pattern CJK
+38CF: Ideograph (ancient form of 靜) still; quiet; calm; silent; peaceful CJK
+38D0: Ideograph (ancient form of 變) to change; to transform; to switch; to alter, rebellion CJK
+38D1: Ideograph double image, (non-classical form of 容) face; expression; countenance, to contain; to hold; to accept CJK
+38D2: Ideograph hair-raising, hairiness CJK
+38D3: Ideograph literary in taste; elegant; ornamental, beautiful and gorgeous CJK
+38D4: Ideograph to walk alone, to insist on one's ways in doing things CJK
+38D5:
+38D6:
+38D7:
+38D8: Ideograph (same as 跔) spasms, cramps in the feet and legs, in cold day the joints of the feet and legs unable to stretch CJK
+38D9: Ideograph to walk in an easy and leisurely manner, (same as 宙) time--past, present and future, infinite time; time without beginning or end; eternity CJK
+38DA: Ideograph to go straight forward, (same as 衕) a lane; an alley, (same as 侗) ignorant; rude; rustic; straight-forward; uninterrupted; no obstacle CJK
+38DB: Ideograph walking, (ancient form form of 會) to meet, to gather, to be able, to realize CJK
+38DC: Ideograph to walk; to go CJK
+38DD: Ideograph a Chinese family name CJK
+38DE: Ideograph to walki; to go CJK
+38DF: Ideograph to go; to walk CJK
+38E0: Ideograph a rope decorated with bronze ornament (for leading cattle), a family name CJK
+38E1:
+38E2: Ideograph to rest from work; to take a rest CJK
+38E3: Ideograph to walk in an unsteady way; to swing to and from, to doubt, to suspect CJK
+38E4: Ideograph (same as 踐) to tread upon; to trample, to carry out; to perform CJK
+38E5: Ideograph (same as 偫) to store up, savings and/or reserves, complete with every; having nothing short; all; the whole CJK
+38E6: Ideograph a winding path CJK
+38E7: Ideograph (same as 胤) the succession in a family; posterity; heirs, to inherit; to follow after CJK
+38E8:
+38E9:
+38EA: Ideograph to walk with slow steps; proceed slowly CJK
+38EB: Ideograph (same as 踵) the heel, to follow, to call personally at; to go personally to, (ancient form 動) to move; to start; to shake, to excite; to rouse; to take action CJK
+38EC: Ideograph to walk CJK
+38ED: Ideograph number, several; a few, a kind of caldron or kettle, to walk CJK
+38EE:
+38EF: Ideograph the dresses toss and flying about in the wind, to shake; to toss, to wave, to scull; to row, to agitate CJK
+38F0: Ideograph to shake; to rattle CJK
+38F1: Ideograph common people; people in ordinary feature or countenance, to walk, to go in a hurry CJK
+38F2: Ideograph (non-classical form of 微) small, low, weak; feeble CJK
+38F3:
+38F4:
+38F5: Ideograph to run away; to flee; to escape; to evade, (interchangeable 達) to reach; to arrive at, to walk away without meeting each other CJK
+38F6: Ideograph to walk, to go, to hide; to conceal, very difficult to proceed CJK
+38F7: Ideograph walking CJK
+38F8:
+38F9:
+38FA: Ideograph (variant of 心) the heart, the moral nature, the mind, the affections, intention, the radical on left side of the character CJK
+38FB: Ideograph to remedy by punishment; to punish; to reprove; to warn, in great distress; suffering hardships; distress; trouble; worry CJK
+38FC: Ideograph (same as 忍) to endure; to bear; to forbear; to repress CJK
+38FD: Ideograph (ancient form of 恕) to forgive; to pardon, (ancient form 怒) anger; wrath; indignation; rage CJK
+38FE: Ideograph do not care; unmindful of CJK
+38FF: Ideograph painfully sad, scared; afraid; fearful, anger, melancholy; grievous; mournful; sad, to be concerned about CJK

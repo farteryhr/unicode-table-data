@@ -1,256 +1,256 @@
-5700 : Cjk unified ideograph
-5701 : Cjk unified ideograph
-5702 : Cjk unified ideograph
-5703 : Cjk unified ideograph
-5704 : Cjk unified ideograph
-5705 : Cjk unified ideograph
-5706 : Cjk unified ideograph
-5707 : Cjk unified ideograph
-5708 : Cjk unified ideograph
-5709 : Cjk unified ideograph
-570A : Cjk unified ideograph
-570B : Cjk unified ideograph
-570C : Cjk unified ideograph
-570D : Cjk unified ideograph
-570E : Cjk unified ideograph
-570F : Cjk unified ideograph
-5710 : Cjk unified ideograph
-5711 : Cjk unified ideograph
-5712 : Cjk unified ideograph
-5713 : Cjk unified ideograph
-5714 : Cjk unified ideograph
-5715 : Cjk unified ideograph
-5716 : Cjk unified ideograph
-5717 : Cjk unified ideograph
-5718 : Cjk unified ideograph
-5719 : Cjk unified ideograph
-571A : Cjk unified ideograph
-571B : Cjk unified ideograph
-571C : Cjk unified ideograph
-571D : Cjk unified ideograph
-571E : Cjk unified ideograph
-571F : Cjk unified ideograph
-5720 : Cjk unified ideograph
-5721 : Cjk unified ideograph
-5722 : Cjk unified ideograph
-5723 : Cjk unified ideograph
-5724 : Cjk unified ideograph
-5725 : Cjk unified ideograph
-5726 : Cjk unified ideograph
-5727 : Cjk unified ideograph
-5728 : Cjk unified ideograph
-5729 : Cjk unified ideograph
-572A : Cjk unified ideograph
-572B : Cjk unified ideograph
-572C : Cjk unified ideograph
-572D : Cjk unified ideograph
-572E : Cjk unified ideograph
-572F : Cjk unified ideograph
-5730 : Cjk unified ideograph
-5731 : Cjk unified ideograph
-5732 : Cjk unified ideograph
-5733 : Cjk unified ideograph
-5734 : Cjk unified ideograph
-5735 : Cjk unified ideograph
-5736 : Cjk unified ideograph
-5737 : Cjk unified ideograph
-5738 : Cjk unified ideograph
-5739 : Cjk unified ideograph
-573A : Cjk unified ideograph
-573B : Cjk unified ideograph
-573C : Cjk unified ideograph
-573D : Cjk unified ideograph
-573E : Cjk unified ideograph
-573F : Cjk unified ideograph
-5740 : Cjk unified ideograph
-5741 : Cjk unified ideograph
-5742 : Cjk unified ideograph
-5743 : Cjk unified ideograph
-5744 : Cjk unified ideograph
-5745 : Cjk unified ideograph
-5746 : Cjk unified ideograph
-5747 : Cjk unified ideograph
-5748 : Cjk unified ideograph
-5749 : Cjk unified ideograph
-574A : Cjk unified ideograph
-574B : Cjk unified ideograph
-574C : Cjk unified ideograph
-574D : Cjk unified ideograph
-574E : Cjk unified ideograph
-574F : Cjk unified ideograph
-5750 : Cjk unified ideograph
-5751 : Cjk unified ideograph
-5752 : Cjk unified ideograph
-5753 : Cjk unified ideograph
-5754 : Cjk unified ideograph
-5755 : Cjk unified ideograph
-5756 : Cjk unified ideograph
-5757 : Cjk unified ideograph
-5758 : Cjk unified ideograph
-5759 : Cjk unified ideograph
-575A : Cjk unified ideograph
-575B : Cjk unified ideograph
-575C : Cjk unified ideograph
-575D : Cjk unified ideograph
-575E : Cjk unified ideograph
-575F : Cjk unified ideograph
-5760 : Cjk unified ideograph
-5761 : Cjk unified ideograph
-5762 : Cjk unified ideograph
-5763 : Cjk unified ideograph
-5764 : Cjk unified ideograph
-5765 : Cjk unified ideograph
-5766 : Cjk unified ideograph
-5767 : Cjk unified ideograph
-5768 : Cjk unified ideograph
-5769 : Cjk unified ideograph
-576A : Cjk unified ideograph
-576B : Cjk unified ideograph
-576C : Cjk unified ideograph
-576D : Cjk unified ideograph
-576E : Cjk unified ideograph
-576F : Cjk unified ideograph
-5770 : Cjk unified ideograph
-5771 : Cjk unified ideograph
-5772 : Cjk unified ideograph
-5773 : Cjk unified ideograph
-5774 : Cjk unified ideograph
-5775 : Cjk unified ideograph
-5776 : Cjk unified ideograph
-5777 : Cjk unified ideograph
-5778 : Cjk unified ideograph
-5779 : Cjk unified ideograph
-577A : Cjk unified ideograph
-577B : Cjk unified ideograph
-577C : Cjk unified ideograph
-577D : Cjk unified ideograph
-577E : Cjk unified ideograph
-577F : Cjk unified ideograph
-5780 : Cjk unified ideograph
-5781 : Cjk unified ideograph
-5782 : Cjk unified ideograph
-5783 : Cjk unified ideograph
-5784 : Cjk unified ideograph
-5785 : Cjk unified ideograph
-5786 : Cjk unified ideograph
-5787 : Cjk unified ideograph
-5788 : Cjk unified ideograph
-5789 : Cjk unified ideograph
-578A : Cjk unified ideograph
-578B : Cjk unified ideograph
-578C : Cjk unified ideograph
-578D : Cjk unified ideograph
-578E : Cjk unified ideograph
-578F : Cjk unified ideograph
-5790 : Cjk unified ideograph
-5791 : Cjk unified ideograph
-5792 : Cjk unified ideograph
-5793 : Cjk unified ideograph
-5794 : Cjk unified ideograph
-5795 : Cjk unified ideograph
-5796 : Cjk unified ideograph
-5797 : Cjk unified ideograph
-5798 : Cjk unified ideograph
-5799 : Cjk unified ideograph
-579A : Cjk unified ideograph
-579B : Cjk unified ideograph
-579C : Cjk unified ideograph
-579D : Cjk unified ideograph
-579E : Cjk unified ideograph
-579F : Cjk unified ideograph
-57A0 : Cjk unified ideograph
-57A1 : Cjk unified ideograph
-57A2 : Cjk unified ideograph
-57A3 : Cjk unified ideograph
-57A4 : Cjk unified ideograph
-57A5 : Cjk unified ideograph
-57A6 : Cjk unified ideograph
-57A7 : Cjk unified ideograph
-57A8 : Cjk unified ideograph
-57A9 : Cjk unified ideograph
-57AA : Cjk unified ideograph
-57AB : Cjk unified ideograph
-57AC : Cjk unified ideograph
-57AD : Cjk unified ideograph
-57AE : Cjk unified ideograph
-57AF : Cjk unified ideograph
-57B0 : Cjk unified ideograph
-57B1 : Cjk unified ideograph
-57B2 : Cjk unified ideograph
-57B3 : Cjk unified ideograph
-57B4 : Cjk unified ideograph
-57B5 : Cjk unified ideograph
-57B6 : Cjk unified ideograph
-57B7 : Cjk unified ideograph
-57B8 : Cjk unified ideograph
-57B9 : Cjk unified ideograph
-57BA : Cjk unified ideograph
-57BB : Cjk unified ideograph
-57BC : Cjk unified ideograph
-57BD : Cjk unified ideograph
-57BE : Cjk unified ideograph
-57BF : Cjk unified ideograph
-57C0 : Cjk unified ideograph
-57C1 : Cjk unified ideograph
-57C2 : Cjk unified ideograph
-57C3 : Cjk unified ideograph
-57C4 : Cjk unified ideograph
-57C5 : Cjk unified ideograph
-57C6 : Cjk unified ideograph
-57C7 : Cjk unified ideograph
-57C8 : Cjk unified ideograph
-57C9 : Cjk unified ideograph
-57CA : Cjk unified ideograph
-57CB : Cjk unified ideograph
-57CC : Cjk unified ideograph
-57CD : Cjk unified ideograph
-57CE : Cjk unified ideograph
-57CF : Cjk unified ideograph
-57D0 : Cjk unified ideograph
-57D1 : Cjk unified ideograph
-57D2 : Cjk unified ideograph
-57D3 : Cjk unified ideograph
-57D4 : Cjk unified ideograph
-57D5 : Cjk unified ideograph
-57D6 : Cjk unified ideograph
-57D7 : Cjk unified ideograph
-57D8 : Cjk unified ideograph
-57D9 : Cjk unified ideograph
-57DA : Cjk unified ideograph
-57DB : Cjk unified ideograph
-57DC : Cjk unified ideograph
-57DD : Cjk unified ideograph
-57DE : Cjk unified ideograph
-57DF : Cjk unified ideograph
-57E0 : Cjk unified ideograph
-57E1 : Cjk unified ideograph
-57E2 : Cjk unified ideograph
-57E3 : Cjk unified ideograph
-57E4 : Cjk unified ideograph
-57E5 : Cjk unified ideograph
-57E6 : Cjk unified ideograph
-57E7 : Cjk unified ideograph
-57E8 : Cjk unified ideograph
-57E9 : Cjk unified ideograph
-57EA : Cjk unified ideograph
-57EB : Cjk unified ideograph
-57EC : Cjk unified ideograph
-57ED : Cjk unified ideograph
-57EE : Cjk unified ideograph
-57EF : Cjk unified ideograph
-57F0 : Cjk unified ideograph
-57F1 : Cjk unified ideograph
-57F2 : Cjk unified ideograph
-57F3 : Cjk unified ideograph
-57F4 : Cjk unified ideograph
-57F5 : Cjk unified ideograph
-57F6 : Cjk unified ideograph
-57F7 : Cjk unified ideograph
-57F8 : Cjk unified ideograph
-57F9 : Cjk unified ideograph
-57FA : Cjk unified ideograph
-57FB : Cjk unified ideograph
-57FC : Cjk unified ideograph
-57FD : Cjk unified ideograph
-57FE : Cjk unified ideograph
-57FF : Cjk unified ideograph
+5700: Ideograph nation, country, nation-state CJK
+5701:
+5702: Ideograph pig-sty; privy CJK
+5703: Ideograph garden, cultivated field CJK
+5704: Ideograph prison, jail CJK
+5705: Ideograph correspondence; a case; a box CJK
+5706: Ideograph circle; round, circular; complete CJK
+5707: Ideograph all, complete, entire CJK
+5708: Ideograph to circle; a circle; corral CJK
+5709: Ideograph stable, corral, enclosure; frontier, border CJK
+570A: Ideograph rest room CJK
+570B: Ideograph nation, country, nation-state CJK
+570C: Ideograph fence CJK
+570D: Ideograph surround, encircle, corral CJK
+570E: Ideograph circle; round, circular; complete CJK
+570F: Ideograph to circle; a circle; corral CJK
+5710:
+5711:
+5712: Ideograph garden; park, orchard CJK
+5713: Ideograph circle; round, circular; complete CJK
+5714:
+5715: Ideograph library CJK
+5716: Ideograph diagram; chart, map, picture CJK
+5717: Ideograph diagram; chart, map, picture CJK
+5718: Ideograph sphere, ball, circle; mass, lump CJK
+5719:
+571A:
+571B: Ideograph used in place names; stratus CJK
+571C: Ideograph circle, surround; encircle CJK
+571D: Ideograph entire CJK
+571E: Ideograph entire, complete; round CJK
+571F: Ideograph soil, earth; items made of earth CJK
+5720:
+5721:
+5722: Ideograph paths between fields CJK
+5723: Ideograph holy, sacred CJK
+5724:
+5725: Ideograph mushroom CJK
+5726: Ideograph (kokuji) water gate, spout CJK
+5727: Ideograph same as 壓 U+58D3, to press; to oppress; to crush; pressure CJK
+5728: Ideograph be at, in, on; consist in, rest CJK
+5729: Ideograph dike, embankment CJK
+572A:
+572B:
+572C: Ideograph plaster over with layer of mud CJK
+572D: Ideograph jade pointed at top CJK
+572E: Ideograph destroyed, ruined; to subvert to injure CJK
+572F: Ideograph bridge, bank CJK
+5730: Ideograph earth; soil, ground; region CJK
+5731:
+5732:
+5733: Ideograph furrow in field, small drainage ditch CJK
+5734:
+5735:
+5736:
+5737:
+5738:
+5739: Ideograph tomb, grave: prairie; open wilderness CJK
+573A: Ideograph open space, field, market CJK
+573B: Ideograph border, boundary CJK
+573C:
+573D:
+573E: Ideograph garbage, rubbish; shaking; danger CJK
+573F:
+5740: Ideograph site, location, land for house CJK
+5741:
+5742: Ideograph hillside, inconvenient places CJK
+5743:
+5744:
+5745:
+5746: Ideograph a grave, tomb CJK
+5747: Ideograph equal, even, fair; all, also CJK
+5748:
+5749:
+574A: Ideograph neighborhood, urban subdivision; (J) priest's residence; (Buddhist) priest; boy CJK
+574B: Ideograph dust, earth; a bank of earth; to dig; to bring together CJK
+574C: Ideograph dust, earth; a bank of earth; to dig; to bring together CJK
+574D: Ideograph collapse; landslide CJK
+574E: Ideograph pit, hole; snare, trap; crisis CJK
+574F: Ideograph rotten, spoilt, bad, broken down CJK
+5750: Ideograph sit; seat; ride, travel by CJK
+5751: Ideograph pit, hole; bury, trap; harry CJK
+5752: Ideograph to compare; to match; to equal CJK
+5753:
+5754:
+5755:
+5756:
+5757: Ideograph piece, lump; dollar CJK
+5758:
+5759:
+575A: Ideograph hard, strong, firm; resolute CJK
+575B: Ideograph altar; arena, examination hall CJK
+575C: Ideograph a hole, pit CJK
+575D: Ideograph embankment; dam CJK
+575E: Ideograph entrenchment, bank, low wall CJK
+575F: Ideograph grave, mound; bulge; bulging CJK
+5760: Ideograph fall down, drop, sink, go to ruin CJK
+5761: Ideograph slope, bank, hillside CJK
+5762:
+5763:
+5764: Ideograph earth; feminine, female CJK
+5765:
+5766: Ideograph flat, smooth; self-possessed CJK
+5767:
+5768: Ideograph a lump, heap CJK
+5769: Ideograph earthenware, earthenware vessel CJK
+576A: Ideograph level ground; Japanese measure CJK
+576B: Ideograph a stand on which to replace goblets after drinking CJK
+576C:
+576D: Ideograph mud, mire; to paste, to plaster CJK
+576E: Ideograph platform; unit; term of address CJK
+576F: Ideograph dam, embankment; weir CJK
+5770: Ideograph wilds CJK
+5771: Ideograph dust CJK
+5772:
+5773: Ideograph a hollow in the ground, a cavity, depression; undulating, depressed CJK
+5774: Ideograph a clod of earth; land CJK
+5775: Ideograph earthenware, earthenware vessel CJK
+5776:
+5777: Ideograph clod of earth, lump of soil CJK
+5778:
+5779:
+577A: Ideograph (Cant.) classifier for soft masses CJK
+577B: Ideograph an islet, a rock in a river; an embankment; to stop CJK
+577C: Ideograph split, tear, open CJK
+577D:
+577E:
+577F: Ideograph mound; used in place names CJK
+5780:
+5781:
+5782: Ideograph let down; suspend, hand; down CJK
+5783: Ideograph garbage, refuse, waste CJK
+5784: Ideograph grave, mound; ridge in field CJK
+5785: Ideograph mound, grave; ridge in field CJK
+5786: Ideograph black clods of earth; shop, hut CJK
+5787:
+5788: Ideograph used in place names; Japanese -nuta; Korean -dae CJK
+5789:
+578A:
+578B: Ideograph pattern, model, type; law; mold CJK
+578C: Ideograph a field; used in place names CJK
+578D:
+578E:
+578F:
+5790:
+5791:
+5792: Ideograph rampart, military wall CJK
+5793: Ideograph border, boundary, frontier CJK
+5794: Ideograph to restrain; to dam a stream and change its direction; a mound CJK
+5795: Ideograph used in place names CJK
+5796:
+5797: Ideograph sacrifice CJK
+5798:
+5799:
+579A: Ideograph mound, roundish mass CJK
+579B: Ideograph heap, pile; pile up, heap up CJK
+579C: Ideograph heap; buttress; battlements CJK
+579D: Ideograph dilapidated, ruined CJK
+579E: Ideograph small mound; place name; hillock CJK
+579F:
+57A0: Ideograph boundary, bank of stream or river CJK
+57A1: Ideograph plow soil; place name CJK
+57A2: Ideograph dirt, filth, stains; dirty CJK
+57A3: Ideograph low wall CJK
+57A4: Ideograph ant-hill, small mound; hill CJK
+57A5:
+57A6: Ideograph cultivate, reclaim, to farm land CJK
+57A7: Ideograph variable unit of land measure CJK
+57A8:
+57A9: Ideograph holy, sacred, sage; simplification of 堊 chalk; daub with chalk CJK
+57AA:
+57AB: Ideograph advance money, pay for another CJK
+57AC:
+57AD: Ideograph character used in place names CJK
+57AE: Ideograph be defeated, fail, collapse CJK
+57AF:
+57B0:
+57B1:
+57B2: Ideograph high and dry place CJK
+57B3:
+57B4: Ideograph small, head shaped hill, used in place names CJK
+57B5: Ideograph cover with earth; a pit; a hole CJK
+57B6:
+57B7:
+57B8: Ideograph a dyke, embankment CJK
+57B9:
+57BA:
+57BB: Ideograph an embankment; a slope over which boat pass CJK
+57BC:
+57BD: Ideograph (Cant.) sediment, precipitate CJK
+57BE:
+57BF:
+57C0: Ideograph let down; suspend, hand; down CJK
+57C1:
+57C2: Ideograph ditches for irrigation; hole CJK
+57C3: Ideograph fine dust, dirt CJK
+57C4: Ideograph whirling of dust in the wind CJK
+57C5:
+57C6: Ideograph stony CJK
+57C7: Ideograph name of bridge CJK
+57C8: Ideograph high, steep, towering; stern CJK
+57C9:
+57CA:
+57CB: Ideograph bury, secrete, conceal CJK
+57CC: Ideograph waste CJK
+57CD:
+57CE: Ideograph castle; city, town; municipality CJK
+57CF: Ideograph a boundary, a limit CJK
+57D0:
+57D1:
+57D2: Ideograph enclosure, dike, embankment CJK
+57D3: Ideograph enclosure, dike, embankment CJK
+57D4: Ideograph plain, arena; port, market CJK
+57D5: Ideograph a large, pear-shaped earthenware jar CJK
+57D6:
+57D7: Ideograph (same as U+5E70 埠) a wharf, dock, jetty; a trading center, port; place name (e.g., 深水埗 in Hong Kong) CJK
+57D8: Ideograph roost CJK
+57D9: Ideograph instrument CJK
+57DA: Ideograph crucible CJK
+57DB:
+57DC: Ideograph open country, field; wilderness CJK
+57DD: Ideograph bank, dike; purtuberance from CJK
+57DE: Ideograph (Cant.) place CJK
+57DF: Ideograph district, region, boundary; land CJK
+57E0: Ideograph port city CJK
+57E1: Ideograph character used in place names CJK
+57E2:
+57E3:
+57E4: Ideograph add, increase, attach; low fence CJK
+57E5:
+57E6: Ideograph a bowl CJK
+57E7: Ideograph dam CJK
+57E8:
+57E9:
+57EA:
+57EB:
+57EC:
+57ED: Ideograph a dam, a jock; inclined plane on a canal, where boats can be hauled up or down CJK
+57EE:
+57EF: Ideograph cover with earth; a pit; a hole CJK
+57F0: Ideograph fief CJK
+57F1:
+57F2: Ideograph (Cant.) classifier for walls CJK
+57F3: Ideograph a pit, a hole, a snare, a danger; a crisis; a mortar CJK
+57F4: Ideograph soil with large clay content CJK
+57F5: Ideograph hardened dirt or clay; cluster CJK
+57F6: Ideograph art CJK
+57F7: Ideograph hold in hand; keep; carry out CJK
+57F8: Ideograph a border; a limit; a dike; a frontier; a boundary CJK
+57F9: Ideograph bank up with dirt; cultivate CJK
+57FA: Ideograph foundation, base CJK
+57FB:
+57FC: Ideograph headland CJK
+57FD: Ideograph broom; to sweep, clear away CJK
+57FE:
+57FF:

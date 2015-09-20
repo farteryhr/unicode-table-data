@@ -1,256 +1,256 @@
-D500 : Hangul syllable pyuk
-D501 : Hangul syllable pyut
-D502 : Hangul syllable pyup
-D503 : Hangul syllable pyuh
-D504 : Hangul syllable peu
-D505 : Hangul syllable peug
-D506 : Hangul syllable peugg
-D507 : Hangul syllable peugs
-D508 : Hangul syllable peun
-D509 : Hangul syllable peunj
-D50A : Hangul syllable peunh
-D50B : Hangul syllable peud
-D50C : Hangul syllable peul
-D50D : Hangul syllable peulg
-D50E : Hangul syllable peulm
-D50F : Hangul syllable peulb
-D510 : Hangul syllable peuls
-D511 : Hangul syllable peult
-D512 : Hangul syllable peulp
-D513 : Hangul syllable peulh
-D514 : Hangul syllable peum
-D515 : Hangul syllable peub
-D516 : Hangul syllable peubs
-D517 : Hangul syllable peus
-D518 : Hangul syllable peuss
-D519 : Hangul syllable peung
-D51A : Hangul syllable peuj
-D51B : Hangul syllable peuc
-D51C : Hangul syllable peuk
-D51D : Hangul syllable peut
-D51E : Hangul syllable peup
-D51F : Hangul syllable peuh
-D520 : Hangul syllable pyi
-D521 : Hangul syllable pyig
-D522 : Hangul syllable pyigg
-D523 : Hangul syllable pyigs
-D524 : Hangul syllable pyin
-D525 : Hangul syllable pyinj
-D526 : Hangul syllable pyinh
-D527 : Hangul syllable pyid
-D528 : Hangul syllable pyil
-D529 : Hangul syllable pyilg
-D52A : Hangul syllable pyilm
-D52B : Hangul syllable pyilb
-D52C : Hangul syllable pyils
-D52D : Hangul syllable pyilt
-D52E : Hangul syllable pyilp
-D52F : Hangul syllable pyilh
-D530 : Hangul syllable pyim
-D531 : Hangul syllable pyib
-D532 : Hangul syllable pyibs
-D533 : Hangul syllable pyis
-D534 : Hangul syllable pyiss
-D535 : Hangul syllable pying
-D536 : Hangul syllable pyij
-D537 : Hangul syllable pyic
-D538 : Hangul syllable pyik
-D539 : Hangul syllable pyit
-D53A : Hangul syllable pyip
-D53B : Hangul syllable pyih
-D53C : Hangul syllable pi
-D53D : Hangul syllable pig
-D53E : Hangul syllable pigg
-D53F : Hangul syllable pigs
-D540 : Hangul syllable pin
-D541 : Hangul syllable pinj
-D542 : Hangul syllable pinh
-D543 : Hangul syllable pid
-D544 : Hangul syllable pil
-D545 : Hangul syllable pilg
-D546 : Hangul syllable pilm
-D547 : Hangul syllable pilb
-D548 : Hangul syllable pils
-D549 : Hangul syllable pilt
-D54A : Hangul syllable pilp
-D54B : Hangul syllable pilh
-D54C : Hangul syllable pim
-D54D : Hangul syllable pib
-D54E : Hangul syllable pibs
-D54F : Hangul syllable pis
-D550 : Hangul syllable piss
-D551 : Hangul syllable ping
-D552 : Hangul syllable pij
-D553 : Hangul syllable pic
-D554 : Hangul syllable pik
-D555 : Hangul syllable pit
-D556 : Hangul syllable pip
-D557 : Hangul syllable pih
-D558 : Hangul syllable ha
-D559 : Hangul syllable hag
-D55A : Hangul syllable hagg
-D55B : Hangul syllable hags
-D55C : Hangul syllable han
-D55D : Hangul syllable hanj
-D55E : Hangul syllable hanh
-D55F : Hangul syllable had
-D560 : Hangul syllable hal
-D561 : Hangul syllable halg
-D562 : Hangul syllable halm
-D563 : Hangul syllable halb
-D564 : Hangul syllable hals
-D565 : Hangul syllable halt
-D566 : Hangul syllable halp
-D567 : Hangul syllable halh
-D568 : Hangul syllable ham
-D569 : Hangul syllable hab
-D56A : Hangul syllable habs
-D56B : Hangul syllable has
-D56C : Hangul syllable hass
-D56D : Hangul syllable hang
-D56E : Hangul syllable haj
-D56F : Hangul syllable hac
-D570 : Hangul syllable hak
-D571 : Hangul syllable hat
-D572 : Hangul syllable hap
-D573 : Hangul syllable hah
-D574 : Hangul syllable hae
-D575 : Hangul syllable haeg
-D576 : Hangul syllable haegg
-D577 : Hangul syllable haegs
-D578 : Hangul syllable haen
-D579 : Hangul syllable haenj
-D57A : Hangul syllable haenh
-D57B : Hangul syllable haed
-D57C : Hangul syllable hael
-D57D : Hangul syllable haelg
-D57E : Hangul syllable haelm
-D57F : Hangul syllable haelb
-D580 : Hangul syllable haels
-D581 : Hangul syllable haelt
-D582 : Hangul syllable haelp
-D583 : Hangul syllable haelh
-D584 : Hangul syllable haem
-D585 : Hangul syllable haeb
-D586 : Hangul syllable haebs
-D587 : Hangul syllable haes
-D588 : Hangul syllable haess
-D589 : Hangul syllable haeng
-D58A : Hangul syllable haej
-D58B : Hangul syllable haec
-D58C : Hangul syllable haek
-D58D : Hangul syllable haet
-D58E : Hangul syllable haep
-D58F : Hangul syllable haeh
-D590 : Hangul syllable hya
-D591 : Hangul syllable hyag
-D592 : Hangul syllable hyagg
-D593 : Hangul syllable hyags
-D594 : Hangul syllable hyan
-D595 : Hangul syllable hyanj
-D596 : Hangul syllable hyanh
-D597 : Hangul syllable hyad
-D598 : Hangul syllable hyal
-D599 : Hangul syllable hyalg
-D59A : Hangul syllable hyalm
-D59B : Hangul syllable hyalb
-D59C : Hangul syllable hyals
-D59D : Hangul syllable hyalt
-D59E : Hangul syllable hyalp
-D59F : Hangul syllable hyalh
-D5A0 : Hangul syllable hyam
-D5A1 : Hangul syllable hyab
-D5A2 : Hangul syllable hyabs
-D5A3 : Hangul syllable hyas
-D5A4 : Hangul syllable hyass
-D5A5 : Hangul syllable hyang
-D5A6 : Hangul syllable hyaj
-D5A7 : Hangul syllable hyac
-D5A8 : Hangul syllable hyak
-D5A9 : Hangul syllable hyat
-D5AA : Hangul syllable hyap
-D5AB : Hangul syllable hyah
-D5AC : Hangul syllable hyae
-D5AD : Hangul syllable hyaeg
-D5AE : Hangul syllable hyaegg
-D5AF : Hangul syllable hyaegs
-D5B0 : Hangul syllable hyaen
-D5B1 : Hangul syllable hyaenj
-D5B2 : Hangul syllable hyaenh
-D5B3 : Hangul syllable hyaed
-D5B4 : Hangul syllable hyael
-D5B5 : Hangul syllable hyaelg
-D5B6 : Hangul syllable hyaelm
-D5B7 : Hangul syllable hyaelb
-D5B8 : Hangul syllable hyaels
-D5B9 : Hangul syllable hyaelt
-D5BA : Hangul syllable hyaelp
-D5BB : Hangul syllable hyaelh
-D5BC : Hangul syllable hyaem
-D5BD : Hangul syllable hyaeb
-D5BE : Hangul syllable hyaebs
-D5BF : Hangul syllable hyaes
-D5C0 : Hangul syllable hyaess
-D5C1 : Hangul syllable hyaeng
-D5C2 : Hangul syllable hyaej
-D5C3 : Hangul syllable hyaec
-D5C4 : Hangul syllable hyaek
-D5C5 : Hangul syllable hyaet
-D5C6 : Hangul syllable hyaep
-D5C7 : Hangul syllable hyaeh
-D5C8 : Hangul syllable heo
-D5C9 : Hangul syllable heog
-D5CA : Hangul syllable heogg
-D5CB : Hangul syllable heogs
-D5CC : Hangul syllable heon
-D5CD : Hangul syllable heonj
-D5CE : Hangul syllable heonh
-D5CF : Hangul syllable heod
-D5D0 : Hangul syllable heol
-D5D1 : Hangul syllable heolg
-D5D2 : Hangul syllable heolm
-D5D3 : Hangul syllable heolb
-D5D4 : Hangul syllable heols
-D5D5 : Hangul syllable heolt
-D5D6 : Hangul syllable heolp
-D5D7 : Hangul syllable heolh
-D5D8 : Hangul syllable heom
-D5D9 : Hangul syllable heob
-D5DA : Hangul syllable heobs
-D5DB : Hangul syllable heos
-D5DC : Hangul syllable heoss
-D5DD : Hangul syllable heong
-D5DE : Hangul syllable heoj
-D5DF : Hangul syllable heoc
-D5E0 : Hangul syllable heok
-D5E1 : Hangul syllable heot
-D5E2 : Hangul syllable heop
-D5E3 : Hangul syllable heoh
-D5E4 : Hangul syllable he
-D5E5 : Hangul syllable heg
-D5E6 : Hangul syllable hegg
-D5E7 : Hangul syllable hegs
-D5E8 : Hangul syllable hen
-D5E9 : Hangul syllable henj
-D5EA : Hangul syllable henh
-D5EB : Hangul syllable hed
-D5EC : Hangul syllable hel
-D5ED : Hangul syllable helg
-D5EE : Hangul syllable helm
-D5EF : Hangul syllable helb
-D5F0 : Hangul syllable hels
-D5F1 : Hangul syllable helt
-D5F2 : Hangul syllable help
-D5F3 : Hangul syllable helh
-D5F4 : Hangul syllable hem
-D5F5 : Hangul syllable heb
-D5F6 : Hangul syllable hebs
-D5F7 : Hangul syllable hes
-D5F8 : Hangul syllable hess
-D5F9 : Hangul syllable heng
-D5FA : Hangul syllable hej
-D5FB : Hangul syllable hec
-D5FC : Hangul syllable hek
-D5FD : Hangul syllable het
-D5FE : Hangul syllable hep
-D5FF : Hangul syllable heh
+D500: Hangul Syllable Pyuk
+D501: Hangul Syllable Pyut
+D502: Hangul Syllable Pyup
+D503: Hangul Syllable Pyuh
+D504: Hangul Syllable Peu
+D505: Hangul Syllable Peug
+D506: Hangul Syllable Peugg
+D507: Hangul Syllable Peugs
+D508: Hangul Syllable Peun
+D509: Hangul Syllable Peunj
+D50A: Hangul Syllable Peunh
+D50B: Hangul Syllable Peud
+D50C: Hangul Syllable Peul
+D50D: Hangul Syllable Peulg
+D50E: Hangul Syllable Peulm
+D50F: Hangul Syllable Peulb
+D510: Hangul Syllable Peuls
+D511: Hangul Syllable Peult
+D512: Hangul Syllable Peulp
+D513: Hangul Syllable Peulh
+D514: Hangul Syllable Peum
+D515: Hangul Syllable Peub
+D516: Hangul Syllable Peubs
+D517: Hangul Syllable Peus
+D518: Hangul Syllable Peuss
+D519: Hangul Syllable Peung
+D51A: Hangul Syllable Peuj
+D51B: Hangul Syllable Peuc
+D51C: Hangul Syllable Peuk
+D51D: Hangul Syllable Peut
+D51E: Hangul Syllable Peup
+D51F: Hangul Syllable Peuh
+D520: Hangul Syllable Pyi
+D521: Hangul Syllable Pyig
+D522: Hangul Syllable Pyigg
+D523: Hangul Syllable Pyigs
+D524: Hangul Syllable Pyin
+D525: Hangul Syllable Pyinj
+D526: Hangul Syllable Pyinh
+D527: Hangul Syllable Pyid
+D528: Hangul Syllable Pyil
+D529: Hangul Syllable Pyilg
+D52A: Hangul Syllable Pyilm
+D52B: Hangul Syllable Pyilb
+D52C: Hangul Syllable Pyils
+D52D: Hangul Syllable Pyilt
+D52E: Hangul Syllable Pyilp
+D52F: Hangul Syllable Pyilh
+D530: Hangul Syllable Pyim
+D531: Hangul Syllable Pyib
+D532: Hangul Syllable Pyibs
+D533: Hangul Syllable Pyis
+D534: Hangul Syllable Pyiss
+D535: Hangul Syllable Pying
+D536: Hangul Syllable Pyij
+D537: Hangul Syllable Pyic
+D538: Hangul Syllable Pyik
+D539: Hangul Syllable Pyit
+D53A: Hangul Syllable Pyip
+D53B: Hangul Syllable Pyih
+D53C: Hangul Syllable Pi
+D53D: Hangul Syllable Pig
+D53E: Hangul Syllable Pigg
+D53F: Hangul Syllable Pigs
+D540: Hangul Syllable Pin
+D541: Hangul Syllable Pinj
+D542: Hangul Syllable Pinh
+D543: Hangul Syllable Pid
+D544: Hangul Syllable Pil
+D545: Hangul Syllable Pilg
+D546: Hangul Syllable Pilm
+D547: Hangul Syllable Pilb
+D548: Hangul Syllable Pils
+D549: Hangul Syllable Pilt
+D54A: Hangul Syllable Pilp
+D54B: Hangul Syllable Pilh
+D54C: Hangul Syllable Pim
+D54D: Hangul Syllable Pib
+D54E: Hangul Syllable Pibs
+D54F: Hangul Syllable Pis
+D550: Hangul Syllable Piss
+D551: Hangul Syllable Ping
+D552: Hangul Syllable Pij
+D553: Hangul Syllable Pic
+D554: Hangul Syllable Pik
+D555: Hangul Syllable Pit
+D556: Hangul Syllable Pip
+D557: Hangul Syllable Pih
+D558: Hangul Syllable Ha
+D559: Hangul Syllable Hag
+D55A: Hangul Syllable Hagg
+D55B: Hangul Syllable Hags
+D55C: Hangul Syllable Han
+D55D: Hangul Syllable Hanj
+D55E: Hangul Syllable Hanh
+D55F: Hangul Syllable Had
+D560: Hangul Syllable Hal
+D561: Hangul Syllable Halg
+D562: Hangul Syllable Halm
+D563: Hangul Syllable Halb
+D564: Hangul Syllable Hals
+D565: Hangul Syllable Halt
+D566: Hangul Syllable Halp
+D567: Hangul Syllable Halh
+D568: Hangul Syllable Ham
+D569: Hangul Syllable Hab
+D56A: Hangul Syllable Habs
+D56B: Hangul Syllable Has
+D56C: Hangul Syllable Hass
+D56D: Hangul Syllable Hang
+D56E: Hangul Syllable Haj
+D56F: Hangul Syllable Hac
+D570: Hangul Syllable Hak
+D571: Hangul Syllable Hat
+D572: Hangul Syllable Hap
+D573: Hangul Syllable Hah
+D574: Hangul Syllable Hae
+D575: Hangul Syllable Haeg
+D576: Hangul Syllable Haegg
+D577: Hangul Syllable Haegs
+D578: Hangul Syllable Haen
+D579: Hangul Syllable Haenj
+D57A: Hangul Syllable Haenh
+D57B: Hangul Syllable Haed
+D57C: Hangul Syllable Hael
+D57D: Hangul Syllable Haelg
+D57E: Hangul Syllable Haelm
+D57F: Hangul Syllable Haelb
+D580: Hangul Syllable Haels
+D581: Hangul Syllable Haelt
+D582: Hangul Syllable Haelp
+D583: Hangul Syllable Haelh
+D584: Hangul Syllable Haem
+D585: Hangul Syllable Haeb
+D586: Hangul Syllable Haebs
+D587: Hangul Syllable Haes
+D588: Hangul Syllable Haess
+D589: Hangul Syllable Haeng
+D58A: Hangul Syllable Haej
+D58B: Hangul Syllable Haec
+D58C: Hangul Syllable Haek
+D58D: Hangul Syllable Haet
+D58E: Hangul Syllable Haep
+D58F: Hangul Syllable Haeh
+D590: Hangul Syllable Hya
+D591: Hangul Syllable Hyag
+D592: Hangul Syllable Hyagg
+D593: Hangul Syllable Hyags
+D594: Hangul Syllable Hyan
+D595: Hangul Syllable Hyanj
+D596: Hangul Syllable Hyanh
+D597: Hangul Syllable Hyad
+D598: Hangul Syllable Hyal
+D599: Hangul Syllable Hyalg
+D59A: Hangul Syllable Hyalm
+D59B: Hangul Syllable Hyalb
+D59C: Hangul Syllable Hyals
+D59D: Hangul Syllable Hyalt
+D59E: Hangul Syllable Hyalp
+D59F: Hangul Syllable Hyalh
+D5A0: Hangul Syllable Hyam
+D5A1: Hangul Syllable Hyab
+D5A2: Hangul Syllable Hyabs
+D5A3: Hangul Syllable Hyas
+D5A4: Hangul Syllable Hyass
+D5A5: Hangul Syllable Hyang
+D5A6: Hangul Syllable Hyaj
+D5A7: Hangul Syllable Hyac
+D5A8: Hangul Syllable Hyak
+D5A9: Hangul Syllable Hyat
+D5AA: Hangul Syllable Hyap
+D5AB: Hangul Syllable Hyah
+D5AC: Hangul Syllable Hyae
+D5AD: Hangul Syllable Hyaeg
+D5AE: Hangul Syllable Hyaegg
+D5AF: Hangul Syllable Hyaegs
+D5B0: Hangul Syllable Hyaen
+D5B1: Hangul Syllable Hyaenj
+D5B2: Hangul Syllable Hyaenh
+D5B3: Hangul Syllable Hyaed
+D5B4: Hangul Syllable Hyael
+D5B5: Hangul Syllable Hyaelg
+D5B6: Hangul Syllable Hyaelm
+D5B7: Hangul Syllable Hyaelb
+D5B8: Hangul Syllable Hyaels
+D5B9: Hangul Syllable Hyaelt
+D5BA: Hangul Syllable Hyaelp
+D5BB: Hangul Syllable Hyaelh
+D5BC: Hangul Syllable Hyaem
+D5BD: Hangul Syllable Hyaeb
+D5BE: Hangul Syllable Hyaebs
+D5BF: Hangul Syllable Hyaes
+D5C0: Hangul Syllable Hyaess
+D5C1: Hangul Syllable Hyaeng
+D5C2: Hangul Syllable Hyaej
+D5C3: Hangul Syllable Hyaec
+D5C4: Hangul Syllable Hyaek
+D5C5: Hangul Syllable Hyaet
+D5C6: Hangul Syllable Hyaep
+D5C7: Hangul Syllable Hyaeh
+D5C8: Hangul Syllable Heo
+D5C9: Hangul Syllable Heog
+D5CA: Hangul Syllable Heogg
+D5CB: Hangul Syllable Heogs
+D5CC: Hangul Syllable Heon
+D5CD: Hangul Syllable Heonj
+D5CE: Hangul Syllable Heonh
+D5CF: Hangul Syllable Heod
+D5D0: Hangul Syllable Heol
+D5D1: Hangul Syllable Heolg
+D5D2: Hangul Syllable Heolm
+D5D3: Hangul Syllable Heolb
+D5D4: Hangul Syllable Heols
+D5D5: Hangul Syllable Heolt
+D5D6: Hangul Syllable Heolp
+D5D7: Hangul Syllable Heolh
+D5D8: Hangul Syllable Heom
+D5D9: Hangul Syllable Heob
+D5DA: Hangul Syllable Heobs
+D5DB: Hangul Syllable Heos
+D5DC: Hangul Syllable Heoss
+D5DD: Hangul Syllable Heong
+D5DE: Hangul Syllable Heoj
+D5DF: Hangul Syllable Heoc
+D5E0: Hangul Syllable Heok
+D5E1: Hangul Syllable Heot
+D5E2: Hangul Syllable Heop
+D5E3: Hangul Syllable Heoh
+D5E4: Hangul Syllable He
+D5E5: Hangul Syllable Heg
+D5E6: Hangul Syllable Hegg
+D5E7: Hangul Syllable Hegs
+D5E8: Hangul Syllable Hen
+D5E9: Hangul Syllable Henj
+D5EA: Hangul Syllable Henh
+D5EB: Hangul Syllable Hed
+D5EC: Hangul Syllable Hel
+D5ED: Hangul Syllable Helg
+D5EE: Hangul Syllable Helm
+D5EF: Hangul Syllable Helb
+D5F0: Hangul Syllable Hels
+D5F1: Hangul Syllable Helt
+D5F2: Hangul Syllable Help
+D5F3: Hangul Syllable Helh
+D5F4: Hangul Syllable Hem
+D5F5: Hangul Syllable Heb
+D5F6: Hangul Syllable Hebs
+D5F7: Hangul Syllable Hes
+D5F8: Hangul Syllable Hess
+D5F9: Hangul Syllable Heng
+D5FA: Hangul Syllable Hej
+D5FB: Hangul Syllable Hec
+D5FC: Hangul Syllable Hek
+D5FD: Hangul Syllable Het
+D5FE: Hangul Syllable Hep
+D5FF: Hangul Syllable Heh

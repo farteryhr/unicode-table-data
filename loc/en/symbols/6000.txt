@@ -1,256 +1,256 @@
-6000 : Cjk unified ideograph
-6001 : Cjk unified ideograph
-6002 : Cjk unified ideograph
-6003 : Cjk unified ideograph
-6004 : Cjk unified ideograph
-6005 : Cjk unified ideograph
-6006 : Cjk unified ideograph
-6007 : Cjk unified ideograph
-6008 : Cjk unified ideograph
-6009 : Cjk unified ideograph
-600A : Cjk unified ideograph
-600B : Cjk unified ideograph
-600C : Cjk unified ideograph
-600D : Cjk unified ideograph
-600E : Cjk unified ideograph
-600F : Cjk unified ideograph
-6010 : Cjk unified ideograph
-6011 : Cjk unified ideograph
-6012 : Cjk unified ideograph
-6013 : Cjk unified ideograph
-6014 : Cjk unified ideograph
-6015 : Cjk unified ideograph
-6016 : Cjk unified ideograph
-6017 : Cjk unified ideograph
-6018 : Cjk unified ideograph
-6019 : Cjk unified ideograph
-601A : Cjk unified ideograph
-601B : Cjk unified ideograph
-601C : Cjk unified ideograph
-601D : Cjk unified ideograph
-601E : Cjk unified ideograph
-601F : Cjk unified ideograph
-6020 : Cjk unified ideograph
-6021 : Cjk unified ideograph
-6022 : Cjk unified ideograph
-6023 : Cjk unified ideograph
-6024 : Cjk unified ideograph
-6025 : Cjk unified ideograph
-6026 : Cjk unified ideograph
-6027 : Cjk unified ideograph
-6028 : Cjk unified ideograph
-6029 : Cjk unified ideograph
-602A : Cjk unified ideograph
-602B : Cjk unified ideograph
-602C : Cjk unified ideograph
-602D : Cjk unified ideograph
-602E : Cjk unified ideograph
-602F : Cjk unified ideograph
-6030 : Cjk unified ideograph
-6031 : Cjk unified ideograph
-6032 : Cjk unified ideograph
-6033 : Cjk unified ideograph
-6034 : Cjk unified ideograph
-6035 : Cjk unified ideograph
-6036 : Cjk unified ideograph
-6037 : Cjk unified ideograph
-6038 : Cjk unified ideograph
-6039 : Cjk unified ideograph
-603A : Cjk unified ideograph
-603B : Cjk unified ideograph
-603C : Cjk unified ideograph
-603D : Cjk unified ideograph
-603E : Cjk unified ideograph
-603F : Cjk unified ideograph
-6040 : Cjk unified ideograph
-6041 : Cjk unified ideograph
-6042 : Cjk unified ideograph
-6043 : Cjk unified ideograph
-6044 : Cjk unified ideograph
-6045 : Cjk unified ideograph
-6046 : Cjk unified ideograph
-6047 : Cjk unified ideograph
-6048 : Cjk unified ideograph
-6049 : Cjk unified ideograph
-604A : Cjk unified ideograph
-604B : Cjk unified ideograph
-604C : Cjk unified ideograph
-604D : Cjk unified ideograph
-604E : Cjk unified ideograph
-604F : Cjk unified ideograph
-6050 : Cjk unified ideograph
-6051 : Cjk unified ideograph
-6052 : Cjk unified ideograph
-6053 : Cjk unified ideograph
-6054 : Cjk unified ideograph
-6055 : Cjk unified ideograph
-6056 : Cjk unified ideograph
-6057 : Cjk unified ideograph
-6058 : Cjk unified ideograph
-6059 : Cjk unified ideograph
-605A : Cjk unified ideograph
-605B : Cjk unified ideograph
-605C : Cjk unified ideograph
-605D : Cjk unified ideograph
-605E : Cjk unified ideograph
-605F : Cjk unified ideograph
-6060 : Cjk unified ideograph
-6061 : Cjk unified ideograph
-6062 : Cjk unified ideograph
-6063 : Cjk unified ideograph
-6064 : Cjk unified ideograph
-6065 : Cjk unified ideograph
-6066 : Cjk unified ideograph
-6067 : Cjk unified ideograph
-6068 : Cjk unified ideograph
-6069 : Cjk unified ideograph
-606A : Cjk unified ideograph
-606B : Cjk unified ideograph
-606C : Cjk unified ideograph
-606D : Cjk unified ideograph
-606E : Cjk unified ideograph
-606F : Cjk unified ideograph
-6070 : Cjk unified ideograph
-6071 : Cjk unified ideograph
-6072 : Cjk unified ideograph
-6073 : Cjk unified ideograph
-6074 : Cjk unified ideograph
-6075 : Cjk unified ideograph
-6076 : Cjk unified ideograph
-6077 : Cjk unified ideograph
-6078 : Cjk unified ideograph
-6079 : Cjk unified ideograph
-607A : Cjk unified ideograph
-607B : Cjk unified ideograph
-607C : Cjk unified ideograph
-607D : Cjk unified ideograph
-607E : Cjk unified ideograph
-607F : Cjk unified ideograph
-6080 : Cjk unified ideograph
-6081 : Cjk unified ideograph
-6082 : Cjk unified ideograph
-6083 : Cjk unified ideograph
-6084 : Cjk unified ideograph
-6085 : Cjk unified ideograph
-6086 : Cjk unified ideograph
-6087 : Cjk unified ideograph
-6088 : Cjk unified ideograph
-6089 : Cjk unified ideograph
-608A : Cjk unified ideograph
-608B : Cjk unified ideograph
-608C : Cjk unified ideograph
-608D : Cjk unified ideograph
-608E : Cjk unified ideograph
-608F : Cjk unified ideograph
-6090 : Cjk unified ideograph
-6091 : Cjk unified ideograph
-6092 : Cjk unified ideograph
-6093 : Cjk unified ideograph
-6094 : Cjk unified ideograph
-6095 : Cjk unified ideograph
-6096 : Cjk unified ideograph
-6097 : Cjk unified ideograph
-6098 : Cjk unified ideograph
-6099 : Cjk unified ideograph
-609A : Cjk unified ideograph
-609B : Cjk unified ideograph
-609C : Cjk unified ideograph
-609D : Cjk unified ideograph
-609E : Cjk unified ideograph
-609F : Cjk unified ideograph
-60A0 : Cjk unified ideograph
-60A1 : Cjk unified ideograph
-60A2 : Cjk unified ideograph
-60A3 : Cjk unified ideograph
-60A4 : Cjk unified ideograph
-60A5 : Cjk unified ideograph
-60A6 : Cjk unified ideograph
-60A7 : Cjk unified ideograph
-60A8 : Cjk unified ideograph
-60A9 : Cjk unified ideograph
-60AA : Cjk unified ideograph
-60AB : Cjk unified ideograph
-60AC : Cjk unified ideograph
-60AD : Cjk unified ideograph
-60AE : Cjk unified ideograph
-60AF : Cjk unified ideograph
-60B0 : Cjk unified ideograph
-60B1 : Cjk unified ideograph
-60B2 : Cjk unified ideograph
-60B3 : Cjk unified ideograph
-60B4 : Cjk unified ideograph
-60B5 : Cjk unified ideograph
-60B6 : Cjk unified ideograph
-60B7 : Cjk unified ideograph
-60B8 : Cjk unified ideograph
-60B9 : Cjk unified ideograph
-60BA : Cjk unified ideograph
-60BB : Cjk unified ideograph
-60BC : Cjk unified ideograph
-60BD : Cjk unified ideograph
-60BE : Cjk unified ideograph
-60BF : Cjk unified ideograph
-60C0 : Cjk unified ideograph
-60C1 : Cjk unified ideograph
-60C2 : Cjk unified ideograph
-60C3 : Cjk unified ideograph
-60C4 : Cjk unified ideograph
-60C5 : Cjk unified ideograph
-60C6 : Cjk unified ideograph
-60C7 : Cjk unified ideograph
-60C8 : Cjk unified ideograph
-60C9 : Cjk unified ideograph
-60CA : Cjk unified ideograph
-60CB : Cjk unified ideograph
-60CC : Cjk unified ideograph
-60CD : Cjk unified ideograph
-60CE : Cjk unified ideograph
-60CF : Cjk unified ideograph
-60D0 : Cjk unified ideograph
-60D1 : Cjk unified ideograph
-60D2 : Cjk unified ideograph
-60D3 : Cjk unified ideograph
-60D4 : Cjk unified ideograph
-60D5 : Cjk unified ideograph
-60D6 : Cjk unified ideograph
-60D7 : Cjk unified ideograph
-60D8 : Cjk unified ideograph
-60D9 : Cjk unified ideograph
-60DA : Cjk unified ideograph
-60DB : Cjk unified ideograph
-60DC : Cjk unified ideograph
-60DD : Cjk unified ideograph
-60DE : Cjk unified ideograph
-60DF : Cjk unified ideograph
-60E0 : Cjk unified ideograph
-60E1 : Cjk unified ideograph
-60E2 : Cjk unified ideograph
-60E3 : Cjk unified ideograph
-60E4 : Cjk unified ideograph
-60E5 : Cjk unified ideograph
-60E6 : Cjk unified ideograph
-60E7 : Cjk unified ideograph
-60E8 : Cjk unified ideograph
-60E9 : Cjk unified ideograph
-60EA : Cjk unified ideograph
-60EB : Cjk unified ideograph
-60EC : Cjk unified ideograph
-60ED : Cjk unified ideograph
-60EE : Cjk unified ideograph
-60EF : Cjk unified ideograph
-60F0 : Cjk unified ideograph
-60F1 : Cjk unified ideograph
-60F2 : Cjk unified ideograph
-60F3 : Cjk unified ideograph
-60F4 : Cjk unified ideograph
-60F5 : Cjk unified ideograph
-60F6 : Cjk unified ideograph
-60F7 : Cjk unified ideograph
-60F8 : Cjk unified ideograph
-60F9 : Cjk unified ideograph
-60FA : Cjk unified ideograph
-60FB : Cjk unified ideograph
-60FC : Cjk unified ideograph
-60FD : Cjk unified ideograph
-60FE : Cjk unified ideograph
-60FF : Cjk unified ideograph
+6000: Ideograph bosom, breast; carry in bosom CJK
+6001: Ideograph manner, bearing, attitude CJK
+6002: Ideograph instigate, arouse, incite CJK
+6003: Ideograph regretful, disappointed CJK
+6004: Ideograph annoyed CJK
+6005: Ideograph disappointed, dissatisfied CJK
+6006: Ideograph sad, broken-hearted, disconsolate CJK
+6007:
+6008:
+6009:
+600A:
+600B:
+600C: Ideograph bosom; to carry in the bosom; to cherish CJK
+600D: Ideograph to be ashamed CJK
+600E: Ideograph what? why? how? CJK
+600F: Ideograph discontented, dispirited, sad CJK
+6010: Ideograph (Cant.) 怐豆 to stare CJK
+6011:
+6012: Ideograph anger, rage, passion; angry CJK
+6013: Ideograph confusion; a braggart CJK
+6014: Ideograph a disease resembling neurosis CJK
+6015: Ideograph to fear, be afraid of; apprehensive CJK
+6016: Ideograph terror, fear; frighten; terrified CJK
+6017: Ideograph observant; peaceful; submissive CJK
+6018:
+6019: Ideograph rely on, presume on; persist in CJK
+601A: Ideograph dull, stupid, suspicious CJK
+601B: Ideograph grieved, saddened; worried CJK
+601C: Ideograph pity, sympathize CJK
+601D: Ideograph think, consider, ponder; final particle CJK
+601E: Ideograph to grieve; sorrowful CJK
+601F:
+6020: Ideograph idle, remiss, negligent; neglect CJK
+6021: Ideograph harmony; pleasure, joy; be glad CJK
+6022:
+6023:
+6024:
+6025: Ideograph quick, quickly; urgent, pressing CJK
+6026: Ideograph eager, ardent, impulsive; anxious CJK
+6027: Ideograph nature, character, sex CJK
+6028: Ideograph hatred, enmity, resentment CJK
+6029: Ideograph shy, timid, bashful; look ashamed CJK
+602A: Ideograph strange, unusual, peculiar CJK
+602B: Ideograph sorry, anxious; depressed CJK
+602C:
+602D: Ideograph rude CJK
+602E:
+602F: Ideograph lacking in courage, afraid CJK
+6030:
+6031: Ideograph hastily, in haste, hurriedly CJK
+6032: Ideograph be anxious, be grieved, be sad CJK
+6033: Ideograph wild, mad; flurried CJK
+6034:
+6035: Ideograph fear, be afraid; shy, timid CJK
+6036: Ideograph (Cant.) to have no zeal at all CJK
+6037:
+6038: Ideograph cns 2-2A40 is different CJK
+6039: Ideograph a polite version of he CJK
+603A: Ideograph to endure CJK
+603B: Ideograph collect; overall, altogether CJK
+603C: Ideograph hate, abhor; hatred, resentment CJK
+603D:
+603E: Ideograph mountain name CJK
+603F: Ideograph enjoy, be glad, be pleased CJK
+6040:
+6041: Ideograph that, like this, thus, so, such CJK
+6042: Ideograph careful, sincere, honest; trust CJK
+6043: Ideograph rely on, presume on, trust to CJK
+6044:
+6045:
+6046: Ideograph constant, regular, persistent CJK
+6047: Ideograph fear CJK
+6048:
+6049: Ideograph meaning, purport, drift CJK
+604A: Ideograph be united; cooperate CJK
+604B: Ideograph love; long for, yearn for; love CJK
+604C: Ideograph to worry; frivolous CJK
+604D: Ideograph seemingly; absent-minded CJK
+604E:
+604F:
+6050: Ideograph fear; fearful, apprehensive CJK
+6051: Ideograph to change; to alter; to accommodate oneself to CJK
+6052: Ideograph constant, regular, persistent CJK
+6053: Ideograph vexed CJK
+6054: Ideograph cheerful; bright, sagacious CJK
+6055: Ideograph forgive, excuse, show mercy CJK
+6056:
+6057:
+6058:
+6059: Ideograph illness, sickness; indisposition CJK
+605A: Ideograph anger, rage CJK
+605B: Ideograph disordered; indistinct doubtful; blurred CJK
+605C:
+605D: Ideograph carefree; indifferent manner; without sorrow CJK
+605E:
+605F: Ideograph scared, nervous CJK
+6060: Ideograph strange, unusual, peculiar CJK
+6061: Ideograph stingy, sparing of; close-fisted CJK
+6062: Ideograph restore; big, great, immense, vast CJK
+6063: Ideograph indulge oneself, unrestrained CJK
+6064: Ideograph show pity; relieve, help CJK
+6065: Ideograph shame, humiliation; ashamed CJK
+6066:
+6067:
+6068: Ideograph hatred, dislike; resent, hate CJK
+6069: Ideograph kindness, mercy, charity CJK
+606A: Ideograph respectful, reverent CJK
+606B: Ideograph in pain, sorrowful CJK
+606C: Ideograph quiet, calm, tranquil, peaceful CJK
+606D: Ideograph respectful, polite, reverent CJK
+606E:
+606F: Ideograph rest, put stop to, end, cease CJK
+6070: Ideograph just, exactly, precisely; proper CJK
+6071:
+6072:
+6073: Ideograph sincere, earnest, cordial CJK
+6074:
+6075: Ideograph favor, benefit, confer kindness CJK
+6076: Ideograph evil, wicked, bad, foul CJK
+6077:
+6078: Ideograph sadness, grief; mourn; be moved CJK
+6079: Ideograph feeble, sickly; tranquil, calm CJK
+607A: Ideograph enjoy, be contented, joyful CJK
+607B: Ideograph feel anguish, feel compassion CJK
+607C: Ideograph angered, filled with hate CJK
+607D: Ideograph devise, plan, deliberate; consult CJK
+607E:
+607F: Ideograph instigate, incite; to alarm CJK
+6080:
+6081: Ideograph irritable, nervous, impatient CJK
+6082:
+6083: Ideograph sincere, genuine, honest, loyal CJK
+6084: Ideograph silent, quiet, still; anxious CJK
+6085: Ideograph pleased CJK
+6086: Ideograph happy CJK
+6087:
+6088: Ideograph to enjoin upon; urgent CJK
+6089: Ideograph know, learn about, comprehend CJK
+608A: Ideograph wise. to know intuitively CJK
+608B: Ideograph stingy, sparing of; closefisted CJK
+608C: Ideograph brotherly, respectful CJK
+608D: Ideograph courageous, brave; violent CJK
+608E:
+608F:
+6090: Ideograph respect, regard; to stand in awe of, to be alarmed CJK
+6091:
+6092: Ideograph sorrowful, depressed, unhappy CJK
+6093:
+6094: Ideograph repent, show remorse, regret CJK
+6095:
+6096: Ideograph be contradictory to, go counter CJK
+6097:
+6098:
+6099:
+609A: Ideograph afraid, scared, frightened CJK
+609B: Ideograph repent, reform CJK
+609C: Ideograph obscure CJK
+609D: Ideograph to laugh at to pity; afflicted, sad CJK
+609E: Ideograph impede; neglect, delay CJK
+609F: Ideograph to apprehend, realize, become aware CJK
+60A0: Ideograph long, far, remote, distant; liesurely CJK
+60A1:
+60A2:
+60A3: Ideograph suffer, worry about; suffering CJK
+60A4: Ideograph agitated, restless, hurried CJK
+60A5:
+60A6: Ideograph pleased, contented, gratified CJK
+60A7: Ideograph smooth; active; clever, sharp CJK
+60A8: Ideograph honorific for 'you' CJK
+60A9: Ideograph angered, filled with hate CJK
+60AA: Ideograph evil, wicked, bad, foul CJK
+60AB: Ideograph sincerity, honesty; modest CJK
+60AC: Ideograph hang, suspend, hoist; be hung CJK
+60AD: Ideograph miserly, parsimonious, stingy CJK
+60AE: Ideograph impede; neglect, delay CJK
+60AF: Ideograph pity, sympathize with, grieve for CJK
+60B0: Ideograph enjoy, amuse, please; joy CJK
+60B1: Ideograph to be desirous of speaking CJK
+60B2: Ideograph sorrow, grief; sorry, sad CJK
+60B3: Ideograph ethics, morality, virtue CJK
+60B4: Ideograph suffer, become emaciated, haggard CJK
+60B5: Ideograph disappointed, dissatisfied CJK
+60B6: Ideograph gloomy, depressed, melancholy CJK
+60B7:
+60B8: Ideograph fearful, apprehensive, perturbed CJK
+60B9:
+60BA:
+60BB: Ideograph anger, vexation; angry, indignant CJK
+60BC: Ideograph grieve, mourn, lament; grieved CJK
+60BD: Ideograph sorrowful, grieved, melancholy CJK
+60BE: Ideograph naive, guileless, simple-minded CJK
+60BF:
+60C0:
+60C1:
+60C2:
+60C3:
+60C4: Ideograph long for; hungry CJK
+60C5: Ideograph feeling, sentiment, emotion CJK
+60C6: Ideograph distressed, regretful, sad CJK
+60C7: Ideograph be kind, cordial, sincere CJK
+60C8:
+60C9:
+60CA: Ideograph frighten, surprise, startle CJK
+60CB: Ideograph regret, be sorry; alarmed CJK
+60CC: Ideograph to bear a grudge against CJK
+60CD:
+60CE: Ideograph injure, harm, murder CJK
+60CF: Ideograph avaricious; greedy cold CJK
+60D0:
+60D1: Ideograph confuse, mislead, baffle; doubt CJK
+60D2:
+60D3: Ideograph careful, sincere, candid CJK
+60D4: Ideograph cheerful CJK
+60D5: Ideograph be cautious, careful, alert CJK
+60D6: Ideograph respect; fear CJK
+60D7: Ideograph (Cant.) to think, consider CJK
+60D8: Ideograph disconcerted, dejected, discouraged CJK
+60D9: Ideograph sad, melancholy, grieving, mournful CJK
+60DA: Ideograph absent-minded, confused CJK
+60DB: Ideograph confused, stupid, dull, senile CJK
+60DC: Ideograph pity, regret, rue, begrudge CJK
+60DD: Ideograph alarmed, agitated CJK
+60DE:
+60DF: Ideograph but, however, nevertheless; only CJK
+60E0: Ideograph favor, benefit, confer kindness CJK
+60E1: Ideograph evil, wicked, bad, foul CJK
+60E2:
+60E3: Ideograph overall [questionable variant] CJK
+60E4:
+60E5:
+60E6: Ideograph think of, remember, miss CJK
+60E7: Ideograph fear, be afraid of, dread CJK
+60E8: Ideograph sad, pitiful, wretched; cruel CJK
+60E9: Ideograph punish, reprimand; warn CJK
+60EA: Ideograph ethics CJK
+60EB: Ideograph tired, weary, fatigued CJK
+60EC: Ideograph be satisfied, be comfortable CJK
+60ED: Ideograph ashamed, humiliated; shameful CJK
+60EE: Ideograph dread, shrink from, shirk, fear CJK
+60EF: Ideograph habit, custom; habitually, usual CJK
+60F0: Ideograph indolent, careless, lazy, idle CJK
+60F1: Ideograph angered, filled with hate CJK
+60F2: Ideograph devise, plan, deliberate; consult CJK
+60F3: Ideograph think, speculate, plan, consider CJK
+60F4: Ideograph afraid, apprehensive, nervous CJK
+60F5:
+60F6: Ideograph fearful, afraid, anxious, nervous CJK
+60F7: Ideograph wriggle; stupid; silly; fat CJK
+60F8: Ideograph troubled, worried, distressed CJK
+60F9: Ideograph irritate, vex, offend, incite CJK
+60FA: Ideograph intelligent, clever, astute CJK
+60FB: Ideograph feel anguish, feel compassion CJK
+60FC: Ideograph narrow-minded CJK
+60FD: Ideograph confused CJK
+60FE:
+60FF:

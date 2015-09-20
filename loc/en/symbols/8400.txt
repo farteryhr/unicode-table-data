@@ -1,256 +1,256 @@
-8400 : Cjk unified ideograph
-8401 : Cjk unified ideograph
-8402 : Cjk unified ideograph
-8403 : Cjk unified ideograph
-8404 : Cjk unified ideograph
-8405 : Cjk unified ideograph
-8406 : Cjk unified ideograph
-8407 : Cjk unified ideograph
-8408 : Cjk unified ideograph
-8409 : Cjk unified ideograph
-840A : Cjk unified ideograph
-840B : Cjk unified ideograph
-840C : Cjk unified ideograph
-840D : Cjk unified ideograph
-840E : Cjk unified ideograph
-840F : Cjk unified ideograph
-8410 : Cjk unified ideograph
-8411 : Cjk unified ideograph
-8412 : Cjk unified ideograph
-8413 : Cjk unified ideograph
-8414 : Cjk unified ideograph
-8415 : Cjk unified ideograph
-8416 : Cjk unified ideograph
-8417 : Cjk unified ideograph
-8418 : Cjk unified ideograph
-8419 : Cjk unified ideograph
-841A : Cjk unified ideograph
-841B : Cjk unified ideograph
-841C : Cjk unified ideograph
-841D : Cjk unified ideograph
-841E : Cjk unified ideograph
-841F : Cjk unified ideograph
-8420 : Cjk unified ideograph
-8421 : Cjk unified ideograph
-8422 : Cjk unified ideograph
-8423 : Cjk unified ideograph
-8424 : Cjk unified ideograph
-8425 : Cjk unified ideograph
-8426 : Cjk unified ideograph
-8427 : Cjk unified ideograph
-8428 : Cjk unified ideograph
-8429 : Cjk unified ideograph
-842A : Cjk unified ideograph
-842B : Cjk unified ideograph
-842C : Cjk unified ideograph
-842D : Cjk unified ideograph
-842E : Cjk unified ideograph
-842F : Cjk unified ideograph
-8430 : Cjk unified ideograph
-8431 : Cjk unified ideograph
-8432 : Cjk unified ideograph
-8433 : Cjk unified ideograph
-8434 : Cjk unified ideograph
-8435 : Cjk unified ideograph
-8436 : Cjk unified ideograph
-8437 : Cjk unified ideograph
-8438 : Cjk unified ideograph
-8439 : Cjk unified ideograph
-843A : Cjk unified ideograph
-843B : Cjk unified ideograph
-843C : Cjk unified ideograph
-843D : Cjk unified ideograph
-843E : Cjk unified ideograph
-843F : Cjk unified ideograph
-8440 : Cjk unified ideograph
-8441 : Cjk unified ideograph
-8442 : Cjk unified ideograph
-8443 : Cjk unified ideograph
-8444 : Cjk unified ideograph
-8445 : Cjk unified ideograph
-8446 : Cjk unified ideograph
-8447 : Cjk unified ideograph
-8448 : Cjk unified ideograph
-8449 : Cjk unified ideograph
-844A : Cjk unified ideograph
-844B : Cjk unified ideograph
-844C : Cjk unified ideograph
-844D : Cjk unified ideograph
-844E : Cjk unified ideograph
-844F : Cjk unified ideograph
-8450 : Cjk unified ideograph
-8451 : Cjk unified ideograph
-8452 : Cjk unified ideograph
-8453 : Cjk unified ideograph
-8454 : Cjk unified ideograph
-8455 : Cjk unified ideograph
-8456 : Cjk unified ideograph
-8457 : Cjk unified ideograph
-8458 : Cjk unified ideograph
-8459 : Cjk unified ideograph
-845A : Cjk unified ideograph
-845B : Cjk unified ideograph
-845C : Cjk unified ideograph
-845D : Cjk unified ideograph
-845E : Cjk unified ideograph
-845F : Cjk unified ideograph
-8460 : Cjk unified ideograph
-8461 : Cjk unified ideograph
-8462 : Cjk unified ideograph
-8463 : Cjk unified ideograph
-8464 : Cjk unified ideograph
-8465 : Cjk unified ideograph
-8466 : Cjk unified ideograph
-8467 : Cjk unified ideograph
-8468 : Cjk unified ideograph
-8469 : Cjk unified ideograph
-846A : Cjk unified ideograph
-846B : Cjk unified ideograph
-846C : Cjk unified ideograph
-846D : Cjk unified ideograph
-846E : Cjk unified ideograph
-846F : Cjk unified ideograph
-8470 : Cjk unified ideograph
-8471 : Cjk unified ideograph
-8472 : Cjk unified ideograph
-8473 : Cjk unified ideograph
-8474 : Cjk unified ideograph
-8475 : Cjk unified ideograph
-8476 : Cjk unified ideograph
-8477 : Cjk unified ideograph
-8478 : Cjk unified ideograph
-8479 : Cjk unified ideograph
-847A : Cjk unified ideograph
-847B : Cjk unified ideograph
-847C : Cjk unified ideograph
-847D : Cjk unified ideograph
-847E : Cjk unified ideograph
-847F : Cjk unified ideograph
-8480 : Cjk unified ideograph
-8481 : Cjk unified ideograph
-8482 : Cjk unified ideograph
-8483 : Cjk unified ideograph
-8484 : Cjk unified ideograph
-8485 : Cjk unified ideograph
-8486 : Cjk unified ideograph
-8487 : Cjk unified ideograph
-8488 : Cjk unified ideograph
-8489 : Cjk unified ideograph
-848A : Cjk unified ideograph
-848B : Cjk unified ideograph
-848C : Cjk unified ideograph
-848D : Cjk unified ideograph
-848E : Cjk unified ideograph
-848F : Cjk unified ideograph
-8490 : Cjk unified ideograph
-8491 : Cjk unified ideograph
-8492 : Cjk unified ideograph
-8493 : Cjk unified ideograph
-8494 : Cjk unified ideograph
-8495 : Cjk unified ideograph
-8496 : Cjk unified ideograph
-8497 : Cjk unified ideograph
-8498 : Cjk unified ideograph
-8499 : Cjk unified ideograph
-849A : Cjk unified ideograph
-849B : Cjk unified ideograph
-849C : Cjk unified ideograph
-849D : Cjk unified ideograph
-849E : Cjk unified ideograph
-849F : Cjk unified ideograph
-84A0 : Cjk unified ideograph
-84A1 : Cjk unified ideograph
-84A2 : Cjk unified ideograph
-84A3 : Cjk unified ideograph
-84A4 : Cjk unified ideograph
-84A5 : Cjk unified ideograph
-84A6 : Cjk unified ideograph
-84A7 : Cjk unified ideograph
-84A8 : Cjk unified ideograph
-84A9 : Cjk unified ideograph
-84AA : Cjk unified ideograph
-84AB : Cjk unified ideograph
-84AC : Cjk unified ideograph
-84AD : Cjk unified ideograph
-84AE : Cjk unified ideograph
-84AF : Cjk unified ideograph
-84B0 : Cjk unified ideograph
-84B1 : Cjk unified ideograph
-84B2 : Cjk unified ideograph
-84B3 : Cjk unified ideograph
-84B4 : Cjk unified ideograph
-84B5 : Cjk unified ideograph
-84B6 : Cjk unified ideograph
-84B7 : Cjk unified ideograph
-84B8 : Cjk unified ideograph
-84B9 : Cjk unified ideograph
-84BA : Cjk unified ideograph
-84BB : Cjk unified ideograph
-84BC : Cjk unified ideograph
-84BD : Cjk unified ideograph
-84BE : Cjk unified ideograph
-84BF : Cjk unified ideograph
-84C0 : Cjk unified ideograph
-84C1 : Cjk unified ideograph
-84C2 : Cjk unified ideograph
-84C3 : Cjk unified ideograph
-84C4 : Cjk unified ideograph
-84C5 : Cjk unified ideograph
-84C6 : Cjk unified ideograph
-84C7 : Cjk unified ideograph
-84C8 : Cjk unified ideograph
-84C9 : Cjk unified ideograph
-84CA : Cjk unified ideograph
-84CB : Cjk unified ideograph
-84CC : Cjk unified ideograph
-84CD : Cjk unified ideograph
-84CE : Cjk unified ideograph
-84CF : Cjk unified ideograph
-84D0 : Cjk unified ideograph
-84D1 : Cjk unified ideograph
-84D2 : Cjk unified ideograph
-84D3 : Cjk unified ideograph
-84D4 : Cjk unified ideograph
-84D5 : Cjk unified ideograph
-84D6 : Cjk unified ideograph
-84D7 : Cjk unified ideograph
-84D8 : Cjk unified ideograph
-84D9 : Cjk unified ideograph
-84DA : Cjk unified ideograph
-84DB : Cjk unified ideograph
-84DC : Cjk unified ideograph
-84DD : Cjk unified ideograph
-84DE : Cjk unified ideograph
-84DF : Cjk unified ideograph
-84E0 : Cjk unified ideograph
-84E1 : Cjk unified ideograph
-84E2 : Cjk unified ideograph
-84E3 : Cjk unified ideograph
-84E4 : Cjk unified ideograph
-84E5 : Cjk unified ideograph
-84E6 : Cjk unified ideograph
-84E7 : Cjk unified ideograph
-84E8 : Cjk unified ideograph
-84E9 : Cjk unified ideograph
-84EA : Cjk unified ideograph
-84EB : Cjk unified ideograph
-84EC : Cjk unified ideograph
-84ED : Cjk unified ideograph
-84EE : Cjk unified ideograph
-84EF : Cjk unified ideograph
-84F0 : Cjk unified ideograph
-84F1 : Cjk unified ideograph
-84F2 : Cjk unified ideograph
-84F3 : Cjk unified ideograph
-84F4 : Cjk unified ideograph
-84F5 : Cjk unified ideograph
-84F6 : Cjk unified ideograph
-84F7 : Cjk unified ideograph
-84F8 : Cjk unified ideograph
-84F9 : Cjk unified ideograph
-84FA : Cjk unified ideograph
-84FB : Cjk unified ideograph
-84FC : Cjk unified ideograph
-84FD : Cjk unified ideograph
-84FE : Cjk unified ideograph
-84FF : Cjk unified ideograph
+8400:
+8401: Ideograph kind of grasses CJK
+8402:
+8403: Ideograph dense, thick, close-set; to collect together CJK
+8404: Ideograph grapes CJK
+8405: Ideograph spring; wanton CJK
+8406: Ideograph the castor-oil plant also used for other plants CJK
+8407: Ideograph averrhora carambola; surname CJK
+8408:
+8409:
+840A: Ideograph goosefoot, weed; fallow field CJK
+840B: Ideograph luxuriant foliage; crowded CJK
+840C: Ideograph bud, sprout CJK
+840D: Ideograph duckweed; wandering, traveling CJK
+840E: Ideograph wither, wilt CJK
+840F: Ideograph lotus CJK
+8410: Ideograph lucky plant CJK
+8411: Ideograph grass used for making mats; Huanpu, place famous for robbers CJK
+8412:
+8413:
+8414:
+8415: Ideograph water-chestnuts; caltrop CJK
+8416:
+8417:
+8418: Ideograph naphthanlene CJK
+8419:
+841A:
+841B:
+841C: Ideograph C5H8 CJK
+841D: Ideograph type of creeping plant; turnip CJK
+841E:
+841F:
+8420: Ideograph bud, sprout CJK
+8421:
+8422:
+8423:
+8424: Ideograph glow-worm, luminous insect CJK
+8425: Ideograph encampment, barracks; manage CJK
+8426: Ideograph entangle, entwine, coil CJK
+8427: Ideograph common artemisia; dejected CJK
+8428: Ideograph Buddhist gods or immortals CJK
+8429: Ideograph scandent hop; tree CJK
+842A:
+842B:
+842C: Ideograph ten thousand; innumerable CJK
+842D:
+842E:
+842F:
+8430:
+8431: Ideograph day-lily, hemerocallisflava CJK
+8432: Ideograph the day-lily, Hemerocallis flava CJK
+8433:
+8434: Ideograph medicinal poison plant CJK
+8435: Ideograph lettuce CJK
+8436:
+8437:
+8438: Ideograph dogwood CJK
+8439: Ideograph grass CJK
+843A:
+843B:
+843C: Ideograph the stem and calyx of a flower; a younger brother CJK
+843D: Ideograph fall, drop; net income, surplus CJK
+843E:
+843F:
+8440:
+8441: Ideograph ginger CJK
+8442:
+8443:
+8444: Ideograph mat CJK
+8445:
+8446: Ideograph reserve, preserve; conceal CJK
+8447:
+8448:
+8449: Ideograph leaf, petal; page of book; period CJK
+844A: Ideograph cottage CJK
+844B:
+844C:
+844D: Ideograph plant CJK
+844E: Ideograph Humulus japonicus CJK
+844F:
+8450:
+8451: Ideograph the rape-turnip CJK
+8452: Ideograph herb CJK
+8453: Ideograph vegetable CJK
+8454:
+8455:
+8456:
+8457: Ideograph manifest; (Cant.) to wear CJK
+8458:
+8459: Ideograph feather cockscomb (Celosia argentea) CJK
+845A: Ideograph mulberry fruit CJK
+845B: Ideograph edible bean; surname CJK
+845C: Ideograph smilax china CJK
+845D:
+845E:
+845F:
+8460: Ideograph ginseng CJK
+8461: Ideograph grapes CJK
+8462: Ideograph cover, hide, protect CJK
+8463: Ideograph direct, supervise; surname CJK
+8464: Ideograph grass CJK
+8465:
+8466: Ideograph reed CJK
+8467:
+8468:
+8469: Ideograph flowers CJK
+846A:
+846B: Ideograph bottle-gourd CJK
+846C: Ideograph bury, inter CJK
+846D: Ideograph bulrush, reed; flute, whistle CJK
+846E:
+846F: Ideograph orris root; leaf of the iris; medicine CJK
+8470:
+8471: Ideograph scallions, leeks, green onions CJK
+8472:
+8473: Ideograph luxuriant, flourishing; used for various plants CJK
+8474:
+8475: Ideograph sunflower; measure CJK
+8476: Ideograph Draba nemerosa bebe carpa CJK
+8477: Ideograph meat diet; strong smelling CJK
+8478: Ideograph afraid, bashful CJK
+8479: Ideograph kind of chrysanthemum, xanthium CJK
+847A: Ideograph thatch; fix, repair; pile up CJK
+847B:
+847C:
+847D: Ideograph type of grain, Polygala japonica CJK
+847E: Ideograph (Cant.) a bad smell CJK
+847F:
+8480:
+8481:
+8482: Ideograph peduncle or stem of plants CJK
+8483:
+8484:
+8485:
+8486:
+8487: Ideograph finish, complete; solve; complete CJK
+8488: Ideograph an organic compound CJK
+8489: Ideograph edible amaranth; straw basket CJK
+848A:
+848B: Ideograph surname; hydropyrum latifalium CJK
+848C: Ideograph artemisia stelleriana CJK
+848D:
+848E:
+848F:
+8490: Ideograph collect, gather, assemble; seek; spring hunt; assemble for war CJK
+8491:
+8492:
+8493: Ideograph an edible water; plant-brasenia CJK
+8494: Ideograph transplant; plant; dill, Anethum graveolens CJK
+8495:
+8496: Ideograph plant name CJK
+8497:
+8498:
+8499: Ideograph cover; ignorant; suffer; mongolia CJK
+849A:
+849B:
+849C: Ideograph garlic CJK
+849D:
+849E: Ideograph reach, arrive; manage CJK
+849F: Ideograph betel pepper; Amorphophallus konjac CJK
+84A0:
+84A1: Ideograph burdock, herb CJK
+84A2:
+84A3:
+84A4:
+84A5:
+84A6: Ideograph to measure; to calculate CJK
+84A7:
+84A8: Ideograph lush vegetation, luxuriant growth CJK
+84A9:
+84AA:
+84AB:
+84AC:
+84AD: Ideograph to cut grass; hay; fodder CJK
+84AE:
+84AF: Ideograph a rush, of which various things are made CJK
+84B0:
+84B1: Ideograph gambling game with dice CJK
+84B2: Ideograph type of rush; vine CJK
+84B3:
+84B4: Ideograph seed (capsule) CJK
+84B5:
+84B6:
+84B7:
+84B8: Ideograph steam; evaporate CJK
+84B9: Ideograph reed, phragmites communis CJK
+84BA: Ideograph furze; gorse CJK
+84BB: Ideograph rushes CJK
+84BC: Ideograph blue; green CJK
+84BD: Ideograph anthracene CJK
+84BE:
+84BF: Ideograph mugwort, artemisia; give off CJK
+84C0: Ideograph aromatic grass; iris, flower CJK
+84C1: Ideograph abundant, luxuriant vegetation CJK
+84C2: Ideograph lucky place CJK
+84C3:
+84C4: Ideograph store, save, hoard, gather CJK
+84C5:
+84C6: Ideograph straw mat, mat CJK
+84C7: Ideograph follicles of plants CJK
+84C8:
+84C9: Ideograph hibiscus; Chengdu, Sichuan CJK
+84CA: Ideograph luxuriant vegetation; lush CJK
+84CB: Ideograph cover, hide, protect CJK
+84CC: Ideograph pretend; crouch CJK
+84CD: Ideograph milfoil, plant used in divination CJK
+84CE:
+84CF: Ideograph fruit of plant; melon CJK
+84D0: Ideograph straw bed mat; rushes CJK
+84D1: Ideograph rain coat made of straw, coir, etc. CJK
+84D2:
+84D3: Ideograph bud CJK
+84D4:
+84D5:
+84D6: Ideograph castor-oil plant, Ricinus commumis CJK
+84D7: Ideograph a plant; five-fold CJK
+84D8:
+84D9: Ideograph a mat, matting CJK
+84DA: Ideograph oxalic (used in compounds) CJK
+84DB:
+84DC:
+84DD: Ideograph blue; indigo plant; surname CJK
+84DE:
+84DF: Ideograph circium, thistles; surname CJK
+84E0: Ideograph gracilaria verrucosa CJK
+84E1:
+84E2: Ideograph (Cant.) brake, fern CJK
+84E3: Ideograph yam CJK
+84E4:
+84E5: Ideograph polish CJK
+84E6: Ideograph suddenly, quickly, abruptly CJK
+84E7: Ideograph bamboo basket; weeder; rake CJK
+84E8:
+84E9:
+84EA: Ideograph paper-plant; Aralia papyrifera CJK
+84EB: Ideograph dock CJK
+84EC: Ideograph type of raspberry; fairyland CJK
+84ED:
+84EE: Ideograph lotus, water lily; paradise CJK
+84EF: Ideograph medicinal herb CJK
+84F0: Ideograph to increase five-fold CJK
+84F1:
+84F2:
+84F3:
+84F4: Ideograph edible water plant, bracenia CJK
+84F5:
+84F6:
+84F7: Ideograph motherwort, various plants of the genus Leonurus, such as L. sibiricus and L. artemesia CJK
+84F8:
+84F9:
+84FA: Ideograph art; talent, ability; craft CJK
+84FB: Ideograph (Cant.) classifier for hair CJK
+84FC: Ideograph smartweed, polygonum CJK
+84FD: Ideograph species of bean; piper longtum CJK
+84FE:
+84FF: Ideograph clover, lucerne CJK

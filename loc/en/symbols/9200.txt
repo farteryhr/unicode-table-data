@@ -1,256 +1,256 @@
-9200 : Cjk unified ideograph
-9201 : Cjk unified ideograph
-9202 : Cjk unified ideograph
-9203 : Cjk unified ideograph
-9204 : Cjk unified ideograph
-9205 : Cjk unified ideograph
-9206 : Cjk unified ideograph
-9207 : Cjk unified ideograph
-9208 : Cjk unified ideograph
-9209 : Cjk unified ideograph
-920A : Cjk unified ideograph
-920B : Cjk unified ideograph
-920C : Cjk unified ideograph
-920D : Cjk unified ideograph
-920E : Cjk unified ideograph
-920F : Cjk unified ideograph
-9210 : Cjk unified ideograph
-9211 : Cjk unified ideograph
-9212 : Cjk unified ideograph
-9213 : Cjk unified ideograph
-9214 : Cjk unified ideograph
-9215 : Cjk unified ideograph
-9216 : Cjk unified ideograph
-9217 : Cjk unified ideograph
-9218 : Cjk unified ideograph
-9219 : Cjk unified ideograph
-921A : Cjk unified ideograph
-921B : Cjk unified ideograph
-921C : Cjk unified ideograph
-921D : Cjk unified ideograph
-921E : Cjk unified ideograph
-921F : Cjk unified ideograph
-9220 : Cjk unified ideograph
-9221 : Cjk unified ideograph
-9222 : Cjk unified ideograph
-9223 : Cjk unified ideograph
-9224 : Cjk unified ideograph
-9225 : Cjk unified ideograph
-9226 : Cjk unified ideograph
-9227 : Cjk unified ideograph
-9228 : Cjk unified ideograph
-9229 : Cjk unified ideograph
-922A : Cjk unified ideograph
-922B : Cjk unified ideograph
-922C : Cjk unified ideograph
-922D : Cjk unified ideograph
-922E : Cjk unified ideograph
-922F : Cjk unified ideograph
-9230 : Cjk unified ideograph
-9231 : Cjk unified ideograph
-9232 : Cjk unified ideograph
-9233 : Cjk unified ideograph
-9234 : Cjk unified ideograph
-9235 : Cjk unified ideograph
-9236 : Cjk unified ideograph
-9237 : Cjk unified ideograph
-9238 : Cjk unified ideograph
-9239 : Cjk unified ideograph
-923A : Cjk unified ideograph
-923B : Cjk unified ideograph
-923C : Cjk unified ideograph
-923D : Cjk unified ideograph
-923E : Cjk unified ideograph
-923F : Cjk unified ideograph
-9240 : Cjk unified ideograph
-9241 : Cjk unified ideograph
-9242 : Cjk unified ideograph
-9243 : Cjk unified ideograph
-9244 : Cjk unified ideograph
-9245 : Cjk unified ideograph
-9246 : Cjk unified ideograph
-9247 : Cjk unified ideograph
-9248 : Cjk unified ideograph
-9249 : Cjk unified ideograph
-924A : Cjk unified ideograph
-924B : Cjk unified ideograph
-924C : Cjk unified ideograph
-924D : Cjk unified ideograph
-924E : Cjk unified ideograph
-924F : Cjk unified ideograph
-9250 : Cjk unified ideograph
-9251 : Cjk unified ideograph
-9252 : Cjk unified ideograph
-9253 : Cjk unified ideograph
-9254 : Cjk unified ideograph
-9255 : Cjk unified ideograph
-9256 : Cjk unified ideograph
-9257 : Cjk unified ideograph
-9258 : Cjk unified ideograph
-9259 : Cjk unified ideograph
-925A : Cjk unified ideograph
-925B : Cjk unified ideograph
-925C : Cjk unified ideograph
-925D : Cjk unified ideograph
-925E : Cjk unified ideograph
-925F : Cjk unified ideograph
-9260 : Cjk unified ideograph
-9261 : Cjk unified ideograph
-9262 : Cjk unified ideograph
-9263 : Cjk unified ideograph
-9264 : Cjk unified ideograph
-9265 : Cjk unified ideograph
-9266 : Cjk unified ideograph
-9267 : Cjk unified ideograph
-9268 : Cjk unified ideograph
-9269 : Cjk unified ideograph
-926A : Cjk unified ideograph
-926B : Cjk unified ideograph
-926C : Cjk unified ideograph
-926D : Cjk unified ideograph
-926E : Cjk unified ideograph
-926F : Cjk unified ideograph
-9270 : Cjk unified ideograph
-9271 : Cjk unified ideograph
-9272 : Cjk unified ideograph
-9273 : Cjk unified ideograph
-9274 : Cjk unified ideograph
-9275 : Cjk unified ideograph
-9276 : Cjk unified ideograph
-9277 : Cjk unified ideograph
-9278 : Cjk unified ideograph
-9279 : Cjk unified ideograph
-927A : Cjk unified ideograph
-927B : Cjk unified ideograph
-927C : Cjk unified ideograph
-927D : Cjk unified ideograph
-927E : Cjk unified ideograph
-927F : Cjk unified ideograph
-9280 : Cjk unified ideograph
-9281 : Cjk unified ideograph
-9282 : Cjk unified ideograph
-9283 : Cjk unified ideograph
-9284 : Cjk unified ideograph
-9285 : Cjk unified ideograph
-9286 : Cjk unified ideograph
-9287 : Cjk unified ideograph
-9288 : Cjk unified ideograph
-9289 : Cjk unified ideograph
-928A : Cjk unified ideograph
-928B : Cjk unified ideograph
-928C : Cjk unified ideograph
-928D : Cjk unified ideograph
-928E : Cjk unified ideograph
-928F : Cjk unified ideograph
-9290 : Cjk unified ideograph
-9291 : Cjk unified ideograph
-9292 : Cjk unified ideograph
-9293 : Cjk unified ideograph
-9294 : Cjk unified ideograph
-9295 : Cjk unified ideograph
-9296 : Cjk unified ideograph
-9297 : Cjk unified ideograph
-9298 : Cjk unified ideograph
-9299 : Cjk unified ideograph
-929A : Cjk unified ideograph
-929B : Cjk unified ideograph
-929C : Cjk unified ideograph
-929D : Cjk unified ideograph
-929E : Cjk unified ideograph
-929F : Cjk unified ideograph
-92A0 : Cjk unified ideograph
-92A1 : Cjk unified ideograph
-92A2 : Cjk unified ideograph
-92A3 : Cjk unified ideograph
-92A4 : Cjk unified ideograph
-92A5 : Cjk unified ideograph
-92A6 : Cjk unified ideograph
-92A7 : Cjk unified ideograph
-92A8 : Cjk unified ideograph
-92A9 : Cjk unified ideograph
-92AA : Cjk unified ideograph
-92AB : Cjk unified ideograph
-92AC : Cjk unified ideograph
-92AD : Cjk unified ideograph
-92AE : Cjk unified ideograph
-92AF : Cjk unified ideograph
-92B0 : Cjk unified ideograph
-92B1 : Cjk unified ideograph
-92B2 : Cjk unified ideograph
-92B3 : Cjk unified ideograph
-92B4 : Cjk unified ideograph
-92B5 : Cjk unified ideograph
-92B6 : Cjk unified ideograph
-92B7 : Cjk unified ideograph
-92B8 : Cjk unified ideograph
-92B9 : Cjk unified ideograph
-92BA : Cjk unified ideograph
-92BB : Cjk unified ideograph
-92BC : Cjk unified ideograph
-92BD : Cjk unified ideograph
-92BE : Cjk unified ideograph
-92BF : Cjk unified ideograph
-92C0 : Cjk unified ideograph
-92C1 : Cjk unified ideograph
-92C2 : Cjk unified ideograph
-92C3 : Cjk unified ideograph
-92C4 : Cjk unified ideograph
-92C5 : Cjk unified ideograph
-92C6 : Cjk unified ideograph
-92C7 : Cjk unified ideograph
-92C8 : Cjk unified ideograph
-92C9 : Cjk unified ideograph
-92CA : Cjk unified ideograph
-92CB : Cjk unified ideograph
-92CC : Cjk unified ideograph
-92CD : Cjk unified ideograph
-92CE : Cjk unified ideograph
-92CF : Cjk unified ideograph
-92D0 : Cjk unified ideograph
-92D1 : Cjk unified ideograph
-92D2 : Cjk unified ideograph
-92D3 : Cjk unified ideograph
-92D4 : Cjk unified ideograph
-92D5 : Cjk unified ideograph
-92D6 : Cjk unified ideograph
-92D7 : Cjk unified ideograph
-92D8 : Cjk unified ideograph
-92D9 : Cjk unified ideograph
-92DA : Cjk unified ideograph
-92DB : Cjk unified ideograph
-92DC : Cjk unified ideograph
-92DD : Cjk unified ideograph
-92DE : Cjk unified ideograph
-92DF : Cjk unified ideograph
-92E0 : Cjk unified ideograph
-92E1 : Cjk unified ideograph
-92E2 : Cjk unified ideograph
-92E3 : Cjk unified ideograph
-92E4 : Cjk unified ideograph
-92E5 : Cjk unified ideograph
-92E6 : Cjk unified ideograph
-92E7 : Cjk unified ideograph
-92E8 : Cjk unified ideograph
-92E9 : Cjk unified ideograph
-92EA : Cjk unified ideograph
-92EB : Cjk unified ideograph
-92EC : Cjk unified ideograph
-92ED : Cjk unified ideograph
-92EE : Cjk unified ideograph
-92EF : Cjk unified ideograph
-92F0 : Cjk unified ideograph
-92F1 : Cjk unified ideograph
-92F2 : Cjk unified ideograph
-92F3 : Cjk unified ideograph
-92F4 : Cjk unified ideograph
-92F5 : Cjk unified ideograph
-92F6 : Cjk unified ideograph
-92F7 : Cjk unified ideograph
-92F8 : Cjk unified ideograph
-92F9 : Cjk unified ideograph
-92FA : Cjk unified ideograph
-92FB : Cjk unified ideograph
-92FC : Cjk unified ideograph
-92FD : Cjk unified ideograph
-92FE : Cjk unified ideograph
-92FF : Cjk unified ideograph
+9200: Ideograph palladium CJK
+9201: Ideograph francium CJK
+9202:
+9203: Ideograph ancient wine vessel CJK
+9204: Ideograph a wine flagon CJK
+9205:
+9206: Ideograph lead CJK
+9207: Ideograph an ax; a hatchet CJK
+9208: Ideograph plutonium CJK
+9209: Ideograph sodium, natrium; sharpen wood CJK
+920A: Ideograph cadolinium CJK
+920B:
+920C: Ideograph to pierce, to stab; to take CJK
+920D: Ideograph blunt, obtuse; dull; flat; dull-witted CJK
+920E: Ideograph hook, barb; sickle; stroke with CJK
+920F:
+9210: Ideograph lock, latch; stamp, seal CJK
+9211: Ideograph plate CJK
+9212: Ideograph spear; (Cant.) to cut, slice; grass-shears CJK
+9213:
+9214: Ideograph paper money, bank notes; copy CJK
+9215: Ideograph button, knob; surname CJK
+9216:
+9217:
+9218:
+9219:
+921A:
+921B:
+921C:
+921D:
+921E: Ideograph unit of measure equivalent to thirty catties CJK
+921F:
+9220:
+9221:
+9222:
+9223: Ideograph calcium CJK
+9224:
+9225: Ideograph holmium CJK
+9226: Ideograph titanium CJK
+9227: Ideograph scandium CJK
+9228:
+9229: Ideograph fireplace, stove, oven, furnace CJK
+922A: Ideograph (Cant.) bracelet; bangle CJK
+922B:
+922C: Ideograph bell; surname CJK
+922D:
+922E: Ideograph niobium CJK
+922F:
+9230: Ideograph cerium CJK
+9231:
+9232:
+9233: Ideograph a small cauldron; columbium (an older name for niobium) CJK
+9234: Ideograph bell CJK
+9235:
+9236:
+9237: Ideograph cobalt; household iron cobaltum CJK
+9238: Ideograph cymbals CJK
+9239: Ideograph a needle used in Chinese medicine; a sword, large knife; beryllium CJK
+923A: Ideograph rare treasure CJK
+923B:
+923C:
+923D: Ideograph plutonium CJK
+923E: Ideograph uranium CJK
+923F: Ideograph hairpin; gold inlaid work, filigree CJK
+9240: Ideograph potassium kalium CJK
+9241:
+9242:
+9243:
+9244: Ideograph iron; strong, solid, firm CJK
+9245: Ideograph steel, iron; great CJK
+9246: Ideograph tweezers CJK
+9247:
+9248: Ideograph a short spear; thallium CJK
+9249: Ideograph device for carrying a tripod CJK
+924A:
+924B: Ideograph carpenter's plane CJK
+924C: Ideograph the bells on the cart in ancient China CJK
+924D: Ideograph bismuth CJK
+924E: Ideograph (Cant.) to rust CJK
+924F: Ideograph hoe; eradicate, eliminate CJK
+9250:
+9251: Ideograph platinum; thin sheet of metal CJK
+9252:
+9253:
+9254:
+9255: Ideograph promethium bronze CJK
+9256:
+9257: Ideograph pincers, pliers, tongs CJK
+9258:
+9259:
+925A: Ideograph rivet CJK
+925B: Ideograph lead plumbum CJK
+925C:
+925D:
+925E: Ideograph broad-axe, a battle axe, halberd CJK
+925F:
+9260:
+9261:
+9262: Ideograph earthenware basin; alms bowl (Sanskrit paatra) CJK
+9263:
+9264: Ideograph hook, barb; sickle; stroke with CJK
+9265: Ideograph needle CJK
+9266: Ideograph kind of gong used in ancient times by troops on the march CJK
+9267:
+9268:
+9269:
+926A:
+926B:
+926C: Ideograph molybdenum CJK
+926D: Ideograph tantalum CJK
+926E:
+926F:
+9270:
+9271: Ideograph mine; mineral, ore CJK
+9272: Ideograph cadmium CJK
+9273:
+9274: Ideograph mirror, looking glass; reflect CJK
+9275:
+9276: Ideograph sacrificial cauldron CJK
+9277: Ideograph trigger CJK
+9278: Ideograph hinge; shears, scissors CJK
+9279:
+927A: Ideograph erbium CJK
+927B: Ideograph chromium CJK
+927C: Ideograph plate; (Cant.) a penny CJK
+927D:
+927E: Ideograph spear CJK
+927F: Ideograph hafnium CJK
+9280: Ideograph silver; cash, money, wealth CJK
+9281: Ideograph a weight of thirty catties CJK
+9282:
+9283: Ideograph ancient weapon, blunderbuss CJK
+9284:
+9285: Ideograph copper, brass, bronze cuprum CJK
+9286:
+9287:
+9288:
+9289:
+928A:
+928B:
+928C:
+928D: Ideograph a sickle CJK
+928E: Ideograph eyehole to hang an axe by CJK
+928F:
+9290:
+9291: Ideograph mill CJK
+9292:
+9293: Ideograph weigh, measure; select officials CJK
+9294:
+9295: Ideograph iron; strong, solid, firm CJK
+9296: Ideograph unit of weight, one twenty-fourth of a Chinese ounce (liang) CJK
+9297:
+9298: Ideograph inscribe, engrave; unforgettably CJK
+9299:
+929A: Ideograph large hoe; surname; a spear brevium CJK
+929B: Ideograph sharp, keen-edged; a kind of hoe CJK
+929C: Ideograph bit; hold in mouth, bite; gag CJK
+929D:
+929E:
+929F:
+92A0: Ideograph rhodium ruthenium CJK
+92A1:
+92A2:
+92A3: Ideograph rubidium CJK
+92A4:
+92A5: Ideograph iridium CJK
+92A6: Ideograph indium CJK
+92A7: Ideograph point of a sword CJK
+92A8: Ideograph ammonium CJK
+92A9: Ideograph thulium CJK
+92AA: Ideograph europium CJK
+92AB: Ideograph cesium CJK
+92AC: Ideograph shackles, manacle CJK
+92AD: Ideograph money, currency, coins CJK
+92AE: Ideograph bells hung on horse; bells hung CJK
+92AF:
+92B0:
+92B1:
+92B2: Ideograph solder, weld; leg armor, greaves CJK
+92B3: Ideograph sharp, keen, acute, pointed CJK
+92B4:
+92B5:
+92B6: Ideograph chisel CJK
+92B7: Ideograph melt, fuse; market, sell; to pass time, finish, cancel CJK
+92B8:
+92B9: Ideograph rust, corrode CJK
+92BA:
+92BB: Ideograph antimony (stibium) CJK
+92BC: Ideograph carpenter's file, file smooth CJK
+92BD:
+92BE: Ideograph element mercury CJK
+92BF:
+92C0:
+92C1: Ideograph aluminum CJK
+92C2: Ideograph bit cup CJK
+92C3: Ideograph lock lanthanum CJK
+92C4:
+92C5: Ideograph zincum CJK
+92C6: Ideograph gold; character used in personal name CJK
+92C7: Ideograph barium CJK
+92C8: Ideograph silver plating CJK
+92C9:
+92CA: Ideograph a poker; brass filings; to file CJK
+92CB:
+92CC: Ideograph ingots, bars of metal; hurry CJK
+92CD:
+92CE:
+92CF: Ideograph tongs, pincers; dagger; sword CJK
+92D0: Ideograph state in today's Hubei province CJK
+92D1: Ideograph to engrave or carve, as a block for printing CJK
+92D2: Ideograph point of spear, sharp point CJK
+92D3:
+92D4:
+92D5: Ideograph engrave CJK
+92D6:
+92D7: Ideograph a small basin; rings on a cart of carriage CJK
+92D8: Ideograph sword CJK
+92D9: Ideograph misfit; disordant; music instrument; hoe CJK
+92DA: Ideograph iron; bronze decoration on bridle CJK
+92DB:
+92DC: Ideograph fetters, shackles CJK
+92DD: Ideograph 6 oz; ancient measurement CJK
+92DE:
+92DF: Ideograph carve CJK
+92E0:
+92E1:
+92E2:
+92E3: Ideograph sword CJK
+92E4: Ideograph hoe; eradicate CJK
+92E5: Ideograph polish CJK
+92E6: Ideograph curium CJK
+92E7:
+92E8: Ideograph an ancient name for iron; osmium CJK
+92E9: Ideograph point of sword; sharp point CJK
+92EA: Ideograph spread out, arrange; shop, store; place to sleep, bed CJK
+92EB:
+92EC:
+92ED: Ideograph sharp CJK
+92EE: Ideograph person's name CJK
+92EF: Ideograph zirconium CJK
+92F0: Ideograph lithium CJK
+92F1: Ideograph terbium CJK
+92F2: Ideograph rivet CJK
+92F3: Ideograph melt, cast; coin, mint CJK
+92F4:
+92F5:
+92F6:
+92F7:
+92F8: Ideograph a saw; to saw; amputate CJK
+92F9: Ideograph sharp; a keen edge; sharp point CJK
+92FA: Ideograph a metal bowl CJK
+92FB:
+92FC: Ideograph steel; hard, strong, tough CJK
+92FD:
+92FE:
+92FF:

@@ -1,256 +1,256 @@
-7A00 : Cjk unified ideograph
-7A01 : Cjk unified ideograph
-7A02 : Cjk unified ideograph
-7A03 : Cjk unified ideograph
-7A04 : Cjk unified ideograph
-7A05 : Cjk unified ideograph
-7A06 : Cjk unified ideograph
-7A07 : Cjk unified ideograph
-7A08 : Cjk unified ideograph
-7A09 : Cjk unified ideograph
-7A0A : Cjk unified ideograph
-7A0B : Cjk unified ideograph
-7A0C : Cjk unified ideograph
-7A0D : Cjk unified ideograph
-7A0E : Cjk unified ideograph
-7A0F : Cjk unified ideograph
-7A10 : Cjk unified ideograph
-7A11 : Cjk unified ideograph
-7A12 : Cjk unified ideograph
-7A13 : Cjk unified ideograph
-7A14 : Cjk unified ideograph
-7A15 : Cjk unified ideograph
-7A16 : Cjk unified ideograph
-7A17 : Cjk unified ideograph
-7A18 : Cjk unified ideograph
-7A19 : Cjk unified ideograph
-7A1A : Cjk unified ideograph
-7A1B : Cjk unified ideograph
-7A1C : Cjk unified ideograph
-7A1D : Cjk unified ideograph
-7A1E : Cjk unified ideograph
-7A1F : Cjk unified ideograph
-7A20 : Cjk unified ideograph
-7A21 : Cjk unified ideograph
-7A22 : Cjk unified ideograph
-7A23 : Cjk unified ideograph
-7A24 : Cjk unified ideograph
-7A25 : Cjk unified ideograph
-7A26 : Cjk unified ideograph
-7A27 : Cjk unified ideograph
-7A28 : Cjk unified ideograph
-7A29 : Cjk unified ideograph
-7A2A : Cjk unified ideograph
-7A2B : Cjk unified ideograph
-7A2C : Cjk unified ideograph
-7A2D : Cjk unified ideograph
-7A2E : Cjk unified ideograph
-7A2F : Cjk unified ideograph
-7A30 : Cjk unified ideograph
-7A31 : Cjk unified ideograph
-7A32 : Cjk unified ideograph
-7A33 : Cjk unified ideograph
-7A34 : Cjk unified ideograph
-7A35 : Cjk unified ideograph
-7A36 : Cjk unified ideograph
-7A37 : Cjk unified ideograph
-7A38 : Cjk unified ideograph
-7A39 : Cjk unified ideograph
-7A3A : Cjk unified ideograph
-7A3B : Cjk unified ideograph
-7A3C : Cjk unified ideograph
-7A3D : Cjk unified ideograph
-7A3E : Cjk unified ideograph
-7A3F : Cjk unified ideograph
-7A40 : Cjk unified ideograph
-7A41 : Cjk unified ideograph
-7A42 : Cjk unified ideograph
-7A43 : Cjk unified ideograph
-7A44 : Cjk unified ideograph
-7A45 : Cjk unified ideograph
-7A46 : Cjk unified ideograph
-7A47 : Cjk unified ideograph
-7A48 : Cjk unified ideograph
-7A49 : Cjk unified ideograph
-7A4A : Cjk unified ideograph
-7A4B : Cjk unified ideograph
-7A4C : Cjk unified ideograph
-7A4D : Cjk unified ideograph
-7A4E : Cjk unified ideograph
-7A4F : Cjk unified ideograph
-7A50 : Cjk unified ideograph
-7A51 : Cjk unified ideograph
-7A52 : Cjk unified ideograph
-7A53 : Cjk unified ideograph
-7A54 : Cjk unified ideograph
-7A55 : Cjk unified ideograph
-7A56 : Cjk unified ideograph
-7A57 : Cjk unified ideograph
-7A58 : Cjk unified ideograph
-7A59 : Cjk unified ideograph
-7A5A : Cjk unified ideograph
-7A5B : Cjk unified ideograph
-7A5C : Cjk unified ideograph
-7A5D : Cjk unified ideograph
-7A5E : Cjk unified ideograph
-7A5F : Cjk unified ideograph
-7A60 : Cjk unified ideograph
-7A61 : Cjk unified ideograph
-7A62 : Cjk unified ideograph
-7A63 : Cjk unified ideograph
-7A64 : Cjk unified ideograph
-7A65 : Cjk unified ideograph
-7A66 : Cjk unified ideograph
-7A67 : Cjk unified ideograph
-7A68 : Cjk unified ideograph
-7A69 : Cjk unified ideograph
-7A6A : Cjk unified ideograph
-7A6B : Cjk unified ideograph
-7A6C : Cjk unified ideograph
-7A6D : Cjk unified ideograph
-7A6E : Cjk unified ideograph
-7A6F : Cjk unified ideograph
-7A70 : Cjk unified ideograph
-7A71 : Cjk unified ideograph
-7A72 : Cjk unified ideograph
-7A73 : Cjk unified ideograph
-7A74 : Cjk unified ideograph
-7A75 : Cjk unified ideograph
-7A76 : Cjk unified ideograph
-7A77 : Cjk unified ideograph
-7A78 : Cjk unified ideograph
-7A79 : Cjk unified ideograph
-7A7A : Cjk unified ideograph
-7A7B : Cjk unified ideograph
-7A7C : Cjk unified ideograph
-7A7D : Cjk unified ideograph
-7A7E : Cjk unified ideograph
-7A7F : Cjk unified ideograph
-7A80 : Cjk unified ideograph
-7A81 : Cjk unified ideograph
-7A82 : Cjk unified ideograph
-7A83 : Cjk unified ideograph
-7A84 : Cjk unified ideograph
-7A85 : Cjk unified ideograph
-7A86 : Cjk unified ideograph
-7A87 : Cjk unified ideograph
-7A88 : Cjk unified ideograph
-7A89 : Cjk unified ideograph
-7A8A : Cjk unified ideograph
-7A8B : Cjk unified ideograph
-7A8C : Cjk unified ideograph
-7A8D : Cjk unified ideograph
-7A8E : Cjk unified ideograph
-7A8F : Cjk unified ideograph
-7A90 : Cjk unified ideograph
-7A91 : Cjk unified ideograph
-7A92 : Cjk unified ideograph
-7A93 : Cjk unified ideograph
-7A94 : Cjk unified ideograph
-7A95 : Cjk unified ideograph
-7A96 : Cjk unified ideograph
-7A97 : Cjk unified ideograph
-7A98 : Cjk unified ideograph
-7A99 : Cjk unified ideograph
-7A9A : Cjk unified ideograph
-7A9B : Cjk unified ideograph
-7A9C : Cjk unified ideograph
-7A9D : Cjk unified ideograph
-7A9E : Cjk unified ideograph
-7A9F : Cjk unified ideograph
-7AA0 : Cjk unified ideograph
-7AA1 : Cjk unified ideograph
-7AA2 : Cjk unified ideograph
-7AA3 : Cjk unified ideograph
-7AA4 : Cjk unified ideograph
-7AA5 : Cjk unified ideograph
-7AA6 : Cjk unified ideograph
-7AA7 : Cjk unified ideograph
-7AA8 : Cjk unified ideograph
-7AA9 : Cjk unified ideograph
-7AAA : Cjk unified ideograph
-7AAB : Cjk unified ideograph
-7AAC : Cjk unified ideograph
-7AAD : Cjk unified ideograph
-7AAE : Cjk unified ideograph
-7AAF : Cjk unified ideograph
-7AB0 : Cjk unified ideograph
-7AB1 : Cjk unified ideograph
-7AB2 : Cjk unified ideograph
-7AB3 : Cjk unified ideograph
-7AB4 : Cjk unified ideograph
-7AB5 : Cjk unified ideograph
-7AB6 : Cjk unified ideograph
-7AB7 : Cjk unified ideograph
-7AB8 : Cjk unified ideograph
-7AB9 : Cjk unified ideograph
-7ABA : Cjk unified ideograph
-7ABB : Cjk unified ideograph
-7ABC : Cjk unified ideograph
-7ABD : Cjk unified ideograph
-7ABE : Cjk unified ideograph
-7ABF : Cjk unified ideograph
-7AC0 : Cjk unified ideograph
-7AC1 : Cjk unified ideograph
-7AC2 : Cjk unified ideograph
-7AC3 : Cjk unified ideograph
-7AC4 : Cjk unified ideograph
-7AC5 : Cjk unified ideograph
-7AC6 : Cjk unified ideograph
-7AC7 : Cjk unified ideograph
-7AC8 : Cjk unified ideograph
-7AC9 : Cjk unified ideograph
-7ACA : Cjk unified ideograph
-7ACB : Cjk unified ideograph
-7ACC : Cjk unified ideograph
-7ACD : Cjk unified ideograph
-7ACE : Cjk unified ideograph
-7ACF : Cjk unified ideograph
-7AD0 : Cjk unified ideograph
-7AD1 : Cjk unified ideograph
-7AD2 : Cjk unified ideograph
-7AD3 : Cjk unified ideograph
-7AD4 : Cjk unified ideograph
-7AD5 : Cjk unified ideograph
-7AD6 : Cjk unified ideograph
-7AD7 : Cjk unified ideograph
-7AD8 : Cjk unified ideograph
-7AD9 : Cjk unified ideograph
-7ADA : Cjk unified ideograph
-7ADB : Cjk unified ideograph
-7ADC : Cjk unified ideograph
-7ADD : Cjk unified ideograph
-7ADE : Cjk unified ideograph
-7ADF : Cjk unified ideograph
-7AE0 : Cjk unified ideograph
-7AE1 : Cjk unified ideograph
-7AE2 : Cjk unified ideograph
-7AE3 : Cjk unified ideograph
-7AE4 : Cjk unified ideograph
-7AE5 : Cjk unified ideograph
-7AE6 : Cjk unified ideograph
-7AE7 : Cjk unified ideograph
-7AE8 : Cjk unified ideograph
-7AE9 : Cjk unified ideograph
-7AEA : Cjk unified ideograph
-7AEB : Cjk unified ideograph
-7AEC : Cjk unified ideograph
-7AED : Cjk unified ideograph
-7AEE : Cjk unified ideograph
-7AEF : Cjk unified ideograph
-7AF0 : Cjk unified ideograph
-7AF1 : Cjk unified ideograph
-7AF2 : Cjk unified ideograph
-7AF3 : Cjk unified ideograph
-7AF4 : Cjk unified ideograph
-7AF5 : Cjk unified ideograph
-7AF6 : Cjk unified ideograph
-7AF7 : Cjk unified ideograph
-7AF8 : Cjk unified ideograph
-7AF9 : Cjk unified ideograph
-7AFA : Cjk unified ideograph
-7AFB : Cjk unified ideograph
-7AFC : Cjk unified ideograph
-7AFD : Cjk unified ideograph
-7AFE : Cjk unified ideograph
-7AFF : Cjk unified ideograph
+7A00: Ideograph rare, unusual, scarce; sparse CJK
+7A01:
+7A02: Ideograph grass; weeds CJK
+7A03:
+7A04:
+7A05: Ideograph taxes, revenue, duty; tax CJK
+7A06: Ideograph wild grain CJK
+7A07: Ideograph to bind, as faggots of sheaves CJK
+7A08: Ideograph stalk of grain; straw CJK
+7A09: Ideograph non-glutinous rice CJK
+7A0A: Ideograph darnels, tares CJK
+7A0B: Ideograph journey, trip; schedule, agenda CJK
+7A0C: Ideograph glutinous rice CJK
+7A0D: Ideograph little, slightly; rather CJK
+7A0E: Ideograph taxes CJK
+7A0F: Ideograph a kind of rice plant; shaking and waving of the rice plant CJK
+7A10:
+7A11: Ideograph rice CJK
+7A12:
+7A13:
+7A14: Ideograph ripe grain; harvest; to know, be familiar with CJK
+7A15:
+7A16:
+7A17: Ideograph darnels, weeds, tares small CJK
+7A18: Ideograph a full year, an anniversary CJK
+7A19: Ideograph grain ready for grinding CJK
+7A1A: Ideograph young, immature; childhood CJK
+7A1B: Ideograph bind CJK
+7A1C: Ideograph corner, edge, angle; square block CJK
+7A1D:
+7A1E: Ideograph grain ready for grinding; grain CJK
+7A1F: Ideograph report to, petition CJK
+7A20: Ideograph dense, crowded, packed; soupy CJK
+7A21:
+7A22:
+7A23: Ideograph revive, to rise again; collect CJK
+7A24:
+7A25:
+7A26:
+7A27:
+7A28:
+7A29:
+7A2A:
+7A2B:
+7A2C: Ideograph glutinous, sticky CJK
+7A2D: Ideograph stalk of grain, rice, corn, hemp CJK
+7A2E: Ideograph seed; race; offspring; to plant CJK
+7A2F:
+7A30:
+7A31: Ideograph call; name, brand; address; say CJK
+7A32: Ideograph rice growing in field, rice plant CJK
+7A33: Ideograph stable, firm, solid, steady CJK
+7A34:
+7A35:
+7A36:
+7A37: Ideograph god of cereals; minister of agriculture CJK
+7A38:
+7A39:
+7A3A: Ideograph variant of 穉 U+7A49, young grain; young, tender CJK
+7A3B: Ideograph rice growing in field, rice plant CJK
+7A3C: Ideograph sow grain; sheaves of grain CJK
+7A3D: Ideograph examine, investigate; delay CJK
+7A3E: Ideograph draft, manuscript, rough copy CJK
+7A3F: Ideograph draft, manuscript, rough copy CJK
+7A40: Ideograph corn, grain, cereal; lucky CJK
+7A41:
+7A42: Ideograph ear of grain; tassel; Guangzhou CJK
+7A43:
+7A44: Ideograph panicled millet CJK
+7A45: Ideograph chaff, bran, husks of grain, from which comes: --poor, remiss CJK
+7A46: Ideograph majestic, solemn, reverent; calm CJK
+7A47: Ideograph deccan grass, a barnyard grass CJK
+7A48: Ideograph millet CJK
+7A49: Ideograph young grain; young, tender CJK
+7A4A: Ideograph plough deep; sown slowly CJK
+7A4B: Ideograph rice CJK
+7A4C: Ideograph revive, to rise again; collect CJK
+7A4D: Ideograph accumulate, store up, amass CJK
+7A4E: Ideograph rice tassel; sharp point; clever CJK
+7A4F: Ideograph calm, quiet, peace; moderation CJK
+7A50: Ideograph fall, autumn CJK
+7A51: Ideograph farm, harvest grain; stingy CJK
+7A52:
+7A53:
+7A54:
+7A55:
+7A56:
+7A57: Ideograph ear of grain; tassel; Guangzhou CJK
+7A58:
+7A59:
+7A5A:
+7A5B:
+7A5C: Ideograph rice CJK
+7A5D:
+7A5E:
+7A5F: Ideograph ear of grain; ripe grain CJK
+7A60: Ideograph thick, lush, in clusters CJK
+7A61: Ideograph farm, harvest grain; stingy CJK
+7A62: Ideograph dirty, unclean; immoral, obscene CJK
+7A63: Ideograph stalks of grain; lush, abundant CJK
+7A64: Ideograph glutinous rice CJK
+7A65:
+7A66:
+7A67: Ideograph sheaf CJK
+7A68: Ideograph ruined, decayed; disintegrate CJK
+7A69: Ideograph stable, firm, solid, steady CJK
+7A6A: Ideograph to praise CJK
+7A6B: Ideograph harvest, cut grain CJK
+7A6C:
+7A6D: Ideograph wild grain CJK
+7A6E: Ideograph weed CJK
+7A6F:
+7A70: Ideograph stalks of grain; lush, abundant CJK
+7A71:
+7A72:
+7A73:
+7A74: Ideograph cave, den, hole; KangXi radical 116 CJK
+7A75: Ideograph deep hollow;, gouge, dig out CJK
+7A76: Ideograph examine, investigate CJK
+7A77: Ideograph poor, destitute, impoverished CJK
+7A78: Ideograph the gloom of the grave a tomb or grave; death CJK
+7A79: Ideograph high and vast; elevated; arched CJK
+7A7A: Ideograph empty, hollow, bare, deserted CJK
+7A7B:
+7A7C:
+7A7D: Ideograph hole; pitfall, trap CJK
+7A7E:
+7A7F: Ideograph penetrate, pierce, drill; wear CJK
+7A80: Ideograph to bury CJK
+7A81: Ideograph suddenly, abruptly, unexpectedly CJK
+7A82:
+7A83: Ideograph secretly, stealthily; steal; thief CJK
+7A84: Ideograph narrow, tight; narrow-minded CJK
+7A85: Ideograph far, deep; sunken eyes; sad CJK
+7A86: Ideograph to put a coffin in a grave CJK
+7A87:
+7A88: Ideograph obscure, secluded; refined CJK
+7A89: Ideograph (Cant.) to hide things, to conceal CJK
+7A8A: Ideograph pit, vault; store in pit; (Cant.) 手窊, the arm CJK
+7A8B:
+7A8C: Ideograph pit, vault; store in pit CJK
+7A8D: Ideograph hole, opening, aperture CJK
+7A8E: Ideograph deep; distant CJK
+7A8F:
+7A90:
+7A91: Ideograph kiln; coal mine pit CJK
+7A92: Ideograph stop up, obstruct CJK
+7A93: Ideograph window CJK
+7A94: Ideograph corner CJK
+7A95: Ideograph slender; quiet and modest, charming CJK
+7A96: Ideograph pit, cellar CJK
+7A97: Ideograph window CJK
+7A98: Ideograph embarrassed; hard-pressed CJK
+7A99:
+7A9A:
+7A9B:
+7A9C: Ideograph run away; revise, edit; expel CJK
+7A9D: Ideograph nest; cave, den; hiding place CJK
+7A9E: Ideograph pit CJK
+7A9F: Ideograph hole, cave; cellar; underground CJK
+7AA0: Ideograph nest; hole, indention; den CJK
+7AA1:
+7AA2:
+7AA3: Ideograph to rush out of a den; rustling, whispering CJK
+7AA4:
+7AA5: Ideograph peep, watch, spy on, pry CJK
+7AA6: Ideograph surname; hole, burrow; corrupt CJK
+7AA7:
+7AA8: Ideograph a cellar, a store-room CJK
+7AA9: Ideograph nest; cave, den; hiding place CJK
+7AAA: Ideograph hollow; pit; depression; swamp CJK
+7AAB:
+7AAC: Ideograph a small door or window; a hole in the wall to cut through a wall CJK
+7AAD: Ideograph poor, impoverished CJK
+7AAE: Ideograph poor, destitute, impoverished CJK
+7AAF: Ideograph kiln; coal mine pit CJK
+7AB0: Ideograph brick kiln; furnace; coal mine pit CJK
+7AB1:
+7AB2:
+7AB3: Ideograph dirty, useless, weak, powerless; cracked, a flaw CJK
+7AB4: Ideograph glance at, look at; wink at CJK
+7AB5: Ideograph deep; distant CJK
+7AB6: Ideograph poor, impoverished CJK
+7AB7:
+7AB8: Ideograph faint sound, whisper CJK
+7AB9:
+7ABA: Ideograph peep, watch, spy on, pry CJK
+7ABB: Ideograph window CJK
+7ABC:
+7ABD: Ideograph empty; vacant CJK
+7ABE: Ideograph hole; hallow; empty CJK
+7ABF: Ideograph mine shaft; cavity, hole CJK
+7AC0:
+7AC1: Ideograph bore CJK
+7AC2:
+7AC3: Ideograph furnace; kitchen range CJK
+7AC4: Ideograph run away; revise, edit; expel CJK
+7AC5: Ideograph hole, opening, aperture CJK
+7AC6: Ideograph exhausted; impoverished; poor CJK
+7AC7: Ideograph surname; hole, burrow; corrupt CJK
+7AC8: Ideograph furnace; kitchen stove CJK
+7AC9: Ideograph a hole; a cleft; empty CJK
+7ACA: Ideograph secretly, stealthily; steal; thief CJK
+7ACB: Ideograph stand; let stand; establish, set CJK
+7ACC:
+7ACD: Ideograph decaliter CJK
+7ACE:
+7ACF: Ideograph kiloliter CJK
+7AD0:
+7AD1: Ideograph be vast and endless; broad CJK
+7AD2: Ideograph strange, unusual, uncanny, occult CJK
+7AD3: Ideograph milliliter CJK
+7AD4: Ideograph litre CJK
+7AD5: Ideograph deciliter CJK
+7AD6: Ideograph perpendicular, vertical; erect CJK
+7AD7:
+7AD8:
+7AD9: Ideograph stand up; a stand, station CJK
+7ADA: Ideograph stand and wait for long time CJK
+7ADB:
+7ADC: Ideograph dragon; symbolic of emperor CJK
+7ADD: Ideograph to combine, annex; also, what's more CJK
+7ADE: Ideograph contend, vie, compete CJK
+7ADF: Ideograph finally, after all, at last CJK
+7AE0: Ideograph composition; chapter, section CJK
+7AE1: Ideograph hectoliter CJK
+7AE2: Ideograph wait for, wait until, as soon as CJK
+7AE3: Ideograph terminate, end, finish; quit CJK
+7AE4:
+7AE5: Ideograph child, boy, servant boy; virgin CJK
+7AE6: Ideograph revere, respect, be in awe of CJK
+7AE7:
+7AE8:
+7AE9:
+7AEA: Ideograph perpendicular, vertical; erect CJK
+7AEB:
+7AEC:
+7AED: Ideograph put forth great effort; exhaust CJK
+7AEE:
+7AEF: Ideograph end, extreme; head; beginning CJK
+7AF0: Ideograph centiliter CJK
+7AF1:
+7AF2:
+7AF3:
+7AF4:
+7AF5:
+7AF6: Ideograph contend, vie, compete CJK
+7AF7:
+7AF8: Ideograph contend, vie, compete CJK
+7AF9: Ideograph bamboo; flute; KangXi radical 118 CJK
+7AFA: Ideograph India; bamboo; surname CJK
+7AFB:
+7AFC: Ideograph bamboo cover for boat CJK
+7AFD: Ideograph ancient woodwind instrument CJK
+7AFE: Ideograph flute CJK
+7AFF: Ideograph bamboo pole; penis CJK

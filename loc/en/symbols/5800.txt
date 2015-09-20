@@ -1,256 +1,256 @@
-5800 : Cjk unified ideograph
-5801 : Cjk unified ideograph
-5802 : Cjk unified ideograph
-5803 : Cjk unified ideograph
-5804 : Cjk unified ideograph
-5805 : Cjk unified ideograph
-5806 : Cjk unified ideograph
-5807 : Cjk unified ideograph
-5808 : Cjk unified ideograph
-5809 : Cjk unified ideograph
-580A : Cjk unified ideograph
-580B : Cjk unified ideograph
-580C : Cjk unified ideograph
-580D : Cjk unified ideograph
-580E : Cjk unified ideograph
-580F : Cjk unified ideograph
-5810 : Cjk unified ideograph
-5811 : Cjk unified ideograph
-5812 : Cjk unified ideograph
-5813 : Cjk unified ideograph
-5814 : Cjk unified ideograph
-5815 : Cjk unified ideograph
-5816 : Cjk unified ideograph
-5817 : Cjk unified ideograph
-5818 : Cjk unified ideograph
-5819 : Cjk unified ideograph
-581A : Cjk unified ideograph
-581B : Cjk unified ideograph
-581C : Cjk unified ideograph
-581D : Cjk unified ideograph
-581E : Cjk unified ideograph
-581F : Cjk unified ideograph
-5820 : Cjk unified ideograph
-5821 : Cjk unified ideograph
-5822 : Cjk unified ideograph
-5823 : Cjk unified ideograph
-5824 : Cjk unified ideograph
-5825 : Cjk unified ideograph
-5826 : Cjk unified ideograph
-5827 : Cjk unified ideograph
-5828 : Cjk unified ideograph
-5829 : Cjk unified ideograph
-582A : Cjk unified ideograph
-582B : Cjk unified ideograph
-582C : Cjk unified ideograph
-582D : Cjk unified ideograph
-582E : Cjk unified ideograph
-582F : Cjk unified ideograph
-5830 : Cjk unified ideograph
-5831 : Cjk unified ideograph
-5832 : Cjk unified ideograph
-5833 : Cjk unified ideograph
-5834 : Cjk unified ideograph
-5835 : Cjk unified ideograph
-5836 : Cjk unified ideograph
-5837 : Cjk unified ideograph
-5838 : Cjk unified ideograph
-5839 : Cjk unified ideograph
-583A : Cjk unified ideograph
-583B : Cjk unified ideograph
-583C : Cjk unified ideograph
-583D : Cjk unified ideograph
-583E : Cjk unified ideograph
-583F : Cjk unified ideograph
-5840 : Cjk unified ideograph
-5841 : Cjk unified ideograph
-5842 : Cjk unified ideograph
-5843 : Cjk unified ideograph
-5844 : Cjk unified ideograph
-5845 : Cjk unified ideograph
-5846 : Cjk unified ideograph
-5847 : Cjk unified ideograph
-5848 : Cjk unified ideograph
-5849 : Cjk unified ideograph
-584A : Cjk unified ideograph
-584B : Cjk unified ideograph
-584C : Cjk unified ideograph
-584D : Cjk unified ideograph
-584E : Cjk unified ideograph
-584F : Cjk unified ideograph
-5850 : Cjk unified ideograph
-5851 : Cjk unified ideograph
-5852 : Cjk unified ideograph
-5853 : Cjk unified ideograph
-5854 : Cjk unified ideograph
-5855 : Cjk unified ideograph
-5856 : Cjk unified ideograph
-5857 : Cjk unified ideograph
-5858 : Cjk unified ideograph
-5859 : Cjk unified ideograph
-585A : Cjk unified ideograph
-585B : Cjk unified ideograph
-585C : Cjk unified ideograph
-585D : Cjk unified ideograph
-585E : Cjk unified ideograph
-585F : Cjk unified ideograph
-5860 : Cjk unified ideograph
-5861 : Cjk unified ideograph
-5862 : Cjk unified ideograph
-5863 : Cjk unified ideograph
-5864 : Cjk unified ideograph
-5865 : Cjk unified ideograph
-5866 : Cjk unified ideograph
-5867 : Cjk unified ideograph
-5868 : Cjk unified ideograph
-5869 : Cjk unified ideograph
-586A : Cjk unified ideograph
-586B : Cjk unified ideograph
-586C : Cjk unified ideograph
-586D : Cjk unified ideograph
-586E : Cjk unified ideograph
-586F : Cjk unified ideograph
-5870 : Cjk unified ideograph
-5871 : Cjk unified ideograph
-5872 : Cjk unified ideograph
-5873 : Cjk unified ideograph
-5874 : Cjk unified ideograph
-5875 : Cjk unified ideograph
-5876 : Cjk unified ideograph
-5877 : Cjk unified ideograph
-5878 : Cjk unified ideograph
-5879 : Cjk unified ideograph
-587A : Cjk unified ideograph
-587B : Cjk unified ideograph
-587C : Cjk unified ideograph
-587D : Cjk unified ideograph
-587E : Cjk unified ideograph
-587F : Cjk unified ideograph
-5880 : Cjk unified ideograph
-5881 : Cjk unified ideograph
-5882 : Cjk unified ideograph
-5883 : Cjk unified ideograph
-5884 : Cjk unified ideograph
-5885 : Cjk unified ideograph
-5886 : Cjk unified ideograph
-5887 : Cjk unified ideograph
-5888 : Cjk unified ideograph
-5889 : Cjk unified ideograph
-588A : Cjk unified ideograph
-588B : Cjk unified ideograph
-588C : Cjk unified ideograph
-588D : Cjk unified ideograph
-588E : Cjk unified ideograph
-588F : Cjk unified ideograph
-5890 : Cjk unified ideograph
-5891 : Cjk unified ideograph
-5892 : Cjk unified ideograph
-5893 : Cjk unified ideograph
-5894 : Cjk unified ideograph
-5895 : Cjk unified ideograph
-5896 : Cjk unified ideograph
-5897 : Cjk unified ideograph
-5898 : Cjk unified ideograph
-5899 : Cjk unified ideograph
-589A : Cjk unified ideograph
-589B : Cjk unified ideograph
-589C : Cjk unified ideograph
-589D : Cjk unified ideograph
-589E : Cjk unified ideograph
-589F : Cjk unified ideograph
-58A0 : Cjk unified ideograph
-58A1 : Cjk unified ideograph
-58A2 : Cjk unified ideograph
-58A3 : Cjk unified ideograph
-58A4 : Cjk unified ideograph
-58A5 : Cjk unified ideograph
-58A6 : Cjk unified ideograph
-58A7 : Cjk unified ideograph
-58A8 : Cjk unified ideograph
-58A9 : Cjk unified ideograph
-58AA : Cjk unified ideograph
-58AB : Cjk unified ideograph
-58AC : Cjk unified ideograph
-58AD : Cjk unified ideograph
-58AE : Cjk unified ideograph
-58AF : Cjk unified ideograph
-58B0 : Cjk unified ideograph
-58B1 : Cjk unified ideograph
-58B2 : Cjk unified ideograph
-58B3 : Cjk unified ideograph
-58B4 : Cjk unified ideograph
-58B5 : Cjk unified ideograph
-58B6 : Cjk unified ideograph
-58B7 : Cjk unified ideograph
-58B8 : Cjk unified ideograph
-58B9 : Cjk unified ideograph
-58BA : Cjk unified ideograph
-58BB : Cjk unified ideograph
-58BC : Cjk unified ideograph
-58BD : Cjk unified ideograph
-58BE : Cjk unified ideograph
-58BF : Cjk unified ideograph
-58C0 : Cjk unified ideograph
-58C1 : Cjk unified ideograph
-58C2 : Cjk unified ideograph
-58C3 : Cjk unified ideograph
-58C4 : Cjk unified ideograph
-58C5 : Cjk unified ideograph
-58C6 : Cjk unified ideograph
-58C7 : Cjk unified ideograph
-58C8 : Cjk unified ideograph
-58C9 : Cjk unified ideograph
-58CA : Cjk unified ideograph
-58CB : Cjk unified ideograph
-58CC : Cjk unified ideograph
-58CD : Cjk unified ideograph
-58CE : Cjk unified ideograph
-58CF : Cjk unified ideograph
-58D0 : Cjk unified ideograph
-58D1 : Cjk unified ideograph
-58D2 : Cjk unified ideograph
-58D3 : Cjk unified ideograph
-58D4 : Cjk unified ideograph
-58D5 : Cjk unified ideograph
-58D6 : Cjk unified ideograph
-58D7 : Cjk unified ideograph
-58D8 : Cjk unified ideograph
-58D9 : Cjk unified ideograph
-58DA : Cjk unified ideograph
-58DB : Cjk unified ideograph
-58DC : Cjk unified ideograph
-58DD : Cjk unified ideograph
-58DE : Cjk unified ideograph
-58DF : Cjk unified ideograph
-58E0 : Cjk unified ideograph
-58E1 : Cjk unified ideograph
-58E2 : Cjk unified ideograph
-58E3 : Cjk unified ideograph
-58E4 : Cjk unified ideograph
-58E5 : Cjk unified ideograph
-58E6 : Cjk unified ideograph
-58E7 : Cjk unified ideograph
-58E8 : Cjk unified ideograph
-58E9 : Cjk unified ideograph
-58EA : Cjk unified ideograph
-58EB : Cjk unified ideograph
-58EC : Cjk unified ideograph
-58ED : Cjk unified ideograph
-58EE : Cjk unified ideograph
-58EF : Cjk unified ideograph
-58F0 : Cjk unified ideograph
-58F1 : Cjk unified ideograph
-58F2 : Cjk unified ideograph
-58F3 : Cjk unified ideograph
-58F4 : Cjk unified ideograph
-58F5 : Cjk unified ideograph
-58F6 : Cjk unified ideograph
-58F7 : Cjk unified ideograph
-58F8 : Cjk unified ideograph
-58F9 : Cjk unified ideograph
-58FA : Cjk unified ideograph
-58FB : Cjk unified ideograph
-58FC : Cjk unified ideograph
-58FD : Cjk unified ideograph
-58FE : Cjk unified ideograph
-58FF : Cjk unified ideograph
+5800: Ideograph cave, hole CJK
+5801:
+5802: Ideograph hall; government office CJK
+5803: Ideograph compliance; obedience; female CJK
+5804: Ideograph parapet CJK
+5805: Ideograph hard, strong, firm; resolute CJK
+5806: Ideograph heap, pile, crowd; pile up CJK
+5807: Ideograph yellow loam; clay; season; few CJK
+5808: Ideograph earthen jug, crock, cistern CJK
+5809: Ideograph ground, fertile land CJK
+580A: Ideograph white earth; to daub with white mud CJK
+580B: Ideograph bury CJK
+580C: Ideograph dam, dike; used in place names CJK
+580D:
+580E: Ideograph character used for place names CJK
+580F:
+5810:
+5811: Ideograph moat, trench, pit, cavity CJK
+5812:
+5813:
+5814:
+5815: Ideograph fall, sink, let fall; degenerate CJK
+5816: Ideograph small, head shaped hill, used in place names CJK
+5817:
+5818: Ideograph a raised path between field which acts as a dyke CJK
+5819: Ideograph bury; dam, block up CJK
+581A:
+581B:
+581C:
+581D: Ideograph crucible CJK
+581E: Ideograph plate CJK
+581F:
+5820: Ideograph battlements, battlemented walls CJK
+5821: Ideograph fort, fortress; town, village CJK
+5822:
+5823:
+5824: Ideograph dike CJK
+5825:
+5826: Ideograph stairs; a flight of steps; a degree, a class, a rank or step CJK
+5827: Ideograph adjoin CJK
+5828: Ideograph daub CJK
+5829:
+582A: Ideograph adequately capable of, worthy of CJK
+582B:
+582C:
+582D: Ideograph a dry moat outside a city wall; a dry ditch CJK
+582E: Ideograph a boundary; a border CJK
+582F: Ideograph a legendary ancient emperor-sage CJK
+5830: Ideograph dam; embankment, dike, bank CJK
+5831: Ideograph report, tell, announce CJK
+5832: Ideograph hate CJK
+5833: Ideograph land allotment feudal noble; alta CJK
+5834: Ideograph open space, field, market CJK
+5835: Ideograph wall; stop, prevent; stop up CJK
+5836:
+5837:
+5838:
+5839:
+583A: Ideograph person's name CJK
+583B:
+583C:
+583D: Ideograph mound; used in place names CJK
+583E:
+583F: Ideograph salty CJK
+5840: Ideograph wall, fence CJK
+5841: Ideograph rampart, military wall CJK
+5842:
+5843:
+5844: Ideograph elevated bank in field CJK
+5845:
+5846:
+5847:
+5848: Ideograph paint, decorate CJK
+5849:
+584A: Ideograph piece, lump; dollar CJK
+584B: Ideograph grave, tomb, cemetery CJK
+584C: Ideograph fall in ruins, collapse CJK
+584D: Ideograph a raised path between fields, a dike CJK
+584E:
+584F: Ideograph high and dry place CJK
+5850: Ideograph model in clay, sculpt; plastics CJK
+5851: Ideograph model in clay, sculpt; plastics CJK
+5852: Ideograph roost CJK
+5853: Ideograph plaster CJK
+5854: Ideograph tower, spire, tall building CJK
+5855: Ideograph a gust of wind CJK
+5856:
+5857: Ideograph smear, daub, apply, spread; paint CJK
+5858: Ideograph pond; tank; dike, embankment CJK
+5859: Ideograph truly CJK
+585A: Ideograph cemetery; tomb, burial mound CJK
+585B:
+585C: Ideograph dusty, dirt CJK
+585D: Ideograph flat bank, plateau CJK
+585E: Ideograph stop up, block, seal, cork; pass, frontier; fortress CJK
+585F: Ideograph to bury CJK
+5860:
+5861: Ideograph fill in, fill up; make good CJK
+5862: Ideograph entrenchment, bank, low wall CJK
+5863:
+5864: Ideograph instrument CJK
+5865:
+5866:
+5867:
+5868:
+5869: Ideograph salt CJK
+586A:
+586B: Ideograph fill in, fill up; make good CJK
+586C: Ideograph plateau CJK
+586D: Ideograph fish farm CJK
+586E:
+586F:
+5870:
+5871: Ideograph place name in Guangdong province CJK
+5872: Ideograph open space, field, market CJK
+5873: Ideograph (Cant.) classifier for walls; covered (with dust); to scatter (like dust) CJK
+5874:
+5875: Ideograph dust, dirt, ashes, cinders CJK
+5876:
+5877:
+5878:
+5879: Ideograph moat, trench, pit, cavity CJK
+587A:
+587B:
+587C: Ideograph brick CJK
+587D: Ideograph plateau CJK
+587E: Ideograph village school; private tutorage CJK
+587F: Ideograph small mound CJK
+5880: Ideograph porch; courtyard; steps leading CJK
+5881: Ideograph to plaster; to pave CJK
+5882:
+5883: Ideograph boundary, frontier; area, region CJK
+5884: Ideograph the steps of a stairway CJK
+5885: Ideograph villa, country house CJK
+5886:
+5887:
+5888: Ideograph cliff CJK
+5889: Ideograph wall; fortified wall; small wall CJK
+588A: Ideograph advance money, pay for another CJK
+588B:
+588C:
+588D: Ideograph paint, decorate CJK
+588E:
+588F:
+5890: Ideograph to build with soil, plaster over with mud CJK
+5891:
+5892: Ideograph wet tilth CJK
+5893: Ideograph grave, tomb CJK
+5894:
+5895:
+5896: Ideograph pagoda, dagoba, tower CJK
+5897: Ideograph increase CJK
+5898: Ideograph (Cant.) halfway CJK
+5899: Ideograph wall CJK
+589A: Ideograph mountain range CJK
+589B:
+589C: Ideograph fall down, drop, sink, go to ruin CJK
+589D: Ideograph stony CJK
+589E: Ideograph increase, add to, augment CJK
+589F: Ideograph high mound; hilly countryside; wasteland CJK
+58A0: Ideograph smooth, hard spot made level for sacrificial altar CJK
+58A1: Ideograph chalk CJK
+58A2:
+58A3:
+58A4: Ideograph to fall in ruins, to collapse, to overthrow; decayed, ruined, lost CJK
+58A5:
+58A6: Ideograph tomb CJK
+58A7:
+58A8: Ideograph ink; writing CJK
+58A9: Ideograph heap, mound, block of stone CJK
+58AA:
+58AB: Ideograph cup CJK
+58AC: Ideograph to fall, sink CJK
+58AD:
+58AE: Ideograph fall, sink, let fall; degenerate CJK
+58AF:
+58B0: Ideograph an earthenware jar; a jug CJK
+58B1:
+58B2:
+58B3: Ideograph grave, mound; bulge; bulging CJK
+58B4:
+58B5:
+58B6:
+58B7:
+58B8:
+58B9:
+58BA: Ideograph four walls CJK
+58BB: Ideograph wall CJK
+58BC:
+58BD:
+58BE: Ideograph cultivate, reclaim, to farm land CJK
+58BF:
+58C0:
+58C1: Ideograph partition wall; walls of a house CJK
+58C2:
+58C3:
+58C4:
+58C5: Ideograph to obstruct CJK
+58C6: Ideograph stiff, hard clay or rocky strata; crack in a jar CJK
+58C7: Ideograph altar; arena, examination hall CJK
+58C8: Ideograph disappointed CJK
+58C9:
+58CA: Ideograph bad, spoil(ed), ruin, destroy CJK
+58CB:
+58CC: Ideograph soil, loam, earth; rich CJK
+58CD: Ideograph moat around a city. a channel CJK
+58CE: Ideograph instrument CJK
+58CF:
+58D0: Ideograph the Imperial signet; the great seal CJK
+58D1: Ideograph bed of torrent, narrow ravine CJK
+58D2: Ideograph dust CJK
+58D3: Ideograph press; oppress; crush; pressure CJK
+58D4: Ideograph a mound, a tumulus CJK
+58D5: Ideograph trench, ditch, channel, moat CJK
+58D6: Ideograph open space along water CJK
+58D7:
+58D8: Ideograph rampart, military wall CJK
+58D9: Ideograph tomb, grave: prairie; open wilderness CJK
+58DA: Ideograph black clods of earth; shop, hut CJK
+58DB:
+58DC: Ideograph earthen jar or jug CJK
+58DD: Ideograph a mound, an embankment the earthen altar to the god of the soil CJK
+58DE: Ideograph bad, spoil(ed), ruin, destroy CJK
+58DF: Ideograph grave, mound; ridge in field CJK
+58E0: Ideograph mound, grave; ridge in field CJK
+58E1:
+58E2: Ideograph a hole, pit CJK
+58E3:
+58E4: Ideograph soil, loam, earth; rich CJK
+58E5:
+58E6:
+58E7:
+58E8:
+58E9: Ideograph embankment; dam CJK
+58EA:
+58EB: Ideograph scholar, gentleman; soldier CJK
+58EC: Ideograph 9th heavenly stem CJK
+58ED: Ideograph kwukyel CJK
+58EE: Ideograph big, large; robust; name of tribe CJK
+58EF: Ideograph big, large; robust; name of tribe CJK
+58F0: Ideograph sound, voice, noise; tone; music CJK
+58F1: Ideograph number one CJK
+58F2: Ideograph sell; [NOT casing, shell, husk] CJK
+58F3: Ideograph casing, shell, husk CJK
+58F4:
+58F5:
+58F6: Ideograph jar, pot, jug, vase; surname CJK
+58F7: Ideograph jar, pot, jug, vase; surname CJK
+58F8: Ideograph palace corridor or passageway CJK
+58F9: Ideograph number one CJK
+58FA: Ideograph jar, pot, jug, vase; surname CJK
+58FB: Ideograph son-in-law; husband CJK
+58FC: Ideograph palace corridor or passageway CJK
+58FD: Ideograph old age, long life; lifespan CJK
+58FE:
+58FF:

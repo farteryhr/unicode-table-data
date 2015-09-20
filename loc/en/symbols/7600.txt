@@ -1,256 +1,256 @@
-7600 : Cjk unified ideograph
-7601 : Cjk unified ideograph
-7602 : Cjk unified ideograph
-7603 : Cjk unified ideograph
-7604 : Cjk unified ideograph
-7605 : Cjk unified ideograph
-7606 : Cjk unified ideograph
-7607 : Cjk unified ideograph
-7608 : Cjk unified ideograph
-7609 : Cjk unified ideograph
-760A : Cjk unified ideograph
-760B : Cjk unified ideograph
-760C : Cjk unified ideograph
-760D : Cjk unified ideograph
-760E : Cjk unified ideograph
-760F : Cjk unified ideograph
-7610 : Cjk unified ideograph
-7611 : Cjk unified ideograph
-7612 : Cjk unified ideograph
-7613 : Cjk unified ideograph
-7614 : Cjk unified ideograph
-7615 : Cjk unified ideograph
-7616 : Cjk unified ideograph
-7617 : Cjk unified ideograph
-7618 : Cjk unified ideograph
-7619 : Cjk unified ideograph
-761A : Cjk unified ideograph
-761B : Cjk unified ideograph
-761C : Cjk unified ideograph
-761D : Cjk unified ideograph
-761E : Cjk unified ideograph
-761F : Cjk unified ideograph
-7620 : Cjk unified ideograph
-7621 : Cjk unified ideograph
-7622 : Cjk unified ideograph
-7623 : Cjk unified ideograph
-7624 : Cjk unified ideograph
-7625 : Cjk unified ideograph
-7626 : Cjk unified ideograph
-7627 : Cjk unified ideograph
-7628 : Cjk unified ideograph
-7629 : Cjk unified ideograph
-762A : Cjk unified ideograph
-762B : Cjk unified ideograph
-762C : Cjk unified ideograph
-762D : Cjk unified ideograph
-762E : Cjk unified ideograph
-762F : Cjk unified ideograph
-7630 : Cjk unified ideograph
-7631 : Cjk unified ideograph
-7632 : Cjk unified ideograph
-7633 : Cjk unified ideograph
-7634 : Cjk unified ideograph
-7635 : Cjk unified ideograph
-7636 : Cjk unified ideograph
-7637 : Cjk unified ideograph
-7638 : Cjk unified ideograph
-7639 : Cjk unified ideograph
-763A : Cjk unified ideograph
-763B : Cjk unified ideograph
-763C : Cjk unified ideograph
-763D : Cjk unified ideograph
-763E : Cjk unified ideograph
-763F : Cjk unified ideograph
-7640 : Cjk unified ideograph
-7641 : Cjk unified ideograph
-7642 : Cjk unified ideograph
-7643 : Cjk unified ideograph
-7644 : Cjk unified ideograph
-7645 : Cjk unified ideograph
-7646 : Cjk unified ideograph
-7647 : Cjk unified ideograph
-7648 : Cjk unified ideograph
-7649 : Cjk unified ideograph
-764A : Cjk unified ideograph
-764B : Cjk unified ideograph
-764C : Cjk unified ideograph
-764D : Cjk unified ideograph
-764E : Cjk unified ideograph
-764F : Cjk unified ideograph
-7650 : Cjk unified ideograph
-7651 : Cjk unified ideograph
-7652 : Cjk unified ideograph
-7653 : Cjk unified ideograph
-7654 : Cjk unified ideograph
-7655 : Cjk unified ideograph
-7656 : Cjk unified ideograph
-7657 : Cjk unified ideograph
-7658 : Cjk unified ideograph
-7659 : Cjk unified ideograph
-765A : Cjk unified ideograph
-765B : Cjk unified ideograph
-765C : Cjk unified ideograph
-765D : Cjk unified ideograph
-765E : Cjk unified ideograph
-765F : Cjk unified ideograph
-7660 : Cjk unified ideograph
-7661 : Cjk unified ideograph
-7662 : Cjk unified ideograph
-7663 : Cjk unified ideograph
-7664 : Cjk unified ideograph
-7665 : Cjk unified ideograph
-7666 : Cjk unified ideograph
-7667 : Cjk unified ideograph
-7668 : Cjk unified ideograph
-7669 : Cjk unified ideograph
-766A : Cjk unified ideograph
-766B : Cjk unified ideograph
-766C : Cjk unified ideograph
-766D : Cjk unified ideograph
-766E : Cjk unified ideograph
-766F : Cjk unified ideograph
-7670 : Cjk unified ideograph
-7671 : Cjk unified ideograph
-7672 : Cjk unified ideograph
-7673 : Cjk unified ideograph
-7674 : Cjk unified ideograph
-7675 : Cjk unified ideograph
-7676 : Cjk unified ideograph
-7677 : Cjk unified ideograph
-7678 : Cjk unified ideograph
-7679 : Cjk unified ideograph
-767A : Cjk unified ideograph
-767B : Cjk unified ideograph
-767C : Cjk unified ideograph
-767D : Cjk unified ideograph
-767E : Cjk unified ideograph
-767F : Cjk unified ideograph
-7680 : Cjk unified ideograph
-7681 : Cjk unified ideograph
-7682 : Cjk unified ideograph
-7683 : Cjk unified ideograph
-7684 : Cjk unified ideograph
-7685 : Cjk unified ideograph
-7686 : Cjk unified ideograph
-7687 : Cjk unified ideograph
-7688 : Cjk unified ideograph
-7689 : Cjk unified ideograph
-768A : Cjk unified ideograph
-768B : Cjk unified ideograph
-768C : Cjk unified ideograph
-768D : Cjk unified ideograph
-768E : Cjk unified ideograph
-768F : Cjk unified ideograph
-7690 : Cjk unified ideograph
-7691 : Cjk unified ideograph
-7692 : Cjk unified ideograph
-7693 : Cjk unified ideograph
-7694 : Cjk unified ideograph
-7695 : Cjk unified ideograph
-7696 : Cjk unified ideograph
-7697 : Cjk unified ideograph
-7698 : Cjk unified ideograph
-7699 : Cjk unified ideograph
-769A : Cjk unified ideograph
-769B : Cjk unified ideograph
-769C : Cjk unified ideograph
-769D : Cjk unified ideograph
-769E : Cjk unified ideograph
-769F : Cjk unified ideograph
-76A0 : Cjk unified ideograph
-76A1 : Cjk unified ideograph
-76A2 : Cjk unified ideograph
-76A3 : Cjk unified ideograph
-76A4 : Cjk unified ideograph
-76A5 : Cjk unified ideograph
-76A6 : Cjk unified ideograph
-76A7 : Cjk unified ideograph
-76A8 : Cjk unified ideograph
-76A9 : Cjk unified ideograph
-76AA : Cjk unified ideograph
-76AB : Cjk unified ideograph
-76AC : Cjk unified ideograph
-76AD : Cjk unified ideograph
-76AE : Cjk unified ideograph
-76AF : Cjk unified ideograph
-76B0 : Cjk unified ideograph
-76B1 : Cjk unified ideograph
-76B2 : Cjk unified ideograph
-76B3 : Cjk unified ideograph
-76B4 : Cjk unified ideograph
-76B5 : Cjk unified ideograph
-76B6 : Cjk unified ideograph
-76B7 : Cjk unified ideograph
-76B8 : Cjk unified ideograph
-76B9 : Cjk unified ideograph
-76BA : Cjk unified ideograph
-76BB : Cjk unified ideograph
-76BC : Cjk unified ideograph
-76BD : Cjk unified ideograph
-76BE : Cjk unified ideograph
-76BF : Cjk unified ideograph
-76C0 : Cjk unified ideograph
-76C1 : Cjk unified ideograph
-76C2 : Cjk unified ideograph
-76C3 : Cjk unified ideograph
-76C4 : Cjk unified ideograph
-76C5 : Cjk unified ideograph
-76C6 : Cjk unified ideograph
-76C7 : Cjk unified ideograph
-76C8 : Cjk unified ideograph
-76C9 : Cjk unified ideograph
-76CA : Cjk unified ideograph
-76CB : Cjk unified ideograph
-76CC : Cjk unified ideograph
-76CD : Cjk unified ideograph
-76CE : Cjk unified ideograph
-76CF : Cjk unified ideograph
-76D0 : Cjk unified ideograph
-76D1 : Cjk unified ideograph
-76D2 : Cjk unified ideograph
-76D3 : Cjk unified ideograph
-76D4 : Cjk unified ideograph
-76D5 : Cjk unified ideograph
-76D6 : Cjk unified ideograph
-76D7 : Cjk unified ideograph
-76D8 : Cjk unified ideograph
-76D9 : Cjk unified ideograph
-76DA : Cjk unified ideograph
-76DB : Cjk unified ideograph
-76DC : Cjk unified ideograph
-76DD : Cjk unified ideograph
-76DE : Cjk unified ideograph
-76DF : Cjk unified ideograph
-76E0 : Cjk unified ideograph
-76E1 : Cjk unified ideograph
-76E2 : Cjk unified ideograph
-76E3 : Cjk unified ideograph
-76E4 : Cjk unified ideograph
-76E5 : Cjk unified ideograph
-76E6 : Cjk unified ideograph
-76E7 : Cjk unified ideograph
-76E8 : Cjk unified ideograph
-76E9 : Cjk unified ideograph
-76EA : Cjk unified ideograph
-76EB : Cjk unified ideograph
-76EC : Cjk unified ideograph
-76ED : Cjk unified ideograph
-76EE : Cjk unified ideograph
-76EF : Cjk unified ideograph
-76F0 : Cjk unified ideograph
-76F1 : Cjk unified ideograph
-76F2 : Cjk unified ideograph
-76F3 : Cjk unified ideograph
-76F4 : Cjk unified ideograph
-76F5 : Cjk unified ideograph
-76F6 : Cjk unified ideograph
-76F7 : Cjk unified ideograph
-76F8 : Cjk unified ideograph
-76F9 : Cjk unified ideograph
-76FA : Cjk unified ideograph
-76FB : Cjk unified ideograph
-76FC : Cjk unified ideograph
-76FD : Cjk unified ideograph
-76FE : Cjk unified ideograph
-76FF : Cjk unified ideograph
+7600: Ideograph a hematoma, contusion; extravasted blood CJK
+7601: Ideograph feel tired, be weary, be worn out CJK
+7602: Ideograph dumb CJK
+7603: Ideograph sores from cold CJK
+7604:
+7605: Ideograph to hate bitterly; drought; dry CJK
+7606:
+7607: Ideograph dropsy of the leg CJK
+7608: Ideograph prolonged fever; chronic malaria CJK
+7609: Ideograph get well, recover CJK
+760A: Ideograph warts, pimples CJK
+760B: Ideograph crazy, insane, mentally ill CJK
+760C: Ideograph severe; poisonous; dangerous; itch and other skin diseases CJK
+760D: Ideograph ulcers, sores; infection CJK
+760E:
+760F: Ideograph ill CJK
+7610: Ideograph to die in prison from cold and hunger; to treat with cruelty CJK
+7611:
+7612:
+7613: Ideograph paralysis, numbness of limbs CJK
+7614:
+7615: Ideograph asthma; disese of the bowels CJK
+7616: Ideograph dumb, mute, unable speak CJK
+7617: Ideograph bury, inter CJK
+7618: Ideograph fistula, sore, ulcer, goiter CJK
+7619: Ideograph itch CJK
+761A: Ideograph to hiccough; the humours of the body CJK
+761B:
+761C: Ideograph a polypus CJK
+761D: Ideograph illness; pain; neglect; useless CJK
+761E: Ideograph bury, inter CJK
+761F: Ideograph epidemic, plague, pestilence CJK
+7620: Ideograph thin, emaciated; barren CJK
+7621: Ideograph tumor, boil, sore, wound CJK
+7622: Ideograph scar, mole CJK
+7623:
+7624: Ideograph tumor, lump, goiter CJK
+7625: Ideograph to recover from any disease; an epidemic CJK
+7626: Ideograph thin, emaciated, lean; meager CJK
+7627: Ideograph intermittent fever; malaria CJK
+7628: Ideograph mad; ill CJK
+7629: Ideograph pimples CJK
+762A: Ideograph shrivelled up, dried up; vexed CJK
+762B: Ideograph paralysis, palsy, numbness CJK
+762C:
+762D: Ideograph a whitlow CJK
+762E:
+762F: Ideograph itch CJK
+7630: Ideograph scrofula, swellings CJK
+7631:
+7632: Ideograph spasms or convulsions in young children, caused by indigestion CJK
+7633: Ideograph to be healed; to reform CJK
+7634: Ideograph malaria pestilential vapors CJK
+7635: Ideograph a wasting disease CJK
+7636: Ideograph to cough; to expectorate CJK
+7637:
+7638: Ideograph lameness, paralysis of hands, leg CJK
+7639:
+763A: Ideograph anal fistula; tumor, sore CJK
+763B: Ideograph fistula, sore, ulcer, goiter CJK
+763C: Ideograph sickness; distress CJK
+763D:
+763E: Ideograph rash; addiction, craving, habit CJK
+763F: Ideograph swelling, goiter CJK
+7640: Ideograph jaundice CJK
+7641:
+7642: Ideograph be healed, cured, recover CJK
+7643: Ideograph weakness, infirmity retention of urine CJK
+7644:
+7645: Ideograph a swelling, tumor CJK
+7646: Ideograph consumption; tuberculosis CJK
+7647: Ideograph epilepsy, convulsions CJK
+7648: Ideograph abrogate, terminate, discard CJK
+7649: Ideograph to hate bitterly; drought; dry CJK
+764A: Ideograph a disease of the heart CJK
+764B:
+764C: Ideograph cancer; marmoset CJK
+764D: Ideograph unhealthy marks on the skin CJK
+764E: Ideograph epilepsy, convulsions CJK
+764F:
+7650: Ideograph (Cant.) tired, exhausted CJK
+7651:
+7652: Ideograph get well, recover CJK
+7653:
+7654: Ideograph hysterical CJK
+7655: Ideograph loss of the sense of smell CJK
+7656: Ideograph craving, weakness for; indigestion CJK
+7657:
+7658: Ideograph a sore, ulcer; pestilence CJK
+7659: Ideograph ill CJK
+765A:
+765B:
+765C: Ideograph erythema CJK
+765D:
+765E: Ideograph leprosy, scabies, mange; shoddy CJK
+765F: Ideograph shrivelled up, dried up; vexed CJK
+7660: Ideograph sick CJK
+7661: Ideograph silly, foolish, idiotic CJK
+7662: Ideograph itch CJK
+7663: Ideograph ringworms CJK
+7664: Ideograph pimple, sore, boil CJK
+7665: Ideograph obstruction of bowels CJK
+7666: Ideograph (Cant.) a mole (on the skin) CJK
+7667: Ideograph scrofulous lumps or swellings CJK
+7668: Ideograph quickly, suddenly; surname CJK
+7669: Ideograph leprosy, scabies, mange; shoddy CJK
+766A: Ideograph spasms, convulsions, hysteria; (Cant.) infantile malnutrition CJK
+766B: Ideograph crazy, mad; madness, mania, insan CJK
+766C: Ideograph ringworms CJK
+766D: Ideograph swelling, goiter CJK
+766E: Ideograph rash; addiction, craving, habit CJK
+766F: Ideograph thin, emaciated; worn, tired CJK
+7670: Ideograph carbuncle, sore, ulcer, abscess CJK
+7671: Ideograph paralysis, palsy, numbness CJK
+7672: Ideograph crazy, mad; madness, mania, insanity CJK
+7673:
+7674:
+7675:
+7676: Ideograph legs; KangXi radical 105 CJK
+7677:
+7678: Ideograph 10th heavenly stem CJK
+7679:
+767A: Ideograph issue, dispatch, send out, emit CJK
+767B: Ideograph rise, mount, board, climb CJK
+767C: Ideograph issue, dispatch, send out, emit CJK
+767D: Ideograph white; pure, unblemished; bright CJK
+767E: Ideograph one hundred; numerous, many CJK
+767F:
+7680: Ideograph kernel, seed; enjoy, feast [?] CJK
+7681: Ideograph black; police runners, from the black clothes formerly worn by them CJK
+7682: Ideograph soap; black; menial servant CJK
+7683: Ideograph countenance, appearance CJK
+7684: Ideograph possessive, adjectival suffix CJK
+7685:
+7686: Ideograph all, every, everybody CJK
+7687: Ideograph royal, imperial; ruler, superior CJK
+7688: Ideograph follow, comply with CJK
+7689:
+768A:
+768B: Ideograph the high land along a river CJK
+768C:
+768D:
+768E: Ideograph white; bright, brilliant; clear CJK
+768F:
+7690: Ideograph the high land along a river CJK
+7691: Ideograph brilliant white CJK
+7692:
+7693: Ideograph bright, luminous; clear; hoary CJK
+7694:
+7695:
+7696: Ideograph Anhui province CJK
+7697:
+7698:
+7699: Ideograph white; kind of date CJK
+769A: Ideograph brilliant white CJK
+769B:
+769C: Ideograph white, bright; clear, pure CJK
+769D: Ideograph luminous; bright hoary, white CJK
+769E: Ideograph bright, brilliant CJK
+769F:
+76A0:
+76A1: Ideograph bright; brilliant CJK
+76A2:
+76A3:
+76A4: Ideograph white, grey; corpulent CJK
+76A5: Ideograph bright, brilliant CJK
+76A6: Ideograph bright white; bright, clear CJK
+76A7:
+76A8:
+76A9:
+76AA:
+76AB: Ideograph white CJK
+76AC:
+76AD: Ideograph white; bright; clear; clean CJK
+76AE: Ideograph skin, hide, fur, feather; outer CJK
+76AF:
+76B0: Ideograph pimples CJK
+76B1: Ideograph wrinkles, creases, folds CJK
+76B2: Ideograph crack, chap CJK
+76B3:
+76B4: Ideograph chapped, cracked CJK
+76B5:
+76B6: Ideograph rough skin; rough CJK
+76B7: Ideograph drum; excite, arouse CJK
+76B8: Ideograph crack, chap CJK
+76B9: Ideograph crack, chap CJK
+76BA: Ideograph wrinkles, creases, folds CJK
+76BB: Ideograph pimples, blotches CJK
+76BC:
+76BD: Ideograph scurf CJK
+76BE:
+76BF: Ideograph shallow container; rad. no. 108 CJK
+76C0:
+76C1:
+76C2: Ideograph basin; cup CJK
+76C3: Ideograph glass, cup CJK
+76C4:
+76C5: Ideograph small cup or bowl CJK
+76C6: Ideograph basin, tub, pot, bowl CJK
+76C7: Ideograph why not? would it not be better to? CJK
+76C8: Ideograph fill; full, overflowing; surplus CJK
+76C9:
+76CA: Ideograph profit, benefit; advantage CJK
+76CB:
+76CC: Ideograph bowl, basin, cup CJK
+76CD: Ideograph what? why not? CJK
+76CE: Ideograph cup; pot; bowl; abundant CJK
+76CF: Ideograph small cup or container CJK
+76D0: Ideograph salt CJK
+76D1: Ideograph supervise, control, direct CJK
+76D2: Ideograph small box or case; casket CJK
+76D3:
+76D4: Ideograph helmet; bowl; basin CJK
+76D5:
+76D6: Ideograph cover, hide, protect CJK
+76D7: Ideograph rob, steal; thief, bandit CJK
+76D8: Ideograph tray, plate, dish; examine CJK
+76D9: Ideograph a basket, square outside and round inside, used to hold boiled grain in State worship CJK
+76DA:
+76DB: Ideograph abundant, flourishing; contain; fill CJK
+76DC: Ideograph rob, steal; thief, bandit CJK
+76DD: Ideograph drip CJK
+76DE: Ideograph small cup or container; classifier for lamps, etc. CJK
+76DF: Ideograph swear; oath, covenant, alliance CJK
+76E0:
+76E1: Ideograph exhaust, use up; deplete CJK
+76E2:
+76E3: Ideograph supervise, control, direct CJK
+76E4: Ideograph tray, plate, dish; examine CJK
+76E5: Ideograph wash CJK
+76E6: Ideograph lid of a caldron; Buddhist cloister CJK
+76E7: Ideograph cottage, hut; surname; black CJK
+76E8:
+76E9: Ideograph callus CJK
+76EA: Ideograph to toss about; to swing; to rock CJK
+76EB:
+76EC: Ideograph salt pit; leisure; pot; drink CJK
+76ED: Ideograph cruel CJK
+76EE: Ideograph eye; look, see; division, topic CJK
+76EF: Ideograph rivet gaze upon, keep eyes on CJK
+76F0:
+76F1: Ideograph wide open eyes; to gaze in astonishment CJK
+76F2: Ideograph blind; unperceptive, shortsighted CJK
+76F3:
+76F4: Ideograph straight, erect, vertical CJK
+76F5:
+76F6:
+76F7:
+76F8: Ideograph mutual, reciprocal, each other CJK
+76F9: Ideograph to doze; to nap; to nod CJK
+76FA:
+76FB: Ideograph glare; stare CJK
+76FC: Ideograph look, gaze; expect, hope for CJK
+76FD:
+76FE: Ideograph shield; dutch guilder; Indonesia CJK
+76FF:

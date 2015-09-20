@@ -1,256 +1,256 @@
-5300 : Cjk unified ideograph
-5301 : Cjk unified ideograph
-5302 : Cjk unified ideograph
-5303 : Cjk unified ideograph
-5304 : Cjk unified ideograph
-5305 : Cjk unified ideograph
-5306 : Cjk unified ideograph
-5307 : Cjk unified ideograph
-5308 : Cjk unified ideograph
-5309 : Cjk unified ideograph
-530A : Cjk unified ideograph
-530B : Cjk unified ideograph
-530C : Cjk unified ideograph
-530D : Cjk unified ideograph
-530E : Cjk unified ideograph
-530F : Cjk unified ideograph
-5310 : Cjk unified ideograph
-5311 : Cjk unified ideograph
-5312 : Cjk unified ideograph
-5313 : Cjk unified ideograph
-5314 : Cjk unified ideograph
-5315 : Cjk unified ideograph
-5316 : Cjk unified ideograph
-5317 : Cjk unified ideograph
-5318 : Cjk unified ideograph
-5319 : Cjk unified ideograph
-531A : Cjk unified ideograph
-531B : Cjk unified ideograph
-531C : Cjk unified ideograph
-531D : Cjk unified ideograph
-531E : Cjk unified ideograph
-531F : Cjk unified ideograph
-5320 : Cjk unified ideograph
-5321 : Cjk unified ideograph
-5322 : Cjk unified ideograph
-5323 : Cjk unified ideograph
-5324 : Cjk unified ideograph
-5325 : Cjk unified ideograph
-5326 : Cjk unified ideograph
-5327 : Cjk unified ideograph
-5328 : Cjk unified ideograph
-5329 : Cjk unified ideograph
-532A : Cjk unified ideograph
-532B : Cjk unified ideograph
-532C : Cjk unified ideograph
-532D : Cjk unified ideograph
-532E : Cjk unified ideograph
-532F : Cjk unified ideograph
-5330 : Cjk unified ideograph
-5331 : Cjk unified ideograph
-5332 : Cjk unified ideograph
-5333 : Cjk unified ideograph
-5334 : Cjk unified ideograph
-5335 : Cjk unified ideograph
-5336 : Cjk unified ideograph
-5337 : Cjk unified ideograph
-5338 : Cjk unified ideograph
-5339 : Cjk unified ideograph
-533A : Cjk unified ideograph
-533B : Cjk unified ideograph
-533C : Cjk unified ideograph
-533D : Cjk unified ideograph
-533E : Cjk unified ideograph
-533F : Cjk unified ideograph
-5340 : Cjk unified ideograph
-5341 : Cjk unified ideograph
-5342 : Cjk unified ideograph
-5343 : Cjk unified ideograph
-5344 : Cjk unified ideograph
-5345 : Cjk unified ideograph
-5346 : Cjk unified ideograph
-5347 : Cjk unified ideograph
-5348 : Cjk unified ideograph
-5349 : Cjk unified ideograph
-534A : Cjk unified ideograph
-534B : Cjk unified ideograph
-534C : Cjk unified ideograph
-534D : Swastika
-534E : Cjk unified ideograph
-534F : Cjk unified ideograph
-5350 : Cjk unified ideograph
-5351 : Cjk unified ideograph
-5352 : Cjk unified ideograph
-5353 : Cjk unified ideograph
-5354 : Cjk unified ideograph
-5355 : Cjk unified ideograph
-5356 : Cjk unified ideograph
-5357 : Cjk unified ideograph
-5358 : Cjk unified ideograph
-5359 : Cjk unified ideograph
-535A : Cjk unified ideograph
-535B : Cjk unified ideograph
-535C : Cjk unified ideograph
-535D : Cjk unified ideograph
-535E : Cjk unified ideograph
-535F : Cjk unified ideograph
-5360 : Cjk unified ideograph
-5361 : Cjk unified ideograph
-5362 : Cjk unified ideograph
-5363 : Cjk unified ideograph
-5364 : Cjk unified ideograph
-5365 : Cjk unified ideograph
-5366 : Cjk unified ideograph
-5367 : Cjk unified ideograph
-5368 : Cjk unified ideograph
-5369 : Cjk unified ideograph
-536A : Cjk unified ideograph
-536B : Cjk unified ideograph
-536C : Cjk unified ideograph
-536D : Cjk unified ideograph
-536E : Cjk unified ideograph
-536F : Cjk unified ideograph
-5370 : Cjk unified ideograph
-5371 : Cjk unified ideograph
-5372 : Cjk unified ideograph
-5373 : Cjk unified ideograph
-5374 : Cjk unified ideograph
-5375 : Cjk unified ideograph
-5376 : Cjk unified ideograph
-5377 : Cjk unified ideograph
-5378 : Cjk unified ideograph
-5379 : Cjk unified ideograph
-537A : Cjk unified ideograph
-537B : Cjk unified ideograph
-537C : Cjk unified ideograph
-537D : Cjk unified ideograph
-537E : Cjk unified ideograph
-537F : Cjk unified ideograph
-5380 : Cjk unified ideograph
-5381 : Cjk unified ideograph
-5382 : Cjk unified ideograph
-5383 : Cjk unified ideograph
-5384 : Cjk unified ideograph
-5385 : Cjk unified ideograph
-5386 : Cjk unified ideograph
-5387 : Cjk unified ideograph
-5388 : Cjk unified ideograph
-5389 : Cjk unified ideograph
-538A : Cjk unified ideograph
-538B : Cjk unified ideograph
-538C : Cjk unified ideograph
-538D : Cjk unified ideograph
-538E : Cjk unified ideograph
-538F : Cjk unified ideograph
-5390 : Cjk unified ideograph
-5391 : Cjk unified ideograph
-5392 : Cjk unified ideograph
-5393 : Cjk unified ideograph
-5394 : Cjk unified ideograph
-5395 : Cjk unified ideograph
-5396 : Cjk unified ideograph
-5397 : Cjk unified ideograph
-5398 : Cjk unified ideograph
-5399 : Cjk unified ideograph
-539A : Cjk unified ideograph
-539B : Cjk unified ideograph
-539C : Cjk unified ideograph
-539D : Cjk unified ideograph
-539E : Cjk unified ideograph
-539F : Cjk unified ideograph
-53A0 : Cjk unified ideograph
-53A1 : Cjk unified ideograph
-53A2 : Cjk unified ideograph
-53A3 : Cjk unified ideograph
-53A4 : Cjk unified ideograph
-53A5 : Cjk unified ideograph
-53A6 : Cjk unified ideograph
-53A7 : Cjk unified ideograph
-53A8 : Cjk unified ideograph
-53A9 : Cjk unified ideograph
-53AA : Cjk unified ideograph
-53AB : Cjk unified ideograph
-53AC : Cjk unified ideograph
-53AD : Cjk unified ideograph
-53AE : Cjk unified ideograph
-53AF : Cjk unified ideograph
-53B0 : Cjk unified ideograph
-53B1 : Cjk unified ideograph
-53B2 : Cjk unified ideograph
-53B3 : Cjk unified ideograph
-53B4 : Cjk unified ideograph
-53B5 : Cjk unified ideograph
-53B6 : Cjk unified ideograph
-53B7 : Cjk unified ideograph
-53B8 : Cjk unified ideograph
-53B9 : Cjk unified ideograph
-53BA : Cjk unified ideograph
-53BB : Cjk unified ideograph
-53BC : Cjk unified ideograph
-53BD : Cjk unified ideograph
-53BE : Cjk unified ideograph
-53BF : Cjk unified ideograph
-53C0 : Cjk unified ideograph
-53C1 : Cjk unified ideograph
-53C2 : Cjk unified ideograph
-53C3 : Cjk unified ideograph
-53C4 : Cjk unified ideograph
-53C5 : Cjk unified ideograph
-53C6 : Cjk unified ideograph
-53C7 : Cjk unified ideograph
-53C8 : Cjk unified ideograph
-53C9 : Cjk unified ideograph
-53CA : Cjk unified ideograph
-53CB : Cjk unified ideograph
-53CC : Cjk unified ideograph
-53CD : Cjk unified ideograph
-53CE : Cjk unified ideograph
-53CF : Cjk unified ideograph
-53D0 : Cjk unified ideograph
-53D1 : Cjk unified ideograph
-53D2 : Cjk unified ideograph
-53D3 : Cjk unified ideograph
-53D4 : Cjk unified ideograph
-53D5 : Cjk unified ideograph
-53D6 : Cjk unified ideograph
-53D7 : Cjk unified ideograph
-53D8 : Cjk unified ideograph
-53D9 : Cjk unified ideograph
-53DA : Cjk unified ideograph
-53DB : Cjk unified ideograph
-53DC : Cjk unified ideograph
-53DD : Cjk unified ideograph
-53DE : Cjk unified ideograph
-53DF : Cjk unified ideograph
-53E0 : Cjk unified ideograph
-53E1 : Cjk unified ideograph
-53E2 : Cjk unified ideograph
-53E3 : Cjk unified ideograph
-53E4 : Cjk unified ideograph
-53E5 : Cjk unified ideograph
-53E6 : Cjk unified ideograph
-53E7 : Cjk unified ideograph
-53E8 : Cjk unified ideograph
-53E9 : Cjk unified ideograph
-53EA : Cjk unified ideograph
-53EB : Cjk unified ideograph
-53EC : Cjk unified ideograph
-53ED : Cjk unified ideograph
-53EE : Cjk unified ideograph
-53EF : Cjk unified ideograph
-53F0 : Cjk unified ideograph
-53F1 : Cjk unified ideograph
-53F2 : Cjk unified ideograph
-53F3 : Cjk unified ideograph
-53F4 : Cjk unified ideograph
-53F5 : Cjk unified ideograph
-53F6 : Cjk unified ideograph
-53F7 : Cjk unified ideograph
-53F8 : Cjk unified ideograph
-53F9 : Cjk unified ideograph
-53FA : Cjk unified ideograph
-53FB : Cjk unified ideograph
-53FC : Cjk unified ideograph
-53FD : Cjk unified ideograph
-53FE : Cjk unified ideograph
-53FF : Cjk unified ideograph
+5300: Ideograph equal CJK
+5301: Ideograph Japanese unit of weight (1/1000 of a kan) CJK
+5302: Ideograph fragrance, smell CJK
+5303: Ideograph beggar; beg; give CJK
+5304: Ideograph to beg for alms; a beggar CJK
+5305: Ideograph wrap, pack, bundle; package CJK
+5306: Ideograph hastily, in haste, hurriedly CJK
+5307:
+5308: Ideograph breast, chest, thorax; clamor; the Hsiung Nu 'Huns' CJK
+5309: Ideograph noise of waters CJK
+530A: Ideograph handful CJK
+530B: Ideograph pottery CJK
+530C:
+530D: Ideograph crawl; lie prostrate CJK
+530E:
+530F: Ideograph gourd; musical instrument CJK
+5310: Ideograph fall prostrate; crawl CJK
+5311:
+5312:
+5313:
+5314:
+5315: Ideograph spoon, ladle; knife, dirk CJK
+5316: Ideograph change, convert, reform; -ize CJK
+5317: Ideograph north; northern; northward CJK
+5318: Ideograph the brain CJK
+5319: Ideograph spoon; surname CJK
+531A: Ideograph box; KangXi radical 22 CJK
+531B:
+531C: Ideograph basin; container for wine CJK
+531D: Ideograph full circle; encircle CJK
+531E:
+531F: Ideograph divan for two persons CJK
+5320: Ideograph craftsman, artisan; workman CJK
+5321: Ideograph correct, restore, revise CJK
+5322:
+5323: Ideograph small box, case, coffer CJK
+5324:
+5325:
+5326: Ideograph small box; chest, casket CJK
+5327: Ideograph a trunk; a portfolio CJK
+5328:
+5329:
+532A: Ideograph bandits, robbers, gangsters CJK
+532B:
+532C:
+532D: Ideograph small box; chest, casket CJK
+532E: Ideograph to lack CJK
+532F: Ideograph a concourse; to flow together, gather together; (same as U+6ED9 滙) to remit money CJK
+5330:
+5331: Ideograph to lack CJK
+5332:
+5333: Ideograph ladies toilet case with mirror CJK
+5334:
+5335: Ideograph case; casket CJK
+5336:
+5337:
+5338: Ideograph box; KangXi radical 23 CJK
+5339: Ideograph bolt of cloth; counter for horses CJK
+533A: Ideograph area, district, region, ward CJK
+533B: Ideograph cure, heal; doctor, medical CJK
+533C:
+533D: Ideograph to hide, to secrete, to repress; to bend CJK
+533E: Ideograph flat, round split-bamboo contain CJK
+533F: Ideograph hide; go into hiding CJK
+5340: Ideograph area, district, region, ward; surname CJK
+5341: Ideograph ten, tenth; complete; perfect CJK
+5342: Ideograph to fly rapidly CJK
+5343: Ideograph thousand; many, numerous; very; (Cant.) a cheater, swindler CJK
+5344: Ideograph twenty, twentieth CJK
+5345: Ideograph thirty, thirtieth CJK
+5346: Ideograph soldier; servant; at last, finally CJK
+5347: Ideograph arise, go up; hoist; advance CJK
+5348: Ideograph noon; 7th terrestrial branch CJK
+5349: Ideograph general term for plants; myriads CJK
+534A: Ideograph half CJK
+534B: Ideograph same as 世 U+4E16, generation; world; era CJK
+534C: Ideograph forty, fortieth CJK
+534D: Ideograph swastika, one of the auspicious signs recognized (e.g. in Chinese Tathagata Buddhism) as being on the chest of Buddha (and variously seen in statuary on the chest, soles of the feet, or palms of the hands) CJK
+534E: Ideograph flowery; illustrious; Chinese CJK
+534F: Ideograph be united; cooperate CJK
+5350: Ideograph swastika, one of the auspicious signs recognized (e.g. in Chinese Tathagata Buddhism) as being on the chest of Buddha (and variously seen in statuary on the chest, soles of the feet, or palms of the hands) CJK
+5351: Ideograph humble, low, inferior; despise CJK
+5352: Ideograph soldier; servant; at last, finally CJK
+5353: Ideograph profound, brilliant, lofty CJK
+5354: Ideograph be united; cooperate CJK
+5355: Ideograph single, individual, only; lone CJK
+5356: Ideograph sell; betray; show off CJK
+5357: Ideograph south; southern part; southward CJK
+5358: Ideograph same as 單 U+55AE, single, individual, only; lone CJK
+5359:
+535A: Ideograph gamble, play games; wide, broad CJK
+535B:
+535C: Ideograph fortune telling; prophesy CJK
+535D: Ideograph hair style; ore CJK
+535E: Ideograph to be impatient, in a hurry; excitable CJK
+535F: Ideograph a chemical compound; divination; to consider CJK
+5360: Ideograph divine; observe; versify CJK
+5361: Ideograph card, punch card; calorie CJK
+5362: Ideograph cottage, hut; surname; black CJK
+5363: Ideograph wine pot CJK
+5364: Ideograph salt CJK
+5365:
+5366: Ideograph fortune telling; tell fortunes CJK
+5367: Ideograph lie down; crouch CJK
+5368: Ideograph used in old names; phonetic seol used in Korean names CJK
+5369: Ideograph seal; KangXi radical 26 CJK
+536A: Ideograph kwukyel CJK
+536B: Ideograph guard, protect, defend CJK
+536C: Ideograph lofty; high; raise; high-priced CJK
+536D: Ideograph high. to raise CJK
+536E: Ideograph measuring cup; wine container CJK
+536F: Ideograph 4th terrestrial branch; period from 5-7 a.m. CJK
+5370: Ideograph print, seal, stamp, chop, mark CJK
+5371: Ideograph dangerous, precarious; high CJK
+5372: Ideograph eminent, lofty; beautiful; surname CJK
+5373: Ideograph promptly, quickly, immediately CJK
+5374: Ideograph still, but; decline; retreat CJK
+5375: Ideograph egg; ovum; roe; spawn CJK
+5376:
+5377: Ideograph scroll; curl; make a comeback CJK
+5378: Ideograph lay down; retire from office CJK
+5379: Ideograph sympathy, pity; comfort CJK
+537A: Ideograph (nuptial) winecups CJK
+537B: Ideograph still, but; decline; retreat CJK
+537C: Ideograph unsteady; dangerous CJK
+537D: Ideograph promptly CJK
+537E:
+537F: Ideograph noble, high officer CJK
+5380:
+5381:
+5382: Ideograph factory, workshop; radical 27 CJK
+5383: Ideograph to look upward CJK
+5384: Ideograph adversity, difficulty, distress CJK
+5385: Ideograph hall, central room CJK
+5386: Ideograph history; calendar CJK
+5387:
+5388:
+5389: Ideograph whetstone; grind, sharpen; whet CJK
+538A:
+538B: Ideograph press; oppress; crush; pressure CJK
+538C: Ideograph dislike, detest, reject; satiate CJK
+538D: Ideograph surname CJK
+538E: Ideograph settle CJK
+538F:
+5390: Ideograph disorderly, messy; huge, big CJK
+5391:
+5392:
+5393: Ideograph precipice, shore, bank; surname CJK
+5394: Ideograph stop, hinder; place near water CJK
+5395: Ideograph mingle with; toilet, lavatory CJK
+5396: Ideograph bulky; thick and large; confused CJK
+5397:
+5398: Ideograph thousandth part of tael CJK
+5399: Ideograph surname CJK
+539A: Ideograph thick; substantial; greatly CJK
+539B:
+539C: Ideograph a mountain peak CJK
+539D: Ideograph cut or engrave; a grave or tombstone CJK
+539E:
+539F: Ideograph source, origin, beginning CJK
+53A0: Ideograph mingle with; toilet, lavatory CJK
+53A1:
+53A2: Ideograph side-room, wing; theatre box CJK
+53A3: Ideograph shell CJK
+53A4: Ideograph to calculate; the calendar CJK
+53A5: Ideograph personal pronoun he, she, it CJK
+53A6: Ideograph big building, mansion CJK
+53A7:
+53A8: Ideograph kitchen; closet; cupboard CJK
+53A9: Ideograph stable; barnyard CJK
+53AA: Ideograph a hut; careful CJK
+53AB: Ideograph granary CJK
+53AC:
+53AD: Ideograph dislike, detest, reject; satiate CJK
+53AE: Ideograph servant; to make a disturbance CJK
+53AF:
+53B0: Ideograph factory, plant, workshop, mill CJK
+53B1:
+53B2: Ideograph whetstone; grind, sharpen; whet CJK
+53B3: Ideograph strict, rigorous, rigid; stern CJK
+53B4: Ideograph shell CJK
+53B5: Ideograph a spring; source CJK
+53B6: Ideograph private, secret; KangXi radical 28 CJK
+53B7: Ideograph the fore-arm; most Chinese-English dictionaries give the upper-arm; round CJK
+53B8:
+53B9: Ideograph spear; tribe CJK
+53BA: Ideograph to go; depart CJK
+53BB: Ideograph go away, leave, depart CJK
+53BC: Ideograph kwukyel CJK
+53BD:
+53BE: Ideograph lightly tap; through away; drop; sentence final particle CJK
+53BF: Ideograph county, district, subdivision CJK
+53C0:
+53C1: Ideograph bank form of numeral 'three' CJK
+53C2: Ideograph take part in, intervene; ginseng CJK
+53C3: Ideograph take part in, intervene; ginseng CJK
+53C4: Ideograph take part in, intervene; ginseng CJK
+53C5: Ideograph to counsel, to consult together; to take part in; to intervene CJK
+53C6: Ideograph cloudy sky; dark, obscure CJK
+53C7:
+53C8: Ideograph and, also, again, in addition CJK
+53C9: Ideograph crotch; fork, prong CJK
+53CA: Ideograph extend; reach; come up to; and CJK
+53CB: Ideograph friend, companion; fraternity CJK
+53CC: Ideograph set of two, pair, couple; both CJK
+53CD: Ideograph reverse, opposite, contrary, anti CJK
+53CE: Ideograph gather together, collect; harvest CJK
+53CF:
+53D0: Ideograph to prick a dog to make him go CJK
+53D1: Ideograph issue, dispatch, send out; hair CJK
+53D2: Ideograph obedient; united CJK
+53D3: Ideograph affair, matter; work CJK
+53D4: Ideograph father's younger brother CJK
+53D5: Ideograph to connect CJK
+53D6: Ideograph take, receive, obtain; select CJK
+53D7: Ideograph receive, accept, get; bear, stand CJK
+53D8: Ideograph change, transform, alter; rebel CJK
+53D9: Ideograph express, state, relate, narrate CJK
+53DA: Ideograph false CJK
+53DB: Ideograph rebel; rebellion; rebellious CJK
+53DC: Ideograph old man CJK
+53DD: Ideograph to respectfully inform CJK
+53DE:
+53DF: Ideograph old man; elder CJK
+53E0: Ideograph pile; be piled up; fold up CJK
+53E1: Ideograph astute, profound, shrewd CJK
+53E2: Ideograph bush, shrub; thicket; collection CJK
+53E3: Ideograph mouth; open end; entrance, gate CJK
+53E4: Ideograph old, classic, ancient CJK
+53E5: Ideograph sentence CJK
+53E6: Ideograph another, separate, other CJK
+53E7: Ideograph to cut meat off away from bones; ancient torture CJK
+53E8: Ideograph talkative; quarrelous CJK
+53E9: Ideograph knock, ask; kowtow, bow CJK
+53EA: Ideograph only, just, simply CJK
+53EB: Ideograph cry, shout; hail, greet, call CJK
+53EC: Ideograph imperial decree; summon CJK
+53ED: Ideograph trumpet CJK
+53EE: Ideograph exhort or enjoin repeatedly CJK
+53EF: Ideograph may, can, -able; possibly CJK
+53F0: Ideograph platform; unit; term of address CJK
+53F1: Ideograph scold, shout at, bawl out CJK
+53F2: Ideograph history, chronicle, annals CJK
+53F3: Ideograph right; west; right-wing CJK
+53F4: Ideograph a three-edged spear CJK
+53F5: Ideograph cannot, be unable do, improbable; thereupon CJK
+53F6: Ideograph to harmonize, to rhyme; to unite; (borrowed for) leaf CJK
+53F7: Ideograph mark, sign; symbol; number CJK
+53F8: Ideograph take charge of, control, manage; officer CJK
+53F9: Ideograph sigh, admire CJK
+53FA: Ideograph a straw bag; a tobacco pouch CJK
+53FB: Ideograph used in place names; (Cant.) smart, clever CJK
+53FC: Ideograph holding in mouth CJK
+53FD: Ideograph sigh in disapproval; take small CJK
+53FE: Ideograph 西貢叾, a place in Hong Kong CJK
+53FF:

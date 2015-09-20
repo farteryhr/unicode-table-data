@@ -1,256 +1,256 @@
-9800 : Cjk unified ideograph
-9801 : Cjk unified ideograph
-9802 : Cjk unified ideograph
-9803 : Cjk unified ideograph
-9804 : Cjk unified ideograph
-9805 : Cjk unified ideograph
-9806 : Cjk unified ideograph
-9807 : Cjk unified ideograph
-9808 : Cjk unified ideograph
-9809 : Cjk unified ideograph
-980A : Cjk unified ideograph
-980B : Cjk unified ideograph
-980C : Cjk unified ideograph
-980D : Cjk unified ideograph
-980E : Cjk unified ideograph
-980F : Cjk unified ideograph
-9810 : Cjk unified ideograph
-9811 : Cjk unified ideograph
-9812 : Cjk unified ideograph
-9813 : Cjk unified ideograph
-9814 : Cjk unified ideograph
-9815 : Cjk unified ideograph
-9816 : Cjk unified ideograph
-9817 : Cjk unified ideograph
-9818 : Cjk unified ideograph
-9819 : Cjk unified ideograph
-981A : Cjk unified ideograph
-981B : Cjk unified ideograph
-981C : Cjk unified ideograph
-981D : Cjk unified ideograph
-981E : Cjk unified ideograph
-981F : Cjk unified ideograph
-9820 : Cjk unified ideograph
-9821 : Cjk unified ideograph
-9822 : Cjk unified ideograph
-9823 : Cjk unified ideograph
-9824 : Cjk unified ideograph
-9825 : Cjk unified ideograph
-9826 : Cjk unified ideograph
-9827 : Cjk unified ideograph
-9828 : Cjk unified ideograph
-9829 : Cjk unified ideograph
-982A : Cjk unified ideograph
-982B : Cjk unified ideograph
-982C : Cjk unified ideograph
-982D : Cjk unified ideograph
-982E : Cjk unified ideograph
-982F : Cjk unified ideograph
-9830 : Cjk unified ideograph
-9831 : Cjk unified ideograph
-9832 : Cjk unified ideograph
-9833 : Cjk unified ideograph
-9834 : Cjk unified ideograph
-9835 : Cjk unified ideograph
-9836 : Cjk unified ideograph
-9837 : Cjk unified ideograph
-9838 : Cjk unified ideograph
-9839 : Cjk unified ideograph
-983A : Cjk unified ideograph
-983B : Cjk unified ideograph
-983C : Cjk unified ideograph
-983D : Cjk unified ideograph
-983E : Cjk unified ideograph
-983F : Cjk unified ideograph
-9840 : Cjk unified ideograph
-9841 : Cjk unified ideograph
-9842 : Cjk unified ideograph
-9843 : Cjk unified ideograph
-9844 : Cjk unified ideograph
-9845 : Cjk unified ideograph
-9846 : Cjk unified ideograph
-9847 : Cjk unified ideograph
-9848 : Cjk unified ideograph
-9849 : Cjk unified ideograph
-984A : Cjk unified ideograph
-984B : Cjk unified ideograph
-984C : Cjk unified ideograph
-984D : Cjk unified ideograph
-984E : Cjk unified ideograph
-984F : Cjk unified ideograph
-9850 : Cjk unified ideograph
-9851 : Cjk unified ideograph
-9852 : Cjk unified ideograph
-9853 : Cjk unified ideograph
-9854 : Cjk unified ideograph
-9855 : Cjk unified ideograph
-9856 : Cjk unified ideograph
-9857 : Cjk unified ideograph
-9858 : Cjk unified ideograph
-9859 : Cjk unified ideograph
-985A : Cjk unified ideograph
-985B : Cjk unified ideograph
-985C : Cjk unified ideograph
-985D : Cjk unified ideograph
-985E : Cjk unified ideograph
-985F : Cjk unified ideograph
-9860 : Cjk unified ideograph
-9861 : Cjk unified ideograph
-9862 : Cjk unified ideograph
-9863 : Cjk unified ideograph
-9864 : Cjk unified ideograph
-9865 : Cjk unified ideograph
-9866 : Cjk unified ideograph
-9867 : Cjk unified ideograph
-9868 : Cjk unified ideograph
-9869 : Cjk unified ideograph
-986A : Cjk unified ideograph
-986B : Cjk unified ideograph
-986C : Cjk unified ideograph
-986D : Cjk unified ideograph
-986E : Cjk unified ideograph
-986F : Cjk unified ideograph
-9870 : Cjk unified ideograph
-9871 : Cjk unified ideograph
-9872 : Cjk unified ideograph
-9873 : Cjk unified ideograph
-9874 : Cjk unified ideograph
-9875 : Cjk unified ideograph
-9876 : Cjk unified ideograph
-9877 : Cjk unified ideograph
-9878 : Cjk unified ideograph
-9879 : Cjk unified ideograph
-987A : Cjk unified ideograph
-987B : Cjk unified ideograph
-987C : Cjk unified ideograph
-987D : Cjk unified ideograph
-987E : Cjk unified ideograph
-987F : Cjk unified ideograph
-9880 : Cjk unified ideograph
-9881 : Cjk unified ideograph
-9882 : Cjk unified ideograph
-9883 : Cjk unified ideograph
-9884 : Cjk unified ideograph
-9885 : Cjk unified ideograph
-9886 : Cjk unified ideograph
-9887 : Cjk unified ideograph
-9888 : Cjk unified ideograph
-9889 : Cjk unified ideograph
-988A : Cjk unified ideograph
-988B : Cjk unified ideograph
-988C : Cjk unified ideograph
-988D : Cjk unified ideograph
-988E : Cjk unified ideograph
-988F : Cjk unified ideograph
-9890 : Cjk unified ideograph
-9891 : Cjk unified ideograph
-9892 : Cjk unified ideograph
-9893 : Cjk unified ideograph
-9894 : Cjk unified ideograph
-9895 : Cjk unified ideograph
-9896 : Cjk unified ideograph
-9897 : Cjk unified ideograph
-9898 : Cjk unified ideograph
-9899 : Cjk unified ideograph
-989A : Cjk unified ideograph
-989B : Cjk unified ideograph
-989C : Cjk unified ideograph
-989D : Cjk unified ideograph
-989E : Cjk unified ideograph
-989F : Cjk unified ideograph
-98A0 : Cjk unified ideograph
-98A1 : Cjk unified ideograph
-98A2 : Cjk unified ideograph
-98A3 : Cjk unified ideograph
-98A4 : Cjk unified ideograph
-98A5 : Cjk unified ideograph
-98A6 : Cjk unified ideograph
-98A7 : Cjk unified ideograph
-98A8 : Cjk unified ideograph
-98A9 : Cjk unified ideograph
-98AA : Cjk unified ideograph
-98AB : Cjk unified ideograph
-98AC : Cjk unified ideograph
-98AD : Cjk unified ideograph
-98AE : Cjk unified ideograph
-98AF : Cjk unified ideograph
-98B0 : Cjk unified ideograph
-98B1 : Cjk unified ideograph
-98B2 : Cjk unified ideograph
-98B3 : Cjk unified ideograph
-98B4 : Cjk unified ideograph
-98B5 : Cjk unified ideograph
-98B6 : Cjk unified ideograph
-98B7 : Cjk unified ideograph
-98B8 : Cjk unified ideograph
-98B9 : Cjk unified ideograph
-98BA : Cjk unified ideograph
-98BB : Cjk unified ideograph
-98BC : Cjk unified ideograph
-98BD : Cjk unified ideograph
-98BE : Cjk unified ideograph
-98BF : Cjk unified ideograph
-98C0 : Cjk unified ideograph
-98C1 : Cjk unified ideograph
-98C2 : Cjk unified ideograph
-98C3 : Cjk unified ideograph
-98C4 : Cjk unified ideograph
-98C5 : Cjk unified ideograph
-98C6 : Cjk unified ideograph
-98C7 : Cjk unified ideograph
-98C8 : Cjk unified ideograph
-98C9 : Cjk unified ideograph
-98CA : Cjk unified ideograph
-98CB : Cjk unified ideograph
-98CC : Cjk unified ideograph
-98CD : Cjk unified ideograph
-98CE : Cjk unified ideograph
-98CF : Cjk unified ideograph
-98D0 : Cjk unified ideograph
-98D1 : Cjk unified ideograph
-98D2 : Cjk unified ideograph
-98D3 : Cjk unified ideograph
-98D4 : Cjk unified ideograph
-98D5 : Cjk unified ideograph
-98D6 : Cjk unified ideograph
-98D7 : Cjk unified ideograph
-98D8 : Cjk unified ideograph
-98D9 : Cjk unified ideograph
-98DA : Cjk unified ideograph
-98DB : Cjk unified ideograph
-98DC : Cjk unified ideograph
-98DD : Cjk unified ideograph
-98DE : Cjk unified ideograph
-98DF : Cjk unified ideograph
-98E0 : Cjk unified ideograph
-98E1 : Cjk unified ideograph
-98E2 : Cjk unified ideograph
-98E3 : Cjk unified ideograph
-98E4 : Cjk unified ideograph
-98E5 : Cjk unified ideograph
-98E6 : Cjk unified ideograph
-98E7 : Cjk unified ideograph
-98E8 : Cjk unified ideograph
-98E9 : Cjk unified ideograph
-98EA : Cjk unified ideograph
-98EB : Cjk unified ideograph
-98EC : Cjk unified ideograph
-98ED : Cjk unified ideograph
-98EE : Cjk unified ideograph
-98EF : Cjk unified ideograph
-98F0 : Cjk unified ideograph
-98F1 : Cjk unified ideograph
-98F2 : Cjk unified ideograph
-98F3 : Cjk unified ideograph
-98F4 : Cjk unified ideograph
-98F5 : Cjk unified ideograph
-98F6 : Cjk unified ideograph
-98F7 : Cjk unified ideograph
-98F8 : Cjk unified ideograph
-98F9 : Cjk unified ideograph
-98FA : Cjk unified ideograph
-98FB : Cjk unified ideograph
-98FC : Cjk unified ideograph
-98FD : Cjk unified ideograph
-98FE : Cjk unified ideograph
-98FF : Cjk unified ideograph
+9800: Ideograph music CJK
+9801: Ideograph page, sheet, leaf; rad. no. 181 CJK
+9802: Ideograph top, peak; carry on head; very CJK
+9803: Ideograph a moment; a measure of area equal to 100 mu or 6.7 hectares; to lean CJK
+9804: Ideograph cheekbone CJK
+9805: Ideograph neck, nape of neck; sum; funds CJK
+9806: Ideograph obey, submit to, go along with CJK
+9807: Ideograph large face, flat face; stupid CJK
+9808: Ideograph must, have to, necessary; moment; whiskers CJK
+9809: Ideograph cheeks; jaw; chin; rear; nourish CJK
+980A: Ideograph grieved; anxious CJK
+980B: Ideograph to care for, to look after to regard; to turn the head round to look CJK
+980C: Ideograph laud, acclaim; hymn; ode CJK
+980D: Ideograph to raise one's head CJK
+980E: Ideograph tall and slim CJK
+980F: Ideograph fly down or downward CJK
+9810: Ideograph prepare, arrange; in advance CJK
+9811: Ideograph obstinate, stubborn; recalcitrant CJK
+9812: Ideograph confer, bestow; publish, promulgate CJK
+9813: Ideograph pause, stop; bow, kowtow; arrange CJK
+9814: Ideograph good and beautiful CJK
+9815: Ideograph (Cant.) to raise the head CJK
+9816: Ideograph Zhou dynasty school; disperse; fall apart CJK
+9817: Ideograph lean one side; very, rather CJK
+9818: Ideograph neck; collar; lead, guide CJK
+9819: Ideograph correct CJK
+981A: Ideograph neck, throat CJK
+981B:
+981C: Ideograph mouth; jaw CJK
+981D:
+981E: Ideograph (nose) bridge CJK
+981F: Ideograph the forehead; a fixed number CJK
+9820: Ideograph quiet CJK
+9821: Ideograph fly upward, soar; contest; to rob CJK
+9822:
+9823: Ideograph to view others with raised eyes CJK
+9824: Ideograph cheeks; jaw; chin; rear; to nourish CJK
+9825:
+9826: Ideograph chin CJK
+9827:
+9828:
+9829:
+982A:
+982B: Ideograph bow; nod; condescend CJK
+982C: Ideograph cheeks, jaw CJK
+982D: Ideograph head; top; chief, first; boss CJK
+982E: Ideograph wash CJK
+982F: Ideograph cheekbone CJK
+9830: Ideograph cheeks, jaw CJK
+9831:
+9832: Ideograph straight CJK
+9833: Ideograph red CJK
+9834: Ideograph rice tassel; sharp point; clever CJK
+9835: Ideograph (Cant.) 大頭頵, a big head CJK
+9836:
+9837: Ideograph chin, jowl; give nod CJK
+9838: Ideograph neck, throat CJK
+9839: Ideograph ruined, decayed; disintegrate CJK
+983A:
+983B: Ideograph frequently, again and again CJK
+983C: Ideograph rely, depend on; accuse falsely CJK
+983D: Ideograph ruined CJK
+983E: Ideograph beard CJK
+983F:
+9840:
+9841:
+9842:
+9843:
+9844:
+9845:
+9846: Ideograph grain, kernel CJK
+9847: Ideograph be worn out, be haggard CJK
+9848:
+9849:
+984A:
+984B: Ideograph lower part of face; jaw; gills of a fish CJK
+984C: Ideograph forehead; title, headline; theme CJK
+984D: Ideograph forehead; tablet, plaque; fixed CJK
+984E: Ideograph jaw CJK
+984F: Ideograph face, facial appearance CJK
+9850:
+9851: Ideograph yellow CJK
+9852: Ideograph solemn, large, grand, majestic CJK
+9853: Ideograph good, honest; simple; respectful CJK
+9854: Ideograph face, facial appearance CJK
+9855: Ideograph manifest, display; evident, clear CJK
+9856: Ideograph top of the head; skull CJK
+9857: Ideograph quiet CJK
+9858: Ideograph desire, want; wish; ambition CJK
+9859: Ideograph the forehead; to kowtow CJK
+985A: Ideograph top, peak, summit; upset CJK
+985B: Ideograph top, peak, summit; upset CJK
+985C:
+985D:
+985E: Ideograph class, group, kind, category CJK
+985F:
+9860:
+9861:
+9862: Ideograph dawdling; thoughtless, careless CJK
+9863: Ideograph frown CJK
+9864:
+9865: Ideograph luminous; white, hoary CJK
+9866: Ideograph be worn-out, emaciated, haggard CJK
+9867: Ideograph look back; look at; look after CJK
+9868:
+9869:
+986A:
+986B: Ideograph shiver, tremble; trembling CJK
+986C: Ideograph the temporal bone CJK
+986D:
+986E:
+986F: Ideograph manifest, display; evident, clear CJK
+9870: Ideograph frown, knit brows; with knitted CJK
+9871: Ideograph skull CJK
+9872:
+9873: Ideograph the temporal bone CJK
+9874: Ideograph cheek bones CJK
+9875: Ideograph page, sheet, leaf; rad. no. 181 CJK
+9876: Ideograph top, summit, peak; to carry on the head CJK
+9877: Ideograph a moment; a measure of area equal to 100 mu or 6.7 hectares; to lean CJK
+9878: Ideograph large face, flat face; stupid CJK
+9879: Ideograph neck, nape of neck; sum; funds CJK
+987A: Ideograph obey, submit to, go along with CJK
+987B: Ideograph must, have to, necessary CJK
+987C: Ideograph grieved CJK
+987D: Ideograph obstinate, stubborn; recalcitrant CJK
+987E: Ideograph look back; look at; look after CJK
+987F: Ideograph pause, stop; bow, kowtow; arrange CJK
+9880: Ideograph tall and slim CJK
+9881: Ideograph confer, bestow; publish, promulgate CJK
+9882: Ideograph laud, acclaim; hymn; ode CJK
+9883: Ideograph fly down or downward CJK
+9884: Ideograph prepare, arrange; in advance CJK
+9885: Ideograph skull CJK
+9886: Ideograph neck; collar; lead, guide CJK
+9887: Ideograph lean one side; very, rather CJK
+9888: Ideograph neck, throat CJK
+9889: Ideograph fly upward, soar; contest CJK
+988A: Ideograph cheeks, jaw CJK
+988B: Ideograph straight CJK
+988C: Ideograph mouth; jaw CJK
+988D: Ideograph river in Anhui CJK
+988E: Ideograph bright CJK
+988F: Ideograph chin CJK
+9890: Ideograph cheeks; jaw; chin; rear; to nourish CJK
+9891: Ideograph frequently, again and again CJK
+9892: Ideograph wash CJK
+9893: Ideograph ruined, decayed; disintegrate CJK
+9894: Ideograph chin, jowl; give nod CJK
+9895: Ideograph rice tassel; sharp point; clever CJK
+9896: Ideograph rice tassel; sharp point; clever CJK
+9897: Ideograph grain, kernel CJK
+9898: Ideograph forehead; title, headline; theme CJK
+9899: Ideograph solemn, large, grand, majestic CJK
+989A: Ideograph jaw CJK
+989B: Ideograph good, honest; simple; respectful CJK
+989C: Ideograph face, facial appearance CJK
+989D: Ideograph forehead; tablet, plaque; fixed CJK
+989E: Ideograph the temporal bone CJK
+989F: Ideograph dawdling; thoughtless, careless CJK
+98A0: Ideograph top, peak, summit; upset CJK
+98A1: Ideograph the forehead; to kowtow CJK
+98A2: Ideograph luminous; white, hoary CJK
+98A3:
+98A4: Ideograph shiver, tremble; trembling CJK
+98A5: Ideograph the temporal bone CJK
+98A6: Ideograph frown, knit brows; with knitted CJK
+98A7: Ideograph cheek bones CJK
+98A8: Ideograph wind; air; manners, atmosphere CJK
+98A9:
+98AA: Ideograph (Japanese) wind blowing down from the mountains CJK
+98AB: Ideograph a storm CJK
+98AC:
+98AD: Ideograph sway in wind CJK
+98AE: Ideograph storm whirlwind CJK
+98AF: Ideograph the sound of the wind; bleak; melancholy CJK
+98B0:
+98B1: Ideograph taiphoon CJK
+98B2:
+98B3: Ideograph to blow CJK
+98B4: Ideograph whirlwind CJK
+98B5:
+98B6: Ideograph cyclone, typhoon, gale CJK
+98B7: Ideograph whirlwind CJK
+98B8: Ideograph cool breeze of autumn CJK
+98B9:
+98BA: Ideograph soar, fly, float; scatter CJK
+98BB: Ideograph floating in air, drifting with wind CJK
+98BC: Ideograph sound of wind; blow chilly CJK
+98BD:
+98BE: Ideograph blowing of the wind CJK
+98BF: Ideograph sail CJK
+98C0: Ideograph soughing of wind; noise CJK
+98C1:
+98C2: Ideograph wind in high places CJK
+98C3: Ideograph whirlwind, cyclone; floating CJK
+98C4: Ideograph whirlwind, cyclone; floating CJK
+98C5:
+98C6: Ideograph whirlwind, stormy gale CJK
+98C7: Ideograph whirlwind, stormy gale CJK
+98C8: Ideograph whirlwind CJK
+98C9:
+98CA:
+98CB:
+98CC: Ideograph wind CJK
+98CD:
+98CE: Ideograph wind; air; manners, atmosphere CJK
+98CF: Ideograph soar, fly, float; scatter CJK
+98D0: Ideograph sway in wind CJK
+98D1: Ideograph storm CJK
+98D2: Ideograph the sound of the wind; bleak; melancholy CJK
+98D3: Ideograph cyclone, typhoon, gale CJK
+98D4: Ideograph cool breeze of autumn CJK
+98D5: Ideograph sound of wind; blow chilly CJK
+98D6: Ideograph floating in air, drifting with wind CJK
+98D7: Ideograph soughing of wind; noise CJK
+98D8: Ideograph whirlwind, cyclone; floating CJK
+98D9: Ideograph whirlwind, stormy gale CJK
+98DA: Ideograph whirlwind CJK
+98DB: Ideograph fly; go quickly; dart; high CJK
+98DC: Ideograph flip over, upset, capsize CJK
+98DD:
+98DE: Ideograph fly; go quickly; dart; high CJK
+98DF: Ideograph eat; meal; food; KangXi radical number 184 CJK
+98E0: Ideograph eat, food; radical number 184 CJK
+98E1: Ideograph meal; eat CJK
+98E2: Ideograph hunger, starving; hungry; a famine CJK
+98E3: Ideograph display food for show only; sacrifice CJK
+98E4: Ideograph to feed; provisions CJK
+98E5: Ideograph rice cake CJK
+98E6: Ideograph well-boiled congee or gruel; thick, rich CJK
+98E7: Ideograph evening meal, supper; cooked food CJK
+98E8: Ideograph host banquet; banquet CJK
+98E9: Ideograph stuffed dumplings CJK
+98EA: Ideograph cooked food; cook until well done CJK
+98EB: Ideograph surfeited, satiated; confer CJK
+98EC:
+98ED: Ideograph order; command; give command CJK
+98EE: Ideograph drink; swallow; kind of drink CJK
+98EF: Ideograph cooked rice; food; meal CJK
+98F0:
+98F1: Ideograph evening meal CJK
+98F2: Ideograph drink; swallow; kind of drink CJK
+98F3:
+98F4: Ideograph sweet-meats; sweet-cakes; syrup CJK
+98F5: Ideograph (Cant.) food; profit CJK
+98F6: Ideograph odour CJK
+98F7:
+98F8:
+98F9:
+98FA:
+98FB:
+98FC: Ideograph raise animals; feed; nourish CJK
+98FD: Ideograph eat heartily; eat one's fill CJK
+98FE: Ideograph decorate, ornament, adorn; to deceive CJK
+98FF:

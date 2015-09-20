@@ -1,256 +1,256 @@
-8100 : Cjk unified ideograph
-8101 : Cjk unified ideograph
-8102 : Cjk unified ideograph
-8103 : Cjk unified ideograph
-8104 : Cjk unified ideograph
-8105 : Cjk unified ideograph
-8106 : Cjk unified ideograph
-8107 : Cjk unified ideograph
-8108 : Cjk unified ideograph
-8109 : Cjk unified ideograph
-810A : Cjk unified ideograph
-810B : Cjk unified ideograph
-810C : Cjk unified ideograph
-810D : Cjk unified ideograph
-810E : Cjk unified ideograph
-810F : Cjk unified ideograph
-8110 : Cjk unified ideograph
-8111 : Cjk unified ideograph
-8112 : Cjk unified ideograph
-8113 : Cjk unified ideograph
-8114 : Cjk unified ideograph
-8115 : Cjk unified ideograph
-8116 : Cjk unified ideograph
-8117 : Cjk unified ideograph
-8118 : Cjk unified ideograph
-8119 : Cjk unified ideograph
-811A : Cjk unified ideograph
-811B : Cjk unified ideograph
-811C : Cjk unified ideograph
-811D : Cjk unified ideograph
-811E : Cjk unified ideograph
-811F : Cjk unified ideograph
-8120 : Cjk unified ideograph
-8121 : Cjk unified ideograph
-8122 : Cjk unified ideograph
-8123 : Cjk unified ideograph
-8124 : Cjk unified ideograph
-8125 : Cjk unified ideograph
-8126 : Cjk unified ideograph
-8127 : Cjk unified ideograph
-8128 : Cjk unified ideograph
-8129 : Cjk unified ideograph
-812A : Cjk unified ideograph
-812B : Cjk unified ideograph
-812C : Cjk unified ideograph
-812D : Cjk unified ideograph
-812E : Cjk unified ideograph
-812F : Cjk unified ideograph
-8130 : Cjk unified ideograph
-8131 : Cjk unified ideograph
-8132 : Cjk unified ideograph
-8133 : Cjk unified ideograph
-8134 : Cjk unified ideograph
-8135 : Cjk unified ideograph
-8136 : Cjk unified ideograph
-8137 : Cjk unified ideograph
-8138 : Cjk unified ideograph
-8139 : Cjk unified ideograph
-813A : Cjk unified ideograph
-813B : Cjk unified ideograph
-813C : Cjk unified ideograph
-813D : Cjk unified ideograph
-813E : Cjk unified ideograph
-813F : Cjk unified ideograph
-8140 : Cjk unified ideograph
-8141 : Cjk unified ideograph
-8142 : Cjk unified ideograph
-8143 : Cjk unified ideograph
-8144 : Cjk unified ideograph
-8145 : Cjk unified ideograph
-8146 : Cjk unified ideograph
-8147 : Cjk unified ideograph
-8148 : Cjk unified ideograph
-8149 : Cjk unified ideograph
-814A : Cjk unified ideograph
-814B : Cjk unified ideograph
-814C : Cjk unified ideograph
-814D : Cjk unified ideograph
-814E : Cjk unified ideograph
-814F : Cjk unified ideograph
-8150 : Cjk unified ideograph
-8151 : Cjk unified ideograph
-8152 : Cjk unified ideograph
-8153 : Cjk unified ideograph
-8154 : Cjk unified ideograph
-8155 : Cjk unified ideograph
-8156 : Cjk unified ideograph
-8157 : Cjk unified ideograph
-8158 : Cjk unified ideograph
-8159 : Cjk unified ideograph
-815A : Cjk unified ideograph
-815B : Cjk unified ideograph
-815C : Cjk unified ideograph
-815D : Cjk unified ideograph
-815E : Cjk unified ideograph
-815F : Cjk unified ideograph
-8160 : Cjk unified ideograph
-8161 : Cjk unified ideograph
-8162 : Cjk unified ideograph
-8163 : Cjk unified ideograph
-8164 : Cjk unified ideograph
-8165 : Cjk unified ideograph
-8166 : Cjk unified ideograph
-8167 : Cjk unified ideograph
-8168 : Cjk unified ideograph
-8169 : Cjk unified ideograph
-816A : Cjk unified ideograph
-816B : Cjk unified ideograph
-816C : Cjk unified ideograph
-816D : Cjk unified ideograph
-816E : Cjk unified ideograph
-816F : Cjk unified ideograph
-8170 : Cjk unified ideograph
-8171 : Cjk unified ideograph
-8172 : Cjk unified ideograph
-8173 : Cjk unified ideograph
-8174 : Cjk unified ideograph
-8175 : Cjk unified ideograph
-8176 : Cjk unified ideograph
-8177 : Cjk unified ideograph
-8178 : Cjk unified ideograph
-8179 : Cjk unified ideograph
-817A : Cjk unified ideograph
-817B : Cjk unified ideograph
-817C : Cjk unified ideograph
-817D : Cjk unified ideograph
-817E : Cjk unified ideograph
-817F : Cjk unified ideograph
-8180 : Cjk unified ideograph
-8181 : Cjk unified ideograph
-8182 : Cjk unified ideograph
-8183 : Cjk unified ideograph
-8184 : Cjk unified ideograph
-8185 : Cjk unified ideograph
-8186 : Cjk unified ideograph
-8187 : Cjk unified ideograph
-8188 : Cjk unified ideograph
-8189 : Cjk unified ideograph
-818A : Cjk unified ideograph
-818B : Cjk unified ideograph
-818C : Cjk unified ideograph
-818D : Cjk unified ideograph
-818E : Cjk unified ideograph
-818F : Cjk unified ideograph
-8190 : Cjk unified ideograph
-8191 : Cjk unified ideograph
-8192 : Cjk unified ideograph
-8193 : Cjk unified ideograph
-8194 : Cjk unified ideograph
-8195 : Cjk unified ideograph
-8196 : Cjk unified ideograph
-8197 : Cjk unified ideograph
-8198 : Cjk unified ideograph
-8199 : Cjk unified ideograph
-819A : Cjk unified ideograph
-819B : Cjk unified ideograph
-819C : Cjk unified ideograph
-819D : Cjk unified ideograph
-819E : Cjk unified ideograph
-819F : Cjk unified ideograph
-81A0 : Cjk unified ideograph
-81A1 : Cjk unified ideograph
-81A2 : Cjk unified ideograph
-81A3 : Cjk unified ideograph
-81A4 : Cjk unified ideograph
-81A5 : Cjk unified ideograph
-81A6 : Cjk unified ideograph
-81A7 : Cjk unified ideograph
-81A8 : Cjk unified ideograph
-81A9 : Cjk unified ideograph
-81AA : Cjk unified ideograph
-81AB : Cjk unified ideograph
-81AC : Cjk unified ideograph
-81AD : Cjk unified ideograph
-81AE : Cjk unified ideograph
-81AF : Cjk unified ideograph
-81B0 : Cjk unified ideograph
-81B1 : Cjk unified ideograph
-81B2 : Cjk unified ideograph
-81B3 : Cjk unified ideograph
-81B4 : Cjk unified ideograph
-81B5 : Cjk unified ideograph
-81B6 : Cjk unified ideograph
-81B7 : Cjk unified ideograph
-81B8 : Cjk unified ideograph
-81B9 : Cjk unified ideograph
-81BA : Cjk unified ideograph
-81BB : Cjk unified ideograph
-81BC : Cjk unified ideograph
-81BD : Cjk unified ideograph
-81BE : Cjk unified ideograph
-81BF : Cjk unified ideograph
-81C0 : Cjk unified ideograph
-81C1 : Cjk unified ideograph
-81C2 : Cjk unified ideograph
-81C3 : Cjk unified ideograph
-81C4 : Cjk unified ideograph
-81C5 : Cjk unified ideograph
-81C6 : Cjk unified ideograph
-81C7 : Cjk unified ideograph
-81C8 : Cjk unified ideograph
-81C9 : Cjk unified ideograph
-81CA : Cjk unified ideograph
-81CB : Cjk unified ideograph
-81CC : Cjk unified ideograph
-81CD : Cjk unified ideograph
-81CE : Cjk unified ideograph
-81CF : Cjk unified ideograph
-81D0 : Cjk unified ideograph
-81D1 : Cjk unified ideograph
-81D2 : Cjk unified ideograph
-81D3 : Cjk unified ideograph
-81D4 : Cjk unified ideograph
-81D5 : Cjk unified ideograph
-81D6 : Cjk unified ideograph
-81D7 : Cjk unified ideograph
-81D8 : Cjk unified ideograph
-81D9 : Cjk unified ideograph
-81DA : Cjk unified ideograph
-81DB : Cjk unified ideograph
-81DC : Cjk unified ideograph
-81DD : Cjk unified ideograph
-81DE : Cjk unified ideograph
-81DF : Cjk unified ideograph
-81E0 : Cjk unified ideograph
-81E1 : Cjk unified ideograph
-81E2 : Cjk unified ideograph
-81E3 : Cjk unified ideograph
-81E4 : Cjk unified ideograph
-81E5 : Cjk unified ideograph
-81E6 : Cjk unified ideograph
-81E7 : Cjk unified ideograph
-81E8 : Cjk unified ideograph
-81E9 : Cjk unified ideograph
-81EA : Cjk unified ideograph
-81EB : Cjk unified ideograph
-81EC : Cjk unified ideograph
-81ED : Cjk unified ideograph
-81EE : Cjk unified ideograph
-81EF : Cjk unified ideograph
-81F0 : Cjk unified ideograph
-81F1 : Cjk unified ideograph
-81F2 : Cjk unified ideograph
-81F3 : Cjk unified ideograph
-81F4 : Cjk unified ideograph
-81F5 : Cjk unified ideograph
-81F6 : Cjk unified ideograph
-81F7 : Cjk unified ideograph
-81F8 : Cjk unified ideograph
-81F9 : Cjk unified ideograph
-81FA : Cjk unified ideograph
-81FB : Cjk unified ideograph
-81FC : Cjk unified ideograph
-81FD : Cjk unified ideograph
-81FE : Cjk unified ideograph
-81FF : Cjk unified ideograph
+8100:
+8101: Ideograph to offer flesh in sacrifice CJK
+8102: Ideograph fat, grease, lard; grease CJK
+8103: Ideograph gland CJK
+8104:
+8105: Ideograph ribs; armpits; flank; threaten CJK
+8106: Ideograph crisp; fragile, frail; brittle CJK
+8107: Ideograph ribs, armpits; flank; threaten CJK
+8108: Ideograph blood vessels, veins, arteries CJK
+8109: Ideograph blood vessels, veins, arteries CJK
+810A: Ideograph spine, backbone; ridge CJK
+810B:
+810C: Ideograph (Cant.) female breast; milk CJK
+810D: Ideograph minced meat or fish CJK
+810E: Ideograph an organic compound CJK
+810F: Ideograph internal organs, viscera; dirty CJK
+8110: Ideograph abdominal area of crab; navel CJK
+8111: Ideograph brain CJK
+8112: Ideograph open; throw away CJK
+8113: Ideograph pus CJK
+8114: Ideograph small lump of meat; sliced meat CJK
+8115:
+8116: Ideograph neck CJK
+8117: Ideograph coinciding, agreeing CJK
+8118: Ideograph internal cavity of stomach CJK
+8119:
+811A: Ideograph leg, foot; base, leg, foundation CJK
+811B: Ideograph shinbone; calf of leg CJK
+811C:
+811D: Ideograph distend CJK
+811E: Ideograph minced meat; trifles CJK
+811F:
+8120:
+8121: Ideograph strips of dried meat, jerky; stiff and straight CJK
+8122: Ideograph flesh CJK
+8123: Ideograph lips CJK
+8124: Ideograph raw meat for sacrifice CJK
+8125:
+8126: Ideograph used in 'lede', slovenly CJK
+8127: Ideograph reduce, contract; exploit; reproductive organ of infant CJK
+8128:
+8129: Ideograph dried meat (used as teachers payment in ancient times) CJK
+812A: Ideograph erysipelas; sloughing of an ulcer CJK
+812B: Ideograph take off, peel off, strip CJK
+812C: Ideograph a bladder CJK
+812D:
+812E:
+812F: Ideograph dried meat; preserved fruits CJK
+8130: Ideograph the neck CJK
+8131: Ideograph take off CJK
+8132: Ideograph urea CJK
+8133: Ideograph brain CJK
+8134:
+8135: Ideograph thighs, haunches, rump; share CJK
+8136: Ideograph lines CJK
+8137: Ideograph (Cant.) tongue CJK
+8138: Ideograph face; cheek; reputation CJK
+8139: Ideograph swell, inflate, expand CJK
+813A:
+813B:
+813C:
+813D: Ideograph (Cant.) a child's penis CJK
+813E: Ideograph spleen, pancreas; disposition CJK
+813F:
+8140:
+8141: Ideograph callus CJK
+8142:
+8143:
+8144:
+8145:
+8146: Ideograph prosperous; good; protruding CJK
+8147:
+8148: Ideograph an organic compound CJK
+8149: Ideograph nipple, pap CJK
+814A: Ideograph year end sacrifice; dried meat CJK
+814B: Ideograph armpit CJK
+814C: Ideograph salt, pickle; be dirty CJK
+814D: Ideograph soft CJK
+814E: Ideograph kidneys; testes, gizzard CJK
+814F:
+8150: Ideograph rot, decay, spoil; rotten CJK
+8151: Ideograph bowels, entrails, internal organs CJK
+8152: Ideograph game CJK
+8153: Ideograph calf; avoid; be ill; wither CJK
+8154: Ideograph chest cavity; hollow in body CJK
+8155: Ideograph wrist CJK
+8156: Ideograph peptone CJK
+8157:
+8158:
+8159: Ideograph an organic compound CJK
+815A: Ideograph buttock CJK
+815B:
+815C: Ideograph quickening of the foetus CJK
+815D:
+815E:
+815F: Ideograph vagina CJK
+8160: Ideograph between the skin and the flesh CJK
+8161: Ideograph lines CJK
+8162: Ideograph the collar-bone CJK
+8163:
+8164:
+8165: Ideograph raw meat; rank, strong-smelling CJK
+8166: Ideograph brain CJK
+8167: Ideograph insertion point in acupuncture; acupoint CJK
+8168:
+8169: Ideograph (Cant.) fatty meat on a cow's belly; abdomen; to boil meat CJK
+816A:
+816B: Ideograph swell; swollen; swelling CJK
+816C: Ideograph (Cant.) greasy, oily CJK
+816D: Ideograph palate, roof of mouth CJK
+816E: Ideograph lower part of face; jaw; gills of a fish CJK
+816F: Ideograph strong CJK
+8170: Ideograph waist; kidney CJK
+8171: Ideograph tendons CJK
+8172:
+8173: Ideograph foot; base, leg, foundation CJK
+8174: Ideograph fat; fertile, rich; plump, soft CJK
+8175:
+8176: Ideograph meat CJK
+8177:
+8178: Ideograph intestines; emotions; sausage CJK
+8179: Ideograph stomach, belly, abdomen; inside CJK
+817A: Ideograph gland CJK
+817B: Ideograph greasy, oily, dirty; smooth CJK
+817C: Ideograph modest CJK
+817D: Ideograph fat CJK
+817E: Ideograph fly; gallop; run; prance; rise CJK
+817F: Ideograph legs, thighs CJK
+8180: Ideograph upper arm; shoulder; wing CJK
+8181: Ideograph (Cant.) 小膁, loins, side of body CJK
+8182: Ideograph backbone, spinal column CJK
+8183: Ideograph fat CJK
+8184: Ideograph to become emaciated CJK
+8185:
+8186: Ideograph the corp of a bird or fowl; fat CJK
+8187: Ideograph swell CJK
+8188: Ideograph diaphragm CJK
+8189: Ideograph (Cant.) the smell of oily food that's gone bad CJK
+818A: Ideograph shoulders, upper arms CJK
+818B: Ideograph fat CJK
+818C: Ideograph to become emaciated CJK
+818D: Ideograph (Cant.) 膍胵, gizzard and liver of domestic animals CJK
+818E:
+818F: Ideograph grease, fat; paste, ointment CJK
+8190:
+8191: Ideograph the kneecap CJK
+8192:
+8193: Ideograph intestines; emotions; sausage CJK
+8194:
+8195: Ideograph hollow CJK
+8196:
+8197: Ideograph ugly and fat; too fat to move CJK
+8198: Ideograph fat; rump CJK
+8199: Ideograph callous skin on the feet CJK
+819A: Ideograph skin; superficial, shallow CJK
+819B: Ideograph chest; hollow space, cavity CJK
+819C: Ideograph membrane; to kneel and worship CJK
+819D: Ideograph knee CJK
+819E:
+819F: Ideograph fat CJK
+81A0: Ideograph glue, gum, resin, rubber CJK
+81A1:
+81A2:
+81A3: Ideograph vagina CJK
+81A4:
+81A5: Ideograph (Cant.) eggs of birds or reptiles; testicles CJK
+81A6:
+81A7:
+81A8: Ideograph to swell; swollen, bloated, inflated CJK
+81A9: Ideograph greasy, oily, dirty; smooth CJK
+81AA: Ideograph pork CJK
+81AB: Ideograph the fat covering the intestines; the omentum CJK
+81AC:
+81AD:
+81AE:
+81AF:
+81B0: Ideograph to cook meat for a sacrifice or offering CJK
+81B1: Ideograph (Cant.) the smell of oily food that's gone bad CJK
+81B2: Ideograph (medicine) the three divisions of the viscera CJK
+81B3: Ideograph meals, provisions, board CJK
+81B4: Ideograph fine CJK
+81B5: Ideograph pancreas CJK
+81B6: Ideograph (Cant.) liver CJK
+81B7: Ideograph soup CJK
+81B8:
+81B9:
+81BA: Ideograph breast, chest; undertake, bear CJK
+81BB: Ideograph a rank odor; a technical term from Chinese medicine for the center of the chest CJK
+81BC:
+81BD: Ideograph gall bladder; bravery, courage CJK
+81BE: Ideograph minced meat or fish CJK
+81BF: Ideograph pus CJK
+81C0: Ideograph buttocks CJK
+81C1: Ideograph calf of the leg CJK
+81C2: Ideograph arm CJK
+81C3: Ideograph swell up; swelling; fat CJK
+81C4: Ideograph palate CJK
+81C5:
+81C6: Ideograph chest, breast, bosom; thought CJK
+81C7: Ideograph fat, rich; a stew of fish CJK
+81C8: Ideograph year end sacrifice; dried meat CJK
+81C9: Ideograph face; cheek; reputation CJK
+81CA: Ideograph rank; rancid; frowzy, fetid; bashful CJK
+81CB:
+81CC: Ideograph dropsical swelling; puffy bloated CJK
+81CD: Ideograph abdominal area of crab; navel CJK
+81CE:
+81CF: Ideograph the kneecap CJK
+81D0: Ideograph broth CJK
+81D1: Ideograph soft CJK
+81D2:
+81D3: Ideograph internal organs, viscera CJK
+81D4:
+81D5: Ideograph fat; gross, sleek CJK
+81D6:
+81D7:
+81D8: Ideograph year end sacrifice; dried meat CJK
+81D9: Ideograph rouge, cosmetics CJK
+81DA: Ideograph arrange in order; display CJK
+81DB: Ideograph broth CJK
+81DC: Ideograph dirty; filthy CJK
+81DD: Ideograph be bare; nude CJK
+81DE:
+81DF: Ideograph internal organs, viscera CJK
+81E0: Ideograph small lump of meat; sliced meat CJK
+81E1:
+81E2: Ideograph dirty; filthy CJK
+81E3: Ideograph minister, statesman, official CJK
+81E4: Ideograph hard; wise CJK
+81E5: Ideograph lie down; crouch CJK
+81E6:
+81E7: Ideograph good, right, generous; command CJK
+81E8: Ideograph draw near, approach; descend CJK
+81E9:
+81EA: Ideograph self, private, personal; from CJK
+81EB:
+81EC: Ideograph law, rule; door post CJK
+81ED: Ideograph smell, stink, emit foul odor CJK
+81EE:
+81EF: Ideograph to praise; to bless high; eminent; (Cant.) a marsh, pool CJK
+81F0:
+81F1:
+81F2: Ideograph jumpy; jittery; worried; to grasp CJK
+81F3: Ideograph reach, arrive; extremely, very CJK
+81F4: Ideograph send, deliver, present; cause CJK
+81F5:
+81F6:
+81F7:
+81F8:
+81F9:
+81FA: Ideograph tower, lookout; stage, platform CJK
+81FB: Ideograph reach, arrive; utmost, superior CJK
+81FC: Ideograph mortar; bone joint socket CJK
+81FD: Ideograph a pit, a hole CJK
+81FE: Ideograph moment, instant, short while CJK
+81FF: Ideograph to separate the grain from the husk CJK

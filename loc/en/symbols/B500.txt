@@ -1,256 +1,256 @@
-B500 : Hangul syllable dyil
-B501 : Hangul syllable dyilg
-B502 : Hangul syllable dyilm
-B503 : Hangul syllable dyilb
-B504 : Hangul syllable dyils
-B505 : Hangul syllable dyilt
-B506 : Hangul syllable dyilp
-B507 : Hangul syllable dyilh
-B508 : Hangul syllable dyim
-B509 : Hangul syllable dyib
-B50A : Hangul syllable dyibs
-B50B : Hangul syllable dyis
-B50C : Hangul syllable dyiss
-B50D : Hangul syllable dying
-B50E : Hangul syllable dyij
-B50F : Hangul syllable dyic
-B510 : Hangul syllable dyik
-B511 : Hangul syllable dyit
-B512 : Hangul syllable dyip
-B513 : Hangul syllable dyih
-B514 : Hangul syllable di
-B515 : Hangul syllable dig
-B516 : Hangul syllable digg
-B517 : Hangul syllable digs
-B518 : Hangul syllable din
-B519 : Hangul syllable dinj
-B51A : Hangul syllable dinh
-B51B : Hangul syllable did
-B51C : Hangul syllable dil
-B51D : Hangul syllable dilg
-B51E : Hangul syllable dilm
-B51F : Hangul syllable dilb
-B520 : Hangul syllable dils
-B521 : Hangul syllable dilt
-B522 : Hangul syllable dilp
-B523 : Hangul syllable dilh
-B524 : Hangul syllable dim
-B525 : Hangul syllable dib
-B526 : Hangul syllable dibs
-B527 : Hangul syllable dis
-B528 : Hangul syllable diss
-B529 : Hangul syllable ding
-B52A : Hangul syllable dij
-B52B : Hangul syllable dic
-B52C : Hangul syllable dik
-B52D : Hangul syllable dit
-B52E : Hangul syllable dip
-B52F : Hangul syllable dih
-B530 : Hangul syllable dda
-B531 : Hangul syllable ddag
-B532 : Hangul syllable ddagg
-B533 : Hangul syllable ddags
-B534 : Hangul syllable ddan
-B535 : Hangul syllable ddanj
-B536 : Hangul syllable ddanh
-B537 : Hangul syllable ddad
-B538 : Hangul syllable ddal
-B539 : Hangul syllable ddalg
-B53A : Hangul syllable ddalm
-B53B : Hangul syllable ddalb
-B53C : Hangul syllable ddals
-B53D : Hangul syllable ddalt
-B53E : Hangul syllable ddalp
-B53F : Hangul syllable ddalh
-B540 : Hangul syllable ddam
-B541 : Hangul syllable ddab
-B542 : Hangul syllable ddabs
-B543 : Hangul syllable ddas
-B544 : Hangul syllable ddass
-B545 : Hangul syllable ddang
-B546 : Hangul syllable ddaj
-B547 : Hangul syllable ddac
-B548 : Hangul syllable ddak
-B549 : Hangul syllable ddat
-B54A : Hangul syllable ddap
-B54B : Hangul syllable ddah
-B54C : Hangul syllable ddae
-B54D : Hangul syllable ddaeg
-B54E : Hangul syllable ddaegg
-B54F : Hangul syllable ddaegs
-B550 : Hangul syllable ddaen
-B551 : Hangul syllable ddaenj
-B552 : Hangul syllable ddaenh
-B553 : Hangul syllable ddaed
-B554 : Hangul syllable ddael
-B555 : Hangul syllable ddaelg
-B556 : Hangul syllable ddaelm
-B557 : Hangul syllable ddaelb
-B558 : Hangul syllable ddaels
-B559 : Hangul syllable ddaelt
-B55A : Hangul syllable ddaelp
-B55B : Hangul syllable ddaelh
-B55C : Hangul syllable ddaem
-B55D : Hangul syllable ddaeb
-B55E : Hangul syllable ddaebs
-B55F : Hangul syllable ddaes
-B560 : Hangul syllable ddaess
-B561 : Hangul syllable ddaeng
-B562 : Hangul syllable ddaej
-B563 : Hangul syllable ddaec
-B564 : Hangul syllable ddaek
-B565 : Hangul syllable ddaet
-B566 : Hangul syllable ddaep
-B567 : Hangul syllable ddaeh
-B568 : Hangul syllable ddya
-B569 : Hangul syllable ddyag
-B56A : Hangul syllable ddyagg
-B56B : Hangul syllable ddyags
-B56C : Hangul syllable ddyan
-B56D : Hangul syllable ddyanj
-B56E : Hangul syllable ddyanh
-B56F : Hangul syllable ddyad
-B570 : Hangul syllable ddyal
-B571 : Hangul syllable ddyalg
-B572 : Hangul syllable ddyalm
-B573 : Hangul syllable ddyalb
-B574 : Hangul syllable ddyals
-B575 : Hangul syllable ddyalt
-B576 : Hangul syllable ddyalp
-B577 : Hangul syllable ddyalh
-B578 : Hangul syllable ddyam
-B579 : Hangul syllable ddyab
-B57A : Hangul syllable ddyabs
-B57B : Hangul syllable ddyas
-B57C : Hangul syllable ddyass
-B57D : Hangul syllable ddyang
-B57E : Hangul syllable ddyaj
-B57F : Hangul syllable ddyac
-B580 : Hangul syllable ddyak
-B581 : Hangul syllable ddyat
-B582 : Hangul syllable ddyap
-B583 : Hangul syllable ddyah
-B584 : Hangul syllable ddyae
-B585 : Hangul syllable ddyaeg
-B586 : Hangul syllable ddyaegg
-B587 : Hangul syllable ddyaegs
-B588 : Hangul syllable ddyaen
-B589 : Hangul syllable ddyaenj
-B58A : Hangul syllable ddyaenh
-B58B : Hangul syllable ddyaed
-B58C : Hangul syllable ddyael
-B58D : Hangul syllable ddyaelg
-B58E : Hangul syllable ddyaelm
-B58F : Hangul syllable ddyaelb
-B590 : Hangul syllable ddyaels
-B591 : Hangul syllable ddyaelt
-B592 : Hangul syllable ddyaelp
-B593 : Hangul syllable ddyaelh
-B594 : Hangul syllable ddyaem
-B595 : Hangul syllable ddyaeb
-B596 : Hangul syllable ddyaebs
-B597 : Hangul syllable ddyaes
-B598 : Hangul syllable ddyaess
-B599 : Hangul syllable ddyaeng
-B59A : Hangul syllable ddyaej
-B59B : Hangul syllable ddyaec
-B59C : Hangul syllable ddyaek
-B59D : Hangul syllable ddyaet
-B59E : Hangul syllable ddyaep
-B59F : Hangul syllable ddyaeh
-B5A0 : Hangul syllable ddeo
-B5A1 : Hangul syllable ddeog
-B5A2 : Hangul syllable ddeogg
-B5A3 : Hangul syllable ddeogs
-B5A4 : Hangul syllable ddeon
-B5A5 : Hangul syllable ddeonj
-B5A6 : Hangul syllable ddeonh
-B5A7 : Hangul syllable ddeod
-B5A8 : Hangul syllable ddeol
-B5A9 : Hangul syllable ddeolg
-B5AA : Hangul syllable ddeolm
-B5AB : Hangul syllable ddeolb
-B5AC : Hangul syllable ddeols
-B5AD : Hangul syllable ddeolt
-B5AE : Hangul syllable ddeolp
-B5AF : Hangul syllable ddeolh
-B5B0 : Hangul syllable ddeom
-B5B1 : Hangul syllable ddeob
-B5B2 : Hangul syllable ddeobs
-B5B3 : Hangul syllable ddeos
-B5B4 : Hangul syllable ddeoss
-B5B5 : Hangul syllable ddeong
-B5B6 : Hangul syllable ddeoj
-B5B7 : Hangul syllable ddeoc
-B5B8 : Hangul syllable ddeok
-B5B9 : Hangul syllable ddeot
-B5BA : Hangul syllable ddeop
-B5BB : Hangul syllable ddeoh
-B5BC : Hangul syllable dde
-B5BD : Hangul syllable ddeg
-B5BE : Hangul syllable ddegg
-B5BF : Hangul syllable ddegs
-B5C0 : Hangul syllable dden
-B5C1 : Hangul syllable ddenj
-B5C2 : Hangul syllable ddenh
-B5C3 : Hangul syllable dded
-B5C4 : Hangul syllable ddel
-B5C5 : Hangul syllable ddelg
-B5C6 : Hangul syllable ddelm
-B5C7 : Hangul syllable ddelb
-B5C8 : Hangul syllable ddels
-B5C9 : Hangul syllable ddelt
-B5CA : Hangul syllable ddelp
-B5CB : Hangul syllable ddelh
-B5CC : Hangul syllable ddem
-B5CD : Hangul syllable ddeb
-B5CE : Hangul syllable ddebs
-B5CF : Hangul syllable ddes
-B5D0 : Hangul syllable ddess
-B5D1 : Hangul syllable ddeng
-B5D2 : Hangul syllable ddej
-B5D3 : Hangul syllable ddec
-B5D4 : Hangul syllable ddek
-B5D5 : Hangul syllable ddet
-B5D6 : Hangul syllable ddep
-B5D7 : Hangul syllable ddeh
-B5D8 : Hangul syllable ddyeo
-B5D9 : Hangul syllable ddyeog
-B5DA : Hangul syllable ddyeogg
-B5DB : Hangul syllable ddyeogs
-B5DC : Hangul syllable ddyeon
-B5DD : Hangul syllable ddyeonj
-B5DE : Hangul syllable ddyeonh
-B5DF : Hangul syllable ddyeod
-B5E0 : Hangul syllable ddyeol
-B5E1 : Hangul syllable ddyeolg
-B5E2 : Hangul syllable ddyeolm
-B5E3 : Hangul syllable ddyeolb
-B5E4 : Hangul syllable ddyeols
-B5E5 : Hangul syllable ddyeolt
-B5E6 : Hangul syllable ddyeolp
-B5E7 : Hangul syllable ddyeolh
-B5E8 : Hangul syllable ddyeom
-B5E9 : Hangul syllable ddyeob
-B5EA : Hangul syllable ddyeobs
-B5EB : Hangul syllable ddyeos
-B5EC : Hangul syllable ddyeoss
-B5ED : Hangul syllable ddyeong
-B5EE : Hangul syllable ddyeoj
-B5EF : Hangul syllable ddyeoc
-B5F0 : Hangul syllable ddyeok
-B5F1 : Hangul syllable ddyeot
-B5F2 : Hangul syllable ddyeop
-B5F3 : Hangul syllable ddyeoh
-B5F4 : Hangul syllable ddye
-B5F5 : Hangul syllable ddyeg
-B5F6 : Hangul syllable ddyegg
-B5F7 : Hangul syllable ddyegs
-B5F8 : Hangul syllable ddyen
-B5F9 : Hangul syllable ddyenj
-B5FA : Hangul syllable ddyenh
-B5FB : Hangul syllable ddyed
-B5FC : Hangul syllable ddyel
-B5FD : Hangul syllable ddyelg
-B5FE : Hangul syllable ddyelm
-B5FF : Hangul syllable ddyelb
+B500: Hangul Syllable Dyil
+B501: Hangul Syllable Dyilg
+B502: Hangul Syllable Dyilm
+B503: Hangul Syllable Dyilb
+B504: Hangul Syllable Dyils
+B505: Hangul Syllable Dyilt
+B506: Hangul Syllable Dyilp
+B507: Hangul Syllable Dyilh
+B508: Hangul Syllable Dyim
+B509: Hangul Syllable Dyib
+B50A: Hangul Syllable Dyibs
+B50B: Hangul Syllable Dyis
+B50C: Hangul Syllable Dyiss
+B50D: Hangul Syllable Dying
+B50E: Hangul Syllable Dyij
+B50F: Hangul Syllable Dyic
+B510: Hangul Syllable Dyik
+B511: Hangul Syllable Dyit
+B512: Hangul Syllable Dyip
+B513: Hangul Syllable Dyih
+B514: Hangul Syllable Di
+B515: Hangul Syllable Dig
+B516: Hangul Syllable Digg
+B517: Hangul Syllable Digs
+B518: Hangul Syllable Din
+B519: Hangul Syllable Dinj
+B51A: Hangul Syllable Dinh
+B51B: Hangul Syllable Did
+B51C: Hangul Syllable Dil
+B51D: Hangul Syllable Dilg
+B51E: Hangul Syllable Dilm
+B51F: Hangul Syllable Dilb
+B520: Hangul Syllable Dils
+B521: Hangul Syllable Dilt
+B522: Hangul Syllable Dilp
+B523: Hangul Syllable Dilh
+B524: Hangul Syllable Dim
+B525: Hangul Syllable Dib
+B526: Hangul Syllable Dibs
+B527: Hangul Syllable Dis
+B528: Hangul Syllable Diss
+B529: Hangul Syllable Ding
+B52A: Hangul Syllable Dij
+B52B: Hangul Syllable Dic
+B52C: Hangul Syllable Dik
+B52D: Hangul Syllable Dit
+B52E: Hangul Syllable Dip
+B52F: Hangul Syllable Dih
+B530: Hangul Syllable Dda
+B531: Hangul Syllable Ddag
+B532: Hangul Syllable Ddagg
+B533: Hangul Syllable Ddags
+B534: Hangul Syllable Ddan
+B535: Hangul Syllable Ddanj
+B536: Hangul Syllable Ddanh
+B537: Hangul Syllable Ddad
+B538: Hangul Syllable Ddal
+B539: Hangul Syllable Ddalg
+B53A: Hangul Syllable Ddalm
+B53B: Hangul Syllable Ddalb
+B53C: Hangul Syllable Ddals
+B53D: Hangul Syllable Ddalt
+B53E: Hangul Syllable Ddalp
+B53F: Hangul Syllable Ddalh
+B540: Hangul Syllable Ddam
+B541: Hangul Syllable Ddab
+B542: Hangul Syllable Ddabs
+B543: Hangul Syllable Ddas
+B544: Hangul Syllable Ddass
+B545: Hangul Syllable Ddang
+B546: Hangul Syllable Ddaj
+B547: Hangul Syllable Ddac
+B548: Hangul Syllable Ddak
+B549: Hangul Syllable Ddat
+B54A: Hangul Syllable Ddap
+B54B: Hangul Syllable Ddah
+B54C: Hangul Syllable Ddae
+B54D: Hangul Syllable Ddaeg
+B54E: Hangul Syllable Ddaegg
+B54F: Hangul Syllable Ddaegs
+B550: Hangul Syllable Ddaen
+B551: Hangul Syllable Ddaenj
+B552: Hangul Syllable Ddaenh
+B553: Hangul Syllable Ddaed
+B554: Hangul Syllable Ddael
+B555: Hangul Syllable Ddaelg
+B556: Hangul Syllable Ddaelm
+B557: Hangul Syllable Ddaelb
+B558: Hangul Syllable Ddaels
+B559: Hangul Syllable Ddaelt
+B55A: Hangul Syllable Ddaelp
+B55B: Hangul Syllable Ddaelh
+B55C: Hangul Syllable Ddaem
+B55D: Hangul Syllable Ddaeb
+B55E: Hangul Syllable Ddaebs
+B55F: Hangul Syllable Ddaes
+B560: Hangul Syllable Ddaess
+B561: Hangul Syllable Ddaeng
+B562: Hangul Syllable Ddaej
+B563: Hangul Syllable Ddaec
+B564: Hangul Syllable Ddaek
+B565: Hangul Syllable Ddaet
+B566: Hangul Syllable Ddaep
+B567: Hangul Syllable Ddaeh
+B568: Hangul Syllable Ddya
+B569: Hangul Syllable Ddyag
+B56A: Hangul Syllable Ddyagg
+B56B: Hangul Syllable Ddyags
+B56C: Hangul Syllable Ddyan
+B56D: Hangul Syllable Ddyanj
+B56E: Hangul Syllable Ddyanh
+B56F: Hangul Syllable Ddyad
+B570: Hangul Syllable Ddyal
+B571: Hangul Syllable Ddyalg
+B572: Hangul Syllable Ddyalm
+B573: Hangul Syllable Ddyalb
+B574: Hangul Syllable Ddyals
+B575: Hangul Syllable Ddyalt
+B576: Hangul Syllable Ddyalp
+B577: Hangul Syllable Ddyalh
+B578: Hangul Syllable Ddyam
+B579: Hangul Syllable Ddyab
+B57A: Hangul Syllable Ddyabs
+B57B: Hangul Syllable Ddyas
+B57C: Hangul Syllable Ddyass
+B57D: Hangul Syllable Ddyang
+B57E: Hangul Syllable Ddyaj
+B57F: Hangul Syllable Ddyac
+B580: Hangul Syllable Ddyak
+B581: Hangul Syllable Ddyat
+B582: Hangul Syllable Ddyap
+B583: Hangul Syllable Ddyah
+B584: Hangul Syllable Ddyae
+B585: Hangul Syllable Ddyaeg
+B586: Hangul Syllable Ddyaegg
+B587: Hangul Syllable Ddyaegs
+B588: Hangul Syllable Ddyaen
+B589: Hangul Syllable Ddyaenj
+B58A: Hangul Syllable Ddyaenh
+B58B: Hangul Syllable Ddyaed
+B58C: Hangul Syllable Ddyael
+B58D: Hangul Syllable Ddyaelg
+B58E: Hangul Syllable Ddyaelm
+B58F: Hangul Syllable Ddyaelb
+B590: Hangul Syllable Ddyaels
+B591: Hangul Syllable Ddyaelt
+B592: Hangul Syllable Ddyaelp
+B593: Hangul Syllable Ddyaelh
+B594: Hangul Syllable Ddyaem
+B595: Hangul Syllable Ddyaeb
+B596: Hangul Syllable Ddyaebs
+B597: Hangul Syllable Ddyaes
+B598: Hangul Syllable Ddyaess
+B599: Hangul Syllable Ddyaeng
+B59A: Hangul Syllable Ddyaej
+B59B: Hangul Syllable Ddyaec
+B59C: Hangul Syllable Ddyaek
+B59D: Hangul Syllable Ddyaet
+B59E: Hangul Syllable Ddyaep
+B59F: Hangul Syllable Ddyaeh
+B5A0: Hangul Syllable Ddeo
+B5A1: Hangul Syllable Ddeog
+B5A2: Hangul Syllable Ddeogg
+B5A3: Hangul Syllable Ddeogs
+B5A4: Hangul Syllable Ddeon
+B5A5: Hangul Syllable Ddeonj
+B5A6: Hangul Syllable Ddeonh
+B5A7: Hangul Syllable Ddeod
+B5A8: Hangul Syllable Ddeol
+B5A9: Hangul Syllable Ddeolg
+B5AA: Hangul Syllable Ddeolm
+B5AB: Hangul Syllable Ddeolb
+B5AC: Hangul Syllable Ddeols
+B5AD: Hangul Syllable Ddeolt
+B5AE: Hangul Syllable Ddeolp
+B5AF: Hangul Syllable Ddeolh
+B5B0: Hangul Syllable Ddeom
+B5B1: Hangul Syllable Ddeob
+B5B2: Hangul Syllable Ddeobs
+B5B3: Hangul Syllable Ddeos
+B5B4: Hangul Syllable Ddeoss
+B5B5: Hangul Syllable Ddeong
+B5B6: Hangul Syllable Ddeoj
+B5B7: Hangul Syllable Ddeoc
+B5B8: Hangul Syllable Ddeok
+B5B9: Hangul Syllable Ddeot
+B5BA: Hangul Syllable Ddeop
+B5BB: Hangul Syllable Ddeoh
+B5BC: Hangul Syllable Dde
+B5BD: Hangul Syllable Ddeg
+B5BE: Hangul Syllable Ddegg
+B5BF: Hangul Syllable Ddegs
+B5C0: Hangul Syllable Dden
+B5C1: Hangul Syllable Ddenj
+B5C2: Hangul Syllable Ddenh
+B5C3: Hangul Syllable Dded
+B5C4: Hangul Syllable Ddel
+B5C5: Hangul Syllable Ddelg
+B5C6: Hangul Syllable Ddelm
+B5C7: Hangul Syllable Ddelb
+B5C8: Hangul Syllable Ddels
+B5C9: Hangul Syllable Ddelt
+B5CA: Hangul Syllable Ddelp
+B5CB: Hangul Syllable Ddelh
+B5CC: Hangul Syllable Ddem
+B5CD: Hangul Syllable Ddeb
+B5CE: Hangul Syllable Ddebs
+B5CF: Hangul Syllable Ddes
+B5D0: Hangul Syllable Ddess
+B5D1: Hangul Syllable Ddeng
+B5D2: Hangul Syllable Ddej
+B5D3: Hangul Syllable Ddec
+B5D4: Hangul Syllable Ddek
+B5D5: Hangul Syllable Ddet
+B5D6: Hangul Syllable Ddep
+B5D7: Hangul Syllable Ddeh
+B5D8: Hangul Syllable Ddyeo
+B5D9: Hangul Syllable Ddyeog
+B5DA: Hangul Syllable Ddyeogg
+B5DB: Hangul Syllable Ddyeogs
+B5DC: Hangul Syllable Ddyeon
+B5DD: Hangul Syllable Ddyeonj
+B5DE: Hangul Syllable Ddyeonh
+B5DF: Hangul Syllable Ddyeod
+B5E0: Hangul Syllable Ddyeol
+B5E1: Hangul Syllable Ddyeolg
+B5E2: Hangul Syllable Ddyeolm
+B5E3: Hangul Syllable Ddyeolb
+B5E4: Hangul Syllable Ddyeols
+B5E5: Hangul Syllable Ddyeolt
+B5E6: Hangul Syllable Ddyeolp
+B5E7: Hangul Syllable Ddyeolh
+B5E8: Hangul Syllable Ddyeom
+B5E9: Hangul Syllable Ddyeob
+B5EA: Hangul Syllable Ddyeobs
+B5EB: Hangul Syllable Ddyeos
+B5EC: Hangul Syllable Ddyeoss
+B5ED: Hangul Syllable Ddyeong
+B5EE: Hangul Syllable Ddyeoj
+B5EF: Hangul Syllable Ddyeoc
+B5F0: Hangul Syllable Ddyeok
+B5F1: Hangul Syllable Ddyeot
+B5F2: Hangul Syllable Ddyeop
+B5F3: Hangul Syllable Ddyeoh
+B5F4: Hangul Syllable Ddye
+B5F5: Hangul Syllable Ddyeg
+B5F6: Hangul Syllable Ddyegg
+B5F7: Hangul Syllable Ddyegs
+B5F8: Hangul Syllable Ddyen
+B5F9: Hangul Syllable Ddyenj
+B5FA: Hangul Syllable Ddyenh
+B5FB: Hangul Syllable Ddyed
+B5FC: Hangul Syllable Ddyel
+B5FD: Hangul Syllable Ddyelg
+B5FE: Hangul Syllable Ddyelm
+B5FF: Hangul Syllable Ddyelb

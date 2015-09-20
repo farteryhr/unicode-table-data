@@ -1,256 +1,256 @@
-5200 : Cjk unified ideograph
-5201 : Cjk unified ideograph
-5202 : Cjk unified ideograph
-5203 : Cjk unified ideograph
-5204 : Cjk unified ideograph
-5205 : Cjk unified ideograph
-5206 : Cjk unified ideograph
-5207 : Cjk unified ideograph
-5208 : Cjk unified ideograph
-5209 : Cjk unified ideograph
-520A : Cjk unified ideograph
-520B : Cjk unified ideograph
-520C : Cjk unified ideograph
-520D : Cjk unified ideograph
-520E : Cjk unified ideograph
-520F : Cjk unified ideograph
-5210 : Cjk unified ideograph
-5211 : Cjk unified ideograph
-5212 : Cjk unified ideograph
-5213 : Cjk unified ideograph
-5214 : Cjk unified ideograph
-5215 : Cjk unified ideograph
-5216 : Cjk unified ideograph
-5217 : Cjk unified ideograph
-5218 : Cjk unified ideograph
-5219 : Cjk unified ideograph
-521A : Cjk unified ideograph
-521B : Cjk unified ideograph
-521C : Cjk unified ideograph
-521D : Cjk unified ideograph
-521E : Cjk unified ideograph
-521F : Cjk unified ideograph
-5220 : Cjk unified ideograph
-5221 : Cjk unified ideograph
-5222 : Cjk unified ideograph
-5223 : Cjk unified ideograph
-5224 : Cjk unified ideograph
-5225 : Cjk unified ideograph
-5226 : Cjk unified ideograph
-5227 : Cjk unified ideograph
-5228 : Cjk unified ideograph
-5229 : Cjk unified ideograph
-522A : Cjk unified ideograph
-522B : Cjk unified ideograph
-522C : Cjk unified ideograph
-522D : Cjk unified ideograph
-522E : Cjk unified ideograph
-522F : Cjk unified ideograph
-5230 : Cjk unified ideograph
-5231 : Cjk unified ideograph
-5232 : Cjk unified ideograph
-5233 : Cjk unified ideograph
-5234 : Cjk unified ideograph
-5235 : Cjk unified ideograph
-5236 : Cjk unified ideograph
-5237 : Cjk unified ideograph
-5238 : Cjk unified ideograph
-5239 : Cjk unified ideograph
-523A : Cjk unified ideograph
-523B : Cjk unified ideograph
-523C : Cjk unified ideograph
-523D : Cjk unified ideograph
-523E : Cjk unified ideograph
-523F : Cjk unified ideograph
-5240 : Cjk unified ideograph
-5241 : Cjk unified ideograph
-5242 : Cjk unified ideograph
-5243 : Cjk unified ideograph
-5244 : Cjk unified ideograph
-5245 : Cjk unified ideograph
-5246 : Cjk unified ideograph
-5247 : Cjk unified ideograph
-5248 : Cjk unified ideograph
-5249 : Cjk unified ideograph
-524A : Cjk unified ideograph
-524B : Cjk unified ideograph
-524C : Cjk unified ideograph
-524D : Cjk unified ideograph
-524E : Cjk unified ideograph
-524F : Cjk unified ideograph
-5250 : Cjk unified ideograph
-5251 : Cjk unified ideograph
-5252 : Cjk unified ideograph
-5253 : Cjk unified ideograph
-5254 : Cjk unified ideograph
-5255 : Cjk unified ideograph
-5256 : Cjk unified ideograph
-5257 : Cjk unified ideograph
-5258 : Cjk unified ideograph
-5259 : Cjk unified ideograph
-525A : Cjk unified ideograph
-525B : Cjk unified ideograph
-525C : Cjk unified ideograph
-525D : Cjk unified ideograph
-525E : Cjk unified ideograph
-525F : Cjk unified ideograph
-5260 : Cjk unified ideograph
-5261 : Cjk unified ideograph
-5262 : Cjk unified ideograph
-5263 : Cjk unified ideograph
-5264 : Cjk unified ideograph
-5265 : Cjk unified ideograph
-5266 : Cjk unified ideograph
-5267 : Cjk unified ideograph
-5268 : Cjk unified ideograph
-5269 : Cjk unified ideograph
-526A : Cjk unified ideograph
-526B : Cjk unified ideograph
-526C : Cjk unified ideograph
-526D : Cjk unified ideograph
-526E : Cjk unified ideograph
-526F : Cjk unified ideograph
-5270 : Cjk unified ideograph
-5271 : Cjk unified ideograph
-5272 : Cjk unified ideograph
-5273 : Cjk unified ideograph
-5274 : Cjk unified ideograph
-5275 : Cjk unified ideograph
-5276 : Cjk unified ideograph
-5277 : Cjk unified ideograph
-5278 : Cjk unified ideograph
-5279 : Cjk unified ideograph
-527A : Cjk unified ideograph
-527B : Cjk unified ideograph
-527C : Cjk unified ideograph
-527D : Cjk unified ideograph
-527E : Cjk unified ideograph
-527F : Cjk unified ideograph
-5280 : Cjk unified ideograph
-5281 : Cjk unified ideograph
-5282 : Cjk unified ideograph
-5283 : Cjk unified ideograph
-5284 : Cjk unified ideograph
-5285 : Cjk unified ideograph
-5286 : Cjk unified ideograph
-5287 : Cjk unified ideograph
-5288 : Cjk unified ideograph
-5289 : Cjk unified ideograph
-528A : Cjk unified ideograph
-528B : Cjk unified ideograph
-528C : Cjk unified ideograph
-528D : Cjk unified ideograph
-528E : Cjk unified ideograph
-528F : Cjk unified ideograph
-5290 : Cjk unified ideograph
-5291 : Cjk unified ideograph
-5292 : Cjk unified ideograph
-5293 : Cjk unified ideograph
-5294 : Cjk unified ideograph
-5295 : Cjk unified ideograph
-5296 : Cjk unified ideograph
-5297 : Cjk unified ideograph
-5298 : Cjk unified ideograph
-5299 : Cjk unified ideograph
-529A : Cjk unified ideograph
-529B : Cjk unified ideograph
-529C : Cjk unified ideograph
-529D : Cjk unified ideograph
-529E : Cjk unified ideograph
-529F : Cjk unified ideograph
-52A0 : Cjk unified ideograph
-52A1 : Cjk unified ideograph
-52A2 : Cjk unified ideograph
-52A3 : Cjk unified ideograph
-52A4 : Cjk unified ideograph
-52A5 : Cjk unified ideograph
-52A6 : Cjk unified ideograph
-52A7 : Cjk unified ideograph
-52A8 : Cjk unified ideograph
-52A9 : Cjk unified ideograph
-52AA : Cjk unified ideograph
-52AB : Cjk unified ideograph
-52AC : Cjk unified ideograph
-52AD : Cjk unified ideograph
-52AE : Cjk unified ideograph
-52AF : Cjk unified ideograph
-52B0 : Cjk unified ideograph
-52B1 : Cjk unified ideograph
-52B2 : Cjk unified ideograph
-52B3 : Cjk unified ideograph
-52B4 : Cjk unified ideograph
-52B5 : Cjk unified ideograph
-52B6 : Cjk unified ideograph
-52B7 : Cjk unified ideograph
-52B8 : Cjk unified ideograph
-52B9 : Cjk unified ideograph
-52BA : Cjk unified ideograph
-52BB : Cjk unified ideograph
-52BC : Cjk unified ideograph
-52BD : Cjk unified ideograph
-52BE : Cjk unified ideograph
-52BF : Cjk unified ideograph
-52C0 : Cjk unified ideograph
-52C1 : Cjk unified ideograph
-52C2 : Cjk unified ideograph
-52C3 : Cjk unified ideograph
-52C4 : Cjk unified ideograph
-52C5 : Cjk unified ideograph
-52C6 : Cjk unified ideograph
-52C7 : Cjk unified ideograph
-52C8 : Cjk unified ideograph
-52C9 : Cjk unified ideograph
-52CA : Cjk unified ideograph
-52CB : Cjk unified ideograph
-52CC : Cjk unified ideograph
-52CD : Cjk unified ideograph
-52CE : Cjk unified ideograph
-52CF : Cjk unified ideograph
-52D0 : Cjk unified ideograph
-52D1 : Cjk unified ideograph
-52D2 : Cjk unified ideograph
-52D3 : Cjk unified ideograph
-52D4 : Cjk unified ideograph
-52D5 : Cjk unified ideograph
-52D6 : Cjk unified ideograph
-52D7 : Cjk unified ideograph
-52D8 : Cjk unified ideograph
-52D9 : Cjk unified ideograph
-52DA : Cjk unified ideograph
-52DB : Cjk unified ideograph
-52DC : Cjk unified ideograph
-52DD : Cjk unified ideograph
-52DE : Cjk unified ideograph
-52DF : Cjk unified ideograph
-52E0 : Cjk unified ideograph
-52E1 : Cjk unified ideograph
-52E2 : Cjk unified ideograph
-52E3 : Cjk unified ideograph
-52E4 : Cjk unified ideograph
-52E5 : Cjk unified ideograph
-52E6 : Cjk unified ideograph
-52E7 : Cjk unified ideograph
-52E8 : Cjk unified ideograph
-52E9 : Cjk unified ideograph
-52EA : Cjk unified ideograph
-52EB : Cjk unified ideograph
-52EC : Cjk unified ideograph
-52ED : Cjk unified ideograph
-52EE : Cjk unified ideograph
-52EF : Cjk unified ideograph
-52F0 : Cjk unified ideograph
-52F1 : Cjk unified ideograph
-52F2 : Cjk unified ideograph
-52F3 : Cjk unified ideograph
-52F4 : Cjk unified ideograph
-52F5 : Cjk unified ideograph
-52F6 : Cjk unified ideograph
-52F7 : Cjk unified ideograph
-52F8 : Cjk unified ideograph
-52F9 : Cjk unified ideograph
-52FA : Cjk unified ideograph
-52FB : Cjk unified ideograph
-52FC : Cjk unified ideograph
-52FD : Cjk unified ideograph
-52FE : Cjk unified ideograph
-52FF : Cjk unified ideograph
+5200: Ideograph knife; old coin; measure CJK
+5201: Ideograph tricky, sly, crafty, cunning CJK
+5202: Ideograph knife; radical number 18 CJK
+5203: Ideograph edged tool, cutlery, knife edge CJK
+5204: Ideograph edged tool, cutlery, knife edge CJK
+5205: Ideograph to create, to make to invent; to begin CJK
+5206: Ideograph divide; small unit of time etc. CJK
+5207: Ideograph cut, mince, slice, carve CJK
+5208: Ideograph cut off, reap, mow; sickle CJK
+5209:
+520A: Ideograph publication, periodical; publish CJK
+520B: Ideograph publication, periodical; publish CJK
+520C:
+520D: Ideograph mow, cut grass; hay, fodder CJK
+520E: Ideograph behead, cut throat CJK
+520F:
+5210:
+5211: Ideograph punishment, penalty; law CJK
+5212: Ideograph to row or paddle boat; to scratch CJK
+5213: Ideograph trim CJK
+5214: Ideograph scoop out; gouge CJK
+5215:
+5216: Ideograph cutting off feet as form of punishment CJK
+5217: Ideograph a line; to arrange in order, classify CJK
+5218: Ideograph surname; kill, destroy CJK
+5219: Ideograph rule, law, regulation; grades CJK
+521A: Ideograph hard, tough, rigid, strong CJK
+521B: Ideograph establish, create; knife cut CJK
+521C: Ideograph chop CJK
+521D: Ideograph beginning, initial, primary CJK
+521E:
+521F:
+5220: Ideograph to cut; delete CJK
+5221: Ideograph to scrape; to pare CJK
+5222:
+5223:
+5224: Ideograph judge; discriminate; conclude CJK
+5225: Ideograph separate, other; do not CJK
+5226: Ideograph take by force, coerce; disaster CJK
+5227: Ideograph disaster, misfortune; coerce CJK
+5228: Ideograph carpenter's plane; plane, level CJK
+5229: Ideograph gains, advantage, profit, merit CJK
+522A: Ideograph to cut; delete, erase; to geld CJK
+522B: Ideograph separate, other; do not CJK
+522C: Ideograph to level off; to trim; to pare down CJK
+522D: Ideograph cut throat CJK
+522E: Ideograph shave, pare off, scrape CJK
+522F:
+5230: Ideograph go to, arrive, been to CJK
+5231: Ideograph establish, create; knife cut CJK
+5232: Ideograph cut, slice off CJK
+5233: Ideograph cut out, dig, rip up, scoop out CJK
+5234: Ideograph chop by pounding, mince, hash CJK
+5235: Ideograph punishment by cutting off ears CJK
+5236: Ideograph system; establish; overpower CJK
+5237: Ideograph brush; clean with brush, scrub CJK
+5238: Ideograph certificate, ticket; title deeds CJK
+5239: Ideograph temple, shrine, monastary CJK
+523A: Ideograph stab; prick, irritate; prod CJK
+523B: Ideograph carve, engrave; quarter hour CJK
+523C: Ideograph to plunder; to rob openly CJK
+523D: Ideograph amputate, cut off CJK
+523E: Ideograph stab; prick, irritate; prod CJK
+523F: Ideograph to cut, injure, stab, stick on CJK
+5240: Ideograph sharpen; carefully, thorough CJK
+5241: Ideograph chop by pounding, mince, hash CJK
+5242: Ideograph medicinal preparation CJK
+5243: Ideograph shave CJK
+5244: Ideograph cut throat CJK
+5245:
+5246:
+5247: Ideograph rule, law, regulation; grades CJK
+5248:
+5249: Ideograph cut, file, trim; file CJK
+524A: Ideograph scrape off, pare, trim CJK
+524B: Ideograph subdue, overcome; cut down CJK
+524C: Ideograph slash, cut in two; contradict CJK
+524D: Ideograph in front, forward; preceding CJK
+524E: Ideograph temple CJK
+524F: Ideograph establish, create; knife cut CJK
+5250: Ideograph cut, cut flesh from bones CJK
+5251: Ideograph sword, dagger, saber CJK
+5252: Ideograph (Cant.) to jerk CJK
+5253:
+5254: Ideograph pick out; scrape off; scrape meat CJK
+5255:
+5256: Ideograph split in two, slice; dissect CJK
+5257: Ideograph to level off; to trim; to pare down CJK
+5258:
+5259: Ideograph establish, create; knife cut CJK
+525A: Ideograph stab CJK
+525B: Ideograph hard, tough, rigid, strong CJK
+525C: Ideograph cut, cut out, pick out, scoop out CJK
+525D: Ideograph peel, peel off, to shell, strip CJK
+525E: Ideograph carving or engraving knife; grave CJK
+525F: Ideograph to prick; to cut blocks, to engrave CJK
+5260: Ideograph brand CJK
+5261: Ideograph sharp, sharp-pointed; sharpen CJK
+5262:
+5263: Ideograph sword, dagger, saber CJK
+5264: Ideograph medicinal preparation CJK
+5265: Ideograph peel CJK
+5266: Ideograph to castrate CJK
+5267: Ideograph theatrical plays, opera, drama CJK
+5268: Ideograph sound of something being smashed CJK
+5269: Ideograph leftovers, residue, remains CJK
+526A: Ideograph scissors; cut, divide, separate CJK
+526B:
+526C:
+526D:
+526E: Ideograph cut, cut flesh from bones CJK
+526F: Ideograph assist; supplement; assistant CJK
+5270: Ideograph leftovers, residue, remains CJK
+5271: Ideograph sword, dagger, saber CJK
+5272: Ideograph cut, divide, partition; cede CJK
+5273: Ideograph brief note; official communique CJK
+5274: Ideograph sharpen; carefully, thorough CJK
+5275: Ideograph establish, create; knife cut CJK
+5276:
+5277: Ideograph to level off, cut off, pare down, raze CJK
+5278: Ideograph cut CJK
+5279:
+527A: Ideograph mark CJK
+527B:
+527C:
+527D: Ideograph rob, plunder; slice off; fast CJK
+527E: Ideograph to pick up with knife CJK
+527F: Ideograph destroy, exterminate, annihilate CJK
+5280:
+5281:
+5282: Ideograph chisel for engraving; engrave CJK
+5283: Ideograph divide, mark off, lay boundary CJK
+5284: Ideograph brief note; official communique CJK
+5285:
+5286: Ideograph sickle CJK
+5287: Ideograph theatrical plays, opera, drama CJK
+5288: Ideograph cut apart, split, chop CJK
+5289: Ideograph surname; kill, destroy CJK
+528A: Ideograph amputate, cut off CJK
+528B:
+528C: Ideograph to cut, injure, stab, stick on CJK
+528D: Ideograph sword, dagger, saber CJK
+528E: Ideograph sword, dagger CJK
+528F: Ideograph to butcher CJK
+5290: Ideograph destroy CJK
+5291: Ideograph medicinal preparation CJK
+5292: Ideograph sword, dagger, saber CJK
+5293: Ideograph cut off nose CJK
+5294: Ideograph sword, dagger, saber CJK
+5295:
+5296: Ideograph make into mince; cut CJK
+5297:
+5298: Ideograph make into mince CJK
+5299: Ideograph a divide, to partition CJK
+529A: Ideograph cut CJK
+529B: Ideograph power, capability, influence CJK
+529C:
+529D: Ideograph recommend, advise, urge CJK
+529E: Ideograph manage, do, handle; deal with CJK
+529F: Ideograph achievement, merit, good result CJK
+52A0: Ideograph add to, increase, augment CJK
+52A1: Ideograph affairs, business; must, should CJK
+52A2: Ideograph put forth effort, strive forward CJK
+52A3: Ideograph bad, inferior; slightly CJK
+52A4: Ideograph strong CJK
+52A5:
+52A6: Ideograph variant of U+5354 協; cooperate; combined labor CJK
+52A7:
+52A8: Ideograph move, happen; movement, action CJK
+52A9: Ideograph help, aid, assist CJK
+52AA: Ideograph to exert, strive, make an effort; to pout CJK
+52AB: Ideograph take by force, coerce; disaster CJK
+52AC: Ideograph be diligent, toil, endeavor CJK
+52AD: Ideograph encourage; to excel; excellent CJK
+52AE:
+52AF:
+52B0:
+52B1: Ideograph strive; encourage CJK
+52B2: Ideograph strong, unyielding, tough, power CJK
+52B3: Ideograph labor, toil, do manual work CJK
+52B4: Ideograph labor, toil, do manual work CJK
+52B5: Ideograph certificate, ticket; title deeds CJK
+52B6:
+52B7:
+52B8:
+52B9: Ideograph efficacious, effectiveness; to toil, to serve in the army CJK
+52BA:
+52BB: Ideograph flurried, be in flurry, zealous CJK
+52BC: Ideograph be discreet, prudent, cautious CJK
+52BD:
+52BE: Ideograph examine into, impeach, charge CJK
+52BF: Ideograph power, force; tendency CJK
+52C0:
+52C1: Ideograph strong, unyielding, tough, powerful CJK
+52C2:
+52C3: Ideograph suddenly, sudden, quick CJK
+52C4: Ideograph active; clever; prompt witty; smart; earnest; diligent; to hasten CJK
+52C5: Ideograph imperial decree; daoist magic CJK
+52C6:
+52C7: Ideograph brave, courageous, fierce CJK
+52C8:
+52C9: Ideograph endeavor, make effort; urge CJK
+52CA:
+52CB: Ideograph meritorious deed; merits; rank CJK
+52CC: Ideograph to labor; tired CJK
+52CD: Ideograph strong, powerful, mighty; violent CJK
+52CE:
+52CF:
+52D0: Ideograph imperial degree; daoist magic CJK
+52D1: Ideograph reward; sincere CJK
+52D2: Ideograph strangle, tighten CJK
+52D3:
+52D4: Ideograph endeavor, make effort; urge CJK
+52D5: Ideograph move, happen; movement, action CJK
+52D6: Ideograph enjoin, advise, preach to CJK
+52D7: Ideograph enjoin, advise, excite CJK
+52D8: Ideograph investigate; compare; collate CJK
+52D9: Ideograph affairs, business; must, should CJK
+52DA: Ideograph work hard; belabored; toil CJK
+52DB: Ideograph meritorious deed; merits; rank CJK
+52DC:
+52DD: Ideograph victory; excel, be better than CJK
+52DE: Ideograph labor, toil, do manual work CJK
+52DF: Ideograph levy, raise; summon; recruit CJK
+52E0: Ideograph join forces, unite CJK
+52E1:
+52E2: Ideograph power, force; tendency CJK
+52E3: Ideograph achievements, conduct deserving CJK
+52E4: Ideograph industrious, diligent, attentive CJK
+52E5:
+52E6: Ideograph destroy, exterminate, annihilate CJK
+52E7: Ideograph recommend, advise, urge CJK
+52E8:
+52E9: Ideograph work hard; belabored; toil CJK
+52EA:
+52EB:
+52EC:
+52ED:
+52EE:
+52EF: Ideograph exhausted CJK
+52F0: Ideograph peaceful, harmonious CJK
+52F1: Ideograph put forth effort, strive forward CJK
+52F2: Ideograph meritorious deed; merits; rank CJK
+52F3: Ideograph meritorious deed; merits; rank CJK
+52F4:
+52F5: Ideograph strive; encourage CJK
+52F6:
+52F7: Ideograph urgent; in haste, hurriedly; help CJK
+52F8: Ideograph recommend, advise, urge CJK
+52F9: Ideograph wrap; KangXi radical 20 CJK
+52FA: Ideograph spoon, ladle; unit of volume CJK
+52FB: Ideograph equal, impartially, uniform, even CJK
+52FC:
+52FD: Ideograph to incubate; to brood; to hatch CJK
+52FE: Ideograph hook, join, connect; entice CJK
+52FF: Ideograph must not, do not; without, never CJK

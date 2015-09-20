@@ -1,256 +1,256 @@
-6800 : Cjk unified ideograph
-6801 : Cjk unified ideograph
-6802 : Cjk unified ideograph
-6803 : Cjk unified ideograph
-6804 : Cjk unified ideograph
-6805 : Cjk unified ideograph
-6806 : Cjk unified ideograph
-6807 : Cjk unified ideograph
-6808 : Cjk unified ideograph
-6809 : Cjk unified ideograph
-680A : Cjk unified ideograph
-680B : Cjk unified ideograph
-680C : Cjk unified ideograph
-680D : Cjk unified ideograph
-680E : Cjk unified ideograph
-680F : Cjk unified ideograph
-6810 : Cjk unified ideograph
-6811 : Cjk unified ideograph
-6812 : Cjk unified ideograph
-6813 : Cjk unified ideograph
-6814 : Cjk unified ideograph
-6815 : Cjk unified ideograph
-6816 : Cjk unified ideograph
-6817 : Cjk unified ideograph
-6818 : Cjk unified ideograph
-6819 : Cjk unified ideograph
-681A : Cjk unified ideograph
-681B : Cjk unified ideograph
-681C : Cjk unified ideograph
-681D : Cjk unified ideograph
-681E : Cjk unified ideograph
-681F : Cjk unified ideograph
-6820 : Cjk unified ideograph
-6821 : Cjk unified ideograph
-6822 : Cjk unified ideograph
-6823 : Cjk unified ideograph
-6824 : Cjk unified ideograph
-6825 : Cjk unified ideograph
-6826 : Cjk unified ideograph
-6827 : Cjk unified ideograph
-6828 : Cjk unified ideograph
-6829 : Cjk unified ideograph
-682A : Cjk unified ideograph
-682B : Cjk unified ideograph
-682C : Cjk unified ideograph
-682D : Cjk unified ideograph
-682E : Cjk unified ideograph
-682F : Cjk unified ideograph
-6830 : Cjk unified ideograph
-6831 : Cjk unified ideograph
-6832 : Cjk unified ideograph
-6833 : Cjk unified ideograph
-6834 : Cjk unified ideograph
-6835 : Cjk unified ideograph
-6836 : Cjk unified ideograph
-6837 : Cjk unified ideograph
-6838 : Cjk unified ideograph
-6839 : Cjk unified ideograph
-683A : Cjk unified ideograph
-683B : Cjk unified ideograph
-683C : Cjk unified ideograph
-683D : Cjk unified ideograph
-683E : Cjk unified ideograph
-683F : Cjk unified ideograph
-6840 : Cjk unified ideograph
-6841 : Cjk unified ideograph
-6842 : Cjk unified ideograph
-6843 : Cjk unified ideograph
-6844 : Cjk unified ideograph
-6845 : Cjk unified ideograph
-6846 : Cjk unified ideograph
-6847 : Cjk unified ideograph
-6848 : Cjk unified ideograph
-6849 : Cjk unified ideograph
-684A : Cjk unified ideograph
-684B : Cjk unified ideograph
-684C : Cjk unified ideograph
-684D : Cjk unified ideograph
-684E : Cjk unified ideograph
-684F : Cjk unified ideograph
-6850 : Cjk unified ideograph
-6851 : Cjk unified ideograph
-6852 : Cjk unified ideograph
-6853 : Cjk unified ideograph
-6854 : Cjk unified ideograph
-6855 : Cjk unified ideograph
-6856 : Cjk unified ideograph
-6857 : Cjk unified ideograph
-6858 : Cjk unified ideograph
-6859 : Cjk unified ideograph
-685A : Cjk unified ideograph
-685B : Cjk unified ideograph
-685C : Cjk unified ideograph
-685D : Cjk unified ideograph
-685E : Cjk unified ideograph
-685F : Cjk unified ideograph
-6860 : Cjk unified ideograph
-6861 : Cjk unified ideograph
-6862 : Cjk unified ideograph
-6863 : Cjk unified ideograph
-6864 : Cjk unified ideograph
-6865 : Cjk unified ideograph
-6866 : Cjk unified ideograph
-6867 : Cjk unified ideograph
-6868 : Cjk unified ideograph
-6869 : Cjk unified ideograph
-686A : Cjk unified ideograph
-686B : Cjk unified ideograph
-686C : Cjk unified ideograph
-686D : Cjk unified ideograph
-686E : Cjk unified ideograph
-686F : Cjk unified ideograph
-6870 : Cjk unified ideograph
-6871 : Cjk unified ideograph
-6872 : Cjk unified ideograph
-6873 : Cjk unified ideograph
-6874 : Cjk unified ideograph
-6875 : Cjk unified ideograph
-6876 : Cjk unified ideograph
-6877 : Cjk unified ideograph
-6878 : Cjk unified ideograph
-6879 : Cjk unified ideograph
-687A : Cjk unified ideograph
-687B : Cjk unified ideograph
-687C : Cjk unified ideograph
-687D : Cjk unified ideograph
-687E : Cjk unified ideograph
-687F : Cjk unified ideograph
-6880 : Cjk unified ideograph
-6881 : Cjk unified ideograph
-6882 : Cjk unified ideograph
-6883 : Cjk unified ideograph
-6884 : Cjk unified ideograph
-6885 : Cjk unified ideograph
-6886 : Cjk unified ideograph
-6887 : Cjk unified ideograph
-6888 : Cjk unified ideograph
-6889 : Cjk unified ideograph
-688A : Cjk unified ideograph
-688B : Cjk unified ideograph
-688C : Cjk unified ideograph
-688D : Cjk unified ideograph
-688E : Cjk unified ideograph
-688F : Cjk unified ideograph
-6890 : Cjk unified ideograph
-6891 : Cjk unified ideograph
-6892 : Cjk unified ideograph
-6893 : Cjk unified ideograph
-6894 : Cjk unified ideograph
-6895 : Cjk unified ideograph
-6896 : Cjk unified ideograph
-6897 : Cjk unified ideograph
-6898 : Cjk unified ideograph
-6899 : Cjk unified ideograph
-689A : Cjk unified ideograph
-689B : Cjk unified ideograph
-689C : Cjk unified ideograph
-689D : Cjk unified ideograph
-689E : Cjk unified ideograph
-689F : Cjk unified ideograph
-68A0 : Cjk unified ideograph
-68A1 : Cjk unified ideograph
-68A2 : Cjk unified ideograph
-68A3 : Cjk unified ideograph
-68A4 : Cjk unified ideograph
-68A5 : Cjk unified ideograph
-68A6 : Cjk unified ideograph
-68A7 : Cjk unified ideograph
-68A8 : Cjk unified ideograph
-68A9 : Cjk unified ideograph
-68AA : Cjk unified ideograph
-68AB : Cjk unified ideograph
-68AC : Cjk unified ideograph
-68AD : Cjk unified ideograph
-68AE : Cjk unified ideograph
-68AF : Cjk unified ideograph
-68B0 : Cjk unified ideograph
-68B1 : Cjk unified ideograph
-68B2 : Cjk unified ideograph
-68B3 : Cjk unified ideograph
-68B4 : Cjk unified ideograph
-68B5 : Cjk unified ideograph
-68B6 : Cjk unified ideograph
-68B7 : Cjk unified ideograph
-68B8 : Cjk unified ideograph
-68B9 : Cjk unified ideograph
-68BA : Cjk unified ideograph
-68BB : Cjk unified ideograph
-68BC : Cjk unified ideograph
-68BD : Cjk unified ideograph
-68BE : Cjk unified ideograph
-68BF : Cjk unified ideograph
-68C0 : Cjk unified ideograph
-68C1 : Cjk unified ideograph
-68C2 : Cjk unified ideograph
-68C3 : Cjk unified ideograph
-68C4 : Cjk unified ideograph
-68C5 : Cjk unified ideograph
-68C6 : Cjk unified ideograph
-68C7 : Cjk unified ideograph
-68C8 : Cjk unified ideograph
-68C9 : Cjk unified ideograph
-68CA : Cjk unified ideograph
-68CB : Cjk unified ideograph
-68CC : Cjk unified ideograph
-68CD : Cjk unified ideograph
-68CE : Cjk unified ideograph
-68CF : Cjk unified ideograph
-68D0 : Cjk unified ideograph
-68D1 : Cjk unified ideograph
-68D2 : Cjk unified ideograph
-68D3 : Cjk unified ideograph
-68D4 : Cjk unified ideograph
-68D5 : Cjk unified ideograph
-68D6 : Cjk unified ideograph
-68D7 : Cjk unified ideograph
-68D8 : Cjk unified ideograph
-68D9 : Cjk unified ideograph
-68DA : Cjk unified ideograph
-68DB : Cjk unified ideograph
-68DC : Cjk unified ideograph
-68DD : Cjk unified ideograph
-68DE : Cjk unified ideograph
-68DF : Cjk unified ideograph
-68E0 : Cjk unified ideograph
-68E1 : Cjk unified ideograph
-68E2 : Cjk unified ideograph
-68E3 : Cjk unified ideograph
-68E4 : Cjk unified ideograph
-68E5 : Cjk unified ideograph
-68E6 : Cjk unified ideograph
-68E7 : Cjk unified ideograph
-68E8 : Cjk unified ideograph
-68E9 : Cjk unified ideograph
-68EA : Cjk unified ideograph
-68EB : Cjk unified ideograph
-68EC : Cjk unified ideograph
-68ED : Cjk unified ideograph
-68EE : Cjk unified ideograph
-68EF : Cjk unified ideograph
-68F0 : Cjk unified ideograph
-68F1 : Cjk unified ideograph
-68F2 : Cjk unified ideograph
-68F3 : Cjk unified ideograph
-68F4 : Cjk unified ideograph
-68F5 : Cjk unified ideograph
-68F6 : Cjk unified ideograph
-68F7 : Cjk unified ideograph
-68F8 : Cjk unified ideograph
-68F9 : Cjk unified ideograph
-68FA : Cjk unified ideograph
-68FB : Cjk unified ideograph
-68FC : Cjk unified ideograph
-68FD : Cjk unified ideograph
-68FE : Cjk unified ideograph
-68FF : Cjk unified ideograph
+6800: Ideograph gardenia CJK
+6801:
+6802: Ideograph a kind of evergreen tree CJK
+6803: Ideograph type of oak; stable CJK
+6804: Ideograph glory, honor; flourish, prosper CJK
+6805: Ideograph fence; palisade; grid CJK
+6806:
+6807: Ideograph mark, symbol, label, sign; stand the bole of a tree CJK
+6808: Ideograph warehouse; tavern, inn CJK
+6809: Ideograph comb; comb out; weed out, elimininate CJK
+680A: Ideograph cage, pen; set of bars CJK
+680B: Ideograph main beams supporting house CJK
+680C: Ideograph supporting block; sumac, loquat CJK
+680D: Ideograph a lot; a label; a slip of bamboo engraved with signs CJK
+680E: Ideograph chestnut-leaved oak; oak CJK
+680F: Ideograph railing, balustrade; animal pan CJK
+6810:
+6811: Ideograph tree; plant; set up, establish CJK
+6812: Ideograph cross bar CJK
+6813: Ideograph wooden peg, post or stick CJK
+6814: Ideograph carve, engrave CJK
+6815:
+6816: Ideograph perch; roost; stay CJK
+6817: Ideograph chestnut tree, chestnuts; surname CJK
+6818: Ideograph fruit tree CJK
+6819:
+681A:
+681B: Ideograph the lichee, a fruit which grows in South China CJK
+681C:
+681D: Ideograph a builder's frame for measuring CJK
+681E: Ideograph publication, periodical; publish CJK
+681F: Ideograph hemp palm CJK
+6820:
+6821: Ideograph school; military field officer CJK
+6822: Ideograph cypress, cedar CJK
+6823:
+6824:
+6825:
+6826:
+6827:
+6828:
+6829: Ideograph species of oak; be glad, be pleased CJK
+682A: Ideograph numerary adjunct for trees; root CJK
+682B: Ideograph fence CJK
+682C:
+682D: Ideograph king-post CJK
+682E:
+682F:
+6830: Ideograph a bamboo raft CJK
+6831: Ideograph large peg, stake; post, pillar CJK
+6832: Ideograph mangrove CJK
+6833: Ideograph a basket CJK
+6834: Ideograph sandalwood CJK
+6835: Ideograph hedge CJK
+6836:
+6837: Ideograph shape, form, pattern, style CJK
+6838: Ideograph seed, kernel, core, nut; atom CJK
+6839: Ideograph root, base(d on); foundation CJK
+683A:
+683B: Ideograph tree CJK
+683C: Ideograph pattern, standard, form; style CJK
+683D: Ideograph to cultivate, plant; to care for plants CJK
+683E: Ideograph name of tree; a part of cornice CJK
+683F:
+6840: Ideograph chicken roost; ancient emperor CJK
+6841: Ideograph cross-beams of roof CJK
+6842: Ideograph cassia or cinnamon CJK
+6843: Ideograph peach; marriage; surname CJK
+6844: Ideograph a coir-palm CJK
+6845: Ideograph mast of ship CJK
+6846: Ideograph frame; framework; door frame CJK
+6847:
+6848: Ideograph table, bench; legal case CJK
+6849: Ideograph eucalyptus CJK
+684A:
+684B: Ideograph tree CJK
+684C: Ideograph table, desk, stand CJK
+684D:
+684E: Ideograph fetters, shackles, handcuffs CJK
+684F:
+6850: Ideograph name applied various trees CJK
+6851: Ideograph mulberry tree; surname CJK
+6852:
+6853: Ideograph variety of tree; surname CJK
+6854: Ideograph Chinese bellflower; well-swept; the inner fibers of corn-stalks CJK
+6855: Ideograph tallow tree CJK
+6856:
+6857:
+6858:
+6859:
+685A: Ideograph press, squeeze hard; force CJK
+685B: Ideograph a real, hank, skein CJK
+685C: Ideograph cherry, cherry blossom CJK
+685D: Ideograph variant of 枡 U+67A1, a measuring box CJK
+685E:
+685F: Ideograph a crosspiece, cleat, frame, door bolt; shelf CJK
+6860: Ideograph the forking branch of a tree CJK
+6861: Ideograph bent or twisted piece of wood CJK
+6862: Ideograph hardwood; supports, posts CJK
+6863: Ideograph shelf; frame, crosspiece CJK
+6864: Ideograph alder CJK
+6865: Ideograph bridge; beam, crosspiece CJK
+6866: Ideograph type of birch CJK
+6867: Ideograph Chinese cypress, Chinese juniper CJK
+6868: Ideograph oar, paddle CJK
+6869: Ideograph stake, post; affair, matter CJK
+686A: Ideograph mythical giant tree CJK
+686B: Ideograph horse chestnut CJK
+686C: Ideograph pear and other trees CJK
+686D: Ideograph eaves; space between two pillars CJK
+686E: Ideograph cup, glass, tumbler CJK
+686F: Ideograph table CJK
+6870:
+6871:
+6872:
+6873:
+6874: Ideograph raft; drum stick; ridge pole CJK
+6875:
+6876: Ideograph pail, bucket, tub; cask, keg CJK
+6877: Ideograph rafter; malus toringo CJK
+6878:
+6879: Ideograph palm CJK
+687A:
+687B:
+687C: Ideograph the varnish tree; lacquer, varnish, paint CJK
+687D:
+687E:
+687F: Ideograph pole; stick; club; pole as unit CJK
+6880:
+6881: Ideograph bridge; beam; rafters; surname CJK
+6882: Ideograph acorn cup CJK
+6883: Ideograph a club; a stalk; straight CJK
+6884: Ideograph a soft wood; to lay in stores of firewood CJK
+6885: Ideograph plums; prunes; surname CJK
+6886: Ideograph watchman's rattle CJK
+6887:
+6888:
+6889:
+688A: Ideograph squeeze out of; extract CJK
+688B:
+688C:
+688D: Ideograph tree name CJK
+688E: Ideograph sickle handle, branch CJK
+688F: Ideograph handcuffs, manacles, fetters CJK
+6890: Ideograph fence CJK
+6891:
+6892:
+6893: Ideograph catalpa ovata CJK
+6894: Ideograph gardenia CJK
+6895:
+6896: Ideograph a palm-tree CJK
+6897: Ideograph stem of flower, branch of plant CJK
+6898: Ideograph bamboo tube, wooden peg; spout CJK
+6899:
+689A:
+689B:
+689C: Ideograph chopstick CJK
+689D: Ideograph clause, condition; string, stripe CJK
+689E:
+689F: Ideograph an owl; thus, something evil CJK
+68A0: Ideograph a small beam supporting the rafters at the eaves CJK
+68A1: Ideograph tray for carrying sacrificial meat CJK
+68A2: Ideograph pointed tip of something long like a branch; rudder CJK
+68A3:
+68A4:
+68A5:
+68A6: Ideograph dream; visionary; wishful CJK
+68A7: Ideograph Chinese parasoltree, Sterculia platanifolia CJK
+68A8: Ideograph pear; opera; cut, slash CJK
+68A9: Ideograph a hod, a basket in which to carry earth CJK
+68AA:
+68AB:
+68AC:
+68AD: Ideograph weaver's shuttle; go to and fro CJK
+68AE: Ideograph snowshoes CJK
+68AF: Ideograph ladder, steps, stairs; lean CJK
+68B0: Ideograph weapons; implements, instruments CJK
+68B1: Ideograph doorsill; doorjamb CJK
+68B2: Ideograph joist; cane, club; king-post CJK
+68B3: Ideograph comb; brush CJK
+68B4: Ideograph long CJK
+68B5: Ideograph Buddhist, Sanskrit CJK
+68B6: Ideograph oar, shaft CJK
+68B7:
+68B8:
+68B9: Ideograph the areca-nut; the betel-nut CJK
+68BA:
+68BB: Ideograph a tree whose branches are placed on Buddhist graves CJK
+68BC: Ideograph block of wood; blockhead; stupid CJK
+68BD:
+68BE:
+68BF:
+68C0: Ideograph check; examine CJK
+68C1: Ideograph joist; cane CJK
+68C2: Ideograph carved or patterned window sills CJK
+68C3: Ideograph a pear CJK
+68C4: Ideograph reject, abandon, discard CJK
+68C5: Ideograph handle, lever, knob; authority CJK
+68C6: Ideograph camphor tree CJK
+68C7:
+68C8:
+68C9: Ideograph cotton; cotton padded CJK
+68CA: Ideograph chess; any game similar to chess CJK
+68CB: Ideograph chess; any game similar to chess CJK
+68CC:
+68CD: Ideograph stick, cudgel; scoundrel CJK
+68CE:
+68CF:
+68D0: Ideograph species of yew CJK
+68D1: Ideograph raft CJK
+68D2: Ideograph stick, club, truncheon; hit CJK
+68D3: Ideograph hit, strike CJK
+68D4:
+68D5: Ideograph hemp palm; palm tree CJK
+68D6: Ideograph door stop, door jam; touch; a prop, post CJK
+68D7: Ideograph date tree; dates, jujubes; surname CJK
+68D8: Ideograph jujube tree; thorns, brambles CJK
+68D9: Ideograph obstinate; to draw the fingers across; to steer CJK
+68DA: Ideograph tent, awning; booth; shed CJK
+68DB:
+68DC: Ideograph branch, fork; tray CJK
+68DD:
+68DE:
+68DF: Ideograph the main beams supporting a house CJK
+68E0: Ideograph crab apple tree; wild plums CJK
+68E1:
+68E2: Ideograph the felloe or rim of a wheel CJK
+68E3: Ideograph kerria japonica plant, cherry CJK
+68E4:
+68E5: Ideograph a railing; a fence an enclosed place CJK
+68E6:
+68E7: Ideograph warehouse; tavern, inn CJK
+68E8: Ideograph tally or wooden pass CJK
+68E9:
+68EA: Ideograph tree CJK
+68EB: Ideograph thorny shrub with yellow flowers; a kind of oak CJK
+68EC: Ideograph bowl CJK
+68ED:
+68EE: Ideograph forest; luxuriant vegetation CJK
+68EF: Ideograph jujube tree CJK
+68F0:
+68F1: Ideograph squared timber; angle, edge CJK
+68F2: Ideograph perch; roost; stay CJK
+68F3: Ideograph small pillars that support the roof, those which rest on the main bean CJK
+68F4:
+68F5: Ideograph numerary adjunct for trees CJK
+68F6:
+68F7:
+68F8: Ideograph surname CJK
+68F9: Ideograph oar; boat CJK
+68FA: Ideograph coffin CJK
+68FB: Ideograph kind of wood from which perfume CJK
+68FC: Ideograph beams in the roof of a house confused, disordered CJK
+68FD:
+68FE:
+68FF:

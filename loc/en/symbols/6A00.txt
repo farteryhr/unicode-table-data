@@ -1,256 +1,256 @@
-6A00 : Cjk unified ideograph
-6A01 : Cjk unified ideograph
-6A02 : Cjk unified ideograph
-6A03 : Cjk unified ideograph
-6A04 : Cjk unified ideograph
-6A05 : Cjk unified ideograph
-6A06 : Cjk unified ideograph
-6A07 : Cjk unified ideograph
-6A08 : Cjk unified ideograph
-6A09 : Cjk unified ideograph
-6A0A : Cjk unified ideograph
-6A0B : Cjk unified ideograph
-6A0C : Cjk unified ideograph
-6A0D : Cjk unified ideograph
-6A0E : Cjk unified ideograph
-6A0F : Cjk unified ideograph
-6A10 : Cjk unified ideograph
-6A11 : Cjk unified ideograph
-6A12 : Cjk unified ideograph
-6A13 : Cjk unified ideograph
-6A14 : Cjk unified ideograph
-6A15 : Cjk unified ideograph
-6A16 : Cjk unified ideograph
-6A17 : Cjk unified ideograph
-6A18 : Cjk unified ideograph
-6A19 : Cjk unified ideograph
-6A1A : Cjk unified ideograph
-6A1B : Cjk unified ideograph
-6A1C : Cjk unified ideograph
-6A1D : Cjk unified ideograph
-6A1E : Cjk unified ideograph
-6A1F : Cjk unified ideograph
-6A20 : Cjk unified ideograph
-6A21 : Cjk unified ideograph
-6A22 : Cjk unified ideograph
-6A23 : Cjk unified ideograph
-6A24 : Cjk unified ideograph
-6A25 : Cjk unified ideograph
-6A26 : Cjk unified ideograph
-6A27 : Cjk unified ideograph
-6A28 : Cjk unified ideograph
-6A29 : Cjk unified ideograph
-6A2A : Cjk unified ideograph
-6A2B : Cjk unified ideograph
-6A2C : Cjk unified ideograph
-6A2D : Cjk unified ideograph
-6A2E : Cjk unified ideograph
-6A2F : Cjk unified ideograph
-6A30 : Cjk unified ideograph
-6A31 : Cjk unified ideograph
-6A32 : Cjk unified ideograph
-6A33 : Cjk unified ideograph
-6A34 : Cjk unified ideograph
-6A35 : Cjk unified ideograph
-6A36 : Cjk unified ideograph
-6A37 : Cjk unified ideograph
-6A38 : Cjk unified ideograph
-6A39 : Cjk unified ideograph
-6A3A : Cjk unified ideograph
-6A3B : Cjk unified ideograph
-6A3C : Cjk unified ideograph
-6A3D : Cjk unified ideograph
-6A3E : Cjk unified ideograph
-6A3F : Cjk unified ideograph
-6A40 : Cjk unified ideograph
-6A41 : Cjk unified ideograph
-6A42 : Cjk unified ideograph
-6A43 : Cjk unified ideograph
-6A44 : Cjk unified ideograph
-6A45 : Cjk unified ideograph
-6A46 : Cjk unified ideograph
-6A47 : Cjk unified ideograph
-6A48 : Cjk unified ideograph
-6A49 : Cjk unified ideograph
-6A4A : Cjk unified ideograph
-6A4B : Cjk unified ideograph
-6A4C : Cjk unified ideograph
-6A4D : Cjk unified ideograph
-6A4E : Cjk unified ideograph
-6A4F : Cjk unified ideograph
-6A50 : Cjk unified ideograph
-6A51 : Cjk unified ideograph
-6A52 : Cjk unified ideograph
-6A53 : Cjk unified ideograph
-6A54 : Cjk unified ideograph
-6A55 : Cjk unified ideograph
-6A56 : Cjk unified ideograph
-6A57 : Cjk unified ideograph
-6A58 : Cjk unified ideograph
-6A59 : Cjk unified ideograph
-6A5A : Cjk unified ideograph
-6A5B : Cjk unified ideograph
-6A5C : Cjk unified ideograph
-6A5D : Cjk unified ideograph
-6A5E : Cjk unified ideograph
-6A5F : Cjk unified ideograph
-6A60 : Cjk unified ideograph
-6A61 : Cjk unified ideograph
-6A62 : Cjk unified ideograph
-6A63 : Cjk unified ideograph
-6A64 : Cjk unified ideograph
-6A65 : Cjk unified ideograph
-6A66 : Cjk unified ideograph
-6A67 : Cjk unified ideograph
-6A68 : Cjk unified ideograph
-6A69 : Cjk unified ideograph
-6A6A : Cjk unified ideograph
-6A6B : Cjk unified ideograph
-6A6C : Cjk unified ideograph
-6A6D : Cjk unified ideograph
-6A6E : Cjk unified ideograph
-6A6F : Cjk unified ideograph
-6A70 : Cjk unified ideograph
-6A71 : Cjk unified ideograph
-6A72 : Cjk unified ideograph
-6A73 : Cjk unified ideograph
-6A74 : Cjk unified ideograph
-6A75 : Cjk unified ideograph
-6A76 : Cjk unified ideograph
-6A77 : Cjk unified ideograph
-6A78 : Cjk unified ideograph
-6A79 : Cjk unified ideograph
-6A7A : Cjk unified ideograph
-6A7B : Cjk unified ideograph
-6A7C : Cjk unified ideograph
-6A7D : Cjk unified ideograph
-6A7E : Cjk unified ideograph
-6A7F : Cjk unified ideograph
-6A80 : Cjk unified ideograph
-6A81 : Cjk unified ideograph
-6A82 : Cjk unified ideograph
-6A83 : Cjk unified ideograph
-6A84 : Cjk unified ideograph
-6A85 : Cjk unified ideograph
-6A86 : Cjk unified ideograph
-6A87 : Cjk unified ideograph
-6A88 : Cjk unified ideograph
-6A89 : Cjk unified ideograph
-6A8A : Cjk unified ideograph
-6A8B : Cjk unified ideograph
-6A8C : Cjk unified ideograph
-6A8D : Cjk unified ideograph
-6A8E : Cjk unified ideograph
-6A8F : Cjk unified ideograph
-6A90 : Cjk unified ideograph
-6A91 : Cjk unified ideograph
-6A92 : Cjk unified ideograph
-6A93 : Cjk unified ideograph
-6A94 : Cjk unified ideograph
-6A95 : Cjk unified ideograph
-6A96 : Cjk unified ideograph
-6A97 : Cjk unified ideograph
-6A98 : Cjk unified ideograph
-6A99 : Cjk unified ideograph
-6A9A : Cjk unified ideograph
-6A9B : Cjk unified ideograph
-6A9C : Cjk unified ideograph
-6A9D : Cjk unified ideograph
-6A9E : Cjk unified ideograph
-6A9F : Cjk unified ideograph
-6AA0 : Cjk unified ideograph
-6AA1 : Cjk unified ideograph
-6AA2 : Cjk unified ideograph
-6AA3 : Cjk unified ideograph
-6AA4 : Cjk unified ideograph
-6AA5 : Cjk unified ideograph
-6AA6 : Cjk unified ideograph
-6AA7 : Cjk unified ideograph
-6AA8 : Cjk unified ideograph
-6AA9 : Cjk unified ideograph
-6AAA : Cjk unified ideograph
-6AAB : Cjk unified ideograph
-6AAC : Cjk unified ideograph
-6AAD : Cjk unified ideograph
-6AAE : Cjk unified ideograph
-6AAF : Cjk unified ideograph
-6AB0 : Cjk unified ideograph
-6AB1 : Cjk unified ideograph
-6AB2 : Cjk unified ideograph
-6AB3 : Cjk unified ideograph
-6AB4 : Cjk unified ideograph
-6AB5 : Cjk unified ideograph
-6AB6 : Cjk unified ideograph
-6AB7 : Cjk unified ideograph
-6AB8 : Cjk unified ideograph
-6AB9 : Cjk unified ideograph
-6ABA : Cjk unified ideograph
-6ABB : Cjk unified ideograph
-6ABC : Cjk unified ideograph
-6ABD : Cjk unified ideograph
-6ABE : Cjk unified ideograph
-6ABF : Cjk unified ideograph
-6AC0 : Cjk unified ideograph
-6AC1 : Cjk unified ideograph
-6AC2 : Cjk unified ideograph
-6AC3 : Cjk unified ideograph
-6AC4 : Cjk unified ideograph
-6AC5 : Cjk unified ideograph
-6AC6 : Cjk unified ideograph
-6AC7 : Cjk unified ideograph
-6AC8 : Cjk unified ideograph
-6AC9 : Cjk unified ideograph
-6ACA : Cjk unified ideograph
-6ACB : Cjk unified ideograph
-6ACC : Cjk unified ideograph
-6ACD : Cjk unified ideograph
-6ACE : Cjk unified ideograph
-6ACF : Cjk unified ideograph
-6AD0 : Cjk unified ideograph
-6AD1 : Cjk unified ideograph
-6AD2 : Cjk unified ideograph
-6AD3 : Cjk unified ideograph
-6AD4 : Cjk unified ideograph
-6AD5 : Cjk unified ideograph
-6AD6 : Cjk unified ideograph
-6AD7 : Cjk unified ideograph
-6AD8 : Cjk unified ideograph
-6AD9 : Cjk unified ideograph
-6ADA : Cjk unified ideograph
-6ADB : Cjk unified ideograph
-6ADC : Cjk unified ideograph
-6ADD : Cjk unified ideograph
-6ADE : Cjk unified ideograph
-6ADF : Cjk unified ideograph
-6AE0 : Cjk unified ideograph
-6AE1 : Cjk unified ideograph
-6AE2 : Cjk unified ideograph
-6AE3 : Cjk unified ideograph
-6AE4 : Cjk unified ideograph
-6AE5 : Cjk unified ideograph
-6AE6 : Cjk unified ideograph
-6AE7 : Cjk unified ideograph
-6AE8 : Cjk unified ideograph
-6AE9 : Cjk unified ideograph
-6AEA : Cjk unified ideograph
-6AEB : Cjk unified ideograph
-6AEC : Cjk unified ideograph
-6AED : Cjk unified ideograph
-6AEE : Cjk unified ideograph
-6AEF : Cjk unified ideograph
-6AF0 : Cjk unified ideograph
-6AF1 : Cjk unified ideograph
-6AF2 : Cjk unified ideograph
-6AF3 : Cjk unified ideograph
-6AF4 : Cjk unified ideograph
-6AF5 : Cjk unified ideograph
-6AF6 : Cjk unified ideograph
-6AF7 : Cjk unified ideograph
-6AF8 : Cjk unified ideograph
-6AF9 : Cjk unified ideograph
-6AFA : Cjk unified ideograph
-6AFB : Cjk unified ideograph
-6AFC : Cjk unified ideograph
-6AFD : Cjk unified ideograph
-6AFE : Cjk unified ideograph
-6AFF : Cjk unified ideograph
+6A00:
+6A01: Ideograph stake, post; affair, matter CJK
+6A02: Ideograph happy, glad; enjoyable; music CJK
+6A03:
+6A04:
+6A05: Ideograph fir tree CJK
+6A06:
+6A07:
+6A08:
+6A09:
+6A0A: Ideograph a railing; a fence an enclosed place CJK
+6A0B: Ideograph tree name CJK
+6A0C:
+6A0D:
+6A0E:
+6A0F: Ideograph sedan CJK
+6A10: Ideograph a lookout turret on a city wall, movable wooden tower for archers; a scull a sweep, an oar CJK
+6A11: Ideograph bridge; beam CJK
+6A12: Ideograph a tree whose branches are placed on Buddhist graves CJK
+6A13: Ideograph building of two or more stories CJK
+6A14:
+6A15: Ideograph shrub CJK
+6A16: Ideograph (Cant.) classifier for plants or trees; a tree-trunk CJK
+6A17: Ideograph Ailanthus glandulosa or A. altissima, a kind of tree useless as timber CJK
+6A18:
+6A19: Ideograph a mark, symbol, label, sign; standard CJK
+6A1A: Ideograph a pulley, a windlass, a wheel, a block CJK
+6A1B: Ideograph bending branches, bent limbs CJK
+6A1C:
+6A1D: Ideograph a kind of hawthorne CJK
+6A1E: Ideograph door hinge; pivot; center of power CJK
+6A1F: Ideograph camphor tree CJK
+6A20: Ideograph elm; gum CJK
+6A21: Ideograph model, standard, pattern; copy CJK
+6A22:
+6A23: Ideograph shape, form, pattern, style CJK
+6A24:
+6A25:
+6A26:
+6A27:
+6A28: Ideograph scrambled eggs CJK
+6A29: Ideograph power, right, authority CJK
+6A2A: Ideograph across CJK
+6A2B: Ideograph evergreen oak CJK
+6A2C:
+6A2D:
+6A2E:
+6A2F: Ideograph mast, yard-arm, boom CJK
+6A30:
+6A31: Ideograph cherry, cherry blossom CJK
+6A32: Ideograph jujube CJK
+6A33: Ideograph tall tree CJK
+6A34:
+6A35: Ideograph woodcutter; firewood; gather wood CJK
+6A36: Ideograph a wooden joint CJK
+6A37: Ideograph bushy; a grove; crowded CJK
+6A38: Ideograph simple, honest; plain; rough CJK
+6A39: Ideograph tree; plant; set up, establish CJK
+6A3A: Ideograph type of birch CJK
+6A3B: Ideograph cupboard, wardrobe, counter CJK
+6A3C:
+6A3D: Ideograph goblet; jar, jug; lush CJK
+6A3E: Ideograph the shade of trees CJK
+6A3F: Ideograph coffin CJK
+6A40:
+6A41: Ideograph tree CJK
+6A42:
+6A43:
+6A44: Ideograph olive CJK
+6A45: Ideograph a beech tree CJK
+6A46: Ideograph without, apart from, none; a negative CJK
+6A47: Ideograph a sledge for transportation CJK
+6A48: Ideograph bent or twisted piece of wood; a paddle CJK
+6A49:
+6A4A: Ideograph variant of 榴 U+69B4, pomegranate CJK
+6A4B: Ideograph bridge; beam, crosspiece CJK
+6A4C:
+6A4D:
+6A4E:
+6A4F:
+6A50: Ideograph a sack, a bag opening at both ends CJK
+6A51:
+6A52: Ideograph wood streaks CJK
+6A53: Ideograph hibiscus; transient CJK
+6A54: Ideograph a wooden chopping-block CJK
+6A55: Ideograph a prop; a shore CJK
+6A56:
+6A57:
+6A58: Ideograph orange, tangerine CJK
+6A59: Ideograph orange CJK
+6A5A: Ideograph tall tree CJK
+6A5B: Ideograph a post, a stake; an axle CJK
+6A5C: Ideograph a post, a stake; an axle CJK
+6A5D:
+6A5E:
+6A5F: Ideograph machine; moment, chance CJK
+6A60:
+6A61: Ideograph chestnut oak; rubber tree; rubber CJK
+6A62: Ideograph oval-shaped, elliptical, tubular CJK
+6A63:
+6A64: Ideograph stamen CJK
+6A65: Ideograph wooden peg, post or stick CJK
+6A66: Ideograph tree CJK
+6A67: Ideograph hut CJK
+6A68:
+6A69:
+6A6A:
+6A6B: Ideograph across, horizontal, lateral CJK
+6A6C:
+6A6D:
+6A6E:
+6A6F:
+6A70: Ideograph a spar CJK
+6A71: Ideograph cabinet, wardrobe, cupboard CJK
+6A72:
+6A73:
+6A74: Ideograph place name CJK
+6A75: Ideograph wood placed under roof tiles CJK
+6A76:
+6A77:
+6A78:
+6A79: Ideograph oar, scull; row, scull CJK
+6A7A: Ideograph (Cant.) a partition; to separate CJK
+6A7B:
+6A7C: Ideograph citrus CJK
+6A7D:
+6A7E: Ideograph the hole in the center of a wheel accommodating the axle (archaic) CJK
+6A7F: Ideograph a kind of oak CJK
+6A80: Ideograph sandalwood, hardwood; surname CJK
+6A81: Ideograph the bole of a tree; a cross beam; the combing round the hatches of a ship CJK
+6A82:
+6A83:
+6A84: Ideograph call arms; urgency CJK
+6A85:
+6A86:
+6A87: Ideograph wooden rammer or pestle; place CJK
+6A88:
+6A89: Ideograph type of willow; tamarisk CJK
+6A8A:
+6A8B:
+6A8C:
+6A8D: Ideograph ilex CJK
+6A8E: Ideograph small red apple CJK
+6A8F:
+6A90: Ideograph eaves of house; brim, rim CJK
+6A91:
+6A92:
+6A93:
+6A94: Ideograph shelf; frame, crosspiece CJK
+6A95:
+6A96: Ideograph wild pear tree CJK
+6A97: Ideograph tree CJK
+6A98:
+6A99:
+6A9A:
+6A9B: Ideograph a switch, whip CJK
+6A9C: Ideograph Chinese cypress, Chinese juniper CJK
+6A9D: Ideograph oar CJK
+6A9E: Ideograph a kind of oak CJK
+6A9F: Ideograph small evergreen shrub CJK
+6AA0: Ideograph stand for lamp; frame for bow CJK
+6AA1:
+6AA2: Ideograph check; examine CJK
+6AA3: Ideograph mast, yard-arm, boom CJK
+6AA4:
+6AA5: Ideograph variant of 艤 U+8264, to moor a boat to the bank CJK
+6AA6:
+6AA7:
+6AA8: Ideograph mango CJK
+6AA9: Ideograph the bole of a tree; a cross beam; the combing round the hatches of a ship CJK
+6AAA: Ideograph chestnut-leaved oak; oak CJK
+6AAB: Ideograph sassafras tzumu CJK
+6AAC: Ideograph type of locust oracacia CJK
+6AAD:
+6AAE: Ideograph block of wood; blockhead; stupid CJK
+6AAF: Ideograph table CJK
+6AB0:
+6AB1:
+6AB2:
+6AB3: Ideograph betel-nut, areca nut CJK
+6AB4: Ideograph tree CJK
+6AB5:
+6AB6:
+6AB7:
+6AB8: Ideograph lemon CJK
+6AB9:
+6ABA:
+6ABB: Ideograph threshold, door-sill CJK
+6ABC: Ideograph ridge pole; shape wood by use of heat; tool for shaping bent wood CJK
+6ABD:
+6ABE: Ideograph grassy plant with fibres from which cloth is made CJK
+6ABF: Ideograph mulberry CJK
+6AC0:
+6AC1:
+6AC2: Ideograph oar, scull, paddle; row CJK
+6AC3: Ideograph cupboard, wardrobe, counter CJK
+6AC4:
+6AC5: Ideograph a kind of tree suitable for use to make axles for large carts CJK
+6AC6: Ideograph Polaris, the north star CJK
+6AC7:
+6AC8: Ideograph bench; stool CJK
+6AC9:
+6ACA:
+6ACB:
+6ACC: Ideograph a kind of hoe CJK
+6ACD:
+6ACE:
+6ACF:
+6AD0:
+6AD1:
+6AD2:
+6AD3: Ideograph oar, scull; row CJK
+6AD4:
+6AD5:
+6AD6:
+6AD7:
+6AD8:
+6AD9:
+6ADA: Ideograph palm CJK
+6ADB: Ideograph comb out; weed out, eliminate CJK
+6ADC: Ideograph quiver (case for arrows) CJK
+6ADD: Ideograph cabinet, wardrobe; closet CJK
+6ADE: Ideograph citrus CJK
+6ADF: Ideograph chestnut-leaved oak; oak CJK
+6AE0:
+6AE1:
+6AE2:
+6AE3:
+6AE4:
+6AE5: Ideograph cabinet, wardrobe, cupboard CJK
+6AE6:
+6AE7: Ideograph Oak CJK
+6AE8: Ideograph supporting block; sumac, loquat CJK
+6AE9:
+6AEA: Ideograph type of oak; stable CJK
+6AEB: Ideograph wooden peg, post or stick CJK
+6AEC: Ideograph coffin; tung tree CJK
+6AED:
+6AEE:
+6AEF:
+6AF0:
+6AF1: Ideograph yeast; leaven for making liquors CJK
+6AF2:
+6AF3: Ideograph cage, pen; set of bars CJK
+6AF4:
+6AF5:
+6AF6:
+6AF7:
+6AF8: Ideograph type of elm CJK
+6AF9:
+6AFA: Ideograph carved or patterned window sills CJK
+6AFB: Ideograph cherry, cherry blossom CJK
+6AFC:
+6AFD: Ideograph shape wood by use of heat; tool for shaping bent wood CJK
+6AFE: Ideograph the pomelo CJK
+6AFF:

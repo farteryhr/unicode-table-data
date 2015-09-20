@@ -5,7 +5,7 @@
 
 title           : ตารางอักขระ Unicode
 meta_description : สัญลักษณ์ Unicode ทั้งหมด มีชื่อและคำอธิบายในหน้าเดียว: ❤ ☀ ★ ☂ ☻ ♞ ☯ ☭ ☢ € → ☎ ❄ ♫ ✂ ▶ ✇ ♎ ⇧ ☮ ♻ ⌘ ⌛ ☘ ✈ ✔ ☊ ♔ ♕ ♖ ☦ ✝ ❖ ➎ ♠ ♣ ♥ ♦ ♂ ♀ ❂ ❃ ✒
-meta_keywords   : Unicode, ป้าย, สัญลักษณ์, อักขระ, ตาราง Unicode, ชุดอักขระ, รายชื่ออักขระ Unicode, uft-8, ตัวอักษร Facebook, การเข้ารหัส, สัญลักษณ์หัวใจ, สคริปต์, ภาษา, ไฮโรกลิฟส์, อักษรรูน, สัญลักษณ์ลูกศร, ซีริลลิก, ละติน, สัญลักษณ์สกุลเงิน
+meta_keywords   : Unicode, ป้าย, สัญลักษณ์, อักขระ, ตาราง Unicode, ชุดอักขระ, รายชื่ออักขระ Unicode, utf-8, ตัวอักษร Facebook, Emoji, การเข้ารหัส, สัญลักษณ์หัวใจ, สคริปต์, ภาษา, ไฮโรกลิฟส์, อักษรรูน, สัญลักษณ์ลูกศร, ซีริลลิก, ละติน, สัญลักษณ์สกุลเงิน
 search          : ค้นหาอักขระ
 find            : ค้นหา
 example         : ตัวอย่าง
@@ -23,7 +23,7 @@ countries       : ประเทศ
 count           : จำนวนอักขระ
 languages       : ภาษา
 sort_order      : ตามลำดับ
-sort_sect       : ตามมาตรา
+sort_block      : ตามมาตรา
 copy_clipboard  : คัดลอกไปยังคลิปบอร์ด
 search_h1       : ค้นหา
 search_result   : ผลลัพธ์
@@ -33,9 +33,9 @@ search_limit    : (แสดงเฉพาะ %s)
 search_none     : ไม่มี
 search_any      : ค้นหาคำใดๆ
 help_range      : คลิกเพื่อไฮไลท์ช่วง
-sections_list   : รายชื่อส่วน Unicode
+blocks_list   : รายชื่อส่วน Unicode
 languages_list  : รายชื่อภาษา
-languages_sections : ส่วนภาษา
+languages_blocks : ส่วนภาษา
 types_list      : รายชื่อชนิด
 countries_list  : รายชื่อประเทศ
 more            : เพิ่มเติม
@@ -50,6 +50,14 @@ separate_page   : เปิดหน้าแยก
 edit            : แก้ไข
 save            : ประหยัด
 undo            : ยกเลิก
+send_changes    : การเปลี่ยนแปลงของคุณจะถูกส่งไปยังนักพัฒนาเว็บไซต์ คุณแน่ใจหรือไม่?
+edit_thanks     : ขอขอบคุณ
+sharelink       : แบ่งปัน
+readmore        : อ่านเพิ่มเติม
+readless        : ปิดบัง
+yourbrowser     : เบราว์เซอร์ ของคุณ
+fontview        : จารึก ของตัวละคร ในแบบอักษรที่ แตกต่างกัน
+chardesc        : รายละเอียด ของตัวละคร
 
 # __________________________________________________________
 #
@@ -97,4 +105,9 @@ flip-plain      : ข้อความล้วน
 flip-flipped    : ข้อความที่ถูกพลิก
 flip-backed     : ย้อนกลับไปยังข้อความด้านหน้า
 
+# CONTENT
 
+content-sorry: ขออภัยข้อความจะเร็ว ๆ นี้จะมีการเขียน
+content-sorry-lang: ขออภัยข้อความที่ยังไม่ได้รับการแปลเป็นภาษาของคุณ
+content-other: ข้อความยังมีอยู่ในภาษาต่อไปนี้
+content-sorry-other: แต่คุณสามารถดูรุ่นในภาษาอื่น ๆ
