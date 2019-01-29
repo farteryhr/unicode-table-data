@@ -17,8 +17,8 @@
 2210: N-ary coproduct
 2211: N-ary summation
 2212: Minuszeichen
-2213: Halbgeviertstrich
-2214: Geviertstrich
+2213: Minus-oder-Plus-Zeichen
+2214: Dot plus
 2215: Division slash
 2216: Set minus
 2217: Asterisk operator
@@ -70,7 +70,7 @@
 2245: Approximately equal to
 2246: Approximately but not actually equal to
 2247: Neither approximately nor actually equal to
-2248: Almost equal to
+2248: Fast-Gleich-Zeichen
 2249: Not almost equal to
 224A: Almost equal or equal to
 224B: Triple tilde

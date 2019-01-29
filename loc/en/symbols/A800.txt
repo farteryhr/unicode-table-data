@@ -195,7 +195,7 @@ A8C1: Saurashtra Vowel Sign O
 A8C2: Saurashtra Vowel Sign Oo
 A8C3: Saurashtra Vowel Sign Au
 A8C4: Saurashtra Sign Virama
-A8C5:
+A8C5: Saurashtra Sign Candrabindu
 A8C6:
 A8C7:
 A8C8:
@@ -250,7 +250,7 @@ A8F8: Devanagari Sign Pushpika : vaidika pushpikaa
 A8F9: Devanagari Gap Filler
 A8FA: Devanagari Caret : vaidika trutikaa
 A8FB: Devanagari Headstroke : shirorekhaa
-A8FC:
-A8FD:
-A8FE:
-A8FF:
+A8FC: Devanagari Sign Siddham : siddhirastu
+A8FD: Devanagari Jain Om
+A8FE: Devanagari Letter Ay
+A8FF: Devanagari Vowel Sign Ay

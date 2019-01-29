@@ -18,10 +18,11 @@ thaana          : Тана
 nko             : Нко
 samaritan       : Самаритянское письмо
 mandaic         : Мандейский алфавит
+syriac-supplement: Дополнительные символы сирийского
 arabic-extended-a : Расширенный набор символов арабского письма-A
 devanagari      : Деванагари
 bengali         : Бенгальский
-gurmukhi        : Гурмухки
+gurmukhi        : Гурмукхи
 gujarati        : Гуджарати
 oriya           : Ория
 tamil           : Тамильская письменность
@@ -49,16 +50,17 @@ khmer           : Кхмерская письменность
 mongolian       : Старомонгольская письменность
 unified-canadian-aboriginal-syllabics-extended : Расширенный набор символов канадского слогового письма
 limbu           : Письменность лимбу
-tai-le          : Письменность тай лэ
+tai-le          : Письменность тай лы
 new-tai-lue     : Новый алфавит тай лы
 khmer-symbols   : Кхмерские символы
 buginese        : Бугийская письменность. Лонтара
-tai-tham        : Старый алфавит тай лы. Тай Тхам
+tai-tham        : Тай Тхам
 balinese        : Балийское письмо
 sundanese       : Сунданское письмо
 batak           : Батакское письмо
 lepcha          : Письмо лепча
 ol-chiki        : Письменность Ол-чики
+cyrillic-extended-c: Расширенная кириллица C
 sundanese-supplement : Сунданское расширенное письмо
 vedic-extensions : Ведические символы
 phonetic-extensions : Фонетические расширения
@@ -105,14 +107,14 @@ cjk-symbols-and-punctuation : Символы и пунктуация ККЯ
 hiragana        : Хирагана
 katakana        : Катакана
 bopomofo        : Чжуинь. Бопомофо
-hangul-compatibility-jamo : Комбинируемые с чамо Хангыля
+hangul-compatibility-jamo : Комбинируемые чамо Хангыля
 kanbun          : Канбун(китайский)
 bopomofo-extended : Расширенный набор символов бопомофо, чжуинь
 cjk-strokes     : Черты ККЯ
 katakana-phonetic-extensions : Фонетические расширения катаканы
 enclosed-cjk-letters-and-months : Вложенные буквы и месяцы ККЯ
 cjk-compatibility : Знаки совместимости ККЯ
-cjk-unified-ideographs-extension-a : Унифицированные иероглифы ККЯ
+cjk-unified-ideographs-extension-a : Унифицированные иероглифы ККЯ. Расширение А
 yijing-hexagram-symbols : Гексаграммы И-Цзин
 cjk-unified-ideographs : Унифицированные иероглифы ККЯ
 yi-syllables    : Слоги. Письмо И
@@ -131,7 +133,7 @@ kayah-li        : Кайях Ли
 rejang          : Реджанг
 hangul          : Хангыль
 javanese-alphabet : Яванская письменность
-cham-alphabet   : Тямское письмо
+cham-alphabet   : Чамское письмо
 burmese-alphabet-extention-a : Мьянманская письменность. Расширение A
 tai-viet-alphabet : Письменность Тай Вьет
 meitei-language-extensions : Мейтей расширенная
@@ -168,14 +170,15 @@ old-permic : Древнепермское письмо
 ugaritic : Угаритский алфавит
 old-persian : Древнеперсидский клинописный алфавит
 deseret : Дезеретский алфавит
-shavian : Алфавит Бренарда Шоу
-osmanya : Османия (сомалийский алфавит)
+shavian : Алфавит Бернарда Шоу
+osmanya : Османья (сомалийский алфавит)
+osage: Оседж
 elbasan : Эльбасанское письмо
 caucasian-albanian : Агванское письмо (Кавказская Албания)
 linear-a : Линейное письмо А
 cypriot-syllabary : Слоговая письменность острова Кипр
 imperial-aramaic : Имперское арамейское письмо
-palmyrene : Диалект Пальмиры
+palmyrene : Пальмирский алфавит
 nabataean : Набатейское письмо
 phoenician : Финикийское письмо
 lydian : Лидийский алфавит
@@ -193,38 +196,51 @@ old-turkic : Древнетюркское руническое письмо
 rumi-numeral-symbols : Цифры системы руми
 brahmi : Брахмическая письменность
 kaithi : Кайтхи
-sora-sompeng : Sora Sompeng
+sora-sompeng : Соранг сомпенг
 chakma : Чакма
-mahajani : Mahajani
+mahajani : Махаяни
 sharada : Шарада
 sinhala-archaic-numbers : Сингальские архаические цифры
 khojki : Кходжики
 khudawadi : Кхудабади
 grantha : Грантха
+newa: Нева
 tirhuta : Тирхута
 siddham : Сиддхаматрика
 modi : Моди
+mongolian-supplement: Монгольский (дополнение)
 takri : Такри
 warang-citi : Варанг-кшити
-pau-cin-hau : Pau Cin Hau
+zanabazar-square: Квадратное письмо Дзанабадзара
+soyombo: Соёмбо
+pau-cin-hau : Пау Цин Хау
+bhaiksuki: Байсаки
+marchen: Марчен
+masaram-gondi: Масарам гонди
 cuneiform : Клинопись
-cuneiform-numbers-and-punctuation : Клинописные цифры и знаки пунктуации
+cuneiform-numbers-and-punctuation : Клинописные цифры и знаки препинания
 egyptian-hieroglyphs : Египетские иероглифы
 bamum-supplement : Письмо бамум (дополнение)
-mro : Mro
+mro : Мру
 bassa-vah : Письмо басса
-pahawh-hmong : Pahawh Hmong
+pahawh-hmong : Пахау хмонг
 miao : Письмо Полларда (миао)
+ideographic-symbols-and-punctuation: Идеографические символы и знаки препинания
+tangut: Тангутское письмо
+tangut-components: Компоненты тангутского письма
 kana-supplement : Кана (дополнение)
-duployan : Duployan
-shorthand-format-controls : Shorthand Format Controls
+kana-extended-a: Кана расширение A
+nushu: Нюй-шу
+duployan : Дюплойе
+shorthand-format-controls : Форматирующие символы стенографии
 byzantine-musical-symbols : Византийские музыкальные символы
 musical-symbols : Музыкальные символы
 ancient-greek-musical-notation : Древнегреческие музыкальные символы
-tai-xuan-jing-symbols : Tai Xuan Jing Symbols
+tai-xuan-jing-symbols : Символы Тай Сюань Цзин
 counting-rod-numerals : Счётные палочки
 mathematical-alphanumeric-symbols : Математические буквенно-цифровые символы
 mende-kikakui : Письмо кикакуи для языка менде
+adlam: Адлам
 arabic-mathematical-alphabetic-symbols : Арабские математические буквенно-цифровые символы
 mahjong-tiles : Кости для маджонга
 domino-tiles : Кости для домино
@@ -243,3 +259,21 @@ lisu: Лису
 myanmar-extended-b: Расширенный бирманский-B
 latin-extended-e: Расширенная латиница-E
 hangul-jamo-extended-b: Расширенные хангыль чамо B
+cherokee-supplement: Письменность чероки (дополнение)
+hatran: Хатран
+old-hungarian: Венгерские руны
+multani : Мултани
+ahom: Письмо ахом
+early-dynastic-cuneiform: Ранняя династическая клинопись
+anatolian-hieroglyphs: Анатолийские иероглифы
+sutton-sign-writing: Жестовая письменность Саттон
+glagolitic-supplement: Глаголица (расширение)
+supplemental-symbols-and-pictographs: Символы и пиктограммы (дополнение)
+cjk-unified-ideographs-extension-b: Унифицированные иероглифы ККЯ. Расширение B
+cjk-unified-ideographs-extension-c: Унифицированные иероглифы ККЯ. Расширение C
+cjk-unified-ideographs-extension-d: Унифицированные иероглифы ККЯ. Расширение D
+cjk-unified-ideographs-extension-e: Унифицированные иероглифы ККЯ. Расширение E
+cjk-unified-ideographs-extension-f: Унифицированные иероглифы ККЯ. Расширение F
+cjk-compatibility-ideographs-supplement: Унифицированные иероглифы ККЯ (дополнение)
+tags: Теги
+variation-selectors-supplement: Селекторы вариантов начертания (дополнение)

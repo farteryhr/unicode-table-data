@@ -1,0 +1,31 @@
+up: Fel
+range: Hatótávolság
+loading: Betöltés, kérlek, várj...
+count: Karakterek száma
+sort-order: Rend szerint
+sort-block: Blokk szerint
+copy-clipboard: Másolás a vágólapra
+help-range: Kattintással kijelölheti a tartományt
+more: Több
+prev: Előző
+next: Következő
+separate-page: Nyissa meg külön oldalon
+share-link: Oszd meg a barátaiddal
+recent: Friss
+recent-text: Itt megjelenik a közelmúltban használt szimbólumok. Eddig, nézze meg a népszerű szimbólumokat
+read-more: Olvass tovább
+read-less: Elrejt
+madeby: Készítette
+keepupdates: Kövess minket
+hint: Jelölje ki és másolja a kívánt karaktert
+
+[mobile]
+to-full: Teljes verzió
+to-mobile: Mobil verzió
+
+[edit]: Szerkesztés
+save: Mentés
+submit: Elküldés
+undo: Visszavonás
+send-changes: A módosításokat elküldjük a webhely fejlesztőinek. Biztos vagy ebben?
+thanks: Köszönjük!

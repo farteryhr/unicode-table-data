@@ -2,7 +2,7 @@
 0C01: Telugu Sign Candrabindu : arasunna
 0C02: Telugu Sign Anusvara : sunna
 0C03: Telugu Sign Visarga
-0C04:
+0C04: Telugu Sign Combining Anusvara Above
 0C05: Telugu Letter A
 0C06: Telugu Letter Aa
 0C07: Telugu Letter I
@@ -88,7 +88,7 @@
 0C57:
 0C58: Telugu Letter Tsa
 0C59: Telugu Letter Dza
-0C5A:
+0C5A: Telugu Letter Rrra
 0C5B:
 0C5C:
 0C5D:
@@ -126,11 +126,11 @@
 0C7D: Telugu Fraction Digit Two for Even Powers of Four
 0C7E: Telugu Fraction Digit Three for Even Powers of Four
 0C7F: Telugu Sign Tuumu
-0C80:
+0C80: Kannada Sign Spacing Candrabindu
 0C81: Kannada Sign Candrabindu
 0C82: Kannada Sign Anusvara
 0C83: Kannada Sign Visarga
-0C84:
+0C84: Kannada Sign Siddham
 0C85: Kannada Letter A
 0C86: Kannada Letter Aa
 0C87: Kannada Letter I

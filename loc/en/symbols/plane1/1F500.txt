@@ -73,11 +73,11 @@
 1F548: Celtic Cross
 1F549: Om Symbol
 1F54A: Dove of Peace : peace
-1F54B:
-1F54C:
-1F54D:
-1F54E:
-1F54F:
+1F54B: Kaaba
+1F54C: Mosque
+1F54D: Synagogue
+1F54E: Menorah With Nine Branches : hanukiah
+1F54F: Bowl of Hygieia
 1F550: Clock Face One Oclock
 1F551: Clock Face Two Oclock
 1F552: Clock Face Three Oclock
@@ -120,7 +120,7 @@
 1F577: Spider
 1F578: Spider Web
 1F579: Joystick
-1F57A:
+1F57A: Man Dancing
 1F57B: Left Hand Telephone Receiver
 1F57C: Telephone Receiver with Page : fax
 1F57D: Right Hand Telephone Receiver : telephone handset
@@ -162,7 +162,7 @@
 1F5A1: Sideways Black Down Pointing Index
 1F5A2: Black Up Pointing Backhand Index
 1F5A3: Black Down Pointing Backhand Index
-1F5A4:
+1F5A4: Black Heart
 1F5A5: Desktop Computer : tower computer
 1F5A6: Keyboard and Mouse
 1F5A7: Three Networked Computers : computer network

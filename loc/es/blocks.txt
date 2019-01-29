@@ -4,7 +4,7 @@ latin-1-supplement        : Latín-1 suplemento
 latin-extended-a          : Latín extendida A
 latin-extended-b          : Latín extendida B
 ipa-extensions            : Extensiones de la AFI
-spacing-modifier-letters  : Separación Modificador Cartas
+spacing-modifier-letters  : Separación Modificador Letras
 combining-diacritical-marks : Diacríticos (combinable)
 greek-coptic              : Griego y copto
 cyrillic                  : Cirílico
@@ -51,7 +51,7 @@ unified-canadian-aboriginal-syllabics-extended : Unified Sílabas aborígenes ca
 limbu                     : Limbu
 tai-le                    : Tai Le
 new-tai-lue               : Idioma Tai Nüa
-khmer-symbols             : Khmer
+khmer-symbols             : Khmer símbolos
 buginese                  : Buginés
 tai-tham                  : Tai Tham
 balinese                  : Balinés
@@ -81,17 +81,17 @@ enclosed-alphanumerics    : Alfanuméricos cerrado
 box-drawing               : Dibujo de la caja
 block-elements            : Caracteres de relleno
 geometric-shapes          : Formas geométricas
-miscellaneous-symbols     : Símbolos misceláneos
+miscellaneous-symbols     : Símbolos diversos
 dingbats                  : Dingbats
-miscellaneous-mathematical-symbols-a : Símbolos matemáticos misceláneos A
+miscellaneous-mathematical-symbols-a : Símbolos matemáticos diversos A
 suplemental-arrows-a      : Flechas suplemento A
 braille-patterns          : Patrones de braille
 suplemental-arrows-b      : Flechas suplemento B
-miscellaneous-mathematical-symbols-b : Símbolos matemáticos misceláneos B
+miscellaneous-mathematical-symbols-b : Símbolos matemáticos diversos B
 supplemental-mathematical-operators : Operadores matemáticos suplementarios
 miscellaneous-symbols-and-arrows : Símbolos y flechas diverso
 glagolitic                : Glagolítico
-latin-extended-c          : Latín extendida B
+latin-extended-c          : Latín extendida С
 coptic                    : Copto
 georgian-supplement       : Suplemento georgiano
 tifinagh                  : Tifinagh
@@ -144,13 +144,13 @@ low-surrogates            : Pares subrogados (bajo)
 private-use-area          : Uso privado
 cjk-compatibility-ideographs : CJK: ideogramas de compatibilidad
 alphabetic-presentation-forms : Formas de presentación alfabéticos
-arabic-presentation-forms-a : Formas de presentación árabe
+arabic-presentation-forms-a : Formas de presentación árabe A
 variation-selectors       : Variación selectores
 vertical-forms            : Formas verticales
 combining-half-marks      : Medios puntos (combinable)
 cjk-compatibility-forms   : CJK: formas de compatibilidad
 small-form-variants       : Formas variantes de acero
-arabic-presentation-forms-b : Formas de presentación árabe
+arabic-presentation-forms-b : Formas de presentación árabe B
 halfwidth-and-fullwidth-forms : Mitad grosor y formas anchura completa
 specials                  : Especiales
 linear-b-syllabary        : Lineal B (silabario)

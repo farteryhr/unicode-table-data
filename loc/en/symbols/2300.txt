@@ -93,7 +93,7 @@
 235C: Apl Functional Symbol Circle Underbar
 235D: Apl Functional Symbol Up Shoe Jot
 235E: Apl Functional Symbol Quote Quad
-235F: Apl Functional Symbol Circle Star
+235F: Apl Functional Symbol Circle Star : New Year, Christmas
 2360: Apl Functional Symbol Quad Colon
 2361: Apl Functional Symbol Up Tack Diaeresis : down tack diaeresis
 2362: Apl Functional Symbol Del Diaeresis
@@ -249,8 +249,9 @@
 23F8: Double Vertical Bar : pause
 23F9: Black Square for Stop : stop
 23FA: Black Circle for Record : record
-23FB:
-23FC:
-23FD:
-23FE:
-23FF:
+23FB: Power Symbol
+23FC: Power On-Off Symbol
+23FD: Power On Symbol
+23FE: Power Sleep Symbol
+23FF: Observer Eye Symbol
+

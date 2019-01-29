@@ -1,0 +1,13 @@
+entity: Mnemonik
+your-browser: Ihrem Browser
+font-view: Eintragung des Zeichens in verschiedenen Schriftarten
+char-desc: Charakterbeschreibung
+unicode-number: Unicode-Nummer
+html-code: <span class="caps">HTML</span>-Code
+uppercase: Groß
+lowercase: Klein
+encoding: Codierung
+copy: Kopieren Sie das Symbol und fügen Sie es ein
+copy_button: Kopieren
+copy_done: Kopiert!
+version: Unicode-Version

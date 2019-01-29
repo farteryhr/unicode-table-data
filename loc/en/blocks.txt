@@ -18,6 +18,7 @@ thaana          : Thaana
 nko             : NKo
 samaritan       : Samaritan
 mandaic         : Mandaic
+syriac-supplement: Syriac Supplement
 arabic-extended-a : Arabic Extended-A
 devanagari      : Devanagari
 bengali         : Bengali
@@ -59,6 +60,7 @@ sundanese       : Sundanese
 batak           : Batak
 lepcha          : Lepcha
 ol-chiki        : Ol Chiki
+cyrillic-extended-c: Cyrillic Extended C
 sundanese-supplement : Sundanese Supplement
 vedic-extensions : Vedic Extensions
 phonetic-extensions : Phonetic Extensions
@@ -170,6 +172,7 @@ old-persian : Old Persian
 deseret : Deseret
 shavian : Shavian
 osmanya : Osmanya
+osage: Osage
 elbasan : Elbasan
 caucasian-albanian : Caucasian Albanian
 linear-a : Linear A
@@ -201,12 +204,19 @@ sinhala-archaic-numbers : Sinhala Archaic Numbers
 khojki : Khojki
 khudawadi : Khudawadi
 grantha : Grantha
+newa: Newa
 tirhuta : Tirhuta
 siddham : Siddham
 modi : Modi
+mongolian-supplement: Mongolian Supplement
 takri : Takri
 warang-citi : Warang Citi
+zanabazar-square: Zanabazar Square
+soyombo: Soyombo
 pau-cin-hau : Pau Cin Hau
+bhaiksuki: Bhaiksuki
+marchen: Marchen
+masaram-gondi: Masaram Gondi
 cuneiform : Cuneiform
 cuneiform-numbers-and-punctuation : Cuneiform Numbers and Punctuation
 egyptian-hieroglyphs : Egyptian Hieroglyphs
@@ -215,7 +225,12 @@ mro : Mro
 bassa-vah : Bassa Vah
 pahawh-hmong : Pahawh Hmong
 miao : Miao
+ideographic-symbols-and-punctuation: Ideographic Symbols and Punctuation
+tangut: Tangut
+tangut-components: Tangut Components
 kana-supplement : Kana Supplement
+kana-extended-a: Kana Extended-A
+nushu: Nushu 
 duployan : Duployan
 shorthand-format-controls : Shorthand Format Controls
 byzantine-musical-symbols : Byzantine Musical Symbols
@@ -225,6 +240,7 @@ tai-xuan-jing-symbols : Tai Xuan Jing Symbols
 counting-rod-numerals : Counting Rod Numerals
 mathematical-alphanumeric-symbols : Mathematical Alphanumeric Symbols
 mende-kikakui : Mende Kikakui
+adlam: Adlam
 arabic-mathematical-alphabetic-symbols : Arabic Mathematical Alphabetic Symbols
 mahjong-tiles : Mahjong Tiles
 domino-tiles : Domino Tiles
@@ -243,3 +259,21 @@ lisu: Lisu
 myanmar-extended-b: Myanmar Extended-B
 latin-extended-e: Latin Extended-E
 hangul-jamo-extended-b: Hangul Jamo Extended-B
+cherokee-supplement: Cherokee Supplement
+hatran: Hatran
+old-hungarian: Old Hungarian
+multani: Multani
+ahom: Ahom
+early-dynastic-cuneiform: Early Dynastic Cuneiform
+anatolian-hieroglyphs: Anatolian Hieroglyphs
+sutton-sign-writing: Sutton SignWriting
+glagolitic-supplement: Glagolitic Supplement
+supplemental-symbols-and-pictographs: Supplemental Symbols and Pictographs
+cjk-unified-ideographs-extension-b: CJK Unified Ideographs Extension B
+cjk-unified-ideographs-extension-c: CJK Unified Ideographs Extension C
+cjk-unified-ideographs-extension-d: CJK Unified Ideographs Extension D
+cjk-unified-ideographs-extension-e: CJK Unified Ideographs Extension E
+cjk-unified-ideographs-extension-f: CJK Unified Ideographs Extension F
+cjk-compatibility-ideographs-supplement: CJK Compatibility Ideographs Supplement
+tags: Tags
+variation-selectors-supplement: Variation Selectors Supplement

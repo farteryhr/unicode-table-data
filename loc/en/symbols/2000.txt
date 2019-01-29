@@ -187,9 +187,9 @@
 20BA: Turkish Lira Sign
 20BB: Nordic Mark Sign
 20BC: Manat Sign
-20BD: Russian Ruble Sign : ruble, rur, rub
-20BE:
-20BF:
+20BD: Ruble Symbol : Russian ruble symbol, russian currency, rur, rub
+20BE: Lari Sign
+20BF: Bitcoin Sign
 20C0:
 20C1:
 20C2:

@@ -1,0 +1,24 @@
+title: Unicode® karakter tábla
+
+[sets]: Készletek
+set: Beállítás
+list: Karakterkészlet
+
+[blocks]: Blokkok
+block: Blokk
+blocks: Unicode blokkok
+
+[languages]: Nyelvek
+list: Nyelv
+blocks: Nyelvblokkok
+
+[countries]: Országok
+list: Országok
+
+[alphabets]: ábécé
+list: ábécé
+
+[types]
+type: típus
+list: Típusok
+

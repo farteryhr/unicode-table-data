@@ -1,0 +1,7 @@
+meta-description: 各种Unicode字符的名字与描述：❤ ☀ ★ ☂ ☻ ♞ ☯ ☭ ☢ € → ☎ ❄ ♫ ✂ ▶ ✇ ♎ ⇧ ☮ ♻ ⌘ ⌛ ☘ ✈ ✔ ☊ ♔ ♕ ♖ ☦ ✝ ❖ ➎ ♠ ♣ ♥ ♦ ♂ ♀ ❂ ❃ ✒
+meta-keywords: unicode, signs, symbols, characters, unicode table, character set, list of unicode characters, utf-8, facebook characters, encoding, heart symbol, script, languages, emoji, hieroglyphs, runes, arrow symbols, cyrillic, latin, currency symbols
+symbol-description: 符号: {{symbol}}, 名称: {{name}}, Unicode的数量: {{code}}, 座: {{block}}
+
+emoji: 表情符号
+copy: 复制
+symbol: 标志，图标
